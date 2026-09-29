@@ -1,0 +1,595 @@
+{
+ "SSTI": {
+  "ticker": "SSTI",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-09-29",
+    "form": "8-K",
+    "items": "1.01,5.02,7.01,9.01",
+    "title": "8-K 1.01,5.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1351636/000119312526406024/d107296d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "SoundThinking To Be Acquired By Transom For Up To $11/shr In Cash; Shares Up 50% In Pre-market ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/soundthinking-be-acquired-transom-11-shr-cash-shares-50-pre-market"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 16:05:00 GMT",
+    "title": "SSTI Stock Alert: Halper Sadeh LLC is Investigating Whether SoundThinking, Inc. is Obtaining a Fair Price for its Shareholders - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPc1lLSkFaZGo0R3p6WnR1SjYzV2JoX3hCaThuZzBVRFNYYmNneGJFWWNDNHZTU0FzZnNvcHU4YUQ2Ni1ueE1KemNFOGEwRDVGZzFaelUyZFpQa1J1Z0l0eVNyRFhXV3pVR0ZybGl3SHRkUndHLUNsMW9CRnlOUUcxY3lqYzUydW1lWjRyYlpXOFQxQjQ0dlNSY3VmaFdTWFp6a3JYeHl2eHZfRWFxdEJPbEVnR2pMaVFuUHNwcF9VVnJxOUlkSFBDdG9SazV6Y0RJZFhDYnpaMFR2M0cyU0lUM203OGdFWHMwMDNJalQ3RlYzU0x0YlVENkx5aF9HODltNFg1LWNoS1hTbko3VVE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 13:19:00 GMT",
+    "title": "SSTI Stock Holds Support As Traders Digest Weak Financials - timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTTNqeWc1Z05xZDV2dE0tRnBSQUF2VlY1RmJFNWpfSTMzLWFVUXJRSllkcEQ0Y0RYMU54WDhzbEExOUkwZmhtRVpqUUV4Mno4XzducTJKMzBuc0tpdWtzUVR0SVgzMjZpRWFDRko2cWlvWTRCemtLM0VjR01GZ2NCNw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 16:30:00 GMT",
+    "title": "These stocks are moving in today's session - ChartMill",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTEZubmRXWHphNURLbTY3Q3NyRDBmUHo0ZndPZEZzMXhzeGlEcWpCWXc3MzkwbGtpbi1jbkhHcUFyS1J3VERoZnM3WGZSeHJNS0l5Wk0tOWRxVy15ejl3V2tRaHk3UmVnclZ1MUF5NWN1RUJWWVdYR1RPMFpZc2pzSTRNb3F6YXItOVltUWl2cU1pY2ZFWHFr?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 13:19:00 GMT",
+    "title": "SSTI Stock Grinds Lower As Traders Weigh Weak Margins - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBINVQwdnhzQkM2em15SDFJUE1zNk1lOE9LS3pkbGxQMHY5VTN2WWlMeUEzSUhMa3hPdksxVloyS2M2RFAtdXZ3SWJvYzdxU05QTnNQVnN4QUxEVXdBUlM0YnFTakxzUUtYWHBzZWJlN2lBRjVyUDNKTmQ5Nlk?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 17:00:09 GMT",
+    "title": "SoundThinking Shares Jump 50% on Transom Capital Takeover Agreement - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZElZZUhfWW5PbjAwVXN1b0FXcWVQTHByTFp5aVhhTWJmRDE2QkpveVVkS2F6N2MySWhkeklWNFdzblpnZTR2R01QTG9lNnFucWg4bHhTU3YzRTh6OTlMcXZqc3FpdFRnM0ZSZE1qTTJxekNOUmVObl9IU0tpRFI3aEswZXVKZk1nbE54b3k2Sm1lVWpZTDVJZU0yN1dPOTJpOUlFWFN2MUgxdWRmU2VjUW9SZ3Y2MDZzV3ZjbmpDN1ZUZEIwUFE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 18:22:53 GMT",
+    "title": "An offer for every SoundThinking (SSTI) share is planned but has not yet begun. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVVGV2prY0NYdU50Tmk3LVNya2h6d1hrTVlIRGxLVnh6alNhaWtITUhCamNTV3ZrbURXUU42SGVHZGItZ2lHSnhpYmhablFfQy1YVjdScWJaVkdvOFZuV2kySTVuYWJXX3NkR3NockZmNEp1ZmRpS2FVNklqVElFejI4em02NzNIeUM1d0xKZmhtbmVHaWI5dGZvWTBBa2EzYTdRdEV2ZUJEeHJyZEpTTWVjU2U?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 12:33:00 GMT",
+    "title": "SSTI Stock Holds Support As Traders Weigh Cash Burn - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xOGpTMk9ldU84THNUT0FYdWFIeEluVVhaTEkyRUQyWFRKcGpDSVBIWV9QaE1SNUNBQlZlV2N6NWlLTnNhdnFNT1BTOWp2enpPa3dITU1KaGR0elVPcllDSEtXY0dfLUVtNkh6ZEVKdzgyR3l6LW81UUZn?oc=5"
+   }
+  ],
+  "pre_tier": "MA-target",
+  "pre_tier_hits": [
+   "to be acquired .*cash",
+   "acquired by .* for .*\\$[\\d.]+ ?(per share|/shr)",
+   "in cash",
+   "cash takeover: upside capped at deal price \u2014 not an EP"
+  ],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SANG": {
+  "ticker": "SANG",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-09-29",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/tm2626529d1_6k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "BRC Group To Acquire Sangoma Technologies In $204 Mln Deal ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/brc-group-acquire-sangoma-technologies-204-mln-deal"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 06:31PM",
+    "title": "Sangoma Technologies stock surges over 40% on BRC acquisition deal",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sangoma-technologies-stock-surges-over-223123988.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 05:48PM",
+    "title": "Sangoma Technologies Corporation Enters into Definitive Agreement to be Acquired by BRC Group Holdings, Inc.",
+    "url": "https://www.businesswire.com/news/home/20260928333255/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 05:46PM",
+    "title": "BRC Group Holdings, Inc. Agrees to Acquire Sangoma Technologies Corporation to Scale Communications Portfolio",
+    "url": "https://finviz.com/news/396189/brc-group-holdings-inc-agrees-to-acquire-sangoma-technologies-corporation-to-scale-communications-portfolio"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 05:00PM",
+    "title": "Sangoma Announces Fourth Quarter Fiscal 2026 Results",
+    "url": "https://www.businesswire.com/news/home/20260928479328/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 03:00PM",
+    "title": "Sangoma Announces Date of Fourth Quarter Fiscal 2026 Financial Results and Conference Call",
+    "url": "https://www.businesswire.com/news/home/20260922210867/en/"
+   }
+  ],
+  "pre_tier": "MA-target",
+  "pre_tier_hits": [
+   "to acquire [A-Z][\\w ]+ in \\$[\\d.]+ ?(mln|million|bln|billion) deal",
+   "enters? into (definitive )?(merger )?agreement to be acquired",
+   "cash takeover: upside capped at deal price \u2014 not an EP"
+  ],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SMMT": {
+  "ticker": "SMMT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-09-29",
+    "form": "8-K",
+    "items": "1.01,3.02,5.03,8.01,9.01",
+    "title": "8-K 1.01,3.02,5.03,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1599298/000119312526405776/d178892d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Biotech Stocks On The Move - SLXN, SMMT, IOVA, NTHI ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/biotech-stocks-move-slxn-smmt-iova-nthi"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Summit Shares Jump on $2B Strategic Investment From AstraZeneca",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/summit-shares-jump-2b-strategic-investment-astrazeneca"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 28, 2026",
+    "title": "AstraZeneca Invests $2 Billion In Summit, Expands Cancer Drug Collaboration; Stock Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/astrazeneca-invests-2-billion-summit-expands-cancer-drug-collaboration-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "12:07PM",
+    "title": "Summit Stock Jumps 17% on $2 Billion AstraZeneca Investment",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/summit-stock-jumps-17-2-160737159.html"
+   },
+   {
+    "src": "finviz",
+    "date": "08:49AM",
+    "title": "AstraZeneca invests $2B in Summit, gaining seat at the table for PD-1/VEGF drug push",
+    "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-invests-2b-summit-gaining-124900613.html"
+   },
+   {
+    "src": "finviz",
+    "date": "08:30AM",
+    "title": "AstraZenecas $2 billion Summit stake wins backing from UBS and Jefferies",
+    "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-2-billion-summit-stake-123000144.html"
+   },
+   {
+    "src": "finviz",
+    "date": "07:39AM",
+    "title": "Premarket movers: FICO sinks while Summit, AAR and CarMax rise",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-fico-sinks-while-113939697.html"
+   },
+   {
+    "src": "finviz",
+    "date": "06:24AM",
+    "title": "Summit Therapeutics Shares Rise 22% After $2 Billion AstraZeneca Investment",
+    "url": "https://finviz.com/news/396261/summit-therapeutics-shares-rise-22-after-2-billion-astrazeneca-investment"
+   },
+   {
+    "src": "finviz",
+    "date": "05:58AM",
+    "title": "AMD, Nvidia, Navitas, Summit Therapeutics, Fair Isaac, and More Stocks That Explain Today's Market",
+    "url": "https://www.barrons.com/articles/stock-movers-45e4999c?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "02:32AM",
+    "title": "AstraZeneca invests $2 billion in Summit Therapeutics in cancer drug deal",
+    "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-invests-2-billion-summit-063200368.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 07:35PM",
+    "title": "SMMT Stock Soars After-Hours: Did AstraZeneca Just End Summits Cash Scare?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/smmt-stock-soars-hours-did-233556237.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 07:28PM",
+    "title": "Summit Shares Surge on $2 Billion AstraZeneca Investment",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026/card/summit-shares-surge-on-2-billion-astrazeneca-investment-4qKRcwj8eVj74MC2Ewic?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 06:27PM",
+    "title": "Summit Therapeutics Stock Surges After AstraZeneca Reveals $2 Billion Investment",
+    "url": "https://www.barrons.com/articles/summit-therapeutics-stock-astrazeneca-cancer-drug-d070fe4d?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 06:08PM",
+    "title": "Summit shares surge after-hours on $2 billion AstraZeneca equity deal",
+    "url": "https://finance.yahoo.com/healthcare/articles/summit-shares-surge-hours-2-220826363.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 05:30PM",
+    "title": "AstraZeneca Makes $2 Billion Strategic Equity Investment in Summit Therapeutics",
+    "url": "https://finviz.com/news/396188/astrazeneca-makes-2-billion-strategic-equity-investment-in-summit-therapeutics"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "8-K item 3.02 (equity sale)"
+  ],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "JELD": {
+  "ticker": "JELD",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-09-29",
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "title": "8-K 1.01,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674335/000167433526000126/jeld-20260929.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 21:12:02 GMT",
+    "title": "Why JELD-WEN (JELD) Stock Is Trading Up Today - finance.yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc1RoV21VMUNTb1h5RjdVaHJhYzhUTDlRYURreGh5MXBVS3Z6Q0VEOGZRdFZ6WkNOX3c4WlptclVzMTBQRTBUSlE5NmhtOVFteUhOVU5COEpUWG0tMjZMM2xsSXJrN1M4aTVOUzhlRjREenlHUks4OVZtYlRTNkZ6WmpuRHdtcmxFZ3BfSUMxT190dw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 26 Sep 2026 11:51:36 GMT",
+    "title": "JELD-WEN Holding, Inc. (JELD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FYS1aRmVrVFMzZVJZWTdPVHQ2c053SEJBX3VmVjNuZHZMY2dzQXlVT0xWejk0ZTU5Y0hwd29yQ2RxWDVPak56cHl5eVpaUFZ0Umc?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 1.01 (material agreement)"
+  ],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "IOVA": {
+  "ticker": "IOVA",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-09-29",
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "title": "8-K 8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926111583/tm2626507d1_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Biotech Stocks On The Move - SLXN, SMMT, IOVA, NTHI ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/biotech-stocks-move-slxn-smmt-iova-nthi"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Iovance Biotherapeutics Stock Rises 33% After Raising FY26 Total Revenue Outlook ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/iovance-biotherapeutics-stock-rises-33-after-raising-fy26-total-revenue-outlook"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Iovance Biotherapeutics Raises 2026 Revenue Guidance On Strong Amtagvi Demand; Stock Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/iovance-biotherapeutics-raises-2026-revenue-guidance-strong-amtagvi-demand-stock"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Biotech Stocks At 52-Week Highs - KOD +177% On Phase 3 Data; GRAL, IOVA, RGEN ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/biotech-stocks-52-week-highs-kod-177-phase-3-data-gral-iova-rgen"
+   },
+   {
+    "src": "finviz",
+    "date": "10:15AM",
+    "title": "IOVA Stock Hits Over 2-Year Highs  Why Iovance Raised Its FY2026 Revenue Outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/iova-stock-hits-over-2-141513877.html"
+   },
+   {
+    "src": "finviz",
+    "date": "09:33AM",
+    "title": "Iovance Raises 2026 Revenue Guidance to $410 Million-$420 Million",
+    "url": "https://finviz.com/news/396623/iovance-raises-2026-revenue-guidance-to-410-million-420-million"
+   },
+   {
+    "src": "finviz",
+    "date": "09:23AM",
+    "title": "Iovance shares jump in premarket as raised outlook clears consensus views",
+    "url": "https://finance.yahoo.com/healthcare/articles/iovance-shares-jump-premarket-raised-132346384.html"
+   },
+   {
+    "src": "finviz",
+    "date": "07:00AM",
+    "title": "Iovance Biotherapeutics Raises Full Year 2026 Revenue Guidance to $410 to $420 Million",
+    "url": "https://finviz.com/news/396311/iovance-biotherapeutics-raises-full-year-2026-revenue-guidance-to-410-to-420-million"
+   },
+   {
+    "src": "finviz",
+    "date": "05:10PM",
+    "title": "Iovance Biotherapeutics Reports Inducement Grants under NASDAQ Listing Rule 5635(c)(4)",
+    "url": "https://finviz.com/news/393636/iovance-biotherapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635c4"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "XRPN": {
+  "ticker": "XRPN",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 12:04:47 GMT",
+    "title": "XRPN Archives - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lYkdEZlFEbDdET1dJOWNpdEMyd1JHc3NHMDdJY3pJcmpJRi1zR1Q3N1BCSVVsQnhsZkhpNUxPMVRpazBUa3l3R0RkSDV5dw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 11:30:00 GMT",
+    "title": "An XRP Treasury Company Is One Vote Away from Nasdaq: What Happens if Evernorth Lists as XRPN? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcy1ySmFLNDdHMWxKT094WENzQjFkNmRMMFA3eHNtZkVMTmEwZlpGQ2h6OHQ5bGJ6UWpaaTQ1bjZiQ2Q3dmFhcDFTWkc4THlhbi1GTTBiem85VDNMOTVIckJxc1UwX0w1TWU4V1ptMUxxY0MtaWQzVDN2c2xFbFRHdWVEdnk0RV9zM04tdjB4RUJ6MkFKT0daTGN1X19IbHFsblNCa2RpY21HaWNBb3hGVl9kRTFwVERTNHlCQllWb1RKUi0yRmtVZldQSHB6Nmk2WklGYlhKeXdNcDNDOW1LRzZQUExMdw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "QMLS": {
+  "ticker": "QMLS",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "09:08AM",
+    "title": "QumulusAI Signs $240.9 Million in New AI Inference Customer Contracts for NVIDIA Blackwell B300 Capacity",
+    "url": "https://www.businesswire.com/news/home/20260929733963/en/"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 13:08:00 GMT",
+    "title": "Two returning AI customers now have more than $344 million in contracts with QumulusAI. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjVHeWI1S1NIWnRYSDNaemdrMjRsT3JjTFZLRjZicUl0aVJpRHI5d3F4WDEwWU4xS01YQXBSSHd5bUczV2thbDJLbnNKNkt1dE9wLW1NTmxQUVVGTFR0TV9KY2gyUGxocVNEcERPN01oTnRPN005ZlRtZTlWcUZUeHNyd2xrYnpVcV9Vd2daSFhDSDlwNU01NlhvSzN1TWJuZmZFQVBtMzhOMkNkRkZRMzdxMXA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 26 Sep 2026 17:27:48 GMT",
+    "title": "Top QumulusAI (QMLS) Competitors 2026 - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZWxWSVBJdmN2UHBIeHpLLWd6STVlQlBBbzFYS0g0YWNWZzZaQUhkZ1piTFNqQ1ctYjR1X0N6T1JiRHp1NEtwb2dfMDVTUFUzUTkyOGdkRHAxemh5TjV4VFgwMTgxcXpDb3lJM3VLbmxlMWk0bjVQb08xMFlNLXN1WQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "contract"
+  ],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CCL": {
+  "ticker": "CCL",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-09-29",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000107/ccl-20260831.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-09-29",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000104/ccl-20260929.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Should Investors Chase Carnival (CCL) Stock After Its 13% Post-Earnings Surge?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/should-investors-chase-carnival-ccl-stock-after-its-13-post-earnings-surge"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Stock Market Today, Sept. 29: Carnival Surges 13% on Record Bookings, Raised Guidance",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/stock-market-today-sept-29-carnival-surges-13-record-bookings-raised-guidance"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Why Carnival Stock Popped Today",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-carnival-stock-popped-today"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "S&P 500 Movers: FICO, CCL  ",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/sp-500-movers-fico-ccl"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Compared to Estimates, Carnival (CCL) Q3 Earnings: A Look at Key Metrics",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/compared-estimates-carnival-ccl-q3-earnings-look-key-metrics"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Carnival Boosts FY26 Adj. EPS Outlook; Stock Jump 11.7% - Update ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/carnival-boosts-fy26-adj-eps-outlook-stock-jump-117-update"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Carnival Q3 Earnings Beat Estimates on Record Revenues & Net Yields",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/carnival-q3-earnings-beat-estimates-record-revenues-net-yields"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Carnival Corporation & Plc Profit Climbs In Q3 ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/carnival-corporation-plc-profit-climbs-q3"
+   },
+   {
+    "src": "finviz",
+    "date": "05:32PM",
+    "title": "Should Investors Chase Carnival (CCL) Stock After Its 13% Post-Earnings Surge?",
+    "url": "https://finviz.com/news/396814/should-investors-chase-carnival-ccl-stock-after-its-13-post-earnings-surge"
+   },
+   {
+    "src": "finviz",
+    "date": "02:00PM",
+    "title": "Carnival Stock Rises 12% as Record Deposits Signal Strong 2027",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/carnival-stock-rises-12-record-180040309.html"
+   },
+   {
+    "src": "finviz",
+    "date": "12:10PM",
+    "title": "Cruise Stocks Jump After Carnival Posts Strong Results and Rosy Outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cruise-stocks-jump-carnival-posts-161007418.html"
+   },
+   {
+    "src": "finviz",
+    "date": "10:50AM",
+    "title": "'Vacations are sacrosanct': Carnival stock surges on record quarter, healthy cruise demand",
+    "url": "https://finance.yahoo.com/markets/stocks/article/vacations-are-sacrosanct-carnival-stock-surges-on-record-quarter-healthy-cruise-demand-145002464.html"
+   },
+   {
+    "src": "finviz",
+    "date": "10:37AM",
+    "title": "Carnival shares surge as quarterly earnings top expectations",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/carnival-shares-surge-quarterly-earnings-143700934.html"
+   },
+   {
+    "src": "finviz",
+    "date": "09:54AM",
+    "title": "Carnival surges on earnings beat and strong 2027 bookings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/carnival-surges-earnings-beat-strong-135403549.html"
+   },
+   {
+    "src": "finviz",
+    "date": "09:50AM",
+    "title": "??Earnings Snippet: Carnival",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026/card/-earnings-snippet-carnival-bMmLZYKzFLzLGfX5Wn4X?mod=wsj_FV"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)",
+   "record (quarterly )?revenue",
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "NVTS": {
+  "ticker": "NVTS",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Notable Tuesday Option Activity: KMX, IBTA, NVTS",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-kmx-ibta-nvts"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "LITE vs. NVTS: Which AI Data Center Stock Is the Better Buy?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/lite-vs-nvts-which-ai-data-center-stock-better-buy"
+   },
+   {
+    "src": "finviz",
+    "date": "08:17AM",
+    "title": "Navitas Stock Jumps After U.S. Army Picks It for 10 kV Program",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/navitas-stock-jumps-u-army-121728174.html"
+   },
+   {
+    "src": "finviz",
+    "date": "06:57AM",
+    "title": "Navitas Was a Hot AI Stock Until Its Slump. Why It's Surging Now.",
+    "url": "https://www.barrons.com/articles/navitas-stock-price-army-project-chips-9d906efe?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "05:58AM",
+    "title": "AMD, Nvidia, Navitas, Summit Therapeutics, Fair Isaac, and More Stocks That Explain Today's Market",
+    "url": "https://www.barrons.com/articles/stock-movers-45e4999c?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 05:32PM",
+    "title": "Why NVTS Stock Surged 20% After-Hours",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvts-stock-surged-20-213212401.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 04:15PM",
+    "title": "U.S. Government Selects Navitas to Develop Next-Generation 10 kV SiC Power Semiconductors",
+    "url": "https://finviz.com/news/396147/us-government-selects-navitas-to-develop-next-generation-10-kv-sic-power-semiconductors"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "NAUT": {
+  "ticker": "NAUT",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

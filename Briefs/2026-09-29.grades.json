@@ -1,0 +1,102 @@
+{
+ "NAUT": {
+  "tier": "unknown",
+  "grade": 3,
+  "verdict": "TRADE small / WATCH",
+  "why": [
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ },
+ "QMLS": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "TRADE small / WATCH",
+  "why": [],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ },
+ "NVTS": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.22x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ },
+ "CCL": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.17x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ },
+ "IOVA": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "chart: neglect 3.0",
+   "volume: 0.14x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ },
+ "SANG": {
+  "tier": "MA",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "cash takeover target \u2014 upside capped, not an EP"
+  ],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ },
+ "SSTI": {
+  "tier": "MA",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "cash takeover target \u2014 upside capped, not an EP"
+  ],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ },
+ "XRPN": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj);SPAC)"
+  ],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ },
+ "SMMT": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Tier C catalyst (offering/promo/sympathy)"
+  ],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ },
+ "JELD": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-09-29 19:52",
+  "label": "v1"
+ }
+}

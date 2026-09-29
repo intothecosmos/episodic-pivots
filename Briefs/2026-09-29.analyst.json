@@ -1,0 +1,11 @@
+{
+ "NAUT": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Catalyst is a Roth initiation at Buy, not a business event; $125M ATM live on a $174M cap. +23% close on 12.9x ADV unexplained by company news. Machine 3* (Unknown cap) -> 1*."},
+ "QMLS": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "$240.9M take-or-pay B300 inference contracts (3 yr, unnamed repeat customers, revenue from Dec 2026/early 2027) ~110% of cap = Tier B. Gap +14% sold to a -8.8% close near LOD on 4.6x ADV; no ORH break triggered. Only a reclaim of 8.20 re-opens it."},
+ "NVTS": {"tier": "C", "grade": 2, "verdict": "NO TRADE", "why": "Army ALATTIS 10 kV SiC program selection with no dollar value or timeline; gap fully faded to a flat close on 2.8x ADV; chart +50% over 6m and -62% from 52w high; Gate 3 fail on frozen basis."},
+ "CCL": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Record revenue/yields/net income, raised FY26 adj EPS outlook, record bookings = Tier A, but the gap already traded (+13.4% close, 3.2x ADV full day; 0.2x on frozen premarket basis = Gate 3 fail). $34B cap, 88% overhead, 3% ADR. Day-2 continuation only, not an EP."},
+ "IOVA": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "FY26 revenue guide raised $350-370M -> $410-420M (+15% midpoint) = Tier A, but Gate 2 fail: +164% 3m / +231% 6m at 52w highs (neglect 3/100). Extended momentum name, not a neglected EP."},
+ "SANG": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Cash takeover by BRC Group ($204M) - upside capped at deal price, not an EP."},
+ "SSTI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Cash takeover by Transom (up to $11/sh) - upside capped at deal price, not an EP."},
+ "SMMT": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "$2B AstraZeneca equity investment + expanded collaboration is Tier B strategic interest, but 0.3x ADV on frozen basis, 3.02 equity sale, and est. Oct 19 earnings binary inside two weeks."},
+ "_meta": {"label": "v1", "analyst_at": "2026-09-29 19:55 ET", "note": "Snapshot taken after the close; premarket fields describe today's already-traded session. Regime green.", "watchlist": ["NASDAQ:QMLS"]}
+}
