@@ -1,0 +1,11 @@
+You are running the scheduled evening EP outcomes job for Matt Dufton. Work autonomously; nobody is watching. Do not ask questions.
+
+1. Attach and clone: call add_repo owner=intothecosmos repo=episodic-pivots access=push, then `git clone --depth 50 https://github.com/intothecosmos/episodic-pivots /home/claude/episodic-pivots` (if it exists, `git -C /home/claude/episodic-pivots pull --rebase`). Read CLAUDE.md.
+2. `pip install --break-system-packages -q tradingview-screener yfinance requests pyyaml` and `git config user.name "EP bot" && git config user.email "mattdufton@gmail.com"` in the repo.
+3. `cd /home/claude/episodic-pivots/scripts && python outcomes.py`. This recomputes data/outcomes.csv and refreshes the Outcome block + ret_5d/ret_20d/sim_r10/d1_low_held keys in every Log note. Then `python notes.py headers`.
+4. OPEN POSITIONS CHECK: for every Log note with status: open, read its entry/stop and today's close vs the 10-day and 20-day SMA from the daily bars (use scripts/data_sources.history). Write one line each into Briefs/<today>-eod.md under "## Trail check": TICKER — close x — 10-SMA y — 20-SMA z — "above/below 10-SMA" — "stop-hit? yes/no". Do not change any note's status; Matt decides exits.
+5. `git add -A && git commit -m "auto: outcomes <today>" && git pull --rebase && git push` (retry once on failure).
+6. Final message (this is Matt's notification), under 8 lines, exactly:
+   EP outcomes <date> — <n> rows updated
+   Trail check: <TICKER above/below 10-SMA ...> (or "no open positions")
+   New 20-day results today: <TICKER +x% / sim R ...> (or "none")

@@ -1,0 +1,23 @@
+You are running the scheduled morning EP (Episodic Pivot) brief for Matt Dufton. Work autonomously; nobody is watching. Do not ask questions. Everything below is a complete standalone instruction.
+
+SETUP
+1. Attach and clone the repo: call add_repo owner=intothecosmos repo=episodic-pivots access=push, then `git clone --depth 50 https://github.com/intothecosmos/episodic-pivots /home/claude/episodic-pivots` (if it already exists, `git -C /home/claude/episodic-pivots pull --rebase`). Read CLAUDE.md and rules/rubric-v2.md.
+2. `pip install --break-system-packages -q tradingview-screener yfinance requests pyyaml`
+3. `git config user.name "EP bot" && git config user.email "mattdufton@gmail.com"` inside the repo.
+
+RUN (label = {LABEL})
+4. `cd /home/claude/episodic-pivots/scripts && python run_morning.py --label {LABEL} --limit 40`. If it prints "not a trading day", commit nothing and finish with the one-line message "Not a trading day — no brief." If the scanner returns zero hits, still write the brief (it will say so) and continue.
+5. ANALYST PASS. Open Briefs/<today>.md and Briefs/<today>.catalysts.json. For each of the top 5 candidates (and any ≥3★ in the long tail), read the linked PR/filing evidence with WebFetch (the SEC filing URL and the most relevant headline; one or two fetches per name) and confirm or correct the catalyst tier using rules/rubric-v2.md Gate 1 (Tier A/B/C/Unknown, regulatory sub-ladder; a cash takeover target is NOT an EP). Re-derive the grade with the machine gate results shown on the card. Do not change data/candidates.csv (frozen). Append a section to the brief:
+   ## Analyst pass (<HH:MM> ET)
+   One block per name: `TICKER — confirmed Tier X — ★ N/5 — VERDICT` then 2–3 lines: what the catalyst actually is (numbers), the single biggest weakness, and the plan line (entry trigger type · stop level type · max stop 1.0× ADR = $x · "size = (equity × 0.25%) ÷ (entry − stop)"). If Gate 0 regime is red, say "regime red — half size or skip" on every TRADE. Never soften a gate to make a trade happen. Then a final line: "Watchlist: ..." listing EXCHANGE:TICKER for every name graded ≥3★ after your pass.
+   Also write Briefs/<today>.analyst.json: {"TICKER": {"tier": "A", "grade": 4, "verdict": "TRADE", "why": "..."}, ...}.
+6. TRADINGVIEW WATCHLIST (best effort; skip silently if the TradingView MCP tools are unavailable or error): find the watchlist named "⚡EP Candidates" via mcp-watchlist-list-watchlists, then mcp-watchlist-update-watchlist so its symbols are exactly ["NASDAQ:QQQ"] + the ≥3★ symbols from your pass. Do not create alerts.
+7. COMMIT: `git add -A && git commit -m "auto: brief {LABEL} <today>" && git pull --rebase && git push`. If push fails, retry once after `git pull --rebase`.
+
+FINISH
+8. Your final message is the notification Matt reads on his phone. Format exactly:
+   EP brief {LABEL} <date> — regime <green/red> — <n> hits
+   <TICKER> ★N VERDICT — <catalyst in ≤12 words> — gap x% · y× ADV
+   (one line per name graded ≥3★, best first; if none: "No candidates ≥3★ today.")
+   Brief: Briefs/<date>.md
+   Keep it under 12 lines. No preamble.
