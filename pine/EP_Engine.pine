@@ -1,0 +1,171 @@
+// EP Engine — Episodic Pivot rules on the chart (Pine v6, indicator)
+// Matt Dufton's rubric v2. Apply to a 1-min or 5-min chart of the candidate.
+// Daily context comes from request.security; intraday opening range from the session clock (ET).
+// One alert: "Any alert() function call" on this indicator (per symbol or on a watchlist) covers every signal.
+//@version=6
+indicator("EP Engine", "EP Engine", overlay = true, max_lines_count = 50, max_labels_count = 100)
+
+// ───────────────────────── Inputs ─────────────────────────
+grpS  = "Setup gates"
+gapMin      = input.float(8.0,  "Gap % minimum (open vs prior close)", minval = 0, group = grpS)
+volRatioMin = input.float(1.0,  "Volume ÷ 30d ADV minimum (pass)",     minval = 0, group = grpS)
+volStrong   = input.float(10.0, "Volume ÷ 30d ADV strong",             minval = 0, group = grpS)
+ret3mMax    = input.float(30.0, "Max 3-month pre-gap return % (neglect)", group = grpS)
+grpE  = "Entry / stop"
+orMinutes   = input.int(5, "Opening range minutes", options = [1, 5, 15, 30, 60], group = grpE)
+adrLen      = input.int(20, "ADR length (days)", minval = 5, group = grpE)
+maxStopADR  = input.float(1.0, "Max stop distance (× ADR)", minval = 0.25, step = 0.25, group = grpE)
+grpX  = "Exit"
+trailLen    = input.int(10, "Trail MA (daily closes)", options = [10, 20, 50], group = grpX)
+beADR       = input.float(1.0, "Breakeven after close ≥ entry + n×ADR", minval = 0, step = 0.25, group = grpX)
+grpR  = "Regime"
+regimeSym   = input.symbol("NASDAQ:QQQ", "Regime symbol", group = grpR)
+grpV  = "Display"
+tablePos    = input.string("top_right", "Table position", options = ["top_left", "top_right", "bottom_left", "bottom_right"], group = grpV)
+showLevels  = input.bool(true, "Draw OR high / OR low", group = grpV)
+
+// ───────────────────────── Daily context ─────────────────────────
+// Completed-bar values use [1] so they never repaint; today's open/volume are live.
+[dPrevClose, dOpen, dVol, dADV30, dMaxVol252, dADR, dRet3m, dRet6m, dHi52, dSMAtrail, dClose] =
+     request.security(syminfo.tickerid, "D",
+         [close[1], open, volume, ta.sma(volume, 30)[1], ta.highest(volume, 252)[1],
+          ta.sma(high / low - 1, adrLen)[1] * 100, (close[1] / close[64] - 1) * 100, (close[1] / close[127] - 1) * 100,
+          ta.highest(high, 252)[1], ta.sma(close, trailLen), close])
+
+[qS10, qS20, qS10p, qS20p] = request.security(regimeSym, "D",
+     [ta.sma(close, 10), ta.sma(close, 20), ta.sma(close, 10)[3], ta.sma(close, 20)[3]])
+regimeGreen = qS10 > qS20 and qS10 > qS10p and qS20 > qS20p
+
+gapPct      = (dOpen / dPrevClose - 1) * 100
+volRatio    = dADV30 > 0 ? dVol / dADV30 : na
+recordRatio = dMaxVol252 > 0 ? dVol / dMaxVol252 : na
+dist52      = (close / dHi52 - 1) * 100
+maxStopAbs  = close * dADR / 100 * maxStopADR
+
+// ───────────────────────── Opening range (ET session clock) ─────────────────────────
+endMin  = 30 + orMinutes
+endHH   = 9 + math.floor(endMin / 60)
+endMM   = endMin % 60
+sessOR  = "0930-" + (endHH < 10 ? "0" : "") + str.tostring(endHH) + (endMM < 10 ? "0" : "") + str.tostring(endMM) + ":23456"
+inOR    = not na(time(timeframe.period, sessOR, "America/New_York"))
+inRTH   = not na(time(timeframe.period, "0930-1600:23456", "America/New_York"))
+lateRTH = not na(time(timeframe.period, "1550-1600:23456", "America/New_York"))
+newDay  = ta.change(time("D")) != 0
+
+var float orh = na
+var float orl = na
+var bool  orDone = false
+var bool  triggered = false
+var bool  stopped = false
+var float entryPx = na
+var float stopPx = na
+var bool  breakeven = false
+var int   entryDayIdx = na
+dayIdx = ta.cum(newDay ? 1 : 0)
+
+if newDay
+    orh := na
+    orl := na
+    orDone := false
+    triggered := false
+    stopped := false
+    breakeven := false
+if inOR
+    orh := na(orh) ? high : math.max(orh, high)
+    orl := na(orl) ? low  : math.min(orl, low)
+if not inOR and inRTH and not na(orh)
+    orDone := true
+
+// ───────────────────────── Gates ─────────────────────────
+gateGap    = gapPct >= gapMin
+gateVol    = volRatio >= volRatioMin
+gateVolStr = volRatio >= volStrong or recordRatio >= 1.0
+gateChart  = dRet3m <= ret3mMax
+stopDist   = orDone ? (orh - orl) : na
+gateStop   = orDone ? stopDist <= maxStopAbs : na
+setupValid = orDone and gateGap and gateVol and gateChart and gateStop and regimeGreen
+
+// ───────────────────────── Signals ─────────────────────────
+orhBreak  = orDone and not triggered and high > orh and close > orl
+if orhBreak
+    triggered := true
+    entryPx := orh
+    stopPx  := orl
+    entryDayIdx := dayIdx
+stopHit   = triggered and not stopped and low < stopPx
+if stopHit
+    stopped := true
+// breakeven: after a daily close ≥ entry + n×ADR (evaluated at the daily close)
+if triggered and not breakeven and lateRTH and dClose >= entryPx * (1 + beADR * dADR / 100)
+    breakeven := true
+    stopPx := entryPx
+trailWarn = triggered and not stopped and lateRTH and dClose < dSMAtrail and dayIdx > entryDayIdx
+day3to5   = triggered and not stopped and dayIdx - entryDayIdx >= 3 and dayIdx - entryDayIdx <= 5 and newDay
+
+// ───────────────────────── Drawing ─────────────────────────
+plot(showLevels and orDone ? orh : na, "OR high", color = color.new(color.lime, 0), style = plot.style_linebr, linewidth = 2)
+plot(showLevels and orDone ? orl : na, "OR low",  color = color.new(color.red, 0),  style = plot.style_linebr, linewidth = 2)
+plot(triggered and not stopped ? stopPx : na, "Active stop", color = color.new(color.orange, 0), style = plot.style_linebr, linewidth = 1)
+plotshape(orhBreak and setupValid, "ORH break (valid setup)", shape.triangleup, location.belowbar, color.lime, size = size.small, text = "EP")
+plotshape(orhBreak and not setupValid, "ORH break (setup NOT valid)", shape.triangleup, location.belowbar, color.gray, size = size.tiny)
+plotshape(stopHit, "Stop hit", shape.xcross, location.abovebar, color.red, size = size.small)
+plotshape(trailWarn, "Trail break (daily close < MA)", shape.circle, location.abovebar, color.orange, size = size.small)
+bgcolor(inOR ? color.new(color.blue, 92) : na)
+
+// ───────────────────────── Table ─────────────────────────
+pos = tablePos == "top_left" ? position.top_left : tablePos == "top_right" ? position.top_right : tablePos == "bottom_left" ? position.bottom_left : position.bottom_right
+var tbl = table.new(pos, 3, 10, border_width = 1)
+f2(x) => na(x) ? "—" : str.tostring(x, "#.##")
+f1(x) => na(x) ? "—" : str.tostring(x, "#.#")
+cPass = color.new(color.green, 70)
+cFail = color.new(color.red, 70)
+cNa   = color.new(color.gray, 80)
+cellc(b) => na(b) ? cNa : b ? cPass : cFail
+if barstate.islast
+    table.cell(tbl, 0, 0, "EP Engine", text_color = color.white, bgcolor = color.new(color.black, 30))
+    table.cell(tbl, 1, 0, syminfo.ticker, text_color = color.white, bgcolor = color.new(color.black, 30))
+    table.cell(tbl, 2, 0, setupValid ? "SETUP VALID" : triggered ? (stopped ? "STOPPED" : "IN TRADE") : "waiting", text_color = color.white, bgcolor = setupValid ? color.new(color.green, 40) : stopped ? color.new(color.red, 40) : color.new(color.black, 30))
+    table.cell(tbl, 0, 1, "0 Regime")
+    table.cell(tbl, 1, 1, regimeGreen ? "green" : "red")
+    table.cell(tbl, 2, 1, "10>20, both rising", bgcolor = cellc(regimeGreen))
+    table.cell(tbl, 0, 2, "Gap %")
+    table.cell(tbl, 1, 2, f1(gapPct))
+    table.cell(tbl, 2, 2, "min " + f1(gapMin), bgcolor = cellc(gateGap))
+    table.cell(tbl, 0, 3, "Vol / ADV30")
+    table.cell(tbl, 1, 3, f2(volRatio))
+    table.cell(tbl, 2, 3, gateVolStr ? "STRONG" : "min " + f1(volRatioMin), bgcolor = cellc(gateVol))
+    table.cell(tbl, 0, 4, "Vol / 252d max")
+    table.cell(tbl, 1, 4, f2(recordRatio))
+    table.cell(tbl, 2, 4, recordRatio >= 1 ? "record day" : "not a record", bgcolor = cellc(recordRatio >= 1))
+    table.cell(tbl, 0, 5, "Neglect 3m / 6m")
+    table.cell(tbl, 1, 5, f1(dRet3m) + "% / " + f1(dRet6m) + "%")
+    table.cell(tbl, 2, 5, "3m max " + f1(ret3mMax) + "%", bgcolor = cellc(gateChart))
+    table.cell(tbl, 0, 6, "vs 52w high")
+    table.cell(tbl, 1, 6, f1(dist52) + "%")
+    table.cell(tbl, 2, 6, dist52 >= -2 ? "open air" : "overhead", bgcolor = cellc(dist52 >= -2))
+    table.cell(tbl, 0, 7, "OR " + str.tostring(orMinutes) + "m H / L")
+    table.cell(tbl, 1, 7, f2(orh) + " / " + f2(orl))
+    table.cell(tbl, 2, 7, orDone ? "stop " + f2(stopDist) + " vs max " + f2(maxStopAbs) : "forming", bgcolor = cellc(gateStop))
+    table.cell(tbl, 0, 8, "ADR / trail MA")
+    table.cell(tbl, 1, 8, f1(dADR) + "% / " + str.tostring(trailLen) + "d")
+    table.cell(tbl, 2, 8, "MA " + f2(dSMAtrail) + (breakeven ? " - BE stop" : ""), bgcolor = cNa)
+    table.cell(tbl, 0, 9, "Size")
+    table.cell(tbl, 1, 9, "equity x 0.25%")
+    table.cell(tbl, 2, 9, "/ (entry - stop)", bgcolor = cNa)
+
+// ───────────────────────── Alerts ─────────────────────────
+// One "Any alert() function call" alert per symbol (or on the ⚡EP Candidates watchlist) receives all of these.
+msg(kind) => '{"ticker":"' + syminfo.ticker + '","event":"' + kind + '","price":' + str.tostring(close) + ',"orh":' + f2(orh) + ',"orl":' + f2(orl) + ',"gap":' + f1(gapPct) + ',"volx":' + f2(volRatio) + ',"valid":' + (setupValid ? "true" : "false") + '}'
+if orDone and not orDone[1] and setupValid
+    alert(msg("setup_valid"), alert.freq_once_per_bar)
+if orhBreak
+    alert(msg(setupValid ? "orh_break" : "orh_break_invalid"), alert.freq_once_per_bar)
+if stopHit
+    alert(msg("stop_hit"), alert.freq_once_per_bar)
+if trailWarn
+    alert(msg("trail_break_" + str.tostring(trailLen)), alert.freq_once_per_bar_close)
+if day3to5
+    alert(msg("day3to5_partial_window"), alert.freq_once_per_bar)
+alertcondition(orhBreak, "ORH break", "EP: opening-range high broken")
+alertcondition(stopHit, "Stop hit", "EP: OR low / stop breached")
+alertcondition(trailWarn, "Trail break", "EP: daily close below trail MA")
