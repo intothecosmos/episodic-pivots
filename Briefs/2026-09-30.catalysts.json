@@ -1,0 +1,63 @@
+{
+ "NAUT": {
+  "ticker": "NAUT",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "Roth Capital Initiates Coverage of Nautilus Biotechnology with Buy",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/roth-capital-initiates-coverage-nautilus-biotechnology-buy"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "initiat(es|ed) coverage"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CAPR": {
+  "ticker": "CAPR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "September 28, 2026 10:14 ET",
+    "title": "Levi & Korsinsky Reminds Shareholders of a Lead Plaintiff Deadline of September 28, 2026 in Capricor Therapeutics, Inc. Lawsuit - CAPR",
+    "url": "https://www.globenewswire.com/news-release/2026/09/28/3369993/3080/en/levi-korsinsky-reminds-shareholders-of-a-lead-plaintiff-deadline-of-september-28-2026-in-capricor-therapeutics-inc-lawsuit-capr.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "September 28, 2026 10:08 ET",
+    "title": "DEADLINE ALERT for RXT, BE, CAPR, and WSE: The Law Offices of Frank R. Cruz Reminds Investors of Class Actions on Behalf of Shareholders",
+    "url": "https://www.globenewswire.com/news-release/2026/09/28/3369979/0/en/deadline-alert-for-rxt-be-capr-and-wse-the-law-offices-of-frank-r-cruz-reminds-investors-of-class-actions-on-behalf-of-shareholders.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "September 28, 2026 05:47 ET",
+    "title": "CAPR Investor Lawsuit: Capricor Therapeutics Sued for Securities Fraud on behalf of Investors with Losses \u2013 Contact BFA Law by September 28 Court Deadline",
+    "url": "https://www.globenewswire.com/news-release/2026/09/28/3369662/0/en/capr-investor-lawsuit-capricor-therapeutics-sued-for-securities-fraud-on-behalf-of-investors-with-losses-contact-bfa-law-by-september-28-court-deadline.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-29-26 09:24PM",
+    "title": "Why Did CAPR Stock Jump 20% After-Hours Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-capr-stock-jump-012424265.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 02:10AM",
+    "title": "Capricor Therapeutics, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CAPR",
+    "url": "https://finviz.com/news/395743/capricor-therapeutics-inc-sued-for-securities-law-violations-contact-the-djs-law-group-to-discuss-your-rights-capr"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "class action"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

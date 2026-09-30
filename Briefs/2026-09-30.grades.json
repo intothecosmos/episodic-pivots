@@ -1,0 +1,22 @@
+{
+ "CAPR": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Tier C catalyst (offering/promo/sympathy)"
+  ],
+  "snapshot_et": "2026-09-30 07:46",
+  "label": "v1"
+ },
+ "NAUT": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-09-30 07:46",
+  "label": "v1"
+ }
+}
