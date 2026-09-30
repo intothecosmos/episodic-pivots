@@ -11,6 +11,10 @@ softer claim; logged as a field and tested, not enforced blindly.
 - Premarket change ≥ 8% (10%+ flagged) · premarket volume ≥ 0.5× 30-day ADV · market cap ≥ $100M
   (no ceiling [adopt]) · price ≥ $0.50 · NYSE/NASDAQ/AMEX · common stock.
 
+## Gap-size overlay [hyp, adopted 2026-09-29 from the historical baseline, n=209]
+- Gaps ≥ 40% are WATCH unless the catalyst is confirmed Tier A AND volume is strong (≥10× ADV or
+  record day). Historically the 40%+ band had the worst 20-day median (−12.9%) and R (−0.22).
+
 ## Gate 1 — Catalyst (unchanged)
 - Tier A / B / C ladder incl. regulatory sub-ladder. Tier C = 1★ no trade [hyp — tracked].
 - Unknown = cap 3★, `recheck: true`, half risk.

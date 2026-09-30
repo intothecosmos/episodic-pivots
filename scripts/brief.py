@@ -49,6 +49,14 @@ def auto_grade(c: dict, cat: dict) -> dict:
             verdict = "WATCH (chart unjudged)"
         if c.get("event_risk") and grade >= 3:
             verdict = "WATCH (event-capped)"; why.append(f"event: {c['event_risk']}")
+        # 40%+ gaps were the worst historical band (n=209): WATCH unless Tier A with strong volume
+        gp = c.get("gap_pct")
+        try:
+            gp = float(gp) if gp not in (None, "") else None
+        except Exception:
+            gp = None
+        if gp is not None and gp >= 40 and grade >= 3 and not (tier == "A" and gv == "strong"):
+            verdict = "WATCH (40%+ gap, needs Tier A + strong volume)"; why.append("gap ≥40%: historically the worst band")
     if (c.get("regime_qqq") == "red") and grade >= 3:
         why.append("regime red — half size or skip")
     return {"tier": tier, "grade": grade, "verdict": verdict, "why": why}
