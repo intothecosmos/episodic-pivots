@@ -20,7 +20,7 @@ import statistics as st
 import sys
 
 from common import DATA, now_et, today_et, upsert_csv, next_trading_day
-from data_sources import history, next_earnings, last_earnings
+from data_sources import history, earnings, next_earnings, last_earnings
 
 CANDIDATE_COLUMNS = [
     "symbol", "ticker", "exchange", "date", "snapshot_et", "scan_mode", "frozen_at",
@@ -93,13 +93,14 @@ def score_row(r: dict, regime: dict, asof: dt.date | None = None) -> dict:
         out["max_vol_252"], out["max_vol_252_date"] = _f(mv["v"], 0), mv["d"]
         c = [x["c"] for x in prior]
         if len(c) > 130:
-            out["ret_3m_pregap"] = _f((c[-1] / c[-63] - 1) * 100, 1)
-            out["ret_6m_pregap"] = _f((c[-1] / c[-126] - 1) * 100, 1)
+            out["ret_3m_pregap"] = _f((c[-1] / c[-63] - 1) * 100, 1) if c[-63] else None
+            out["ret_6m_pregap"] = _f((c[-1] / c[-126] - 1) * 100, 1) if c[-126] else None
         elif len(c) > 65:
-            out["ret_3m_pregap"] = _f((c[-1] / c[-63] - 1) * 100, 1)
+            out["ret_3m_pregap"] = _f((c[-1] / c[-63] - 1) * 100, 1) if c[-63] else None
         w63 = c[-63:]
         med = st.median(w63)
-        out["base_tightness"] = _f(sum(1 for x in w63 if abs(x / med - 1) <= 0.15) / len(w63), 2)
+        if med:
+            out["base_tightness"] = _f(sum(1 for x in w63 if abs(x / med - 1) <= 0.15) / len(w63), 2)
         hi52 = max(x["h"] for x in w252)
         out["dist_52w_high_pct"] = _f((float(price) / hi52 - 1) * 100, 1) if price else None
         ath = r.get("High.All")
@@ -107,8 +108,8 @@ def score_row(r: dict, regime: dict, asof: dt.date | None = None) -> dict:
         # overhead: volume-weighted share of prior 252 sessions closing above current price
         tot = sum(x["v"] for x in w252) or 1
         out["overhead_pct"] = _f(100 * sum(x["v"] for x in w252 if x["c"] > float(price)) / tot, 1) if price else None
-        w20 = prior[-20:]
-        out["adr_pct"] = _f(100 * st.mean((x["h"] / x["l"] - 1) for x in w20 if x["l"]), 2)
+        w20 = [x for x in prior[-20:] if x["l"]]
+        out["adr_pct"] = _f(100 * st.mean(x["h"] / x["l"] - 1 for x in w20), 2) if w20 else None
         # neglect score: 100 = quiet base; extension and collapse both cost points
         s = 100.0
         r3 = out["ret_3m_pregap"] or 0.0
@@ -147,11 +148,15 @@ def score_row(r: dict, regime: dict, asof: dt.date | None = None) -> dict:
         out["last_earnings_date"] = le["date"]
         out["days_since_earnings"] = (asof - dt.date.fromisoformat(le["date"])).days
     ne = next_earnings(t, asof)
+    # a report scheduled for TODAY after the close is still ahead of the trade (binary inside the window)
+    today_amc = [x for x in (earnings(t) or []) if x["date"] == asof.isoformat() and (x.get("time") or "") >= "15:00"]
+    if today_amc:
+        ne = today_amc[0]
     if ne:
         out["next_earnings_date"], out["next_earnings_confirmed"] = ne["date"], ne["confirmed"]
         d = dt.date.fromisoformat(ne["date"])
         if (d - asof).days <= 20:
-            out["event_risk"] = f"earnings {ne['date']}{'' if ne['confirmed'] else ' (est)'}"
+            out["event_risk"] = f"earnings {ne['date']}{' AMC today' if today_amc else ''}{'' if ne['confirmed'] else ' (est)'}"
 
     # --- auto gates ---
     kq = out["kq_vol_ratio"] or 0
@@ -185,8 +190,10 @@ def score_all(rows: list[dict], regime: dict, asof: dt.date | None = None, freez
         try:
             scored.append(score_row(r, regime, asof))
         except Exception as e:  # never let one ticker kill the run
-            scored.append({"symbol": r.get("symbol"), "ticker": r.get("ticker"),
-                           "date": (asof or today_et()).isoformat(), "notes": f"score error: {e}"})
+            scored.append({"symbol": r.get("symbol"), "ticker": r.get("ticker"), "exchange": r.get("exchange"),
+                           "description": r.get("description"), "snapshot_et": r.get("snapshot_et"),
+                           "scan_mode": r.get("scan_mode"), "date": (asof or today_et()).isoformat(),
+                           "notes": f"score error: {type(e).__name__}: {e}"})
     if freeze:
         upsert_csv(DATA / "candidates.csv", scored, CANDIDATE_COLUMNS,
                    key=("symbol", "date", "snapshot_et"), overwrite=False)

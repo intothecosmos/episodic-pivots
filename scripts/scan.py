@@ -67,8 +67,8 @@ def scan(mode: str = "premarket", limit: int = 60) -> list[dict]:
     for _, r in df.iterrows():
         d = {k: (None if (v is None or (isinstance(v, float) and v != v)) else v)
              for k, v in r.to_dict().items()}
+        d["symbol"] = d.get("ticker")  # "NASDAQ:XYZ" from the package (read BEFORE overwriting)
         d["ticker"] = d.get("name")
-        d["symbol"] = d.get("ticker")  # "NASDAQ:XYZ" from the package
         if mode == "premarket":
             adv = d.get("average_volume_30d_calc") or 0
             pmv = d.get("premarket_volume") or 0
@@ -81,15 +81,19 @@ def scan(mode: str = "premarket", limit: int = 60) -> list[dict]:
     return rows
 
 
-def regime() -> dict:
-    """Gate 0: QQQ 10-day SMA > 20-day SMA, both rising (vs 3 sessions ago). Also SPY."""
+def regime(asof=None) -> dict:
+    """Gate 0: QQQ 10-day SMA > 20-day SMA, both rising (vs 3 sessions ago). Also SPY.
+    Uses completed sessions only: a bar dated `asof` counts only after 16:00 ET."""
+    now = now_et()
+    asof_iso = (asof or now.date()).isoformat()
     out = {}
     for t in ("QQQ", "SPY"):
         h = history(t)
         if not h:
             out[t] = {"state": "unknown"}
             continue
-        c = [r["c"] for r in h["rows"]]
+        rows = [r for r in h["rows"] if r["d"] < asof_iso or (r["d"] == asof_iso and now.hour >= 16)]
+        c = [r["c"] for r in rows]
         if len(c) < 25:
             out[t] = {"state": "unknown"}
             continue
@@ -98,7 +102,7 @@ def regime() -> dict:
         green = s10 > s20 and s10 > s10p and s20 > s20p
         out[t] = {"state": "green" if green else "red", "close": c[-1], "sma10": round(s10, 2),
                   "sma20": round(s20, 2), "sma10_rising": s10 > s10p, "sma20_rising": s20 > s20p,
-                  "asof": h["rows"][-1]["d"]}
+                  "asof": rows[-1]["d"]}
     q = out.get("QQQ", {})
     out["gate0"] = q.get("state", "unknown")
     return out

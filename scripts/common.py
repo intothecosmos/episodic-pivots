@@ -133,10 +133,11 @@ def upsert_csv(path: Path, new_rows: list[dict], columns: list[str], key: tuple[
     (used for frozen candidate rows). If True, incoming fields overwrite existing ones
     (used for outcomes, which are recomputed as more days become known)."""
     existing = read_csv(path)
-    idx = {tuple(r.get(k, "") for k in key): r for r in existing}
+    norm = lambda v: "" if v is None else str(v)   # None must key as "" (what the CSV reads back)
+    idx = {tuple(norm(r.get(k)) for k in key): r for r in existing}
     added = 0
     for r in new_rows:
-        k = tuple(str(r.get(c, "")) for c in key)
+        k = tuple(norm(r.get(c)) for c in key)
         if k in idx:
             if overwrite:
                 idx[k].update({c: r[c] for c in r if c in columns})

@@ -100,8 +100,8 @@ def compute(ticker: str, date: str) -> dict | None:
     o = b1["o"]
     fut = bars[i + 1:i + 21]
     prior252 = bars[max(0, i - 252):i]
-    w20 = bars[max(0, i - 20):i]
-    adr_pct = 100 * st.mean((x["h"] / x["l"] - 1) for x in w20 if x["l"]) if w20 else 5.0
+    w20 = [x for x in bars[max(0, i - 20):i] if x["l"]]
+    adr_pct = 100 * st.mean(x["h"] / x["l"] - 1 for x in w20) if w20 else 5.0
     out = {c: None for c in OUTCOME_COLUMNS}
     out.update({"ticker": ticker, "date": date, "trigger_date": b1["d"], "prev_close": prev["c"],
                 "d1_open": o, "d1_high": b1["h"], "d1_low": b1["l"], "d1_close": b1["c"], "d1_vol": b1["v"],
@@ -162,10 +162,10 @@ def note_targets() -> list[tuple[str, str, Path]]:
         if not m:
             continue
         fm = m.group(1)
-        t = re.search(r"^ticker:\s*(\S+)", fm, re.M)
-        d = re.search(r"^date:\s*(\d{4}-\d\d-\d\d)", fm, re.M)
+        t = re.search(r"^ticker:\s*[\"']?([A-Za-z0-9.\-]+)", fm, re.M)   # tolerate quoted values
+        d = re.search(r"^date:\s*[\"']?(\d{4}-\d\d-\d\d)", fm, re.M)
         if t and d:
-            out.append((t.group(1), d.group(1), p))
+            out.append((t.group(1).upper(), d.group(1), p))
     return out
 
 
@@ -186,7 +186,9 @@ def update_note(p: Path, o: dict) -> None:
         fm = _set_fm_key(fm, k, o.get(k))
     body = txt[m.end():]
     held = o.get("d1_low_held")
-    kind = "success" if (o.get("ret_20d") or 0) > 0 else "failure"
+    r20 = o.get("ret_20d")
+    kind = "note" if r20 is None else "success" if r20 > 0 else "failure"   # unknown ≠ failure
+    days = lambda n: "—" if o.get(f"sim_days{n}") is None else f"{o[f'sim_days{n}']}d"
     block = (
         "<!-- outcome:auto -->\n"
         f"> [!{kind}]- Outcome (auto, {o['computed_at']}) — from day-1 open {o['d1_open']:.2f} on {o['trigger_date']}\n"
@@ -194,12 +196,14 @@ def update_note(p: Path, o: dict) -> None:
         f"max gain {_p(o['mfe_20d'])} · max drawdown {_p(o['mae_20d'])} · day-1 low {'held' if held else 'broke' if held is False else '?'}"
         f" · {'record volume day' if o.get('record_day') else 'not a record day'}\n"
         f"> Simulated rule trade ({o.get('or_basis')}): entry {o.get('sim_entry')} · stop {o.get('sim_stop')} · "
-        f"trigger {'fired' if o.get('trigger_fired') else 'never fired'} → 10-MA trail **{_r(o.get('sim_r10'))}** ({o.get('sim_days10')}d) · "
+        f"trigger {'fired' if o.get('trigger_fired') else 'never fired'} → 10-MA trail **{_r(o.get('sim_r10'))}** ({days(10)}) · "
         f"20-MA {_r(o.get('sim_r20'))} · 50-MA {_r(o.get('sim_r50'))} · 1/3-partial {_r(o.get('sim_r_partial'))}"
         f"{' · still open' if o.get('sim_open') else ''}\n"
         "<!-- /outcome:auto -->\n")
+    # `\n?`: a note saved without a trailing newline must still be replaced (else silent no-op);
+    # lambda: the replacement text is literal, never backslash-interpreted
     if "<!-- outcome:auto -->" in body:
-        body = re.sub(r"<!-- outcome:auto -->.*?<!-- /outcome:auto -->\n", block, body, flags=re.S)
+        body = re.sub(r"<!-- outcome:auto -->.*?<!-- /outcome:auto -->\n?", lambda _: block, body, flags=re.S)
     else:
         body = body.rstrip("\n") + "\n\n" + block
     p.write_text(f"---\n{fm}\n---\n{body}")

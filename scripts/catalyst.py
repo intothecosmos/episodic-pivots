@@ -16,6 +16,7 @@ import html
 import json
 import re
 import sys
+from itertools import zip_longest
 
 from common import CHROME_UA, SEC_UA, cache_json, get, today_et
 
@@ -49,21 +50,26 @@ def _cik_map():
     return cache_json("sec_cik_map", 7 * 24 * 3600, produce) or {}
 
 
-def sec_filings(ticker: str, days: int = 3) -> list[dict]:
-    m = _cik_map().get(ticker.upper().replace("-", ""))
+def sec_filings(ticker: str, days: int = 3) -> list[dict] | None:
+    """Recent filings; [] = none found, None = lookup failed (no CIK map / EDGAR unreachable)."""
+    cmap = _cik_map()
+    if not cmap:
+        return None
+    m = cmap.get(ticker.upper().replace(".", "-"))   # SEC lists class shares as BRK-B
     if not m:
         return []
     cik = m["cik"]
     j = get(f"https://data.sec.gov/submissions/CIK{cik:010d}.json", ua=SEC_UA, json_out=True, sleep=0.15)
     if not j:
-        return []
+        return None
     rec = j.get("filings", {}).get("recent", {})
     out = []
     cutoff = (today_et() - dt.timedelta(days=days)).isoformat()
-    for form, date, acc, doc, items in zip(rec.get("form", []), rec.get("filingDate", []),
-                                           rec.get("accessionNumber", []), rec.get("primaryDocument", []),
-                                           rec.get("items", [])):
-        if date < cutoff:
+    # zip_longest: a missing/short `items` list must not silently truncate the filings
+    for form, date, acc, doc, items in zip_longest(rec.get("form", []), rec.get("filingDate", []),
+                                                   rec.get("accessionNumber", []), rec.get("primaryDocument", []),
+                                                   rec.get("items", []), fillvalue=""):
+        if not form or not date or date < cutoff:
             continue
         if form not in ("8-K", "8-K/A", "6-K", "425", "S-1", "S-3", "424B5", "424B4", "424B3", "SC 13D", "SC 13G", "10-Q", "10-K"):
             continue
@@ -94,8 +100,9 @@ def nasdaq_news(ticker: str, limit: int = 12, name: str | None = None) -> list[d
     out = []
     try:
         for r in j["data"]["rows"]:
-            out.append({"src": "Nasdaq", "date": r.get("created") or r.get("ago") or "", "title": html.unescape(r.get("title", "")),
-                        "publisher": r.get("publisher"), "url": "https://www.nasdaq.com" + r.get("url", "") if r.get("url", "").startswith("/") else r.get("url", "")})
+            url = r.get("url") or ""
+            out.append({"src": "Nasdaq", "date": r.get("created") or r.get("ago") or "", "title": html.unescape(r.get("title") or ""),
+                        "publisher": r.get("publisher"), "url": "https://www.nasdaq.com" + url if url.startswith("/") else url})
     except Exception:
         pass
     return [h for h in out if _mentions(h["title"], ticker, name)]
@@ -108,14 +115,22 @@ def globenewswire(ticker: str) -> list[dict]:
     out = []
     if not txt:
         return out
-    for m in re.finditer(r'<a[^>]+href="(/news-release/[^"]+)"[^>]*data-autid="article-url"[^>]*>(.*?)</a>', txt, re.S):
-        title = re.sub(r"<[^>]+>", "", m.group(2)).strip()
-        out.append({"src": "GlobeNewswire", "date": "", "title": html.unescape(title),
-                    "url": "https://www.globenewswire.com" + m.group(1)})
-    # dates sit near each article block
-    dates = re.findall(r'data-autid="article-published-date"[^>]*>([^<]+)<', txt)
-    for i, d in enumerate(dates[:len(out)]):
-        out[i]["date"] = d.strip()
+    # current markup: <div class="date-source"><span>September 29, 2026 07:00 ET</span> ... <div class="mainLink"><a href="/news-release/...">Title</a>
+    for m in re.finditer(r'class="date-source">\s*<span>([^<]*)</span>.*?class="mainLink">\s*<a[^>]+href="(/news-release/[^"]+)"[^>]*>(.*?)</a>', txt, re.S):
+        date, href, title = m.group(1).strip(), m.group(2), re.sub(r"<[^>]+>", "", m.group(3)).strip()
+        if not date:  # fall back to the date embedded in the URL
+            dm = re.match(r"/news-release/(\d{4})/(\d\d)/(\d\d)/", href)
+            date = f"{dm.group(1)}-{dm.group(2)}-{dm.group(3)}" if dm else ""
+        out.append({"src": "GlobeNewswire", "date": date, "title": html.unescape(title),
+                    "url": "https://www.globenewswire.com" + href})
+    if not out:  # older markup, kept as a fallback
+        for m in re.finditer(r'<a[^>]+href="(/news-release/[^"]+)"[^>]*data-autid="article-url"[^>]*>(.*?)</a>', txt, re.S):
+            title = re.sub(r"<[^>]+>", "", m.group(2)).strip()
+            out.append({"src": "GlobeNewswire", "date": "", "title": html.unescape(title),
+                        "url": "https://www.globenewswire.com" + m.group(1)})
+        dates = re.findall(r'data-autid="article-published-date"[^>]*>([^<]+)<', txt)
+        for i, d in enumerate(dates[:len(out)]):
+            out[i]["date"] = d.strip()
     return out[:10]
 
 
@@ -126,10 +141,12 @@ def finviz_news(ticker: str) -> list[dict]:
     out = []
     if not txt:
         return out
-    # rows: <td>Sep-29-26 08:05AM</td> or <td>08:05AM</td> (same day as the previous dated row)
+    # rows: <td>Sep-29-26 08:05AM</td>, <td>Today 08:05AM</td>, or <td>08:05AM</td> (same day as the previous dated row)
     last_date = ""
-    for m in re.finditer(r'<td[^>]*>\s*((?:[A-Z][a-z]{2}-\d\d-\d\d)?)\s*(\d\d:\d\d[AP]M)\s*</td>.*?<a[^>]*class="tab-link-news"[^>]*href="([^"]+)"[^>]*>(.*?)</a>', txt, re.S):
-        if m.group(1):
+    for m in re.finditer(r'<td[^>]*>\s*((?:[A-Z][a-z]{2}-\d\d-\d\d|Today|Yesterday)?)\s*(\d\d:\d\d[AP]M)\s*</td>.*?<a[^>]*class="tab-link-news"[^>]*href="([^"]+)"[^>]*>(.*?)</a>', txt, re.S):
+        if m.group(1) in ("Today", "Yesterday"):
+            last_date = (today_et() - dt.timedelta(days=(m.group(1) == "Yesterday"))).strftime("%b-%d-%y")
+        elif m.group(1):
             last_date = m.group(1)
         url = m.group(3)
         if url.startswith("/"):
@@ -157,10 +174,12 @@ def _recent(datestr: str, days: int = 3) -> bool | None:
     if not datestr:
         return None
     d = datestr.strip()
-    fmts = ["%b %d, %Y", "%b-%d-%y %I:%M%p", "%b-%d-%y", "%a, %d %b %Y %H:%M:%S %Z", "%B %d, %Y", "%Y-%m-%d"]
+    d = re.sub(r"\s+(GMT|UTC|ET|EDT|EST)$", "", d)   # strip a trailing zone; strptime %Z is unreliable
+    fmts = ["%b %d, %Y", "%b-%d-%y %I:%M%p", "%b-%d-%y", "%a, %d %b %Y %H:%M:%S", "%B %d, %Y %H:%M",
+            "%B %d, %Y", "%Y-%m-%d", "%Y-%m-%dT%H:%M:%S"]
     for f in fmts:
         try:
-            parsed = dt.datetime.strptime(d.split(" GMT")[0] if "GMT" in d else d, f.replace(" %Z", "")).date()
+            parsed = dt.datetime.strptime(d[:19] if f.startswith("%Y-%m-%dT") else d, f).date()
             return (today_et() - parsed).days <= days
         except Exception:
             continue
@@ -174,7 +193,14 @@ MA_CASH = [r"to be acquired .*cash", r"acquired by .* for .*\$[\d.]+ ?(per share
 
 def gather(ticker: str, name: str | None = None) -> dict:
     filings = sec_filings(ticker)
-    heads_all = nasdaq_news(ticker, name=name) + globenewswire(ticker) + finviz_news(ticker)
+    sec_status = "error" if filings is None else "ok"
+    filings = filings or []
+    heads_all = []
+    for fn in (nasdaq_news, globenewswire, finviz_news):
+        try:
+            heads_all += fn(ticker, name=name) if fn is nasdaq_news else fn(ticker)
+        except Exception as e:  # one broken parser must not blank the whole evidence list
+            heads_all.append({"src": fn.__name__, "date": "", "title": f"(parser error: {type(e).__name__})", "url": ""})
     heads = [h for h in heads_all if _recent(h.get("date", "")) is not False]
     if len(heads) < 3:
         heads += [h for h in google_news(ticker, name) if _recent(h.get("date", "")) is not False]
@@ -189,6 +215,9 @@ def gather(ticker: str, name: str | None = None) -> dict:
         b.append("8-K item 1.01 (material agreement)")
     if "3.02" in items8k:  # unregistered sale of equity
         c.append("8-K item 3.02 (equity sale)")
+    forms_all = {f["form"] for f in (filings or [])}
+    if any(f.startswith(("424B", "S-1", "S-3")) for f in forms_all):
+        c.append("prospectus/registration filed (offering?)")
     if ma:
         pre, why = "MA-target", ma + ["cash takeover: upside capped at deal price — not an EP"]
     elif c and not a:
@@ -200,7 +229,8 @@ def gather(ticker: str, name: str | None = None) -> dict:
     else:
         pre, why = "unknown", []
     return {"ticker": ticker, "filings": filings, "headlines": heads[:15], "pre_tier": pre,
-            "pre_tier_hits": why[:5], "pre_tier_note": "heuristic keyword match — confirm by reading the PR/filing"}
+            "pre_tier_hits": why[:5], "sec_status": sec_status,
+            "pre_tier_note": "heuristic keyword match — confirm by reading the PR/filing"}
 
 
 if __name__ == "__main__":

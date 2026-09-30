@@ -62,7 +62,8 @@ def refresh_headers():
         block = header_block(d)
         body = txt[m.end():]
         if "<!-- header:auto -->" in body:
-            body = re.sub(r"<!-- header:auto -->.*?<!-- /header:auto -->\n", block, body, flags=re.S)
+            # lambda: catalyst text may contain backslashes; `\n?`: tolerate a missing trailing newline
+            body = re.sub(r"<!-- header:auto -->.*?<!-- /header:auto -->\n?", lambda _: block, body, flags=re.S)
         else:
             body = block + "\n" + body.lstrip("\n")
         # collapse the original monospace verdict card into a foldable callout (content untouched)

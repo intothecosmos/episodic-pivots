@@ -23,7 +23,9 @@ def auto_grade(c: dict, cat: dict) -> dict:
     g4 = c.get("gate_tradability_auto")
     gv, gc = c.get("gate_volume_auto"), c.get("gate_chart_auto")
     why = []
-    if g4 == "fail":
+    if g4 is None:  # gates never computed (score error) — an uncomputed gate is not a pass
+        grade, verdict = 1, "NO DATA"; why.append(f"gates not computed ({c.get('notes') or 'score error'})")
+    elif g4 == "fail":
         grade, verdict = 1, "NO TRADE"; why.append(f"Gate 4 fail ({c.get('tradability_flags')})")
     elif tier == "MA":
         grade, verdict = 1, "NO TRADE"; why.append("cash takeover target — upside capped, not an EP")
@@ -34,13 +36,17 @@ def auto_grade(c: dict, cat: dict) -> dict:
         if gv == "strong" and gc == "pass":
             grade = min(5, grade + 1)
         if gc == "fail":
-            grade -= 1; why.append(f"chart: neglect {c.get('neglect_score')}")
+            grade = min(grade - 1, 2); why.append(f"chart fail: neglect {c.get('neglect_score')} (extended/collapsed pre-gap)")
         if gv == "fail":
             grade = min(grade, 2); why.append(f"volume: {c.get('kq_vol_ratio')}x ADV ({c.get('kq_vol_ratio_basis')})")
         if tier == "unknown":
             grade = min(grade, 3); why.append("catalyst unknown — capped 3★, recheck")
+        if gc is None:  # no daily history → chart gate unjudged; never let it pass by absence
+            grade = min(grade, 3); why.append("chart gate not computed (no history) — read the chart by hand")
         grade = max(1, grade)
         verdict = "TRADE" if grade >= 4 else "TRADE small / WATCH" if grade == 3 else "NO TRADE"
+        if gc is None and grade >= 3:
+            verdict = "WATCH (chart unjudged)"
         if c.get("event_risk") and grade >= 3:
             verdict = "WATCH (event-capped)"; why.append(f"event: {c['event_risk']}")
     if (c.get("regime_qqq") == "red") and grade >= 3:
@@ -57,12 +63,14 @@ def card(c: dict, cat: dict, ag: dict) -> str:
                    [f"  - {h['src']} {h.get('date','')} — [{h['title'][:110]}]({h['url']})" for h in hl]) or "  - (nothing found in the last 3 days)"
     tier_txt = {"A": "Tier A?", "B": "Tier B?", "C": "Tier C?", "MA": "M&A target", "unknown": "Unknown"}[ag["tier"]]
     hits = ", ".join(cat.get("pre_tier_hits", [])[:3])
+    if cat.get("sec_status") == "error":
+        ev += "\n  - ⚠ SEC EDGAR lookup failed this run — filings unknown"
     stop_note = ""
-    if c.get("adr_pct"):
+    if c.get("adr_pct") and c.get("price"):
         stop_note = f"ADR {fmt(c['adr_pct'])}% → max stop distance ≈ {fmt(float(c['price'])*float(c['adr_pct'])/100, 2)} (1.0× ADR)"
     return f"""### {t} — {STARS[g]} {g}/5 — {ag['verdict']}
-**{c.get('description','')}** · {c.get('exchange')} · {c.get('sector','')} / {c.get('industry','')}
-Price {fmt(c['price'],2)} · gap **{fmt(c['gap_pct'])}%** ({c.get('gap_basis')}) · cap ${fmt(c['market_cap_m'],0)}M · float {fmt(c['float_m'],1)}M
+**{c.get('description') or ''}** · {c.get('exchange')} · {c.get('sector') or ''} / {c.get('industry') or ''}
+Price {fmt(c.get('price'),2)} · gap **{fmt(c.get('gap_pct'))}%** ({c.get('gap_basis')}) · cap ${fmt(c.get('market_cap_m'),0)}M · float {fmt(c.get('float_m'),1)}M
 
 | Gate | Auto | Numbers |
 | --- | --- | --- |
@@ -114,7 +122,10 @@ def build(date_iso: str, candidates: list[dict], catalysts: dict[str, dict], reg
     lines += ["", "## Watchlist", "", "`⚡EP Candidates` ← " + (", ".join(watch) or "(none ≥3★)"), "",
               "---", "Rules: rules/rubric-v2.md · Data basis recorded per field in data/candidates.csv · Grades frozen at snapshot time."]
     text = "\n".join(lines)
-    (BRIEFS / f"{date_iso}.md").write_text(text)
+    prev = BRIEFS / f"{date_iso}.md"
+    if label != "v1" and prev.exists() and "(v1)" in prev.read_text()[:120]:
+        (BRIEFS / f"{date_iso}-v1.md").write_text(prev.read_text())   # keep the 07:45 brief + its analyst pass
+    prev.write_text(text)
     (BRIEFS / f"watchlist-{date_iso}.txt").write_text("\n".join(["NASDAQ:QQQ"] + watch) + "\n")
     # persist grades next to candidates for the outcomes job
     grades_path = BRIEFS / f"{date_iso}.grades.json"

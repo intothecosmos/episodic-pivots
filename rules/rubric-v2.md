@@ -1,4 +1,4 @@
-# EP Rubric v2 (proposed 2026-09-29 — pending Matt's sign-off; v1.3 remains operative in the skill until then)
+# EP Rubric v2 — OPERATIVE from 2026-09-30 (signed off by Matt 2026-09-29; v1.3 kept as rules/rubric-v1.3.md for reference)
 
 Tags: **[adopt]** = from Kullamägi's own material, missing from v1.3. **[hyp]** = our rule or a
 softer claim; logged as a field and tested, not enforced blindly.
@@ -48,9 +48,9 @@ softer claim; logged as a field and tested, not enforced blindly.
 ## Exit [adopt — new section]
 - Day 1: the only exit is the stop. No discretionary intraday selling.
 - After a close ≥ entry + 1 ADR: stop to breakeven.
-- Trail: exit on the first daily CLOSE below the 10-day SMA (fast movers) or 20-day (slower).
-  Intraday violations don't count. Default = 10-day pending Matt's choice; 20 and 50 scored in
-  the nightly simulation.
+- Trail: exit on the first daily CLOSE below the **10-day SMA** (default). 20-day is the
+  documented alternative for slower, larger names; 20 and 50 are scored alongside 10 in the
+  nightly simulation so the data can argue for a switch. Intraday violations don't count.
 - Optional tested variant: sell 1/3 into strength day 3–5, trail the rest.
 - Never hold into a scheduled binary (earnings, PDUFA, court, lock-up) without a large cushion.
 - Mechanism: Pine "EP Engine" alerts on the ⚡EP Candidates watchlist / SMA 10/20 Cross & Trail.

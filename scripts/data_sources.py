@@ -69,14 +69,15 @@ def _from_yfinance(ticker: str, period: str = "2y"):
 
 def history(ticker: str, years: int = 1) -> list[dict] | None:
     """Daily bars, oldest→newest. Source order: stockanalysis → nasdaq → yfinance."""
-    t = ticker.upper().replace(".", "-")
+    # stockanalysis and nasdaq take class shares as BRK.B; only yfinance wants BRK-B
+    t = ticker.upper()
     def produce():
         rows = _from_stockanalysis(t, "5Y" if years > 1 else "1Y")
         src = "stockanalysis"
         if not rows:
             rows, src = _from_nasdaq(t, years), "nasdaq"
         if not rows:
-            rows, src = _from_yfinance(t, f"{max(years,1)}y"), "yfinance"
+            rows, src = _from_yfinance(t.replace(".", "-"), f"{max(years,1)}y"), "yfinance"
         if not rows:
             return None
         return {"src": src, "rows": rows}

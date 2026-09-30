@@ -25,22 +25,20 @@ tablePos    = input.string("top_right", "Table position", options = ["top_left",
 showLevels  = input.bool(true, "Draw OR high / OR low", group = grpV)
 
 // ───────────────────────── Daily context ─────────────────────────
-// Completed-bar values use [1] so they never repaint; today's open/volume are live.
-[dPrevClose, dOpen, dVol, dADV30, dMaxVol252, dADR, dRet3m, dRet6m, dHi52, dSMAtrail, dClose] =
+// Completed-bar values are offset [1] AND requested with lookahead_on: that is the documented non-repainting form.
+// fix: without lookahead_on, request.security returns the LAST CONFIRMED daily bar on historical intraday bars, so
+// fix: during today's session every "today" value (open, volume, close, MA) was actually yesterday's, and every [1]
+// fix: value was two days old. Today's open / volume / close are now taken from the chart bars (see below).
+[dPrevClose, dADV30, dMaxVol252, dADR, dRet3m, dRet6m, dHi52, dSumTrailPrev] =
      request.security(syminfo.tickerid, "D",
-         [close[1], open, volume, ta.sma(volume, 30)[1], ta.highest(volume, 252)[1],
+         [close[1], ta.sma(volume, 30)[1], ta.highest(volume, 252)[1],
           ta.sma(high / low - 1, adrLen)[1] * 100, (close[1] / close[64] - 1) * 100, (close[1] / close[127] - 1) * 100,
-          ta.highest(high, 252)[1], ta.sma(close, trailLen), close])
+          ta.highest(high, 252)[1], math.sum(close, trailLen - 1)[1]], lookahead = barmerge.lookahead_on)
 
+// Regime as of the prior daily close (what a pre-open check sees). fix: [1]/[4] + lookahead_on so history == realtime.
 [qS10, qS20, qS10p, qS20p] = request.security(regimeSym, "D",
-     [ta.sma(close, 10), ta.sma(close, 20), ta.sma(close, 10)[3], ta.sma(close, 20)[3]])
+     [ta.sma(close, 10)[1], ta.sma(close, 20)[1], ta.sma(close, 10)[4], ta.sma(close, 20)[4]], lookahead = barmerge.lookahead_on)
 regimeGreen = qS10 > qS20 and qS10 > qS10p and qS20 > qS20p
-
-gapPct      = (dOpen / dPrevClose - 1) * 100
-volRatio    = dADV30 > 0 ? dVol / dADV30 : na
-recordRatio = dMaxVol252 > 0 ? dVol / dMaxVol252 : na
-dist52      = (close / dHi52 - 1) * 100
-maxStopAbs  = close * dADR / 100 * maxStopADR
 
 // ───────────────────────── Opening range (ET session clock) ─────────────────────────
 endMin  = 30 + orMinutes
@@ -50,7 +48,7 @@ sessOR  = "0930-" + (endHH < 10 ? "0" : "") + str.tostring(endHH) + (endMM < 10 
 inOR    = not na(time(timeframe.period, sessOR, "America/New_York"))
 inRTH   = not na(time(timeframe.period, "0930-1600:23456", "America/New_York"))
 lateRTH = not na(time(timeframe.period, "1550-1600:23456", "America/New_York"))
-newDay  = ta.change(time("D")) != 0
+newDay  = timeframe.change("D")   // fix: v6-idiomatic new-day detection (was ta.change(time("D")) != 0)
 
 var float orh = na
 var float orl = na
@@ -61,7 +59,9 @@ var float entryPx = na
 var float stopPx = na
 var bool  breakeven = false
 var int   entryDayIdx = na
-dayIdx = ta.cum(newDay ? 1 : 0)
+var float dOpen = na    // fix: today's regular-session open, captured on the first OR bar (see daily-context note)
+var float dVol  = 0.0   // fix: today's cumulative volume from the chart bars (basis: all bars of the chart session)
+dayIdx = int(ta.cum(newDay ? 1 : 0))   // fix: ta.cum returns float; entryDayIdx is int, so cast or the := below fails
 
 if newDay
     orh := na
@@ -70,11 +70,24 @@ if newDay
     triggered := false
     stopped := false
     breakeven := false
+    dOpen := na
+    dVol  := 0.0
 if inOR
     orh := na(orh) ? high : math.max(orh, high)
     orl := na(orl) ? low  : math.min(orl, low)
+    dOpen := na(dOpen) ? open : dOpen
 if not inOR and inRTH and not na(orh)
     orDone := true
+dVol += nz(volume)
+
+// Today's live values (chart-derived) and the derived ratios. fix: moved below the session block they depend on.
+dClose      = close
+dSMAtrail   = (dSumTrailPrev + close) / trailLen   // daily SMA including today's developing close
+gapPct      = (dOpen / dPrevClose - 1) * 100
+volRatio    = dADV30 > 0 ? dVol / dADV30 : na
+recordRatio = dMaxVol252 > 0 ? dVol / dMaxVol252 : na
+dist52      = (close / dHi52 - 1) * 100
+maxStopAbs  = close * dADR / 100 * maxStopADR
 
 // ───────────────────────── Gates ─────────────────────────
 gateGap    = gapPct >= gapMin
@@ -82,7 +95,7 @@ gateVol    = volRatio >= volRatioMin
 gateVolStr = volRatio >= volStrong or recordRatio >= 1.0
 gateChart  = dRet3m <= ret3mMax
 stopDist   = orDone ? (orh - orl) : na
-gateStop   = orDone ? stopDist <= maxStopAbs : na
+gateStop   = orDone and stopDist <= maxStopAbs   // fix: v6 bools cannot be na; "unknown" is handled at the table cell
 setupValid = orDone and gateGap and gateVol and gateChart and gateStop and regimeGreen
 
 // ───────────────────────── Signals ─────────────────────────
@@ -120,7 +133,7 @@ f1(x) => na(x) ? "—" : str.tostring(x, "#.#")
 cPass = color.new(color.green, 70)
 cFail = color.new(color.red, 70)
 cNa   = color.new(color.gray, 80)
-cellc(b) => na(b) ? cNa : b ? cPass : cFail
+cellc(b) => b ? cPass : cFail   // fix: v6 na() does not accept bool (bools are never na); callers pass cNa explicitly when unknown
 if barstate.islast
     table.cell(tbl, 0, 0, "EP Engine", text_color = color.white, bgcolor = color.new(color.black, 30))
     table.cell(tbl, 1, 0, syminfo.ticker, text_color = color.white, bgcolor = color.new(color.black, 30))
@@ -130,10 +143,10 @@ if barstate.islast
     table.cell(tbl, 2, 1, "10>20, both rising", bgcolor = cellc(regimeGreen))
     table.cell(tbl, 0, 2, "Gap %")
     table.cell(tbl, 1, 2, f1(gapPct))
-    table.cell(tbl, 2, 2, "min " + f1(gapMin), bgcolor = cellc(gateGap))
+    table.cell(tbl, 2, 2, "min " + f1(gapMin), bgcolor = na(gapPct) ? cNa : cellc(gateGap))   // fix: grey until today's open exists
     table.cell(tbl, 0, 3, "Vol / ADV30")
     table.cell(tbl, 1, 3, f2(volRatio))
-    table.cell(tbl, 2, 3, gateVolStr ? "STRONG" : "min " + f1(volRatioMin), bgcolor = cellc(gateVol))
+    table.cell(tbl, 2, 3, gateVolStr ? "STRONG" : "min " + f1(volRatioMin), bgcolor = na(volRatio) ? cNa : cellc(gateVol))   // fix: grey when ADV is unavailable
     table.cell(tbl, 0, 4, "Vol / 252d max")
     table.cell(tbl, 1, 4, f2(recordRatio))
     table.cell(tbl, 2, 4, recordRatio >= 1 ? "record day" : "not a record", bgcolor = cellc(recordRatio >= 1))
@@ -145,7 +158,7 @@ if barstate.islast
     table.cell(tbl, 2, 6, dist52 >= -2 ? "open air" : "overhead", bgcolor = cellc(dist52 >= -2))
     table.cell(tbl, 0, 7, "OR " + str.tostring(orMinutes) + "m H / L")
     table.cell(tbl, 1, 7, f2(orh) + " / " + f2(orl))
-    table.cell(tbl, 2, 7, orDone ? "stop " + f2(stopDist) + " vs max " + f2(maxStopAbs) : "forming", bgcolor = cellc(gateStop))
+    table.cell(tbl, 2, 7, orDone ? "stop " + f2(stopDist) + " vs max " + f2(maxStopAbs) : "forming", bgcolor = orDone ? cellc(gateStop) : cNa)   // fix: grey while OR is forming
     table.cell(tbl, 0, 8, "ADR / trail MA")
     table.cell(tbl, 1, 8, f1(dADR) + "% / " + str.tostring(trailLen) + "d")
     table.cell(tbl, 2, 8, "MA " + f2(dSMAtrail) + (breakeven ? " - BE stop" : ""), bgcolor = cNa)

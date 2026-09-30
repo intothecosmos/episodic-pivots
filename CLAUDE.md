@@ -23,7 +23,7 @@ Read this file first in every session. The full PRD lives in the Claude Project 
 ```
 CLAUDE.md            this brief
 README.md            how to run things
-rules/rubric-v2.md   the operative rulebook (gates, entry, stop, sizing, exit)
+rules/rubric-v2.md   the operative rulebook since 2026-09-30 (gates, entry, stop, sizing, exit)
 scripts/             scan.py gates.py catalyst.py brief.py outcomes.py (Python 3, keyless sources)
 data/candidates.csv  one row per ticker-day screener hit, machine gates frozen at snapshot time
 data/outcomes.csv    forward returns + simulated trade per candidate row (nightly)

@@ -21,15 +21,16 @@ beADR       = input.float(1.0, "Breakeven after close ≥ entry + n×ADR", step 
 partialOn   = input.bool(false, "Sell 1/3 at day-3 close", group = grpX)
 regimeSym   = input.symbol("NASDAQ:QQQ", "Regime symbol", group = grpS)
 
-[dPrevClose, dOpen, dVol, dADV30, dADR, dRet3m, dSMAtrail, dClose] =
+// fix: without lookahead_on, request.security returns the LAST CONFIRMED daily bar on historical intraday bars, so the
+// fix: backtest was gating on YESTERDAY's open/volume/close (and two-day-old [1] values). Completed-bar values now use
+// fix: the documented non-repainting form ([1] offset + lookahead_on); today's open/volume/close come from chart bars.
+[dPrevClose, dADV30, dADR, dRet3m, dSumTrailPrev] =
      request.security(syminfo.tickerid, "D",
-         [close[1], open, volume, ta.sma(volume, 30)[1], ta.sma(high / low - 1, adrLen)[1] * 100,
-          (close[1] / close[64] - 1) * 100, ta.sma(close, trailLen), close])
-[qS10, qS20, qS10p, qS20p] = request.security(regimeSym, "D", [ta.sma(close, 10), ta.sma(close, 20), ta.sma(close, 10)[3], ta.sma(close, 20)[3]])
+         [close[1], ta.sma(volume, 30)[1], ta.sma(high / low - 1, adrLen)[1] * 100,
+          (close[1] / close[64] - 1) * 100, math.sum(close, trailLen - 1)[1]], lookahead = barmerge.lookahead_on)
+// Regime as of the prior daily close. fix: [1]/[4] + lookahead_on so history == realtime.
+[qS10, qS20, qS10p, qS20p] = request.security(regimeSym, "D", [ta.sma(close, 10)[1], ta.sma(close, 20)[1], ta.sma(close, 10)[4], ta.sma(close, 20)[4]], lookahead = barmerge.lookahead_on)
 regimeGreen = qS10 > qS20 and qS10 > qS10p and qS20 > qS20p
-
-gapPct   = (dOpen / dPrevClose - 1) * 100
-volRatio = dADV30 > 0 ? dVol / dADV30 : na
 
 endMin = 30 + orMinutes
 endHH  = 9 + math.floor(endMin / 60)
@@ -38,8 +39,8 @@ sessOR = "0930-" + (endHH < 10 ? "0" : "") + str.tostring(endHH) + (endMM < 10 ?
 inOR    = not na(time(timeframe.period, sessOR, "America/New_York"))
 inRTH   = not na(time(timeframe.period, "0930-1600:23456", "America/New_York"))
 lateRTH = not na(time(timeframe.period, "1550-1600:23456", "America/New_York"))
-newDay  = ta.change(time("D")) != 0
-dayIdx  = ta.cum(newDay ? 1 : 0)
+newDay  = timeframe.change("D")   // fix: v6-idiomatic new-day detection (was ta.change(time("D")) != 0)
+dayIdx  = int(ta.cum(newDay ? 1 : 0))   // fix: ta.cum returns float; entryDay is int, so cast or `entryDay := dayIdx` fails
 
 var float orh = na
 var float orl = na
@@ -49,16 +50,28 @@ var int   entryDay = na
 var float stopLvl = na
 var bool  be = false
 var bool  partialDone = false
+var float dOpen = na    // fix: today's regular-session open, captured on the first OR bar
+var float dVol  = 0.0   // fix: today's cumulative volume from the chart bars
 if newDay
     orh := na
     orl := na
     orDone := false
     armed := false
+    dOpen := na
+    dVol  := 0.0
 if inOR
     orh := na(orh) ? high : math.max(orh, high)
     orl := na(orl) ? low  : math.min(orl, low)
+    dOpen := na(dOpen) ? open : dOpen
 if not inOR and inRTH and not na(orh)
     orDone := true
+dVol += nz(volume)
+
+// fix: today's live values from the chart (moved below the session block they depend on)
+dClose    = close
+dSMAtrail = (dSumTrailPrev + close) / trailLen
+gapPct    = (dOpen / dPrevClose - 1) * 100
+volRatio  = dADV30 > 0 ? dVol / dADV30 : na
 
 maxStopAbs = close * dADR / 100 * maxStopADR
 setupValid = orDone and gapPct >= gapMin and volRatio >= volRatioMin and dRet3m <= ret3mMax and (orh - orl) <= maxStopAbs and (not useRegime or regimeGreen)
@@ -68,9 +81,13 @@ if setupValid and not armed and strategy.position_size == 0 and inRTH
     riskDollars = strategy.equity * riskPct / 100
     qty = math.max(1, math.floor(riskDollars / (orh - orl)))
     strategy.entry("EP", strategy.long, qty = qty, stop = orh, comment = "ORH")
+    strategy.exit("stop", "EP", stop = orl, comment = "OR-low stop")   // fix: protective stop armed with the entry, so the fill bar is covered
     armed := true
-if armed and not inRTH and strategy.position_size == 0
+// fix: on an RTH-only chart `not inRTH` is never true (no bars outside 0930-1600), so the stop-buy survived overnight
+// fix: and could fill on the next day's open. Cancel on the last regular-session bar as well.
+if armed and (not inRTH or session.islastbar_regular) and strategy.position_size == 0
     strategy.cancel("EP")   // unfilled by the close → cancel; no overnight orders
+    strategy.cancel("stop")
     armed := false
 
 justEntered = strategy.position_size > 0 and strategy.position_size[1] == 0
