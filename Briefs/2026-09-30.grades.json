@@ -1,4 +1,12 @@
 {
+ "NAUT": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "TRADE small / WATCH",
+  "why": [],
+  "snapshot_et": "2026-09-30 09:12",
+  "label": "v2"
+ },
  "CAPR": {
   "tier": "C",
   "grade": 1,
@@ -6,17 +14,37 @@
   "why": [
    "Tier C catalyst (offering/promo/sympathy)"
   ],
-  "snapshot_et": "2026-09-30 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-09-30 09:12",
+  "label": "v2"
  },
- "NAUT": {
+ "XRPN": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj);SPAC)"
+  ],
+  "snapshot_et": "2026-09-30 09:12",
+  "label": "v2"
+ },
+ "QTTB": {
   "tier": "B",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-09-30 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-09-30 09:12",
+  "label": "v2"
+ },
+ "SGMT": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-09-30 09:12",
+  "label": "v2"
  }
 }

@@ -9,6 +9,12 @@
     "title": "Roth Capital Initiates Coverage of Nautilus Biotechnology with Buy",
     "publisher": "Fintel",
     "url": "https://www.nasdaq.com/articles/roth-capital-initiates-coverage-nautilus-biotechnology-buy"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 30 Sep 2026 12:32:00 GMT",
+    "title": "NAUT Stock Pops As Analysts Back AI Proteomics Bet - timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHJGa0EyTzYwLWRtdHpycVVWb1RuUUg5b0liNkxIeDRaZGhMdGx5MTJsNEt0S0E3bDBiRTNyWmJlUmNQOElrNTgtREZ0SEZadFNaWmZIVzBITG01eXFIeWlNaGpuWmJBT0pTVFNVOTBTVWlDODBCelc3dHlBUHFPQk1ERjdJUVR0Ync?oc=5"
    }
   ],
   "pre_tier": "B?",
@@ -22,6 +28,13 @@
   "ticker": "CAPR",
   "filings": [],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 30, 2026",
+    "title": "Pre-Market Most Active for Sep 30, 2026 :  CAPR, SOFI, NOK, TQQQ, TSLL, SQQQ, SNAP, IBIT, NKE, NIO, ORCL, SGOV",
+    "publisher": "NASDAQ.com",
+    "url": "https://www.nasdaq.com/articles/pre-market-most-active-sep-30-2026-capr-sofi-nok-tqqq-tsll-sqqq-snap-ibit-nke-nio-orcl"
+   },
    {
     "src": "GlobeNewswire",
     "date": "September 28, 2026 10:14 ET",
@@ -56,6 +69,144 @@
   "pre_tier": "C?",
   "pre_tier_hits": [
    "class action"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "XRPN": {
+  "ticker": "XRPN",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 12:04:47 GMT",
+    "title": "XRPN Archives - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lYkdEZlFEbDdET1dJOWNpdEMyd1JHc3NHMDdJY3pJcmpJRi1zR1Q3N1BCSVVsQnhsZkhpNUxPMVRpazBUa3l3R0RkSDV5dw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 11:30:00 GMT",
+    "title": "An XRP Treasury Company Is One Vote Away from Nasdaq: What Happens if Evernorth Lists as XRPN? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcy1ySmFLNDdHMWxKT094WENzQjFkNmRMMFA3eHNtZkVMTmEwZlpGQ2h6OHQ5bGJ6UWpaaTQ1bjZiQ2Q3dmFhcDFTWkc4THlhbi1GTTBiem85VDNMOTVIckJxc1UwX0w1TWU4V1ptMUxxY0MtaWQzVDN2c2xFbFRHdWVEdnk0RV9zM04tdjB4RUJ6MkFKT0daTGN1X19IbHFsblNCa2RpY21HaWNBb3hGVl9kRTFwVERTNHlCQllWb1RKUi0yRmtVZldQSHB6Nmk2WklGYlhKeXdNcDNDOW1LRzZQUExMdw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SGMT": {
+  "ticker": "SGMT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-09-30",
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "title": "8-K 7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1400118/000119312526408224/d96035d8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-09-30",
+    "form": "424B3",
+    "items": "",
+    "title": "424B3",
+    "url": "https://www.sec.gov/Archives/edgar/data/1400118/000119312526408210/d14484d424b3.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 30, 2026",
+    "title": "Sagimet Prices $115 Mln Stock Offering, Pre-market Shares Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/sagimet-prices-115-mln-stock-offering-pre-market-shares"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 30, 2026",
+    "title": "Sagimet's Denifanstat Delivers Positive 52-Week Results In Acne Trial ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/sagimets-denifanstat-delivers-positive-52-week-results-acne-trial"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 30, 2026",
+    "title": "Sagimet Reports Positive 52-Week Data For Denifanstat In Acne ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/sagimet-reports-positive-52-week-data-denifanstat-acne"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "September 30, 2026 06:19 ET",
+    "title": "Sagimet Biosciences Announces Pricing of $115.0 Million Underwritten Offering of Series A Common Stock and Pre-Funded Warrants",
+    "url": "https://www.globenewswire.com/news-release/2026/09/30/3371706/0/en/sagimet-biosciences-announces-pricing-of-115-0-million-underwritten-offering-of-series-a-common-stock-and-pre-funded-warrants.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "September 30, 2026 06:00 ET",
+    "title": "Sagimet Announces Positive Full 52-Week Results from License Partner Ascletis' Phase 3 Open-Label Extension Clinical Trial of Denifanstat in Acne Presented at EADV 2026",
+    "url": "https://www.globenewswire.com/news-release/2026/09/30/3371663/0/en/sagimet-announces-positive-full-52-week-results-from-license-partner-ascletis-phase-3-open-label-extension-clinical-trial-of-denifanstat-in-acne-presented-at-eadv-2026.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "September 28, 2026 07:00 ET",
+    "title": "Sagimet Biosciences to Host Virtual KOL Event, \u201cDenifanstat Update: 52-Week Data from Phase 3 Open-Label Extension in China and Planned AURORA Phase 3 Clinical Trial in US\u201d on September 30, 2026",
+    "url": "https://www.globenewswire.com/news-release/2026/09/28/3369754/0/en/sagimet-biosciences-to-host-virtual-kol-event-denifanstat-update-52-week-data-from-phase-3-open-label-extension-in-china-and-planned-aurora-phase-3-clinical-trial-in-us-on-septembe.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-30-26 08:17AM",
+    "title": "Sagimet Raises $115M At Premium To Fund Phase 3 Acne Drug Trial  SGMT Stock Surges Pre-Market",
+    "url": "https://finance.yahoo.com/healthcare/articles/sagimet-raises-115m-premium-fund-121727378.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-30-26 06:19AM",
+    "title": "Sagimet Biosciences Announces Pricing of $115.0 Million Underwritten Offering of Series A Common Stock and Pre-Funded Warrants",
+    "url": "https://finviz.com/news/396864/sagimet-biosciences-announces-pricing-of-1150-million-underwritten-offering-of-series-a-common-stock-and-pre-funded-warrants"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-30-26 06:00AM",
+    "title": "Sagimet Announces Positive Full 52-Week Results from License Partner Ascletis' Phase 3 Open-Label Extension Clinical Trial of Denifanstat in Acne Presented at EADV 2026",
+    "url": "https://finviz.com/news/396857/sagimet-announces-positive-full-52-week-results-from-license-partner-ascletis-phase-3-open-label-extension-clinical-trial-of-denifanstat-in-acne-presented-at-eadv-2026"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 07:00AM",
+    "title": "Sagimet Biosciences to Host Virtual KOL Event, \"Denifanstat Update: 52-Week Data from Phase 3 Open-Label Extension in China and Planned AURORA Phase 3 Clinical Trial in US\" on September 30, 2026",
+    "url": "https://finviz.com/news/395824/sagimet-biosciences-to-host-virtual-kol-event-denifanstat-update-52-week-data-from-phase-3-open-label-extension-in-china-and-planned-aurora-phase-3-clinical-trial-in-us-on-september-30-2026"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "phase 3 .*(met|positive|success)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "QTTB": {
+  "ticker": "QTTB",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 28 Sep 2026 07:56:02 GMT",
+    "title": "(QTTB) and the Role of Price-Sensitive Allocations - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWJsUWdIMVR6RS1LcGFuQmpJbTdWSzFoY2lHd2doVXVlV25qTFVPSzVncnhLV29SSHpOemlVSHlHbFNsbkdHWGhwX2lEZExfV1V1Y1E4NzRvb2dOWGxXY05yN2RUc3k3bF9vTjB5Qm9CLUp0LVQyY21mTzFvOXIzcWpXSi14d0lITERZVVNJNk1QQVZDQkEwRWNTd1liYUxZSDM2RjZDVTYzeEJLU1o3UXhET25xLWU3RlZsS0dNX2pLcFp3N1Jj?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 28 Sep 2026 15:12:32 GMT",
+    "title": "QTTB Initiated Coverage by Jefferies -- Rating Set to Buy - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGlJS25zVnlZVEZlbFRYdVRacTJoYTllNG8wT1liTkxPTEdYNFJvVDhfZzJBMlBqVThCU1l5UUxzM3NaMHpNcmhUUE9BREF6Um5TWEpOd29hNF9wZEJpZnVkX3plSnhnLXJ4bE51TmJxR3M2a2hjMWhIVXRIblpRaFdCNWN6NkhxOVRmaUw1anRFRjZ5dDdXbQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "initiat(es|ed) coverage"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"

@@ -1,4 +1,7 @@
 {
-  "CAPR": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "24-mo HOPE-3 OLE ePoster at WMS, data already in the BLA amendment (PDUFA Nov 22); only 0.6x ADV premarket, 42% overhead; 3* WATCH, TRADE-small only if 9:45 volume >=1x ADV and ORH holds"},
-  "NAUT": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Roth initiation is not a company catalyst; $125M ATM active vs $174M cap; Gate 4 fail ($3.8M projected dollar volume)"}
+  "CAPR": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "24-mo HOPE-3 OLE ePoster at WMS, data already in the BLA amendment (PDUFA Nov 22); premarket 15.4% gap on only 0.7x ADV, 41% overhead; 3* WATCH, TRADE-small only if 9:45 volume >=1x ADV and ORH holds"},
+  "NAUT": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Roth initiation (2nd in 3 weeks) is an analyst note, not a company catalyst; $125M ATM active vs $174M cap; Gates 3/4 now pass (1.5x ADV, $12.5M proj) but Tier C -> 1*"},
+  "SGMT": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Positive 52-wk OLE acne data (partner Ascletis) paired with $115M underwritten offering at $10.00 vs $10.41 premarket; Gate 4 fail ($8.6M proj, 0.2x ADV); chart 9% off 52w high after +78.6% 6m"},
+  "XRPN": {"tier": "Unknown", "grade": 1, "verdict": "NO TRADE", "why": "SPAC shell for Evernorth XRP-treasury de-SPAC, no filing/PR, pending vote is a binary in-window; Gate 4 fail ($5.2M proj, SPAC flag, 0.4x ADV)"},
+  "QTTB": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Jefferies initiation Sep 28, no company event; Gate 4 fail ($4.8M proj, 0.3x ADV, record-day ratio 0.0)"}
 }
