@@ -5,7 +5,7 @@ Bars: yfinance batched daily history (2y), consolidated volume; per-ticker fallb
 here (speed) — tickers that fail are listed in data/historical_missing.txt.
 Event: gap_open ≥ 8% vs prior close AND day volume ≥ 3× prior 30-day ADV AND ≥ 130 prior sessions
 (so 6-month neglect is computable). One row per event with the same fields the live pipeline
-records, plus forward returns and the simulated rule trade (daily approximation: entry = open,
+records, plus forward returns and the simulated rule trade (daily approximation: entry = day-1 close when the gap held,
 stop = day-1 low). Catalyst proxy from SEC 8-K items filed within ±1 day (2.02 = earnings).
 
   python historical.py --fetch            # universe + bars → .cache/hist_bars.parquet (or .pkl)
@@ -36,7 +36,7 @@ EVENT_COLUMNS = [
     "vol_x_adv30", "record_vol_ratio", "prior_high_vol_days_180", "adr_pct",
     "ret_3m_pregap", "ret_6m_pregap", "base_tightness", "dist_52w_high_pct", "overhead_pct", "neglect_score",
     "ret_1d", "ret_3d", "ret_5d", "ret_10d", "ret_20d", "mfe_20d", "mae_20d", "d1_low_held",
-    "sim_r10", "sim_days10", "sim_r20", "sim_days20", "sim_r50", "sim_days50", "sim_r_partial",
+    "gap_held", "sim_entry", "sim_risk_pct", "sim_r10", "sim_days10", "sim_r20", "sim_days20", "sim_r50", "sim_days50", "sim_r_partial",
     "catalyst_proxy", "sec_items",
 ]
 
@@ -97,9 +97,7 @@ def simulate(bars, i, entry, stop, adr_pct, ma_n):
     risk = entry - stop
     if risk <= 0:
         return None, None
-    closes = [b["c"] for b in bars]
-    if bars[i]["c"] < stop:                  # closed below the stop on day 1 → stopped
-        return -1.0, 0
+    closes = [b["c"] for b in bars]          # entry = day-1 close (gap held), stop = day-1 low
     cur, be = stop, False
     for j in range(i + 1, len(bars)):
         b = bars[j]
@@ -181,12 +179,16 @@ def _events_for(t: str, bars: list[dict], meta: dict) -> list[dict]:
               "d1_low_held": not any(x["l"] < b["l"] for x in fut)}
         for k in (1, 3, 5, 10, 20):
             ev[f"ret_{k}d"] = round((bars[i + k]["c"] / o - 1) * 100, 2)
+        gap_held = b["c"] > o and b["c"] > b["l"]
+        ev["gap_held"] = gap_held
+        ev["sim_entry"] = round(b["c"], 4) if gap_held else None
+        ev["sim_risk_pct"] = round((b["c"] - b["l"]) / b["c"] * 100, 2) if gap_held else None
         for m in (10, 20, 50):
-            r, d = simulate(bars, i, o, b["l"], adr, m)
+            r, d = simulate(bars, i, b["c"], b["l"], adr, m) if gap_held else (None, None)
             ev[f"sim_r{m}"], ev[f"sim_days{m}"] = r, d
         r10 = ev["sim_r10"]
-        if r10 is not None and (ev["sim_days10"] or 0) >= 3:
-            pr = (bars[i + 3]["c"] - o) / (o - b["l"])
+        if gap_held and r10 is not None and (ev["sim_days10"] or 0) >= 3:
+            pr = (bars[i + 3]["c"] - b["c"]) / (b["c"] - b["l"])
             ev["sim_r_partial"] = round(pr / 3 + r10 * 2 / 3, 3)
         else:
             ev["sim_r_partial"] = r10
