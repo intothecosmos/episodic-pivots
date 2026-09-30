@@ -16,6 +16,10 @@ python outcomes.py                       # forward returns + simulated trades fo
 python outcomes.py AUTL                  # one ticker
 python notes.py headers                  # refresh the auto header callouts in Log/
 python notes.py set TICKER DATE key val  # set a frontmatter key (append-only contract)
+python watchlist.py --current "SYM,SYM"  # desired ⚡EP Candidates composition + diff (sections: TODAY/OPEN/WATCH/AGING)
+python historical.py --all               # Phase 2: universe → 2y bars → EP-days → SEC catalyst proxy (data/historical_eps.csv)
+python stats.py                          # bucket/hypothesis report on the historical set (winsorized R, SE)
+python stats.py --live --weeks 8         # same for the live pipeline
 ```
 
 ## What each script does
@@ -35,7 +39,12 @@ python notes.py set TICKER DATE key val  # set a frontmatter key (append-only co
 | --- | --- | --- |
 | 07:45 Mon–Fri | scan + brief v1 + analyst pass + watchlist + push/email | `auto: brief v1` |
 | 09:10 Mon–Fri | brief v2 refresh | `auto: brief v2` |
-| 16:35 Mon–Fri | outcomes + note updates | `auto: outcomes` |
+| 16:35 Mon–Fri | outcomes + note updates + trail check + watchlist prune | `auto: outcomes` |
+| 10:10 Sunday | weekly evidence review (Reviews/YYYY-Www.md): hypotheses vs historical + live, proposed changes | `auto: weekly review` |
+
+Watchlist routine: the morning runs rebuild the TODAY section from the analyst pass; the evening run prunes
+(drops names that broke the day-1 low, ages out after 5 sessions, removes stale watches); OPEN/WATCH follow
+the Log note status. One Pine "EP Engine" alert on the watchlist is how it is watched in real time.
 
 Matt's Obsidian vault is a clone of this repo (Obsidian Git auto-pull). Grades are frozen at
 snapshot time; the analyst pass appends to the brief and never edits `candidates.csv`.
