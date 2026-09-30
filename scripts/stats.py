@@ -24,10 +24,14 @@ def _fmt(x, nd=2, suf=""):
     return "—" if x is None else f"{x:+.{nd}f}{suf}"
 
 
+def _wins(vals, cap=5.0):
+    return [max(-cap, min(cap, v)) for v in vals]
+
+
 def summarize(rows: list[dict], label: str) -> list:
     n = len(rows)
     if n == 0:
-        return [label, 0, "—", "—", "—", "—", "—", "—"]
+        return [label, 0, "—", "—", "—", "—", "—", "—", "—", "—"]
     r20 = [v for v in (_f(r.get("ret_20d")) for r in rows) if v is not None]
     held = [r for r in rows if str(r.get("gap_held")) == "True"]
     s10 = [v for v in (_f(r.get("sim_r10")) for r in held) if v is not None]
@@ -38,10 +42,12 @@ def summarize(rows: list[dict], label: str) -> list:
             f"{100 * sum(low) / len(low):.0f}%" if low else "—",
             f"{len(s10)}",
             _fmt(st.mean(s10)) if s10 else "—",
+            _fmt(st.mean(_wins(s10))) if s10 else "—",
+            (f"±{st.pstdev(_wins(s10)) / len(s10) ** 0.5:.2f}" if len(s10) > 1 else "—"),
             f"{100 * sum(v > 0 for v in s10) / len(s10):.0f}%" if s10 else "—"]
 
 
-HEADER = "| Bucket | n | avg +20d | median +20d | day-1 low held | trades (gap held) | avg R (10-MA) | R win % |\n| --- | --- | --- | --- | --- | --- | --- | --- |"
+HEADER = "| Bucket | n | avg +20d | median +20d | day-1 low held | trades (gap held) | avg R (10-MA) | avg R winsor ±5 | SE | R win % |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |"
 
 
 def bucket_table(rows, key, edges, labels, title) -> str:
@@ -71,17 +77,17 @@ def report(rows: list[dict], title: str) -> str:
            "Event = open gap ≥ 8% vs prior close AND day volume ≥ 3× prior 30-day ADV, price ≥ $0.50, cap ≥ $100M today. "
            "Returns are from the day-1 open. The simulated trade enters at the day-1 close only when the gap held "
            "(close > open), stops at the day-1 low, moves to breakeven after a close ≥ entry + 1 ADR, and exits on the first "
-           "close below the 10-day SMA. n is shown everywhere; nothing with n < 30 is a conclusion.", ""]
+           "close below the 10-day SMA; a bar opening below the stop fills at the open; trades still open at the data end are marked to market. 'avg R winsor ±5' caps each trade at ±5R (the headline mean is driven by ~1% of trades); SE is the standard error of the winsorized mean. n is shown everywhere; nothing with n < 30 is a conclusion.", ""]
     out.append("## Baseline\n\n" + HEADER + "\n| " + " | ".join(str(x) for x in summarize(rows, "all EP-days")) + " |\n")
     held = [r for r in rows if str(r.get("gap_held")) == "True"]
     out.append("| " + " | ".join(str(x) for x in summarize(held, "gap held (close > open)")) + " |\n")
     out.append("| " + " | ".join(str(x) for x in summarize([r for r in rows if str(r.get('gap_held')) != 'True'], "gap faded (close ≤ open)")) + " |\n")
     # exit variants on the held subset
-    out.append("### Exit variants (gap-held trades)\n\n| Variant | n | avg R | median R | win % | p90 R |\n| --- | --- | --- | --- | --- | --- |")
+    out.append("### Exit variants (gap-held trades)\n\n| Variant | n | avg R | avg R winsor ±5 | median R | win % | non-loss % | p90 R |\n| --- | --- | --- | --- | --- | --- | --- | --- |")
     for k, lab in (("sim_r10", "10-day SMA close trail"), ("sim_r20", "20-day"), ("sim_r50", "50-day"), ("sim_r_partial", "1/3 at day-3 close + 10-day trail")):
         s = sorted(v for v in (_f(r.get(k)) for r in held) if v is not None)
         if s:
-            out.append(f"| {lab} | {len(s)} | {_fmt(st.mean(s))} | {_fmt(st.median(s))} | {100*sum(v>0 for v in s)/len(s):.0f}% | {_fmt(s[int(0.9*len(s))])} |")
+            out.append(f"| {lab} | {len(s)} | {_fmt(st.mean(s))} | {_fmt(st.mean(_wins(s)))} | {_fmt(st.median(s))} | {100*sum(v>0 for v in s)/len(s):.0f}% | {100*sum(v>=0 for v in s)/len(s):.0f}% | {_fmt(s[int(0.9*len(s))])} |")
     out.append("")
     out.append(bucket_table(rows, "gap_open_pct", [8, 12, 20, 40, INF], ["8–12%", "12–20%", "20–40%", "40%+"], "Gap size"))
     out.append(bucket_table(rows, "vol_x_adv30", [3, 5, 10, 20, INF], ["3–5×", "5–10×", "10–20×", "20×+"], "Volume ÷ 30-day ADV (Kullamägi ratio, full day)"))

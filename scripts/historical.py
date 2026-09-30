@@ -3,7 +3,7 @@
 Universe: TradingView scanner — NYSE/NASDAQ/AMEX common stocks, cap ≥ $100M, price ≥ $0.50.
 Bars: yfinance batched daily history (2y), consolidated volume; per-ticker fallback not attempted
 here (speed) — tickers that fail are listed in data/historical_missing.txt.
-Event: gap_open ≥ 8% vs prior close AND day volume ≥ 3× prior 30-day ADV AND ≥ 130 prior sessions
+Event: gap_open ≥ 8% vs prior close AND day volume ≥ 3× prior 30-day ADV AND day-1 dollar volume ≥ $10M AND ≥ 130 prior sessions
 (so 6-month neglect is computable). One row per event with the same fields the live pipeline
 records, plus forward returns and the simulated rule trade (daily approximation: entry = day-1 close when the gap held,
 stop = day-1 low). Catalyst proxy from SEC 8-K items filed within ±1 day (2.02 = earnings).
@@ -36,7 +36,7 @@ EVENT_COLUMNS = [
     "vol_x_adv30", "record_vol_ratio", "prior_high_vol_days_180", "adr_pct",
     "ret_3m_pregap", "ret_6m_pregap", "base_tightness", "dist_52w_high_pct", "overhead_pct", "neglect_score",
     "ret_1d", "ret_3d", "ret_5d", "ret_10d", "ret_20d", "mfe_20d", "mae_20d", "d1_low_held",
-    "gap_held", "sim_entry", "sim_risk_pct", "sim_r10", "sim_days10", "sim_r20", "sim_days20", "sim_r50", "sim_days50", "sim_r_partial",
+    "gap_held", "sim_entry", "sim_risk_pct", "sim_open", "sim_r10", "sim_days10", "sim_r20", "sim_days20", "sim_r50", "sim_days50", "sim_r_partial",
     "catalyst_proxy", "sec_items",
 ]
 
@@ -94,21 +94,27 @@ def _sma(vals, n, i):
 
 
 def simulate(bars, i, entry, stop, adr_pct, ma_n):
+    """Entry at the day-1 CLOSE (only when the gap held: close > open), stop = day-1 low, breakeven
+    after a close >= entry + 1 ADR, exit on the first close below the ma_n SMA. Returns (R, days, open).
+    A bar that OPENS below the stop fills at the open (gap-through), not at the stop.
+    A trade still open at the end of the data is marked to the last close (open=True), not dropped."""
     risk = entry - stop
     if risk <= 0:
-        return None, None
-    closes = [b["c"] for b in bars]          # entry = day-1 close (gap held), stop = day-1 low
+        return None, None, False
+    closes = [b["c"] for b in bars]
     cur, be = stop, False
     for j in range(i + 1, len(bars)):
         b = bars[j]
+        if b["o"] <= cur:
+            return round((b["o"] - entry) / risk, 3), j - i, False
         if b["l"] <= cur:
-            return round((cur - entry) / risk, 3), j - i
+            return round((cur - entry) / risk, 3), j - i, False
         if not be and b["c"] >= entry * (1 + adr_pct / 100):
             cur, be = entry, True
         ma = _sma(closes, ma_n, j)
         if ma is not None and b["c"] < ma:
-            return round((b["c"] - entry) / risk, 3), j - i
-    return None, None                        # still open at data end → excluded
+            return round((b["c"] - entry) / risk, 3), j - i, False
+    return round((bars[-1]["c"] - entry) / risk, 3), len(bars) - 1 - i, True
 
 
 def detect_events(bars_by_ticker: dict, meta: dict) -> list[dict]:
@@ -141,6 +147,10 @@ def _events_for(t: str, bars: list[dict], meta: dict) -> list[dict]:
         if adv <= 0 or b["v"] < VOL_X * adv:
             continue
         if p["c"] < 0.5:
+            continue
+        if b["v"] * b["c"] < 10e6:            # Gate 4: exit liquidity (day-1 dollar volume)
+            continue
+        if any(x["v"] <= 0 for x in prior30):  # dual-class / stale lines with fake ratios
             continue
         prior = bars[:i]
         w252 = prior[-252:]
@@ -184,8 +194,10 @@ def _events_for(t: str, bars: list[dict], meta: dict) -> list[dict]:
         ev["sim_entry"] = round(b["c"], 4) if gap_held else None
         ev["sim_risk_pct"] = round((b["c"] - b["l"]) / b["c"] * 100, 2) if gap_held else None
         for m in (10, 20, 50):
-            r, d = simulate(bars, i, b["c"], b["l"], adr, m) if gap_held else (None, None)
+            r, d, still_open = simulate(bars, i, b["c"], b["l"], adr, m) if gap_held else (None, None, False)
             ev[f"sim_r{m}"], ev[f"sim_days{m}"] = r, d
+            if m == 10:
+                ev["sim_open"] = still_open
         r10 = ev["sim_r10"]
         if gap_held and r10 is not None and (ev["sim_days10"] or 0) >= 3:
             pr = (bars[i + 3]["c"] - b["c"]) / (b["c"] - b["l"])
