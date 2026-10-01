@@ -7,8 +7,19 @@
    "chart fail: neglect 59.0 (extended/collapsed pre-gap)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-10-01 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-10-01 09:12",
+  "label": "v2"
+ },
+ "CTSH": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.02x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-01 09:12",
+  "label": "v2"
  },
  "ABAT": {
   "tier": "C",
@@ -17,18 +28,8 @@
   "why": [
    "Tier C catalyst (offering/promo/sympathy)"
   ],
-  "snapshot_et": "2026-10-01 07:46",
-  "label": "v1"
- },
- "ACN": {
-  "tier": "C",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": [
-   "Tier C catalyst (offering/promo/sympathy)"
-  ],
-  "snapshot_et": "2026-10-01 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-10-01 09:12",
+  "label": "v2"
  },
  "QSI": {
   "tier": "unknown",
@@ -37,17 +38,37 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-01 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-10-01 09:12",
+  "label": "v2"
  },
- "GLUE": {
-  "tier": "A",
+ "ACN": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Tier C catalyst (offering/promo/sympathy)"
+  ],
+  "snapshot_et": "2026-10-01 09:12",
+  "label": "v2"
+ },
+ "GLOB": {
+  "tier": "unknown",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-01 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-10-01 09:12",
+  "label": "v2"
+ },
+ "RZAI": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-01 09:12",
+  "label": "v2"
  }
 }

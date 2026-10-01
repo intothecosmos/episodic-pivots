@@ -1,4 +1,97 @@
 {
+ "RZAI": {
+  "ticker": "RZAI",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-09-28",
+    "form": "424B4",
+    "items": "",
+    "title": "424B4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2075335/000121390026104150/ea0306875-424b4_roze.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "September 29, 2026 06:30 ET",
+    "title": "Roze AI Inc. Common Shares Expected to Begin Trading on Nasdaq on September 29, 2026",
+    "url": "https://www.globenewswire.com/news-release/2026/09/29/3370629/0/en/roze-ai-inc-common-shares-expected-to-begin-trading-on-nasdaq-on-september-29-2026.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-29-26 06:30AM",
+    "title": "Roze AI Inc. Common Shares Expected to Begin Trading on Nasdaq on September 29, 2026",
+    "url": "https://finviz.com/news/396274/roze-ai-inc-common-shares-expected-to-begin-trading-on-nasdaq-on-september-29-2026"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 30 Sep 2026 20:15:45 GMT",
+    "title": "symbol__ Stock Quote Price and Forecast - CNN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hT3dVMGxSN0c2d3pHeFl3M2tWWXQ3cTRIMEx1QWc0VWVDbExBcXAzM1RXRWxOSmp6ZkVtX3JZMXBoblI3dFFBcjRHdHNKV0la?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 01 Oct 2026 11:52:05 GMT",
+    "title": "Why Is Roze AI Stock Surging Thursday? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUQxckpCV1RJR2Qtd1lOM1R4X0oxazNmVDB0Rm4zM2lDX2c4X0E3cXhLaEhoX3hPNGYyYW54UG5KWmdzRm5TbTZUM2JWZC11b0tZSHJWUnZkLUx3aV80M012ODJtYV9CM3dKTlg3R2NzSHo4LTlJWFVackpPUWdSUHpGRVZmMV96am1MSG45c1dBMzlWRXZOQ0hFbkczSVE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 28 Sep 2026 19:11:42 GMT",
+    "title": "Roze AI Inc. Common Shares (RZAI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Bc1RpbWVEZHdWbWNqaDduOXJBcVBnMmhDV3NKdXBRRi16MjZfSHVNVU1jM1lUaEtkS1ZWUF9pWE1XV2hOU0J0aTNra1pBa1hReHc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 30 Sep 2026 20:06:10 GMT",
+    "title": "Roze AI (RZAI) Stock Price, News & Analysis - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwRDd5dF9IVHFTVGcweTNLbWNWMndtVEhua256cWRGY3JmRmREMDBPWDZBalFrWG91SXo5cmlqY2swMEd6Ti1VbVBZTTBXU3owdGow?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 30 Sep 2026 16:12:23 GMT",
+    "title": "Roze AI: RZAI Stock Price Quote & News - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LWmZYVk5MUHUydzBzNkxpZUxWd0hwTlQzaDI4aDF0a3VINTVRbUFBWmFWQXhjRzJ1U0RKcTBzSGR6UDBmdC1PbVhZTGVwcU8xa1E?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 01 Oct 2026 06:35:36 GMT",
+    "title": "Roze AI (RZAI) Stock Price, News & Analysis - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16cDFHTEJLYmFEVU96Snd5c0U4c19oRnJ5MnpFQzNVTWRZR0MyRWI5WHdnNno5bnNHQ0doXzBnQlh1aUQ3M3d5UlJiZ0JYbVl6WlViQlRmYXRsZw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 30 Sep 2026 17:01:14 GMT",
+    "title": "Book value per share of Roze AI Inc. \u2013 NASDAQ:RZAI - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDlQa01wM3I1dDA1YmZUb21MNmVkREJzRVJZcEhmbEZaYUZnb3VnUUc5TTVnODdtdFJtOGNoMWg2Y1pQU194MWNYLWpXTl9EVkwwNlBvS1BCZlpjcTZ1cXBiYWtEYnVRWG10a3FmRVN2YlRZOUlhVkZWc1dSREk0MG5NZ2VCTW5WOTBZMWRBdm13bVg0M09ZRkJZOHBxVlJVdU9wbg?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 00:24:07 GMT",
+    "title": "Roze AI Inc. Common Shares (RZAI) stock price, news, quote and history - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1YmNVMlNjbmJHNTJLUmZyN2ZCRF9ZMExqTkV5WmVZa01ncnNFTUVpTkp3TXlCSXgta3pEaDItSFVOR1pTSTFjOHVJbl9vQzlCX3c?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 10:30:00 GMT",
+    "title": "RZAI Stock News - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Y2hTalRwLTBCNGJGczhzTkR4Vkk1U085ZzBlVXhFNVU1dk5UdEZrZ0FibmhwTFFRNmhjMV8wa1Vvd1FxRHlydTl5VnZVUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 10:30:00 GMT",
+    "title": "Roze AI Inc. Common Shares Expected to Begin Trading on Nasdaq on September 29, 2026 - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDNPa2xheVlLQk9WejdvSlM0MFAxbG5KWG52QXM4RVA4dnVPWHNfUzE0Q21CRnBMajR5OG5HYVZZWElneVNQV3BRZmk1RUhXcFlUcWc3TVJXT2Y0SldZdWlSWHNsWU9tclRzdEZONkF5dzVkTVM0R1Fjd1BNcFFEeklESzgyV2w0aVRlTlRmcEpCM1U?oc=5"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "prospectus/registration filed (offering?)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "SDEV": {
   "ticker": "SDEV",
   "filings": [
@@ -14,15 +107,21 @@
   "headlines": [
    {
     "src": "GoogleNews",
-    "date": "Wed, 30 Sep 2026 13:17:00 GMT",
-    "title": "SDEV Stock Skyrockets As Traders Pile Into Volatile Move - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0lQVGtUb0U5eDdzaV9rX3BoU0VCRGx5Q3RacXF1T2l6YWYxYWxmb2l4aVd3OENKV0UyS0VIVVZFZGkyZUxTb1Blenk0b3A5RUNscFNtOWpKRVdQTXpvQVprVXlyX3ZGcEhXU29RRTl5cFlvekY1MXRhdXlzRnFtMkk4d0VMRU41LTliY0hXZm1aSVE?oc=5"
+    "date": "Thu, 01 Oct 2026 12:32:00 GMT",
+    "title": "SDEV Stock Whipsaws Higher As Traders Chase Volatility - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHplWnBNZHN0QzFhdWwtTnpEd1JybW1jSURlTmNBVXdhV2MxR3ZQRlVOcW5peU9Oa0t1SWp6RVNDWUpSYVMyQ3gwVmtfN3NhbWJmc3VITi0zRjlpaC12UXNFNFhvSmFoZ2R4MlhLRUFEemEwNTAzakVROTFIbG52NVc0ekNrdGYybHJmeENWLWs3SUU?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 30 Sep 2026 12:32:00 GMT",
-    "title": "SDEV Stock Soars On Volatile Breakout, Liquidity Stands Out - timothysykes.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnV0anVsTk9zSUJSZmZmU3RzU05PZm1LV2NUUkU2a2poUGQ1cDhkeTdPOGlvSWhTM1E1VTdxVVg2TE5TdVFYdjBEbHlMN3JvVjBKM1RWX3FuRk83NXFXLVJITmZ3eUlrYkN6YTZRNGI4dTNDeVZjY2dybFU3bWltejZwVHQycjN4RTgxVnlKRTRxcW5hOHJj?oc=5"
+    "date": "Thu, 01 Oct 2026 11:48:00 GMT",
+    "title": "SDEV Stock Volatile As Traders Zero In On Key Levels - timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZjBENnptd2dNT1R6dkFFU3JsSGxIbl9mUFNvOFA1U2ZTbmJjLVRnUDJtY2NsSVRaczNVMUtlZmlROWVLZjBxX29JUVNrWkVjUWxQSDYyY0ZjemlCSkVLV1VSQml2eVFmUXJFdlNyRWdoc2t1Q3ZOcVh0Y3ppdFc3bG5zdmRrSUpfY1RiYjFOS1RqclNo?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 29 Sep 2026 20:17:24 GMT",
+    "title": "Unusual stock trading prompted inquiries at Stablecoin Development (NYSE: SDEV). - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTAwUXkyTk5pZDZNRXViT0JWM1FTX21walgxV0NwU3VXdXlYRzlxQjhYMGV2TmpONmwzeFd3bTcwdWJVZzZ4em9jTWpyV3pBdjhDTFllRGd6enVVTUQ1MnhMc3VVSmhrSkEyOC05eHF6SHdMMUI2YkFLbEpwd0pwMjFHb2NQOGRrbFZNWWVCU191TnJBWW12SjZELW01OEcta2I3b2lQT0FLMlQ3aU1OMjRfbVFBa1E?oc=5"
    },
    {
     "src": "GoogleNews",
@@ -32,9 +131,9 @@
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 29 Sep 2026 20:17:24 GMT",
-    "title": "Unusual stock trading prompted inquiries at Stablecoin Development (NYSE: SDEV). - stocktitan.net",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTAwUXkyTk5pZDZNRXViT0JWM1FTX21walgxV0NwU3VXdXlYRzlxQjhYMGV2TmpONmwzeFd3bTcwdWJVZzZ4em9jTWpyV3pBdjhDTFllRGd6enVVTUQ1MnhMc3VVSmhrSkEyOC05eHF6SHdMMUI2YkFLbEpwd0pwMjFHb2NQOGRrbFZNWWVCU191TnJBWW12SjZELW01OEcta2I3b2lQT0FLMlQ3aU1OMjRfbVFBa1E?oc=5"
+    "date": "Thu, 01 Oct 2026 11:47:00 GMT",
+    "title": "SDEV Stock Jumps As Traders Pile Into Volatile Move - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUNYV1pjSnhtY212VU9hd0NWWTdGRnRUbXVMbkpPZDVMNG9NaDU4YzN3ZnU2MkxIT0JJU1pqR19IV3RxMVNUX2pISzlrY1ZrUGJiX2dEamdvOWZxR2pJTDF1UU5kSmtQaDZGWmUtSHNaQ216b0tJMmRlMWhkaURGN2VUVlN5MGhicl9qNkduLUw?oc=5"
    },
    {
     "src": "GoogleNews",
@@ -50,21 +149,15 @@
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 30 Sep 2026 12:33:00 GMT",
-    "title": "SDEV Stock Surges On High-Volume Breakout Move - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTg0NnRQTDlhOEwzVEs4RHVpZjZXcS1GaGZ0bHhhYVhOdGpmRlprNzViVEdfZGo4LWU5a2hwVUtKSW1UWm0zRGpKMzRuQnMtTmZkaHZrYlM0UnE3aG5OVzlkYVdWQlZOYU1xLXRHSlgzaWE3a3pvY0dHS2hRZGJMalZOeWQ0ZWV6SnRCM21nbGFPWFk?oc=5"
+    "date": "Wed, 30 Sep 2026 12:32:00 GMT",
+    "title": "SDEV Stock Soars On Volatile Breakout, Liquidity Stands Out - timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnV0anVsTk9zSUJSZmZmU3RzU05PZm1LV2NUUkU2a2poUGQ1cDhkeTdPOGlvSWhTM1E1VTdxVVg2TE5TdVFYdjBEbHlMN3JvVjBKM1RWX3FuRk83NXFXLVJITmZ3eUlrYkN6YTZRNGI4dTNDeVZjY2dybFU3bWltejZwVHQycjN4RTgxVnlKRTRxcW5hOHJj?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Mon, 28 Sep 2026 11:47:00 GMT",
-    "title": "SDEV Stock Climbs On Heavy Volume As Traders Eye Breakout - timothysykes.com",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNempZSTVRalVCU2szLXR1VE13M0dialMtWUV2Tnh0N2trNUtVWjJ5VE1EX3kwcUZuWlE5MExLcFp2cGxHQ2YzODN5ZVhYSU9RRlVoSWpXajBwVXNJNTFXYWtFZ192WU5pdG5xZ1lxSFRkNkxUbUdDX0R4QnVwVjE5c1k3UE1fSDRQVnVtakFjVQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 30 Sep 2026 11:47:00 GMT",
-    "title": "SDEV Stock Jumps As Traders Pile Into Volatile Move - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSkpjZmFwN0lVY2hRTkNpbmozT3BtbUVVOXJ4TGZ6bVJ5dEpTUEtTdkFFLUdlcGVFSjJ3czdpRjU5eU1pbUlrTWhNNDFpWDR3MVdZU1dOV0RiYXhXTXdhM043MDJsY3I1M0hQQ2VRZjVWV0YtVlZQcDRtLWRGaVJsUjYxVm5waWw0V2FpNXRZc3A?oc=5"
+    "date": "Wed, 30 Sep 2026 13:17:00 GMT",
+    "title": "SDEV Stock Skyrockets As Traders Pile Into Volatile Move - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0lQVGtUb0U5eDdzaV9rX3BoU0VCRGx5Q3RacXF1T2l6YWYxYWxmb2l4aVd3OENKV0UyS0VIVVZFZGkyZUxTb1Blenk0b3A5RUNscFNtOWpKRVdQTXpvQVprVXlyX3ZGcEhXU29RRTl5cFlvekY1MXRhdXlzRnFtMkk4d0VMRU41LTliY0hXZm1aSVE?oc=5"
    }
   ],
   "pre_tier": "unknown",
@@ -85,6 +178,20 @@
    }
   ],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 1, 2026",
+    "title": "Pre-Market Most Active for Oct 1, 2026 :  SQQQ, TQQQ, INTC, MUU, TLT, GSK, NVDA, ACN, CTVA, NOK, SGOV, INFY",
+    "publisher": "NASDAQ.com",
+    "url": "https://www.nasdaq.com/articles/pre-market-most-active-oct-1-2026-sqqq-tqqq-intc-muu-tlt-gsk-nvda-acn-ctva-nok-sgov-infy"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 1, 2026",
+    "title": "Accenture (ACN) Tops Q4 Earnings and Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/accenture-acn-tops-q4-earnings-and-revenue-estimates"
+   },
    {
     "src": "Nasdaq",
     "date": "Oct 1, 2026",
@@ -150,33 +257,21 @@
    },
    {
     "src": "finviz",
-    "date": "Oct-01-26 07:39AM",
-    "title": "Accenture stock is jumping after earnings and guidance",
-    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-fears-further-fed-rate-hikes-ease-micron-stock-earnings/card/accenture-stock-is-jumping-after-earnings-and-guidance-Kf3FYSCJcbwbrdtvuuPl?mod=mw_FV"
+    "date": "Oct-01-26 08:34AM",
+    "title": "Accenture Shares Rise After Fourth-Quarter Earnings and Revenue Beat Estimates",
+    "url": "https://finviz.com/news/397737/accenture-shares-rise-after-fourth-quarter-earnings-and-revenue-beat-estimates"
    },
    {
     "src": "finviz",
-    "date": "Oct-01-26 07:36AM",
-    "title": "Accenture Revenue Rises on Growth Across Geographies, Industries",
-    "url": "https://www.wsj.com/business/earnings/accenture-revenue-rises-on-growth-across-geographies-industries-d29ad725?mod=wsj_FV"
+    "date": "Oct-01-26 08:33AM",
+    "title": "Cognizant Shares Rise 7.2% Following Accenture Results",
+    "url": "https://finviz.com/news/397735/cognizant-shares-rise-72-following-accenture-results"
    },
    {
     "src": "finviz",
-    "date": "Oct-01-26 07:19AM",
-    "title": "Accenture Surges On Fiscal Q4 Beat, Outlook Amid AI Disruption Worries",
-    "url": "https://www.investors.com/news/technology/accenture-stock-acn-accenture-earnings-news-q42026?mod=IBD_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-01-26 07:02AM",
-    "title": "Accenture Brushes Off AI Disruption Fears to Post Strong Earnings. The Stock Surges.",
-    "url": "https://www.barrons.com/articles/accenture-earnings-stock-price-671fc229?mod=bar_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-01-26 06:54AM",
-    "title": "Accenture: Fiscal Q4 Earnings Snapshot",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-fiscal-q4-earnings-snapshot-105433523.html"
+    "date": "Oct-01-26 08:19AM",
+    "title": "Wall St futures gain as AI, consulting stocks offset bond-market jitters",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-hit-three-month-091720421.html"
    }
   ],
   "pre_tier": "C?",
@@ -191,6 +286,12 @@
   "ticker": "ABAT",
   "filings": [],
   "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "October 01, 2026 08:07 ET",
+    "title": "Gevo Announces Sell Out of Substantially All its 2026 Section 45Z Tax Credits",
+    "url": "https://www.globenewswire.com/news-release/2026/10/01/3372863/23976/en/gevo-announces-sell-out-of-substantially-all-its-2026-section-45z-tax-credits.html"
+   },
    {
     "src": "GlobeNewswire",
     "date": "October 01, 2026 06:00 ET",
@@ -241,83 +342,6 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "GLUE": {
-  "ticker": "GLUE",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-10-01",
-    "form": "8-K",
-    "items": "7.01,8.01,9.01",
-    "title": "8-K 7.01,8.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1826457/000119312526409833/glue-20261001.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Oct 1, 2026",
-    "title": "HC Wainwright & Co. initiates coverage of Monte Rosa Therapeutics with a Buy rating",
-    "publisher": "Fintel",
-    "url": "https://www.nasdaq.com/articles/hc-wainwright-co-initiates-coverage-monte-rosa-therapeutics-buy-rating"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Oct 1, 2026",
-    "title": "Monte Rosa Set To Report MRT-8102 Phase 1 Data In Cardiovascular Risk Study Today; Stock Up ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/monte-rosa-set-report-mrt-8102-phase-1-data-cardiovascular-risk-study-today-stock"
-   },
-   {
-    "src": "GlobeNewswire",
-    "date": "October 01, 2026 07:00 ET",
-    "title": "Monte Rosa Therapeutics Announces Positive Results for MRT-8102 in GFORCE-1 Phase 1 Study Showing Normalization of Key Pathogenic Drivers of ASCVD in Subjects with Elevated CVD Risk",
-    "url": "https://www.globenewswire.com/news-release/2026/10/01/3372740/0/en/monte-rosa-therapeutics-announces-positive-results-for-mrt-8102-in-gforce-1-phase-1-study-showing-normalization-of-key-pathogenic-drivers-of-ascvd-in-subjects-with-elevated-cvd-ris.html"
-   },
-   {
-    "src": "GlobeNewswire",
-    "date": "September 30, 2026 16:01 ET",
-    "title": "Monte Rosa Therapeutics to Present Results of MRT-8102 GFORCE-1 Phase 1 Study in Subjects with Elevated Cardiovascular Disease Risk",
-    "url": "https://www.globenewswire.com/news-release/2026/09/30/3372369/0/en/monte-rosa-therapeutics-to-present-results-of-mrt-8102-gforce-1-phase-1-study-in-subjects-with-elevated-cardiovascular-disease-risk.html"
-   },
-   {
-    "src": "GlobeNewswire",
-    "date": "September 29, 2026 12:13 ET",
-    "title": "VendRespect Launches Real-Time Cybersecurity Vendor Risk Management Platform for Businesses and MSPs",
-    "url": "https://www.globenewswire.com/news-release/2026/09/29/3371196/0/en/vendrespect-launches-real-time-cybersecurity-vendor-risk-management-platform-for-businesses-and-msps.html"
-   },
-   {
-    "src": "GlobeNewswire",
-    "date": "September 29, 2026 07:01 ET",
-    "title": "BeyondSpring Announces FDA Fast Track Designation for Plinabulin in Post-ICI Non-Squamous NSCLC and Strategic Transaction to Advance Global Phase 3 DUBLIN-4 Trial Toward Planned Interim Analysis",
-    "url": "https://www.globenewswire.com/news-release/2026/09/29/3370683/0/en/beyondspring-announces-fda-fast-track-designation-for-plinabulin-in-post-ici-non-squamous-nsclc-and-strategic-transaction-to-advance-global-phase-3-dublin-4-trial-toward-planned-in.html"
-   },
-   {
-    "src": "GlobeNewswire",
-    "date": "September 29, 2026 05:37 ET",
-    "title": "Saudi Arabia Prefab Wood Buildings Market Size, Share, Trends and Forecast, 2026-2035 | Vision 2030 Megaprojects Accelerate Modular Mass Timber Demand",
-    "url": "https://www.globenewswire.com/news-release/2026/09/29/3370561/28124/en/saudi-arabia-prefab-wood-buildings-market-size-share-trends-and-forecast-2026-2035-vision-2030-megaprojects-accelerate-modular-mass-timber-demand.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-01-26 07:00AM",
-    "title": "Monte Rosa Therapeutics Announces Positive Results for MRT-8102 in GFORCE-1 Phase 1 Study Showing Normalization of Key Pathogenic Drivers of ASCVD in Subjects with Elevated CVD Risk",
-    "url": "https://finviz.com/news/397563/monte-rosa-therapeutics-announces-positive-results-for-mrt-8102-in-gforce-1-phase-1-study-showing-normalization-of-key-pathogenic-drivers-of-ascvd-in-subjects-with-elevated-cvd-risk"
-   },
-   {
-    "src": "finviz",
-    "date": "Sep-30-26 04:01PM",
-    "title": "Monte Rosa Therapeutics to Present Results of MRT-8102 GFORCE-1 Phase 1 Study in Subjects with Elevated Cardiovascular Disease Risk",
-    "url": "https://finviz.com/news/397280/monte-rosa-therapeutics-to-present-results-of-mrt-8102-gforce-1-phase-1-study-in-subjects-with-elevated-cardiovascular-disease-risk"
-   }
-  ],
-  "pre_tier": "A?",
-  "pre_tier_hits": [
-   "phase 3 .*(met|positive|success)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
  "QSI": {
   "ticker": "QSI",
   "filings": [
@@ -346,14 +370,14 @@
    {
     "src": "GoogleNews",
     "date": "Tue, 29 Sep 2026 22:35:50 GMT",
-    "title": "Quantum-Si incorporated (QSI) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+    "title": "Quantum-Si incorporated (QSI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YQzBOek1QWjFNVnR2ZE52ZWZ2eDV5SV81V28tSzhpcURDbGxYakNJUno5bWxQaXhQUXFTd04tTVhRMUhKRWhMbGVxamJLLTQw?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 30 Sep 2026 16:32:00 GMT",
-    "title": "QSI Stock Pops As Proteus Platform Momentum Builds - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRkhFMVN4VFE0M0ZqcjJkQl9hYmluZHBSd1p6dGVvT3JWM3YxSVVOWDB3ZVNDa2lnSklOUzdKSUluNzZRTk0wcmxNYUpfSHk3MzZibTZsRlBia3ROSTJWenpHMnAxMHlXYjJJNXFhMmxzNUJnMnVYYmZ5LUxOdW1jQw?oc=5"
+    "date": "Thu, 01 Oct 2026 12:32:00 GMT",
+    "title": "QSI Stock Pops As Proteus Data Boost Protein Sequencing Hopes - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYm1EY1FQRndLWlV6dmg1VVUwWl9YaEZZTjVNc24tb1NPQmFYSV9Vb056RC1zcUcweUNlRElRYlVhcWtCcUFGdGlxU1gtMGFHM3laYmw1YUFESGRnUHJJbzhEVmkxZVl1X3R4MVhFSnNDU1o2NHBCT1NJcFFmUDMyTmt0QQ?oc=5"
    },
    {
     "src": "GoogleNews",
@@ -363,9 +387,15 @@
    },
    {
     "src": "GoogleNews",
+    "date": "Thu, 01 Oct 2026 11:47:00 GMT",
+    "title": "QSI Stock Pops As Proteus Platform Outperforms And Roadshow Expands - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUJ4RUtJclBDYlhlTlFrWGdfelVuUXhwZnJGQWczOFVRSkpMNDE2RjJQSGZrd3cxRjJyU3RCR0ZSbVlINUlnbUE2b1hSdEU5MEM4UnhQT1Y5dG1UcEpLbkhiZzZwOWxMOUFfd1lYTkQ3Y3IzS1J5VmpKZm9fX1NPcg?oc=5"
+   },
+   {
+    "src": "GoogleNews",
     "date": "Tue, 29 Sep 2026 18:24:02 GMT",
     "title": "Why Is Quantum-Si Stock Gaining Tuesday? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wTEZCYkdqRENzU0FidmFfUXV1d0gxcWd6aFJlclZuYmc3dlNCZHhjYURONlctY3ZzLWNGRUJ4am5Kblh5RlJsYW1oNzh6V3V4Wm5nMUFvVzZZNno3Zl9ZVzRyaFNpV3lu?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHNOSDdfQS1jdFpuY2FUWWxaLTZUTGtTemZWZ043a1FMQzFpNExXRXZpeDVFSXl4VVdyOUQ0REpWWUlkSWhJYXNORjFEOEZQRTVkb0s0NHRuY3NpWmJUQVRVcmplSTEwQVZwVkpYMXZJWENZMTRIZnNtZFN5azhiYmd2Z1JKOC1FM2E4eXdoM0RLZ0pxekx5RVRfTDZmeHM?oc=5"
    },
    {
     "src": "GoogleNews",
@@ -376,8 +406,97 @@
    {
     "src": "GoogleNews",
     "date": "Tue, 29 Sep 2026 16:10:04 GMT",
-    "title": "QSI Oct 2026 1.000 call (QSI261002C00001000) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+    "title": "QSI Oct 2026 1.000 call (QSI261002C00001000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15Qnota1I5MUxHVW1RSDVCd0k2alJQRjNaTmZXa0hQTmF6bWFpRXhQVlVlLUVjckJwV05XaElvSDBtS29HY2lxcC1jenpPMmkxYWV6UmVrdXFweWs3WEVSUnYxUEo?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "GLOB": {
+  "ticker": "GLOB",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 28 Sep 2026 01:09:32 GMT",
+    "title": "INVERCAP GLOB-B-M1 (ICAGLOBB-M1.MX) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QSl9XdnF4LWs2UmQweFFxZEpVWWFodUZUa2toc2xIVERJOWdMZy0tdWhCNmluUTFBUWJkMDRHVWFyemM0cG9id3d6THppbU0xbWhkcGxSR05OQjBaOGEyalRFVGJyWkp2NzlWcw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 28 Sep 2026 01:18:22 GMT",
+    "title": "GLOB Oct 2026 85.000 call (GLOB261016C00085000) stock price, news, quote and history - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sMDB4RVljT1hpQ2hFMzg3NjdKWDlGWHNVdm4xMXFaMHBTeUVXVDZmSWhMcDFzTjh3cTd6QXE4TUtwQ2FCNG50VjFkdjY5VnhSZ2hkSE1hZzdpRjZUeE8tSUUyempYZw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CTSH": {
+  "ticker": "CTSH",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Sep 30, 2026",
+    "title": "Noteworthy ETF Outflows: CALF, SUNB, THC, CTSH",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-etf-outflows-calf-sunb-thc-ctsh"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 29, 2026",
+    "title": "CTSH or ROP: Which Is the Better Value Stock Right Now?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/ctsh-or-rop-which-better-value-stock-right-now"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Sep 28, 2026",
+    "title": "Here's Why Cognizant (CTSH) is a Strong Growth Stock",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/heres-why-cognizant-ctsh-strong-growth-stock-0"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-01-26 08:33AM",
+    "title": "Cognizant Shares Rise 7.2% Following Accenture Results",
+    "url": "https://finviz.com/news/397735/cognizant-shares-rise-72-following-accenture-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-01-26 08:19AM",
+    "title": "Wall St futures gain as AI, consulting stocks offset bond-market jitters",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-hit-three-month-091720421.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-29-26 11:00AM",
+    "title": "Cognizant Named to Forbes World's Best Employers 2026 List",
+    "url": "https://finviz.com/news/396655/cognizant-named-to-forbes-worlds-best-employers-2026-list"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 06:04PM",
+    "title": "What Are Accenture Stock Bears Missing?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-stock-bears-missing-220418740.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 08:11AM",
+    "title": "ACI Worldwide and Cognizant Complete BASE24-eps Performance Testing on AWS",
+    "url": "https://finviz.com/news/395948/aci-worldwide-and-cognizant-complete-base24-eps-performance-testing-on-aws"
+   },
+   {
+    "src": "finviz",
+    "date": "Sep-28-26 07:00AM",
+    "title": "ACI Worldwide and Cognizant Demonstrate Strong Card Processing Performance on Amazon Web Services, Inc. (AWS)",
+    "url": "https://finviz.com/news/395837/aci-worldwide-and-cognizant-demonstrate-strong-card-processing-performance-on-amazon-web-services-inc-aws"
    }
   ],
   "pre_tier": "unknown",
