@@ -1,0 +1,53 @@
+{
+ "SDEV": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "chart fail: neglect 59.0 (extended/collapsed pre-gap)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-01 07:46",
+  "label": "v1"
+ },
+ "ABAT": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Tier C catalyst (offering/promo/sympathy)"
+  ],
+  "snapshot_et": "2026-10-01 07:46",
+  "label": "v1"
+ },
+ "ACN": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Tier C catalyst (offering/promo/sympathy)"
+  ],
+  "snapshot_et": "2026-10-01 07:46",
+  "label": "v1"
+ },
+ "QSI": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-01 07:46",
+  "label": "v1"
+ },
+ "GLUE": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-01 07:46",
+  "label": "v1"
+ }
+}
