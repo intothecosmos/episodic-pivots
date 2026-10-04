@@ -86,7 +86,9 @@ def simulate(bars: list[dict], i: int, entry: float, stop: float, adr_pct: float
     return {"r": (last["c"] - entry) / risk, "exit": last["c"], "date": last["d"], "days": len(bars) - 1 - i, "open": True}
 
 
-def compute(ticker: str, date: str) -> dict | None:
+def compute(ticker: str, date: str, prior_row: dict | None = None) -> dict | None:
+    """prior_row = the existing outcomes.csv row, if any: a 5-min opening range recorded while the
+    yfinance window was open is kept once it ages out (never downgraded to the daily approximation)."""
     h = history(ticker, years=2)
     if not h:
         return None
@@ -121,6 +123,17 @@ def compute(ticker: str, date: str) -> dict | None:
     orr = None
     if (today_et() - dt.date.fromisoformat(b1["d"])).days <= 58:
         orr = opening_range(ticker, b1["d"])
+    pr = prior_row
+    if orr is None and pr and pr.get("or_basis") == "5-min bars" and pr.get("orh") and pr.get("orl"):
+        # window aged out (or fetch failed): keep the frozen 5-min record from the earlier run
+        try:
+            fired = str(pr.get("trigger_fired")).lower() == "true"
+            # simulate() returns days=0 only on the day-1 stop-out branch
+            stopped = fired and str(pr.get("sim_days10")) in ("0", "0.0")
+            orr = {"orh": float(pr["orh"]), "orl": float(pr["orl"]), "fired": fired,
+                   "stopped_d1": stopped, "basis": "5-min bars"}
+        except (TypeError, ValueError):
+            orr = None
     if orr:
         out.update({"or_basis": orr["basis"], "orh": round(orr["orh"], 4), "orl": round(orr["orl"], 4),
                     "trigger_fired": orr["fired"]})
@@ -226,13 +239,14 @@ def main(argv):
         if t and d and (t, d) not in targets:
             targets[(t, d)] = None
     only = [a for a in argv if not a.startswith("--")]
+    existing = {(r.get("ticker"), r.get("date")): r for r in read_csv(DATA / "outcomes.csv")}
     rows = []
     for (t, d), p in sorted(targets.items(), key=lambda kv: kv[0][1]):
         if only and t not in only:
             continue
         if d >= today_et().isoformat():
             continue  # today's rows have no outcome yet
-        o = compute(t, d)
+        o = compute(t, d, existing.get((t, d)))
         if not o:
             print(f"{t} {d}: no data")
             continue
