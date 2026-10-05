@@ -1,8 +1,65 @@
 {
+ "ALEC": {
+  "ticker": "ALEC",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-05",
+    "form": "8-K",
+    "items": "1.01,2.02,7.01,8.01,9.01",
+    "title": "8-K 1.01,2.02,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1653087/000119312526413090/alec-20260930.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 5, 2026",
+    "title": "Alector Signs Global License Deal With Genentech For AL050 ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/alector-signs-global-license-deal-genentech-al050"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 07:00 ET",
+    "title": "Alector Enters Global License Agreement with Genentech for Brain Penetrant GCase Enzyme Replacement Therapy for Parkinson\u2019s Disease and Other Neurodegenerative Diseases",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374409/0/en/alector-enters-global-license-agreement-with-genentech-for-brain-penetrant-gcase-enzyme-replacement-therapy-for-parkinson-s-disease-and-other-neurodegenerative-diseases.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 07:00AM",
+    "title": "Alector Enters Global License Agreement with Genentech for Brain Penetrant GCase Enzyme Replacement Therapy for Parkinson's Disease and Other Neurodegenerative Diseases",
+    "url": "https://finviz.com/news/398536/alector-enters-global-license-agreement-with-genentech-for-brain-penetrant-gcase-enzyme-replacement-therapy-for-parkinsons-disease-and-other-neurodegenerative-diseases"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 2.02 (earnings)",
+   "8-K item 1.01 (material agreement)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "PCVX": {
   "ticker": "PCVX",
-  "filings": [],
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-05",
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "title": "8-K 7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1649094/000119312526413168/d21202d8k.htm"
+   }
+  ],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 5, 2026",
+    "title": "Broader Coverage And Strong Immune Responses Highlight Vaxcyte's Phase 3 Vaccine Readout; Stock Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/broader-coverage-and-strong-immune-responses-highlight-vaxcytes-phase-3-vaccine-readout"
+   },
    {
     "src": "Nasdaq",
     "date": "Oct 5, 2026",
@@ -38,6 +95,12 @@
    },
    {
     "src": "finviz",
+    "date": "Oct-05-26 08:10AM",
+    "title": "Vaxcyte Shares Rise 50% After VAX-31 Meets Primary Endpoints in Phase 3 Trial",
+    "url": "https://finviz.com/news/398650/vaxcyte-shares-rise-50-after-vax-31-meets-primary-endpoints-in-phase-3-trial"
+   },
+   {
+    "src": "finviz",
     "date": "Oct-05-26 06:00AM",
     "title": "Vaxcyte Reports Positive Topline Data from OPUS-1, the Pivotal Adult Phase 3 Trial of VAX-31, the Company's 31-Valent Pneumococcal Conjugate Vaccine Candidate",
     "url": "https://finviz.com/news/398493/vaxcyte-reports-positive-topline-data-from-opus-1-the-pivotal-adult-phase-3-trial-of-vax-31-the-companys-31-valent-pneumococcal-conjugate-vaccine-candidate"
@@ -54,76 +117,6 @@
    "phase 3 .*(met|positive|success)",
    "topline .*(met|positive)"
   ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "SDEV": {
-  "ticker": "SDEV",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "GlobeNewswire",
-    "date": "October 02, 2026 11:44 ET",
-    "title": "These High-Voltage Stocks Are Suddenly Impossible to Ignore",
-    "url": "https://www.globenewswire.com/news-release/2026/10/02/3373907/0/en/these-high-voltage-stocks-are-suddenly-impossible-to-ignore.html"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 05 Oct 2026 10:11:32 GMT",
-    "title": "SDEV Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2YWROUDdWd3A2c0NnSkpEY096S2JpNGpPN0twdVFmN0VORnNLWnMtV19pY01rdWRKTEVEbndsTURzR3R1UjVFQkk2WkEzV1VrT3gzMmZwazFUUTF2SU1ESnUtNEl5T2syV196Mk1KT2JsYlRDZXBr?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 02 Oct 2026 13:18:00 GMT",
-    "title": "SDEV Stock Surges As Traders Pile Into Volatile Move - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlRwT1Y2dERROExBYmZ5VjFCY3oxS3dxbGczM1RxVTlnY25BVjR3OW9yeW1VTnpvcmNLMzJOTEV5NEZrd1E5eG44SWJaWVM3dDB2SERTU3ZycUs2VzZkcllndHhGVHNBNFFsMXlrcVNSVFdLSU04ZlY1RndCT0p4SjRndmdhM3hzbUppbWUyWkdydFk?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 02 Oct 2026 09:09:06 GMT",
-    "title": "Stablecoin Development (SDEV) Stock Forum and Discussion - Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPc0p6cmlxUjVtdmtfUW8yOXpwc0RuVlZZNWF4MFc2d0NUMnowWl9DeGE2b2ozd2NUV0dOejBYSkFWd1lWQmNLTU5hWDhYd0paSkI1T25aMUVHNUJYRnM3UlJCZDNPd3RvbmwtcjNBaXE4RS1QZmQxODA4dHBsaTlkTFRXcTg3RGx5bHMyQXRHSkREX3IxdHFyRlpPbXVnSFZEcFJ3Z1hJR1JXS1NRbjg2QkY2VWFiTnJKYW1xc1oxQTFMRmJqZzY1Z184MmgybFR3VkhQTzNfTVpGOUtLQndsbmczUHpOTXpjXzdQUDdfX2RSYXZBTjUzbGpvRlFzbjlDTk0zTTlmRTRFSlh5TVNHa0N4RGJrYkF3aW1Hb3Z1dGd5a2EzeEI0MmZnblR5dC1feWZjUUNwdVhaZkNVeWVkNUxxTjRhQ1ZIM3Jlczg4UGJGWV84cWtfVmlPdEN2YVdNSnNuODhuRGJqSEU0UzBqalYxQXhpZw?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 02 Oct 2026 13:19:00 GMT",
-    "title": "SDEV Stock Explodes As Traders Chase Momentum Spike - timothysykes.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGtkVWtwa01NN2dGNDk4RjAtRGFGYV91S3JsODVtVGlYSFhYLTdJdDRjNXA4MUw0Zmd0LWhtbjVBOGtwY3NTcE9TTG81dVNZRWhiampwaVdQaW90WDU1N1dDX0d2dXNfa3M4cmctWDQwWklZZ1hQVk9PdUlTdWdlQVlWOG5MakVvOWxJeXhpMzdfbWRid0FB?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 02 Oct 2026 14:18:38 GMT",
-    "title": "Unusual Volume Stocks: NIVF, SCKT, SDEV Among Recent Movers - ChartMill",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXRuNWMzNU5pNXk2c2l5VXVKTnNCeExST2JaRnhvVUFCYzgyZTRzRUdObTROcWdGT2kwVlBLVHJ3ek1kUjVyNUtKZ01QWWRPNnZZbW5tVzd4ZVRfOG5nMVlUZU13Z2JzQnJlY2pzcHhjWG9mZ3JrajFjcWthWWl2SWxNMFRyUUFCMVBCSzZDU3JGdDFGUzEwbGpGRTlES2tndlZhM1FNVkotZEht?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 05 Oct 2026 02:33:43 GMT",
-    "title": "SDEV stock surges over 700% in 15 days, closing at $7.48 - KuCoin",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVc0aDRoeHdBU3dUXzRuanN5OFEwYVlTS0lPZ1FEdnFYeENKTU92MmZBQmdBdXJXQkJta1pjYW9ETE82eElnNWxoenpsOS1NZjZBMTVyTlJFRTJnLW9uMU9MSW5sa2NNdFJPWGJQTkRMQVpUd2ZzdzZleWVERTI3ampMQTd1TnRTYkszQUJjczY?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 05 Oct 2026 01:41:00 GMT",
-    "title": "SDEV Shares Gained More Than 700% Over 15 Days as SKY Holdings Reached 2.315 Billion - tokenpost.com",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OMHl2Qnc4a2hfaVRGQzM0Vm1qbkhKTGdSUVJaaGdvOGEwMmtDbm5aWjZibDFHenVEdDJnbFhlWU1VMkRiT2Y0R3JEWDB3YnJ0czJLNVV0NjZmQQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 02 Oct 2026 12:32:00 GMT",
-    "title": "SDEV Stock Rockets On Momentum As Traders Eye Key Levels - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONURZTFBiSUpMT0t2Z0tYMnFTWllUUnBTUEh5Umx4Vm9IcTRnYVVyRjJMcDVFU3Q1a3BfSlVCeWZvYllWVXBKMldCYnREaGU1ZXI0X3lxTDlqSDhhZXY5YWFUWVA4cmJEYVdJOVhJVWdSaDhmZzNQZThBTGlfdmNhSE0xajF6cFVyazBkaVRoSDQ5TTQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 02 Oct 2026 12:32:00 GMT",
-    "title": "SDEV Stock Rockets On Momentum As Traders Scan Financials - timothysykes.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0lqZTI3c2g4WlBOSjdOMG8wdjVwQnEyYlN3TnB6eW5fbHBINjFyQmJCaDBkTXZTdjlhZnZMcTc1QnV5M0pVNk9NTjJBSXM5djFVRERKZ2o1SjRablZfa1UwSkQ0ZDNGYm05R2xWZ2pHZmhfbUNocU40UTBjXzktTHZUSFNob09vX1drWUh2SkdQdnJUYUxz?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -152,6 +145,18 @@
     "date": "October 02, 2026 04:35 ET",
     "title": "Global Industrial Metaverse Market Report 2026: Size, Share, Trends, and Forecast 2025-2030 | AI, Digital Twins, XR, and Industry 4.0 Drive 32% CAGR to US$181.04 Billion",
     "url": "https://www.globenewswire.com/news-release/2026/10/02/3373564/28124/en/global-industrial-metaverse-market-report-2026-size-share-trends-and-forecast-2025-2030-ai-digital-twins-xr-and-industry-4-0-drive-32-cagr-to-us-181-04-billion.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 08:00AM",
+    "title": "Schneider Electric is buying industrial software maker PTC in a $22.6 billion deal",
+    "url": "https://qz.com/schneider-electric-acquiring-ptc-22-billion-deal-100526"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 07:52AM",
+    "title": "Schneider Electric to acquire PTC in $22.6 billion deal",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/schneider-electric-acquire-ptc-22-115200874.html"
    },
    {
     "src": "finviz",
@@ -209,15 +214,116 @@
    },
    {
     "src": "finviz",
-    "date": "Oct-04-26 10:00PM",
-    "title": "PTC Stock Soars Over 15% Overnight As $20B Buyout Could Be On The Table",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ptc-stock-soars-over-15-020026299.html"
+    "date": "Oct-05-26 03:28AM",
+    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set for steady start as bond yields hold at high levels; U.S. services PMI on tap",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-bond-yields-heightened-treasurys-us-services-pmi?mod=mw_FV"
    },
    {
     "src": "finviz",
-    "date": "Oct-04-26 04:58PM",
-    "title": "Schneider Electric to buy U.S. software maker PTC for $22.6 bln",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/schneider-electric-close-20-bln-205814637.html"
+    "date": "Oct-04-26 10:00PM",
+    "title": "PTC Stock Soars Over 15% Overnight As $20B Buyout Could Be On The Table",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ptc-stock-soars-over-15-020026299.html"
+   }
+  ],
+  "pre_tier": "MA-target",
+  "pre_tier_hits": [
+   "to acquire [A-Z][\\w ]+ in \\$[\\d.]+ ?(mln|million|bln|billion) deal",
+   "cash takeover: upside capped at deal price \u2014 not an EP"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SDEV": {
+  "ticker": "SDEV",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-05",
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "title": "8-K 2.02,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1389545/000143774926031972/sdev20260914_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "October 02, 2026 11:44 ET",
+    "title": "These High-Voltage Stocks Are Suddenly Impossible to Ignore",
+    "url": "https://www.globenewswire.com/news-release/2026/10/02/3373907/0/en/these-high-voltage-stocks-are-suddenly-impossible-to-ignore.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "RXO": {
+  "ticker": "RXO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-05",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1929561/000119312526413211/d115124d425.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-05",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1929561/000114036126038549/ef20083265_425.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-05",
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "title": "8-K 1.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1929561/000114036126038548/ef20083265_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 08:11AM",
+    "title": "RXO Shares Rise After C.H. Robinson Agrees $5.8 Billion Acquisition",
+    "url": "https://finviz.com/news/398652/rxo-shares-rise-after-ch-robinson-agrees-58-billion-acquisition"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 08:06AM",
+    "title": "C.H. Robinson to acquire RXO for $5.8 billion",
+    "url": "https://www.ttnews.com/articles/ch-robinson-rxo-deal-2026"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 07:45AM",
+    "title": "BREAKING: C.H. Robinson acquiring RXO",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/breaking-c-h-robinson-acquiring-114547485.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 07:24AM",
+    "title": "RXO Stock Soars. C.H. Robinson Is Buying It for Implied Value of $5.8 Billion.",
+    "url": "https://www.barrons.com/articles/rxo-stock-ch-robinson-acquisition-8e028575?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 07:00AM",
+    "title": "C.H. Robinson to Acquire RXO, Redefining the Future of Third-Party Logistics While Unlocking Significant Shareholder Value",
+    "url": "https://finviz.com/news/398541/ch-robinson-to-acquire-rxo-redefining-the-future-of-third-party-logistics-while-unlocking-significant-shareholder-value"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 08:30AM",
+    "title": "RXO Executive Named a Finalist in 2026 Stevie Awards for Women in Business",
+    "url": "https://finviz.com/news/395204/rxo-executive-named-a-finalist-in-2026-stevie-awards-for-women-in-business"
    }
   ],
   "pre_tier": "B?",
@@ -227,86 +333,42 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "ALEC": {
-  "ticker": "ALEC",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-10-05",
-    "form": "8-K",
-    "items": "1.01,2.02,7.01,8.01,9.01",
-    "title": "8-K 1.01,2.02,7.01,8.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1653087/000119312526413090/alec-20260930.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Oct 5, 2026",
-    "title": "Alector Signs Global License Deal With Genentech For AL050 ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/alector-signs-global-license-deal-genentech-al050"
-   },
-   {
-    "src": "GlobeNewswire",
-    "date": "October 05, 2026 07:00 ET",
-    "title": "Alector Enters Global License Agreement with Genentech for Brain Penetrant GCase Enzyme Replacement Therapy for Parkinson\u2019s Disease and Other Neurodegenerative Diseases",
-    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374409/0/en/alector-enters-global-license-agreement-with-genentech-for-brain-penetrant-gcase-enzyme-replacement-therapy-for-parkinson-s-disease-and-other-neurodegenerative-diseases.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-05-26 07:00AM",
-    "title": "Alector Enters Global License Agreement with Genentech for Brain Penetrant GCase Enzyme Replacement Therapy for Parkinson's Disease and Other Neurodegenerative Diseases",
-    "url": "https://finviz.com/news/398536/alector-enters-global-license-agreement-with-genentech-for-brain-penetrant-gcase-enzyme-replacement-therapy-for-parkinsons-disease-and-other-neurodegenerative-diseases"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "8-K item 2.02 (earnings)",
-   "8-K item 1.01 (material agreement)"
-  ],
+ "NAUT": {
+  "ticker": "NAUT",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
  "XP": {
   "ticker": "XP",
   "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "INTR": {
+  "ticker": "INTR",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "PAGS": {
+  "ticker": "PAGS",
+  "filings": [],
   "headlines": [
    {
-    "src": "GoogleNews",
-    "date": "Sat, 03 Oct 2026 03:53:50 GMT",
-    "title": "XP Inc. (XP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iNFJGRlctNWlmSWhyUVcxa1dKcjNSbEU4UzFCN1NOSjdRUGFLN0tDQTZwb0hlUXZCMFNEeWxCcHVNMEdxZFA2b1lyb1kyTzA?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 02 Oct 2026 22:19:43 GMT",
-    "title": "Xp Stock Price Forecast. Should You Buy XP? - StockInvest.us",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoNm5FNWpENUFUZGdJRkVrTXJKUUNXbkpxUlpkemZnTkIxZHJHY2daSTFjbjdvTTN0SU84ZDhlaENNYlFscmc?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 05 Oct 2026 10:06:38 GMT",
-    "title": "Why is XP stock surging 15% today? By Investing.com - Investing.com India",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTZuQ3M4QkpJVFVxOXZIOTAxM3cyQS0tem1lZnhDM3FzZTRTaEtEeG5Bb0wyV1FDZGV1RlBrMTF0bnhmSEhUbXFjcGFYeko5eWJ2SXoyUjctUWRNNzFjNW8zMzY2WGo0eG5qcGZXY3hMclhhTTFxWnByVVNpX0dFSDJycm1QSTJ0T1d2QkZEb0RqMXlwMFl1eA?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sun, 04 Oct 2026 20:28:01 GMT",
-    "title": "Responsive Playbooks and the XP Inflection - Stock Traders Daily",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3VGN3FyU2VVaVRKempPVVJCaFVXS1Y4VXo3ZVpxUjVEZkl6OFdrLVUxYUZVY2JWZG1tdm91M0tPNGYtSVppNUViOWlxZ3ZqdHU3N0phN0lYT3NVQ2hJOERVU05yS2Rtb1U4WnNpXzJEamw5bVdZbTJHUjctSnFMNUstVVZiNjdyd09HRVc2MG53eTN4eGxjMG9OemtqT3MzTW1scW9NUVhtblNiY3JCZElsc01vTmFzYjdlMy1R?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sun, 04 Oct 2026 08:59:27 GMT",
-    "title": "XP Inc. (XP) stock price, news, quote and history - Yahoo Finance Australia",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lcmVLQ09VVEFVWU5nV1Raanl4RkNmcEptLXFYZm5haGoyUFp0WEI1ZDBvSWc0MTZwR1RsMUZMVk9LYkE3ZkF5em1CNWtESkU?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sat, 03 Oct 2026 08:09:02 GMT",
-    "title": "Traders Buy Large Volume of XP Call Options (NASDAQ:XP) - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc2RQSERMRDNlTXVnTEw0MzIydjFUTE5vYmRvV09SZFg5NE94aTktSEl6WnRid2JpTGRTalgzN1FWZmtSVWxtbTJhdG83SFJzQk1MRUxmWUhtSHBzRGdaSlNvdXp3WVdyU2RLeDRpODNPTXpSNmE1NGR4RzV0c2h3MnFMV2pWckdMNGg4TGdablpaTnNOajF0eTd5R3QyOGZDWU9iak1YdDhJdTVHekpVdmFfajBWdw?oc=5"
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 04:05 ET",
+    "title": "Global Data Center Market Portfolio Database: 6,610 Existing and Upcoming Facilities, 2026-2031 Capacity Forecast | AI Demand Unlocks Investment across High-Growth Markets",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374213/28124/en/global-data-center-market-portfolio-database-6-610-existing-and-upcoming-facilities-2026-2031-capacity-forecast-ai-demand-unlocks-investment-across-high-growth-markets.html"
    }
   ],
   "pre_tier": "unknown",
@@ -324,75 +386,8 @@
     "title": "StoneCo Ltd. (STNE) Surpasses Market Returns: Some Facts Worth Knowing",
     "publisher": "Zacks",
     "url": "https://www.nasdaq.com/articles/stoneco-ltd-stne-surpasses-market-returns-some-facts-worth-knowing-0"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sat, 03 Oct 2026 04:10:39 GMT",
-    "title": "StoneCo Ltd. (STNE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1INFVveUJ2cHIzcnNtb2pEYThzSk9XOFdzQXM0UVNDUlM5Y0s1bEV2bDZEYTdHYWxrNVFwZTRRa1lBTFd1a1JyeTZOb3dWYzFvMmc?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sat, 03 Oct 2026 17:01:15 GMT",
-    "title": "StoneCo Ltd. (STNE) stock price, news, quote and history - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oUVVjLTFVUTBrand2M2tMc1FRUjE3aUdqY0R6b2dsVG02Rjk5VlJjb1AzMnRfSTZoaW5NMURFZHB6S2lYTlhneThQUHdNcFJULWc?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sat, 03 Oct 2026 04:21:03 GMT",
-    "title": "StoneCo Ltd. (STNE) stock price, news, quote and history - Yahoo Finance Australia",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wU1lZdXdFSExUWkpERGhuWTFsdzBXa0NFd1VTRHRvU0x6RDVzZF8wZ1kxYWpSVF9tX3cwblpJd1lLd0k4eEdGazlQZi1HT3JCZVE?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 02 Oct 2026 20:50:03 GMT",
-    "title": "StoneCo Ltd. (STNE) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbDNBd2NtaXZ6WXZhdGFBWEpHa2puV0lUajAtX1lSZlV3ejd5UEJLUGdBQ0ZXZE1BdVFzNHpjTDlfZnJkUFdLS2NDZnF0OXN4cElRUHRxR0NEdFFMRVYwbzE2SDVUMTVZMjU4WmZqTTBwOWE4RGpaUURNYmVfV0RZdGY4NmpwUU8wVmk1ZmJWaHhGRWh3dXlFTmdYTGJmbEE?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sun, 04 Oct 2026 05:53:24 GMT",
-    "title": "STNE Oct 2026 16.470 put (STNE261016P00016470) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44RGdORHY0Yi1IOVZUMFI5YVF6ektHUWltRFdUcHRiRlgwbk9hYlljb0tWRm9VTzNHRjNPZXltaklHRmo1NmwyOTJOdmFna1BtUVlUTER1Zmk4ZXpOdDhPQ3MtQmdLZw?oc=5"
    }
   ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "PAGS": {
-  "ticker": "PAGS",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "GlobeNewswire",
-    "date": "October 05, 2026 04:05 ET",
-    "title": "Global Data Center Market Portfolio Database: 6,610 Existing and Upcoming Facilities, 2026-2031 Capacity Forecast | AI Demand Unlocks Investment across High-Growth Markets",
-    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374213/28124/en/global-data-center-market-portfolio-database-6-610-existing-and-upcoming-facilities-2026-2031-capacity-forecast-ai-demand-unlocks-investment-across-high-growth-markets.html"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sun, 04 Oct 2026 18:47:12 GMT",
-    "title": "PAGS Oct 2026 1.000 call (PAGS261016C00001000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlMHVaeXRfU2toekU2VWhCeU5vQmZ5OHdMNkdZeFpONmE5bDdIb0hiTGl3YnBnc3lOV2p3UHZ4elN4cTBMLUt4V2tLT0xTOTFXZGdKQmVfczU1R0pQMlBmNTh5UVYyQQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sun, 04 Oct 2026 02:22:29 GMT",
-    "title": "PAGS Oct 2026 1.000 call (PAGS261016C00001000) Interactive Stock Chart - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lSXhuWjRTNXQ1YTZSbDhNQUpldktsUFI5OEFwcUJ3SlVZWTNrcmdaSXVjbDNLTl9pUzVsTHpCZWtDbV95dUFpMEZHVWhsMU4yYk9aR25DQ0ltWHZDcG0tYUxPdjNDLVZ1TDdITUVn?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "INTR": {
-  "ticker": "INTR",
-  "filings": [],
-  "headlines": [],
   "pre_tier": "unknown",
   "pre_tier_hits": [],
   "sec_status": "ok",
@@ -402,6 +397,13 @@
   "ticker": "NU",
   "filings": [],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 5, 2026",
+    "title": "Pre-Market Most Active for Oct 5, 2026 :  NU, PBR, NKE, BBD, BSBR, NOK",
+    "publisher": "NASDAQ.com",
+    "url": "https://www.nasdaq.com/articles/pre-market-most-active-oct-5-2026-nu-pbr-nke-bbd-bsbr-nok"
+   },
    {
     "src": "Nasdaq",
     "date": "Oct 2, 2026",
@@ -471,6 +473,12 @@
    },
    {
     "src": "finviz",
+    "date": "Oct-05-26 03:28AM",
+    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set for steady start as bond yields hold at high levels; U.S. services PMI on tap",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-bond-yields-heightened-treasurys-us-services-pmi?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
     "date": "Oct-04-26 10:02PM",
     "title": "Why Is NU Stock Surging Nearly 9% In Overnight Trading?",
     "url": "https://finance.yahoo.com/markets/stocks/articles/why-nu-stock-surging-nearly-020242983.html"
@@ -480,18 +488,6 @@
     "date": "Oct-04-26 12:09AM",
     "title": "Goldman Sachs Predicts Upside in 5 Stocks",
     "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-predicts-upside-5-040928501.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-04-26 09:39AM",
-    "title": "Stocks to Watch: Micron, Alphabet, Sanofi, Nu Holdings",
-    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-01-2026/card/stocks-to-watch-micron-alphabet-sanofi-nu-holdings-rb9ORIcYmpI3X5YjRliG?mod=wsj_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-04-26 08:10AM",
-    "title": "Nu Holdings Stock Rises After It Denies Pursuing Monzo",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-stock-rises-denies-121048868.html"
    }
   ],
   "pre_tier": "C?",
@@ -501,19 +497,144 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "NAUT": {
-  "ticker": "NAUT",
-  "filings": [],
+ "CRML": {
+  "ticker": "CRML",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-02",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026106323/ea0307542-6k_critical.htm"
+   }
+  ],
   "headlines": [
    {
-    "src": "GoogleNews",
-    "date": "Fri, 02 Oct 2026 16:32:00 GMT",
-    "title": "NAUT Stock Climbs As Wall Street Backs Voyager Platform - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmVmaHZ1Qi1MbjdoM1JQamNKNTBCNkEzakdNZjZYcnZPQ3ljOWZlSnJrV0ZTMlFTY2I2MUlYSjN0M19BTzhCZ01qeXhWSVJZOTZNajZuaHhCOVR3Mk1UMlZYYU5qYVhwblk1V1U5cTRqai1lTmplT2lNYUVwVUVxaDRFLU1uZw?oc=5"
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 08:30 ET",
+    "title": "Critical Metals Corp. (Nasdaq: CRML) Announces Receipt of Formal Greenland Government Mining Approvals for the Tanbreez Mine, Valid Through the Year 2050",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374551/0/en/critical-metals-corp-nasdaq-crml-announces-receipt-of-formal-greenland-government-mining-approvals-for-the-tanbreez-mine-valid-through-the-year-2050.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 08:54AM",
+    "title": "Critical Metals Shares Rise 13% After Greenland Approves Tanbreez Mining Plans",
+    "url": "https://finviz.com/news/398726/critical-metals-shares-rise-13-after-greenland-approves-tanbreez-mining-plans"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 08:30AM",
+    "title": "Critical Metals Corp. (Nasdaq: CRML) Announces Receipt of Formal Greenland Government Mining Approvals for the Tanbreez Mine, Valid Through the Year 2050",
+    "url": "https://finviz.com/news/398689/critical-metals-corp-nasdaq-crml-announces-receipt-of-formal-greenland-government-mining-approvals-for-the-tanbreez-mine-valid-through-the-year-2050"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "approves"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AFYA": {
+  "ticker": "AFYA",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ACB": {
+  "ticker": "ACB",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "XRPN": {
+  "ticker": "XRPN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-02",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/2044009/000119312526411024/d110692d425.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-02-26 05:42AM",
+    "title": "Ripple-Backed XRP Treasury Evernorth Wins Shareholder Vote, Heads to Nasdaq Next Week",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/ripple-backed-xrp-treasury-evernorth-094202378.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-02-26 05:09AM",
+    "title": "Shareholder Approval Moves Evernorth Closer to XRP Treasury Launch",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/shareholder-approval-moves-evernorth-closer-090928268.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-02-26 02:33AM",
+    "title": "Evernorth XRP Treasury Clears Vote, Awaits October Closing",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/evernorth-xrp-treasury-clears-vote-063328841.html"
    }
   ],
   "pre_tier": "unknown",
   "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ALVO": {
+  "ticker": "ALVO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-05",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1898416/000117184326006383/f6k_100526.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 2, 2026",
+    "title": "Alvotech Consensus Price Target Increased by 10.13% to $7.40",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/alvotech-consensus-price-target-increased-1013-740"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 04:00 ET",
+    "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI\u00ae, Alvotech\u2019s biosimilar to Humira\u00ae",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374201/0/en/fda-approves-additional-u-s-manufacturing-capacity-for-simlandi-alvotech-s-biosimilar-to-humira.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 04:00 ET",
+    "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI\u00ae, Alvotech\u2019s biosimilar to Humira\u00ae",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374199/0/en/fda-approves-additional-u-s-manufacturing-capacity-for-simlandi-alvotech-s-biosimilar-to-humira.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 04:00AM",
+    "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI, Alvotech's biosimilar to Humira",
+    "url": "https://finviz.com/news/398478/fda-approves-additional-us-manufacturing-capacity-for-simlandi-alvotechs-biosimilar-to-humira"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "fda approv",
+   "approves"
+  ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  }

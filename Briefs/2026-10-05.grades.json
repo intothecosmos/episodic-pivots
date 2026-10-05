@@ -2,51 +2,124 @@
  "ALEC": {
   "tier": "B",
   "grade": 4,
-  "verdict": "TRADE",
-  "why": [],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
- },
- "SDEV": {
-  "tier": "unknown",
-  "grade": 2,
-  "verdict": "NO TRADE",
+  "verdict": "WATCH (40%+ gap, needs Tier A + strong volume)",
   "why": [
-   "chart fail: neglect 30.0 (extended/collapsed pre-gap)",
-   "catalyst unknown \u2014 capped 3\u2605, recheck"
+   "gap \u226540%: historically the worst band"
   ],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
  },
  "PCVX": {
   "tier": "A",
-  "grade": 2,
-  "verdict": "NO TRADE",
+  "grade": 4,
+  "verdict": "WATCH (40%+ gap, needs Tier A + strong volume)",
   "why": [
-   "volume: 0.35x ADV (premarket)"
+   "gap \u226540%: historically the worst band"
   ],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
  },
- "PTC": {
+ "NAUT": {
+  "tier": "unknown",
+  "grade": 3,
+  "verdict": "TRADE small / WATCH",
+  "why": [
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
+ },
+ "SDEV": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.13x ADV (premarket)"
+   "chart fail: neglect 30.0 (extended/collapsed pre-gap)"
   ],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
  },
- "NAUT": {
+ "RXO": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.18x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
+ },
+ "CRML": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.16x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
+ },
+ "STNE": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.08x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
+ },
+ "XP": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.05x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
+ },
+ "PTC": {
+  "tier": "MA",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "cash takeover target \u2014 upside capped, not an EP"
+  ],
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
+ },
+ "XRPN": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (SPAC)"
+  ],
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
+ },
+ "AFYA": {
   "tier": "unknown",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
+ },
+ "ACB": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
  },
  "INTR": {
   "tier": "unknown",
@@ -55,8 +128,8 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
  },
  "PAGS": {
   "tier": "unknown",
@@ -65,28 +138,8 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
- },
- "STNE": {
-  "tier": "unknown",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
-  ],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
- },
- "XP": {
-  "tier": "unknown",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
-  ],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
  },
  "NU": {
   "tier": "C",
@@ -95,7 +148,17 @@
   "why": [
    "Tier C catalyst (offering/promo/sympathy)"
   ],
-  "snapshot_et": "2026-10-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
+ },
+ "ALVO": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-05 09:12",
+  "label": "v2"
  }
 }
