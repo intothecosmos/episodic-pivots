@@ -1,0 +1,101 @@
+{
+ "ALEC": {
+  "tier": "B",
+  "grade": 4,
+  "verdict": "TRADE",
+  "why": [],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ },
+ "SDEV": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "chart fail: neglect 30.0 (extended/collapsed pre-gap)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ },
+ "PCVX": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.35x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ },
+ "PTC": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.13x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ },
+ "NAUT": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ },
+ "INTR": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ },
+ "PAGS": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ },
+ "STNE": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ },
+ "XP": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ },
+ "NU": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Tier C catalyst (offering/promo/sympathy)"
+  ],
+  "snapshot_et": "2026-10-05 07:47",
+  "label": "v1"
+ }
+}
