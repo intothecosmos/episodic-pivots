@@ -4,8 +4,16 @@
   "grade": 4,
   "verdict": "TRADE",
   "why": [],
-  "snapshot_et": "2026-10-06 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-06 09:12",
+  "label": "v2"
+ },
+ "OPCH": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "TRADE small / WATCH",
+  "why": [],
+  "snapshot_et": "2026-10-06 09:12",
+  "label": "v2"
  },
  "QTEX": {
   "tier": "unknown",
@@ -14,17 +22,27 @@
   "why": [
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-10-06 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-06 09:12",
+  "label": "v2"
  },
- "OPCH": {
-  "tier": "unknown",
-  "grade": 1,
+ "BRUN": {
+  "tier": "B",
+  "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
+   "volume: 0.18x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-06 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-06 09:12",
+  "label": "v2"
+ },
+ "CEG": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.15x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-06 09:12",
+  "label": "v2"
  }
 }

@@ -1,24 +1,36 @@
 {
- "QTEX": {
-  "ticker": "QTEX",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "GlobeNewswire",
-    "date": "October 05, 2026 10:39 ET",
-    "title": "Commercial Orders, FDA Firepower and Crypto Momentum",
-    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374754/0/en/commercial-orders-fda-firepower-and-crypto-momentum.html"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
  "OPCH": {
   "ticker": "OPCH",
-  "filings": [],
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-06",
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "title": "8-K 1.01,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014739/000110465926113904/tm2627097d1_8k.htm"
+   }
+  ],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 6, 2026",
+    "title": "CD&R And McKesson To Acquire Option Care Health ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/cdr-and-mckesson-acquire-option-care-health"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 08:14AM",
+    "title": "McKesson, CD&R to Buy Option Care Health in $5.8 Billion Deal",
+    "url": "https://finance.yahoo.com/healthcare/articles/mckesson-cd-r-buy-option-121443120.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 08:00AM",
+    "title": "CD&R and McKesson Corporation Sign Agreement to Acquire Option Care Health",
+    "url": "https://finviz.com/news/399146/cdr-and-mckesson-corporation-sign-agreement-to-acquire-option-care-health"
+   },
    {
     "src": "finviz",
     "date": "Oct-06-26 07:15AM",
@@ -56,8 +68,139 @@
     "url": "https://finance.yahoo.com/healthcare/articles/option-care-health-surges-22-204447450.html"
    }
   ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 1.01 (material agreement)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "QTEX": {
+  "ticker": "QTEX",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 10:39 ET",
+    "title": "Commercial Orders, FDA Firepower and Crypto Momentum",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374754/0/en/commercial-orders-fda-firepower-and-crypto-momentum.html"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 06 Oct 2026 11:47:00 GMT",
+    "title": "QTEX Stock Surges As Traders Pile Into Quantum Tech Play - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fTDBFTVNHUktPUnhiRnFDM0VQYzdSRmNzTlJReUhHdVB3cmxreGdtbDZjeFVjUlljM3Vacl9MQWVDenItYzB3X21uZnIzbkdHcG5LT0NpMTIzQTF0YTRjQzdfSUlBNWZzSWExQ3FwVlZSWWpqX1BxUVFR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 06 Oct 2026 03:24:16 GMT",
+    "title": "QTREX Quantum Stock Is Trending: Here's Why It Rocketed 28% After-Hours - benzinga.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmtmNEJIcVVBbS1oV1FrQ3FnT3FpQ3FLS0xnYzBEZ29GYWRtWEF0VW5LQzJ2d3FCYW9zR1hPU2hoS1hQVTJBQVRBOVEzNVZ0ZlM4WkNVVG9HSGg5WVZpMnJ4OHBBSm9TZzI2SnVnWjlWMU9tcGpVZTE1WUVSeGt2UU84STRMcjM4dUQwVkQwTHhmREFFWTdKc3Q1R2pRUl9IVFlRSWh2SHN5ODE2eVFiRGN3d0M5Zw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 05 Oct 2026 18:50:49 GMT",
+    "title": "QTREX Quantum Ltd. (QTEXW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3YlhRQjE2SURlZ0ltdlRDaUlRRXR3MTVDdExkcmJsV1hsS1lYREg3ODRESVE0RXFMSE5sTmZHalZjNVk4Smc2RlkzcUdHRXBOSmw0?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 05 Oct 2026 22:02:08 GMT",
+    "title": "Inspira Technologies OXY B.H.N. (QTEX) Stock Chart and Price History 2026 - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Tb1Z0VlZIaXhKa3g5RV83MlF1b0pqOWxlejNkVHBidjlkTk9vQ0ZFYXBJVWtDcXdob25lcUd2eVFPLXktN0lkMWhxYkZRUDRacVhSVUNVaFZ5RkRQeXN3RFBB?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 05 Oct 2026 13:18:00 GMT",
+    "title": "QTEX Stock Jumps As Traders Pile Into Volatile Breakout - timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFQ5d2lRZHBZYVNtR3ZiVkhWU0hJckV3bGFOSGlVclRlb0RoWFNiYmdpQ09ha09abUl3dTVWMkcwMjgtZlNLaVdfX2RveDE5N3VBdzd0NWdFTkc1M2xEckVyQ0RIVHE4ekZGM3RiZGpKR29jR0V5aG1BekdJRGVXWA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 05 Oct 2026 12:33:00 GMT",
+    "title": "QTEX Stock Pops On Heavy Volume As Traders Target Breakout - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83Wk1ObHZVbFZrZmRjeG9PaXUtdFF4VDBuRnlmZ0xvSE1EdXlidi1lNzhQaWRHQXhZWXVDaENGeGJic0ZoSjdQOG16Mkl0a1hUT3A0YlNFSHljcW5aNEQ4U19FX2VUUkhLdGI5QlhlQXRpUmVDVXhaWGJ4NC0?oc=5"
+   }
+  ],
   "pre_tier": "unknown",
   "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BRUN": {
+  "ticker": "BRUN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-06",
+    "form": "8-K",
+    "items": "1.01,9.01",
+    "title": "8-K 1.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226045861/form8-k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-05",
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "title": "8-K 5.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2090646/000149315226045765/form8-k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 08:48AM",
+    "title": "Boost Run Shares Rise 9.5% After Signing $525.6 Million AI Cloud Services Agreement",
+    "url": "https://finviz.com/news/399297/boost-run-shares-rise-95-after-signing-5256-million-ai-cloud-services-agreement"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 08:00AM",
+    "title": "Boost Run Announces Five-Year, $525.6 Million AI Cloud Services Compute Agreement",
+    "url": "https://www.businesswire.com/news/home/20261005413010/en/"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "title": "Customer commitments to Boost Run top $2.6 billion after a new AI computing deal - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1ZsTTJIZEN1eDA3VVdUenlma093aVpUU0Fkc18xSGFUWGxpbXhWT2JhNWFLRk5IMkpZbDQxbm1aY3FrTnBfbWdHQTVPRDYxQnRHTzFpNTIyWDZCRkhZdGd2UENFTkRiMVlqaTllZDlaNEZRUXk4TjlpalIzR29JVEtHYldpTEhtcFRBcjVCNWlYQ1hGUEJEbGJ4OTlEWE1HLXl3R05ScDI1Zkd1MXp0ZXc5T21ZdEk?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 05 Oct 2026 07:49:15 GMT",
+    "title": "Top Boost Run (BRUN) Competitors 2026 - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2taZ1E4aTVXb1hRQWhtS2VILUZhWUdfbUtaT1k5bXRINWNMS2NmV2lVV0VQb0s2czMta2MzSzdfRG9KQjlzdHNKcTRCb3NHb0tJY2NFRW00S0JLV0YtcGNyTGhfS0JtZmwySlhveUVMMUR3UFZiX05yR2NlalI1TA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 06 Oct 2026 12:00:55 GMT",
+    "title": "Prepayments come with conditional refund rights in Boost Run (BRUN)'s cloud deal with Cohere. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFBLYmhaNXZaTnZZdFc1SGNvTGJHZkZkOWtDOVFwOEctUGhVaEowMGpRbFJ1anRJZUtGd0tmaTdTcEdLTTNqaUFoTkJiNVVmU21sTS1HMGphTXNSVkdFRmg1MFJjdVNQUjV1YnZqLW9Zb0psRmhDWXVSeVFPNFRNOGVQeU9yQ2QzWkF2bXlrMjc2bGswcXFvSUF4NE1KR0RLalZIMw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 04 Oct 2026 04:13:16 GMT",
+    "title": "BRUN Oct 2026 15.500 call (BRUN261002C00015500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yX29NazNJZl9fcGNOTG0tMTdFREQxb2tNZWpmbXNWbVdZdTZRc3dpSzFHLUdpaFFYcHRNV0dWdmNpTjd2OG9MNkI1ZEFrSDhneUEzU0V3cVZJeF9XU1JwV0N1SzhUUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 03 Oct 2026 08:52:17 GMT",
+    "title": "BRUN Oct 2026 15.000 call (BRUN261016C00015000) Stock Historical Prices & Data - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJUW1lcE9fLTRWWWFxanRWNnFZd2xuUE91ZGx4YmhHa25sWWhLZzk5OHl4OENOYUQxd3Zja1lLd2lnX0VxS2swR2ZrVURwZ3IxU3pZMy1yem1PeldfQi13RTQ0TFBhSzNHb1JENHlNdU0?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 05 Oct 2026 21:09:23 GMT",
+    "title": "A COO at Boost Run (BRUN) must repay award payments if he resigns within 24 months of the first payment. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1NYN1ZFVENnb25oUElKTGlxME9hM29IZHVkYl9CSm12d1dWRWVWU3o2dS1HS3h1Qm8wWjhWdjhUM0tZWGlSUHBrVXhER241LWpsSGhyX2c0MFFCVEtYWXJnRHNQUjlIMDdySnlNOHE2Sk9wNnZwQWxNNTRJNWFSLW9vMnhqRl9PajNPNE9xWF9mWGp1RkRPV2s2UWNMSVBJSlV6eA?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 1.01 (material agreement)"
+  ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -77,11 +220,146 @@
     "date": "Oct-06-26 06:00AM",
     "title": "Robo.ai Reports September Revenue Exceeding US$100 Million and Expects Approximately US$600 Million for Full Year 2026",
     "url": "https://finviz.com/news/399005/roboai-reports-september-revenue-exceeding-us100-million-and-expects-approximately-us600-million-for-full-year-2026"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 06 Oct 2026 11:46:00 GMT",
+    "title": "AIIO Stock Slides As Robo.ai Trading Focus Turns To Risk - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94b1RlTUE0SlFVT2xhRlQ3ME9icFBzWEVieE5pZjVZNWFKakk4N084U0ZpWWpFNWYzS1NwTElQUklIaFB3cTVzZ2xXenVHX0pWOEhHaWQxSlUzNWZtc0k4a1FPNkViTVIwd2RUQ0hiSHQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 06 Oct 2026 10:01:16 GMT",
+    "title": "September revenue topped $100 million, but Robo.ai says the figure is preliminary. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGVqbExuaU84UjN6UUk4QXNoUWs2czNidmd6cnhjSlhVNXBFRGp5cldsSWpmZVhnZEdfRDFNOEsxRHJzMGdmTC1JeW1tRXp4VDlsVmJ5OENvUU94cEF6bHVTQTEwVjY2dGY5dlFVX2hRVDBSajNXbnZfMmM2MHRBTDFRQ1R3bWNUYkRzZ2JzQXNHczRpVWdHTDA3dVExYU5MSGZLdDcwbUUxZnMyTzRnT0NvQmlpS0V5?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 06 Oct 2026 11:47:00 GMT",
+    "title": "AIIO Stock Slides As Traders Eye Debt And Tight Range - timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tYnk2ZEFXVzEweUFqZlhuRDV5RXd0LS1EOWpUS1lKTkt2NW9KczFTbnpwZW5STkRSOWdqRnQ0eXJCRzNydXU5blR2eGZhYzlScXJvdXlGWVNvVWVxRWw3b3ZTNUUxSUhuME9MQlp3MFgtZVlX?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 06 Oct 2026 12:33:00 GMT",
+    "title": "AIIO Stock Slides As Traders Eye Weak Balance Sheet - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DZnh5b0RfU3NobHhFbndjcHVxb0xhOGtSd1ZXVk0xMXR3NFIwUEtrX0Y0bGYyUHdTRUhRZ01SRmVvSG1PSDY2TGRONXlub3RoazJkQ0lVZjVlZU83Y2tkMlRGb1VqOVpiam1QdTRMamRQZ00?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 03 Oct 2026 07:40:29 GMT",
+    "title": "Robo.ai Inc. (AIIOW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KY0wzSDRsRThoSno4blpkOU42aHE3cE5yTVJPT0tnQi1naUxUajBRd3ZKaEVUSzRacS03MWtmNFozMkxxd3BKQkdJWG5PTmtSWklr?oc=5"
    }
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
    "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CEG": {
+  "ticker": "CEG",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 5, 2026",
+    "title": "All You Need to Know About Constellation Energy Corporation (CEG) Rating Upgrade to Buy",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/all-you-need-know-about-constellation-energy-corporation-ceg-rating-upgrade-buy"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 5, 2026",
+    "title": "Can Constellation's Financing Strategy Support Growth Investments?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/can-constellations-financing-strategy-support-growth-investments"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 5, 2026",
+    "title": "Is Constellation Energy Corporation (CEG) a Buy as Wall Street Analysts Look Optimistic?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/constellation-energy-corporation-ceg-buy-wall-street-analysts-look-optimistic"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 09:11AM",
+    "title": "Constellation Energy Stock Ready to Rally on Google Nuclear Deal",
+    "url": "https://finviz.com/news/399375/constellation-energy-stock-ready-to-rally-on-google-nuclear-deal"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 08:21AM",
+    "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+    "url": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 07:19AM",
+    "title": "Google signs $4.3 billion nuclear power deal with Constellation",
+    "url": "https://finance.yahoo.com/energy/articles/google-signs-4-3-billion-111947905.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 07:14AM",
+    "title": "Constellation shares gain on 20-year nuclear power deal with Google",
+    "url": "https://finance.yahoo.com/energy/articles/constellation-shares-gain-20-nuclear-111427858.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 07:12AM",
+    "title": "Premarket Movers: OPCH, CEG Stocks Jump On Buyout Talks, Nuclear Deal  NKE Slides On Sell Rating",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-opch-ceg-stocks-111259372.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 07:07AM",
+    "title": "Constellation Energy Stock Rises. What a Google Nuclear Deal Would Do for It.",
+    "url": "https://www.barrons.com/articles/constellation-energy-stock-google-nuclear-f644732d?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 06:36AM",
+    "title": "Google enters massive 3.6-GW power deal with Constellation Energy",
+    "url": "https://finance.yahoo.com/energy/articles/google-enters-massive-3-6-103617066.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 06:30AM",
+    "title": "Google Nears $1 Billion-Plus Nuclear Power Agreement With Constellation, Bloomberg Reports",
+    "url": "https://finviz.com/news/399016/google-nears-1-billion-plus-nuclear-power-agreement-with-constellation-bloomberg-reports"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 06:30AM",
+    "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+    "url": "https://www.businesswire.com/news/home/20261006125246/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 04:39AM",
+    "title": "Why Are Nasdaq, Dow Futures Rising Premarket? SPCX, NVDA, CEG, AMD, ORCL, NOK In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-dow-futures-rising-083937458.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 01:16AM",
+    "title": "Google, Constellation near $1 billion-plus nuclear power deal, Bloomberg reports",
+    "url": "https://finance.yahoo.com/energy/articles/google-constellation-near-1-billion-051655856.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 09:54PM",
+    "title": "Why Is CEG Stock Surging More Than 4% In Overnight Trading?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-ceg-stock-surging-more-015412680.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "upgrade"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"

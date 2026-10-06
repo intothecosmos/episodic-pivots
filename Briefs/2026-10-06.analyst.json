@@ -3,7 +3,13 @@
   "tier": "B",
   "grade": 3,
   "verdict": "TRADE small / WATCH",
-  "why": "Sept revenue >$100M prelim/unaudited, FY26 ~$600M outlook, acquired QC Capital revenue; mechanical 4\u2605 held at 3\u2605 on catalyst credibility; ADV cap limits size"
+  "why": "Sept revenue >$100M prelim/unaudited, FY26 ~$600M outlook, acquired QC Capital revenue; 30.7x ADV premarket; mechanical 4★ held at 3★ on catalyst credibility; 1% ADV cap limits size"
+ },
+ "OPCH": {
+  "tier": "n/a",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Definitive cash takeover by CD&R/McKesson at $32.05/share (8-K 1.01) — not an EP; premarket already 97% of deal price"
  },
  "QTEX": {
   "tier": "C",
@@ -11,10 +17,16 @@
   "verdict": "NO TRADE",
   "why": "No company news; Oct 5 item is a paid 24/7 Market News promo roundup; day-3 momentum/sympathy; Aug RDO + F-3 shelves"
  },
- "OPCH": {
-  "tier": "n/a",
-  "grade": 1,
+ "BRUN": {
+  "tier": "B",
+  "grade": 2,
   "verdict": "NO TRADE",
-  "why": "Cash takeover target (McKesson/CD&R ~$5B report) \u2014 not an EP; Gate 3 and Gate 4 fail"
+  "why": "Real Tier B ($525.6M 5-yr Cohere GPU contract, 8-K 1.01) but Gate 3 fail 0.2x ADV premarket; revenue starts Q2 2027 with refund clause; 75% overhead, de-SPAC; recheck volume 09:45"
+ },
+ "CEG": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Google 20-yr 890 MW nuclear PPA (>$4.3B) — incremental for $95B cap; Gate 3 fail 0.15x ADV premarket (under-reads large caps); 8.7% gap; recheck volume 09:45"
  }
 }
