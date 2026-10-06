@@ -1,0 +1,89 @@
+{
+ "QTEX": {
+  "ticker": "QTEX",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 10:39 ET",
+    "title": "Commercial Orders, FDA Firepower and Crypto Momentum",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374754/0/en/commercial-orders-fda-firepower-and-crypto-momentum.html"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "OPCH": {
+  "ticker": "OPCH",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 07:15AM",
+    "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
+    "url": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 07:12AM",
+    "title": "Premarket Movers: OPCH, CEG Stocks Jump On Buyout Talks, Nuclear Deal  NKE Slides On Sell Rating",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-opch-ceg-stocks-111259372.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 06:27PM",
+    "title": "OPCH Stock Soars 22% After-Hours On $5B McKesson Buyout Talks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/opch-stock-soars-22-hours-222737968.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 05:16PM",
+    "title": "Report of Possible $5 Billion Takeover Bid Sends Option Care Health Stock Higher",
+    "url": "https://www.barrons.com/articles/option-care-health-stock-mckesson-takeover-report-41c8dffc?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 04:45PM",
+    "title": "McKesson, CD&R near $5 billion-plus deal to buy Option Care, FT reports",
+    "url": "https://finance.yahoo.com/healthcare/articles/mckesson-cd-r-near-5-201744828.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 04:44PM",
+    "title": "Option Care Health surges 22% on report of $5 billion takeover by McKesson, CD&R",
+    "url": "https://finance.yahoo.com/healthcare/articles/option-care-health-surges-22-204447450.html"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AIIO": {
+  "ticker": "AIIO",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 6, 2026",
+    "title": "Robo.ai Issues 2026 Revenue Outlook ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/roboai-issues-2026-revenue-outlook"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 06:00AM",
+    "title": "Robo.ai Reports September Revenue Exceeding US$100 Million and Expects Approximately US$600 Million for Full Year 2026",
+    "url": "https://finviz.com/news/399005/roboai-reports-september-revenue-exceeding-us100-million-and-expects-approximately-us600-million-for-full-year-2026"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

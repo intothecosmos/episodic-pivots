@@ -1,0 +1,30 @@
+{
+ "AIIO": {
+  "tier": "B",
+  "grade": 4,
+  "verdict": "TRADE",
+  "why": [],
+  "snapshot_et": "2026-10-06 07:47",
+  "label": "v1"
+ },
+ "QTEX": {
+  "tier": "unknown",
+  "grade": 3,
+  "verdict": "TRADE small / WATCH",
+  "why": [
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-06 07:47",
+  "label": "v1"
+ },
+ "OPCH": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-06 07:47",
+  "label": "v1"
+ }
+}
