@@ -1,1 +1,106 @@
-{}
+{
+ "NEOG": {
+  "ticker": "NEOG",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-07",
+    "form": "8-K",
+    "items": "5.07,9.01",
+    "title": "8-K 5.07,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/711377/000119312526416247/neog-20261001.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-06",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/711377/000119312526415544/neog-20261006.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 6, 2026",
+    "title": "Compared to Estimates, Neogen (NEOG) Q1 Earnings: A Look at Key Metrics",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/compared-estimates-neogen-neog-q1-earnings-look-key-metrics"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 6, 2026",
+    "title": "Neogen (NEOG) Q1 Earnings and Revenues Beat Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/neogen-neog-q1-earnings-and-revenues-beat-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 6, 2026",
+    "title": "After-Hours Earnings Report for October 6, 2026 :  STZ, PENG, NEOG, WS, SAR",
+    "publisher": "NASDAQ.com",
+    "url": "https://www.nasdaq.com/articles/after-hours-earnings-report-october-6-2026-stz-peng-neog-ws-sar"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 06, 2026 17:09 ET",
+    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Neogen Corporation - NEOG",
+    "url": "https://www.globenewswire.com/news-release/2026/10/06/3376090/1087/en/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-neogen-corporation-neog.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 12:50 ET",
+    "title": "Levi & Korsinsky Notifies Investors of Pending Investigation Into Securities Claims Involving Neogen (NEOG)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374904/3080/en/levi-korsinsky-notifies-investors-of-pending-investigation-into-securities-claims-involving-neogen-neog.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-07-26 08:07AM",
+    "title": "Stock Market Today: Dow Slides 400 Points As Yields Jump; Fed Minutes On Deck (Live Coverage)",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-fed-minutes?mod=IBD_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 04:39PM",
+    "title": "Neogen stock up 8% on better-than-expected Q1 results, guidance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/neogen-stock-8-better-expected-203944569.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 04:10PM",
+    "title": "Neogen: Fiscal Q1 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/neogen-fiscal-q1-earnings-snapshot-201005923.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 04:01PM",
+    "title": "Neogen Reports First-Quarter Financial Results for Fiscal Year 2027",
+    "url": "https://finviz.com/news/399515/neogen-reports-first-quarter-financial-results-for-fiscal-year-2027"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 08:45AM",
+    "title": "Neogen Announces Strategic Collaboration with Hinalea Imaging to Advance Digital Food Safety Solutions",
+    "url": "https://finviz.com/news/399302/neogen-announces-strategic-collaboration-with-hinalea-imaging-to-advance-digital-food-safety-solutions"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 04:30AM",
+    "title": "Tuesday's Earnings Slate",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-record-high-third-quarter-earnings-season/card/tuesday-s-earnings-slate-tVhwg9B3lJoGHutZDb8O?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 03:36AM",
+    "title": "Stock Market Today: Dow, S&P 500 set to rise after Nasdaq hits record high ahead of third-quarter earnings season",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-record-high-third-quarter-earnings-season?mod=mw_FV"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
