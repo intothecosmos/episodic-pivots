@@ -1,4 +1,76 @@
 {
+ "PCRX": {
+  "ticker": "PCRX",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 7, 2026",
+    "title": "Pacira BioSciences Reports Caregiver Survey Findings On Postsurgical Recovery ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/pacira-biosciences-reports-caregiver-survey-findings-postsurgical-recovery"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 6, 2026",
+    "title": "PCRX Expands Exparel Commercial Reach in Europe Through Molteni Deal",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/pcrx-expands-exparel-commercial-reach-europe-through-molteni-deal"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 08:00 ET",
+    "title": "Pacira BioSciences and Caregiver Action Network Announce New Survey on Gaps in Preparing Families for Postsurgical Recovery at Home",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376427/0/en/pacira-biosciences-and-caregiver-action-network-announce-new-survey-on-gaps-in-preparing-families-for-postsurgical-recovery-at-home.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 08:00 ET",
+    "title": "Pacira Announces Exclusive Agreement with Molteni Farmaceutici to Commercialize EXPAREL\u00ae in the European Union and United Kingdom",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374473/0/en/pacira-announces-exclusive-agreement-with-molteni-farmaceutici-to-commercialize-exparel-in-the-european-union-and-united-kingdom.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 08:48AM",
+    "title": "Viatris to Buy Pacira BioSciences for $1.65 Billion",
+    "url": "https://www.wsj.com/health/pharma/viatris-to-buy-pacira-biosciences-for-1-65-billion-0ba22d4d?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 07:45AM",
+    "title": "Viatris Agrees to Acquire Pacira BioSciences, Advancing Its Innovative Medicines Strategy and Becoming a Leader in Non-Opioid Pain Therapies",
+    "url": "https://finviz.com/news/400260/viatris-agrees-to-acquire-pacira-biosciences-advancing-its-innovative-medicines-strategy-and-becoming-a-leader-in-non-opioid-pain-therapies"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-07-26 08:00AM",
+    "title": "Pacira BioSciences and Caregiver Action Network Announce New Survey on Gaps in Preparing Families for Postsurgical Recovery at Home",
+    "url": "https://finviz.com/news/399745/pacira-biosciences-and-caregiver-action-network-announce-new-survey-on-gaps-in-preparing-families-for-postsurgical-recovery-at-home"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-06-26 06:28AM",
+    "title": "Pacira partners with Molteni for Exparel commercialisation",
+    "url": "https://finance.yahoo.com/healthcare/articles/pacira-partners-molteni-exparel-commercialisation-102834810.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 08:00AM",
+    "title": "Pacira Announces Exclusive Agreement with Molteni Farmaceutici to Commercialize EXPAREL in the European Union and United Kingdom",
+    "url": "https://finviz.com/news/398598/pacira-announces-exclusive-agreement-with-molteni-farmaceutici-to-commercialize-exparel-in-the-european-union-and-united-kingdom"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-05-26 08:00AM",
+    "title": "Pacira BioSciences Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+    "url": "https://finviz.com/news/390129/pacira-biosciences-reports-inducement-grants-under-nasdaq-listing-rule-5635c4"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "PROF": {
   "ticker": "PROF",
   "filings": [
@@ -12,6 +84,12 @@
    }
   ],
   "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "October 08, 2026 08:32 ET",
+    "title": "Quantum X Labs\u00a0Files U.S Patent Application for Breakthrough Structured-Beam Laser Cooling Technology for Its Cold-Atom Quantum Computer",
+    "url": "https://www.globenewswire.com/news-release/2026/10/08/3377285/0/en/quantum-x-labs-files-u-s-patent-application-for-breakthrough-structured-beam-laser-cooling-technology-for-its-cold-atom-quantum-computer.html"
+   },
    {
     "src": "GlobeNewswire",
     "date": "October 08, 2026 02:05 ET",
@@ -67,12 +145,6 @@
     "url": "https://www.globenewswire.com/news-release/2026/10/06/3375103/0/en/outstanding-companies-and-individuals-define-real-estate-excellence-at-the-13th-propertyguru-asia-awards-malaysia-with-iproperty.html"
    },
    {
-    "src": "GlobeNewswire",
-    "date": "October 05, 2026 09:45 ET",
-    "title": "Alpha Tau to Participate in October Investor Conferences",
-    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374686/0/en/alpha-tau-to-participate-in-october-investor-conferences.html"
-   },
-   {
     "src": "finviz",
     "date": "Oct-07-26 04:15PM",
     "title": "Profound Medical Reports Strong Preliminary Third Quarter 2026 Revenue",
@@ -100,6 +172,13 @@
    }
   ],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 8, 2026",
+    "title": "Pre-Market Most Active for Oct 8, 2026 :  AIXI, SQQQ, TQQQ, IBIT, APLD, INTC, NOK, STLA, HLN, WOLF, IONQ, BABA",
+    "publisher": "NASDAQ.com",
+    "url": "https://www.nasdaq.com/articles/pre-market-most-active-oct-8-2026-aixi-sqqq-tqqq-ibit-apld-intc-nok-stla-hln-wolf-ionq"
+   },
    {
     "src": "Nasdaq",
     "date": "Oct 5, 2026",
@@ -184,12 +263,6 @@
     "date": "Oct-07-26 10:41PM",
     "title": "Why Is WOLF Stock Surging Over 18% Overnight?",
     "url": "https://finance.yahoo.com/markets/stocks/articles/why-wolf-stock-surging-over-024145940.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-07-26 05:53PM",
-    "title": "Wolfspeed Stock Soars on Financing Deal with Pentagon",
-    "url": "https://www.barrons.com/articles/wolfspeed-stock-pentagon-semiconductors-011e06ba?mod=bar_FV"
    }
   ],
   "pre_tier": "unknown",

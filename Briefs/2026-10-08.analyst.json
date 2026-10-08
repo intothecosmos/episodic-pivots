@@ -1,4 +1,5 @@
 {
-  "WOLF": {"tier": "B", "grade": 2, "verdict": "WATCH", "why": "Conditional $1.5B DoW/OSC delayed-draw loan commitment letter (refi 2030 notes + SiC/GaN buildout); requires >=$750M new equity + convert equitization. Gate 3 fail: 0.1x ADV premarket. Recheck volume at v2."},
-  "PROF": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Prelim Q3 revenue $9.8-10.0M, +85-89% YoY, ~45-47% above consensus, GM >70%; revenue-only preannouncement. Gate 4 fail: projected dollar volume $7.6M < $10M."}
+  "PCRX": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Cash takeover target: Viatris tender at $36.50/share cash (~$1.65B), SC TO-C filed Oct 8; premarket already within $0.16 of the offer. Not an EP per Gate 1; 44% gap and 9x ADV are merger-arb flow."},
+  "PROF": {"tier": "B", "grade": 3, "verdict": "TRADE small", "why": "Prelim Q3 revenue $9.8-10.0M, +85-89% YoY, ~45-47% above consensus, GM >70%; revenue-only preannouncement -> Tier B. v2: 3.9x ADV premarket, projected dollar volume $10.5M clears Gate 4 (marginal); chart pass. Position capped at 1% ADV (~1,300 sh); skip if first-15 projects <$10M."},
+  "WOLF": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Conditional $1.5B DoW/OSC delayed-draw loan commitment letter requiring >=$750M new equity + convert equitization -> Tier B. Gate 3 fail: 0.33x ADV30 premarket (large-cap under-read; re-grades 3* only if >=1x ADV by 09:45)."}
 }
