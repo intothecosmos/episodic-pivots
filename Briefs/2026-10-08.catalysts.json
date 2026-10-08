@@ -1,0 +1,200 @@
+{
+ "PROF": {
+  "ticker": "PROF",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-07",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1628808/000117184326006499/f8k_100726.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "October 08, 2026 02:05 ET",
+    "title": "FORVIA HELLA receives major series orders for highly integrated EnergyCore solutions",
+    "url": "https://www.globenewswire.com/news-release/2026/10/08/3376948/0/en/forvia-hella-receives-major-series-orders-for-highly-integrated-energycore-solutions.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 08:45 ET",
+    "title": "Ava\u00ed Bio and Austrianova Hold First Joint Steering Committee Meeting with Ospedale San Raffaele for Diabetes Cell Therapy Program",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376487/0/en/ava%c3%ad-bio-and-austrianova-hold-first-joint-steering-committee-meeting-with-ospedale-san-raffaele-for-diabetes-cell-therapy-program.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 05:36 ET",
+    "title": "Syarikat dan individu cemerlang mentakrifkan kecemerlangan hartanah di 13th PropertyGuru Asia Awards Malaysia with iProperty",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376263/0/ms/syarikat-dan-individu-cemerlang-mentakrifkan-kecemerlangan-hartanah-di-13th-propertyguru-asia-awards-malaysia-with-iproperty.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 05:00 ET",
+    "title": "MUVON Therapeutics Reports Positive 12-Month Phase 2 Follow-up Data Confirming Durable Efficacy of its First-in-Class Muscle Regeneration Therapy in Stress Urinary Incontinence",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376254/0/en/muvon-therapeutics-reports-positive-12-month-phase-2-follow-up-data-confirming-durable-efficacy-of-its-first-in-class-muscle-regeneration-therapy-in-stress-urinary-incontinence.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 03:00 ET",
+    "title": "PulseSight presents PST-611 Phase I new early clinical efficacy data at EURETINA, offering a potential breakthrough approach to treat Dry AMD/Geographic Atrophy",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376203/0/en/pulsesight-presents-pst-611-phase-i-new-early-clinical-efficacy-data-at-euretina-offering-a-potential-breakthrough-approach-to-treat-dry-amd-geographic-atrophy.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 06, 2026 10:00 ET",
+    "title": "Fast Company Names Veyond Metaverse a 2026 Next Big Things in Tech Winner for OceanMD, XR Telemedicine for Ships and Remote Sites",
+    "url": "https://www.globenewswire.com/news-release/2026/10/06/3375656/0/en/fast-company-names-veyond-metaverse-a-2026-next-big-things-in-tech-winner-for-oceanmd-xr-telemedicine-for-ships-and-remote-sites.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 06, 2026 07:55 ET",
+    "title": "The Hidden Toll of Frictionless Tech: What AI Does to Our Minds",
+    "url": "https://www.globenewswire.com/news-release/2026/10/06/3375383/0/en/the-hidden-toll-of-frictionless-tech-what-ai-does-to-our-minds.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 06, 2026 02:30 ET",
+    "title": "One04 Therapeutics to present late-breaking interim Phase 1 results for CPV-104 in C3 glomerulopathy at ASN Kidney Week followed by Virtual KOL Event",
+    "url": "https://www.globenewswire.com/news-release/2026/10/06/3375138/0/en/one04-therapeutics-to-present-late-breaking-interim-phase-1-results-for-cpv-104-in-c3-glomerulopathy-at-asn-kidney-week-followed-by-virtual-kol-event.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 23:00 ET",
+    "title": "Outstanding companies and individuals define real estate excellence at the 13th PropertyGuru Asia Awards Malaysia with iProperty",
+    "url": "https://www.globenewswire.com/news-release/2026/10/06/3375103/0/en/outstanding-companies-and-individuals-define-real-estate-excellence-at-the-13th-propertyguru-asia-awards-malaysia-with-iproperty.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 09:45 ET",
+    "title": "Alpha Tau to Participate in October Investor Conferences",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374686/0/en/alpha-tau-to-participate-in-october-investor-conferences.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-07-26 04:15PM",
+    "title": "Profound Medical Reports Strong Preliminary Third Quarter 2026 Revenue",
+    "url": "https://finviz.com/news/400051/profound-medical-reports-strong-preliminary-third-quarter-2026-revenue"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "phase [12]",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "WOLF": {
+  "ticker": "WOLF",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-07",
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "title": "8-K 7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/895419/000119312526416987/d122407d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 5, 2026",
+    "title": "Strength Seen in Wolfspeed, Inc. (WOLF): Can Its 13.2% Jump Turn into More Strength?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/strength-seen-wolfspeed-inc-wolf-can-its-132-jump-turn-more-strength"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 08, 2026 07:00 ET",
+    "title": "K2 Extends Dragonfly Structure and Identifies Additional High-Grade Gold at Flores Target",
+    "url": "https://www.globenewswire.com/news-release/2026/10/08/3377104/0/en/k2-extends-dragonfly-structure-and-identifies-additional-high-grade-gold-at-flores-target.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 13:00 ET",
+    "title": "Recurrent Head And Neck Squamous Cell Carcinoma Clinical Trial Pipeline: DelveInsight Highlights Major Advances, Transformative Therapies, and 65+ Leading Players Wheeling the Therapeutics Landscape",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376737/0/en/recurrent-head-and-neck-squamous-cell-carcinoma-clinical-trial-pipeline-delveinsight-highlights-major-advances-transformative-therapies-and-65-leading-players-wheeling-the-therapeu.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 10:53 ET",
+    "title": "Wolf Popper LLP Announces Investigation on Behalf of\u00a0Enova International, Inc. Investors",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376629/1453/en/wolf-popper-llp-announces-investigation-on-behalf-of-enova-international-inc-investors.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 10:30 ET",
+    "title": "Wolf Popper LLP Continues Investigation on Behalf of\u00a0Xenon Pharmaceuticals Inc. Investors",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376617/1453/en/wolf-popper-llp-continues-investigation-on-behalf-of-xenon-pharmaceuticals-inc-investors.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 06, 2026 19:09 ET",
+    "title": "Christian Slater Joins Spectacular Celebrity Lineup for GLOBAL\u2019s 19th Annual Be Beautiful Be Yourself Fashion Show",
+    "url": "https://www.globenewswire.com/news-release/2026/10/06/3376135/0/en/christian-slater-joins-spectacular-celebrity-lineup-for-global-s-19th-annual-be-beautiful-be-yourself-fashion-show.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 06, 2026 09:00 ET",
+    "title": "Fullstory releases 2026 Digital Experience Benchmark Report, democratizing 18.7 billion sessions of behavioral data via model context protocol (MCP)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/06/3375560/0/en/fullstory-releases-2026-digital-experience-benchmark-report-democratizing-18-7-billion-sessions-of-behavioral-data-via-model-context-protocol-mcp.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 16:01 ET",
+    "title": "iCell Gene Therapeutics Announces Upcoming Conference Presentations",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374983/0/en/icell-gene-therapeutics-announces-upcoming-conference-presentations.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 09:18 ET",
+    "title": "North America Existing & Upcoming Colocation Data Center Portfolio Database, 2026-2038 | AI and Hyperscale Demand Drive Capacity Investment Across the U.S. and Canada",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374646/28124/en/north-america-existing-upcoming-colocation-data-center-portfolio-database-2026-2038-ai-and-hyperscale-demand-drive-capacity-investment-across-the-u-s-and-canada.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 05, 2026 04:05 ET",
+    "title": "Global Data Center Market Portfolio Database: 6,610 Existing and Upcoming Facilities, 2026-2031 Capacity Forecast | AI Demand Unlocks Investment across High-Growth Markets",
+    "url": "https://www.globenewswire.com/news-release/2026/10/05/3374213/28124/en/global-data-center-market-portfolio-database-6-610-existing-and-upcoming-facilities-2026-2031-capacity-forecast-ai-demand-unlocks-investment-across-high-growth-markets.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 07:32AM",
+    "title": "3 Warning Signs That Earnings Season Won't Be a Slam Dunk for Markets",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-earnings-micron-d5682310?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 06:07AM",
+    "title": "Wolfspeed Shares Jump 16% After Securing Conditional $1.5 Billion US Defence Loan Commitment",
+    "url": "https://finviz.com/news/400158/wolfspeed-shares-jump-16-after-securing-conditional-15-billion-us-defence-loan-commitment"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 04:56AM",
+    "title": "Intel, Marvell, Wolfspeed, Levi Strauss, and More Stocks That Explain Today's Market",
+    "url": "https://www.barrons.com/articles/stock-movers-532e65a3?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-07-26 10:41PM",
+    "title": "Why Is WOLF Stock Surging Over 18% Overnight?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-wolf-stock-surging-over-024145940.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-07-26 05:53PM",
+    "title": "Wolfspeed Stock Soars on Financing Deal with Pentagon",
+    "url": "https://www.barrons.com/articles/wolfspeed-stock-pentagon-semiconductors-011e06ba?mod=bar_FV"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
