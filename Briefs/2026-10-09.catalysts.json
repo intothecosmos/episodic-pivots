@@ -47,5 +47,74 @@
   "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "NN": {
+  "ticker": "NN",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 6, 2026",
+    "title": "Noteworthy Tuesday Option Activity: GEV, NN, CLW",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-tuesday-option-activity-gev-nn-clw"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 08, 2026 08:06 ET",
+    "title": "NN, Inc. Eliminates all of its Preferred Stock",
+    "url": "https://www.globenewswire.com/news-release/2026/10/08/3377238/0/en/nn-inc-eliminates-all-of-its-preferred-stock.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 08:30 ET",
+    "title": "NANO Nuclear Announces Participation in Several Investor Conferences",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376456/0/en/nano-nuclear-announces-participation-in-several-investor-conferences.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 06, 2026 08:00 ET",
+    "title": "NANO Nuclear Energy Appoints Former Y-12 Leader and Nuclear Fuel Cycle Expert Jennifer Charlton, Ph.D., as Vice President of Fuel Technology to Accelerate Vertical Integration Strategy",
+    "url": "https://www.globenewswire.com/news-release/2026/10/06/3375425/0/en/nano-nuclear-energy-appoints-former-y-12-leader-and-nuclear-fuel-cycle-expert-jennifer-charlton-ph-d-as-vice-president-of-fuel-technology-to-accelerate-vertical-integration-strateg.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 03:27PM",
+    "title": "ASTS, SPCX And NN Stocks Slide: Clear Street Calls FCC Meeting Agenda Mixed For AST SpaceMobile",
+    "url": "https://finance.yahoo.com/news/asts-spcx-nn-stocks-slide-192733586.html"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "KOPN": {
+  "ticker": "KOPN",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "October 06, 2026 09:15 ET",
+    "title": "Fabric.AI Engages Renowned Global Consulting Firm Kearney to Utilize Its World-Class Infrastructure and Supply Chain Expertise to Lead Commercialization Strategy for Neural I/o\u2122 Optical Interconnect Platform",
+    "url": "https://www.globenewswire.com/news-release/2026/10/06/3375620/0/en/fabric-ai-engages-renowned-global-consulting-firm-kearney-to-utilize-its-world-class-infrastructure-and-supply-chain-expertise-to-lead-commercialization-strategy-for-neural-i-o-opt.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 04:30PM",
+    "title": "Kopin Secures Additional $18.6 Million U.S. Army IBAS Award for Color MicroLED Technology",
+    "url": "https://www.businesswire.com/news/home/20261008414035/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 08:31AM",
+    "title": "Kopin to Introduce Expanded FirstPerson Viewer Evaluation Kit Lineup at AUSA 2026",
+    "url": "https://www.businesswire.com/news/home/20261008592467/en/"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  }
 }
