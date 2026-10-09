@@ -1,0 +1,51 @@
+{
+ "CLOV": {
+  "ticker": "CLOV",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-09",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1801170/000180117026000250/clov-20261008.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GlobeNewswire",
+    "date": "October 08, 2026 18:45 ET",
+    "title": "Clover Health Medicare Advantage PPO Plans Earn 5 Star Rating for 2027",
+    "url": "https://www.globenewswire.com/news-release/2026/10/08/3377770/0/en/clover-health-medicare-advantage-ppo-plans-earn-5-star-rating-for-2027.html"
+   },
+   {
+    "src": "GlobeNewswire",
+    "date": "October 07, 2026 16:05 ET",
+    "title": "Clover Health to Report Third Quarter 2026 Financial Results on November 4, 2026",
+    "url": "https://www.globenewswire.com/news-release/2026/10/07/3376836/0/en/clover-health-to-report-third-quarter-2026-financial-results-on-november-4-2026.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 06:45PM",
+    "title": "Clover Health Medicare Advantage PPO Plans Earn 5 Star Rating for 2027",
+    "url": "https://finviz.com/news/400720/clover-health-medicare-advantage-ppo-plans-earn-5-star-rating-for-2027"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-08-26 06:28PM",
+    "title": "Humana Soars On Medicare Advantage Star Rating",
+    "url": "https://www.investors.com/news/humana-stock-soars-on-medicare-advantage-star-rating?mod=IBD_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-07-26 04:05PM",
+    "title": "Clover Health to Report Third Quarter 2026 Financial Results on November 4, 2026",
+    "url": "https://finviz.com/news/400018/clover-health-to-report-third-quarter-2026-financial-results-on-november-4-2026"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "CLOV": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-09 07:47",
+  "label": "v1"
+ }
+}
