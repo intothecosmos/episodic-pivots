@@ -12,6 +12,12 @@
    },
    {
     "src": "finviz",
+    "date": "Oct-12-26 08:44AM",
+    "title": "First Tracks Biotherapeutics Shares Jump 20% After Positive Phase 1b Celiac Disease Trial Results",
+    "url": "https://finviz.com/news/401248/first-tracks-biotherapeutics-shares-jump-20-after-positive-phase-1b-celiac-disease-trial-results"
+   },
+   {
+    "src": "finviz",
     "date": "Oct-12-26 07:00AM",
     "title": "First Tracks Biotherapeutics Announces Positive Top-Line Results for ANB033 in Gluten-Challenge Study in Celiac Disease",
     "url": "https://finviz.com/news/401124/first-tracks-biotherapeutics-announces-positive-top-line-results-for-anb033-in-gluten-challenge-study-in-celiac-disease"
@@ -30,12 +36,58 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "CTNM": {
-  "ticker": "CTNM",
+ "ENVX": {
+  "ticker": "ENVX",
   "filings": [],
-  "headlines": [],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 08:35AM",
+    "title": "Enovix Q3 Revenue Rises 38% to $11 Million, Exceeding Guidance as Defence Demand Grows",
+    "url": "https://finviz.com/news/401240/enovix-q3-revenue-rises-38-to-11-million-exceeding-guidance-as-defence-demand-grows"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 07:30AM",
+    "title": "Q3'26 Revenue $11.0 Million Up 38% Year/Year",
+    "url": "https://finviz.com/news/401151/q326-revenue-110-million-up-38-yearyear"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 09 Oct 2026 19:40:46 GMT",
+    "title": "Why Did ENVX Stock Dip After-Hours Despite Q4 Earnings Beat? - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSFNYUldRUXFLVmN4UzhmaEhTV2d1M2tlbkVkVXVxcERVdzlHYWNmVFp5Qk9uOWZlRTlOYmMzdVk1SEdIdDNERlBwcnkyWlBUWWNvcnR4NVNRbmF3TE1OeVdIUXVkR2QzMjd4VjdzSEVYVlpGLXN1bW0xWXlDSzZrRjVXejFQUVNuSDA3Z3VHeGh1dDRScVlvYlNwU0NjSGxHUElmbUJCaXotM29xNGdqbzdtNTB3M2JxUl9IM05UNnY?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "title": "Enovix (NasdaqGS:ENVX) Stock Forecast & Analyst Predictions - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CVWxKaEpXeUJTQzVoWHRSUGNROHA1bHRDc096MU5TcU82UnNCYXgxdXY1MTV6RFlib1pjZHlfWml5ck82ekZ2MWM3VnEzaGZxTGM4N01hZ0NyZ0dma0g0aV9yTlo5ZW16aTVxa1FsSXlWb1V2anVlWGJGQQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 13:01:05 GMT",
+    "title": "Enovix (NASDAQ:ENVX) Announces Q3 2026 Earnings Guidance - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeVVjYm5LR3hLWVZfN29PYUVLc05WSUVwbnlJMDVHM0JjNTk0UzdPUVRSOUZhLXdhZ3NuR3E1M1hpcnNnclhlVmF0VEQ3VU9nUmxWZXNDb3NZdjV0Tm00NlRaT0xLTDJFbWVkQjZRa2hrWW1PWXZHWnNRT0xnSExPbVlWMEJtQk50UFZpSDNOVFRRRDFlRk9oWmFxYWZhLUgtamEtU2d0VlY3V0ZjTWFjaVRpVkhQQUst?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 11 Oct 2026 05:09:58 GMT",
+    "title": "ENVX Stock Falls Overnight Despite Q2 Beat: Retail Bulls Shrug It Off As CEO Backs Smartphone, Wearables And Defense Demand - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOaG5zeU5UNzEtSWY1aG5wdDJmWlJiOFA2NkhRc3lhcERIV3VwODRMUVk2RnA5SzdWZU5FT29UaGdWclFLcmR2dlRUbE1sZDNlYnpRQnJRaC1yQVRaMlVPWGlETlA5Nm16eUs1RmhCaWFmZWNKRFpzdkdLWHJ3eE5UR0VSbC1hdEIxanBNWHdodno2em1JbVgza2RGcFE4OVlnT2k3Znl4N1RfeGg3UGdjMy04a29FYnRvNDVfSFFJel9LM3Brb01yb0VEQ0EzT0M1Z29vaWI0c3g1bTJGSVhqWWZyeWJzYVUtb0dRTTZsRmp4YTY0RmpUSWVfdVF4VEc1WTVKNC0yZUR4QWVOblZlOXJNOA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "title": "Enovix (ENVX) Short Interest & Short Float | Updated Oct 2026 - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3a3J4VFFoVUc0MDNOWEc4ekc3TExuZTNReHFvTF9jOGpmdldSRG4zalItd3p6XzNOcEQ5RWpKWEJwZ3QybjBXaFZlZnFXVTR5ZllHS0lPM2R3SS0ySVJiNjhrU2FwS3dRT0t5MGlB?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue"
+  ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -45,9 +97,21 @@
   "headlines": [
    {
     "src": "finviz",
+    "date": "Oct-12-26 07:54AM",
+    "title": "CCC Intelligent Solutions Jumps on Buyout Report. What It Means for Software Stocks.",
+    "url": "https://www.barrons.com/articles/cccs-stock-elliott-gtcr-buyout-report-0bd883b6?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
     "date": "Oct-12-26 07:35AM",
     "title": "This Software Stock Jumps on Takeover Report. Is AI Disruption Anxiety Waning on the Sector?",
     "url": "https://www.barrons.com/articles/ccc-intelligent-solutions-stock-software-takeover-0bd883b6?mod=bar_FV"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 11:54:00 GMT",
+    "title": "CCC Intelligent Solutions Stock Pops on Buyout Talks, Defying AI Fears - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX05HV2syWEozTjdnUTh2OHpHVUVUYUNlcHRRUWhkOEx1OUxXM2E5YTJPaEl4Q29SaEt0TnpZSTZIRTdPc0J1aExfVnMtM3JIRHJDMG90dFRaOE1HMFdTdGNkak8wZ2NBTldrNnlicVZ0MmNZUFJJLVFOVDA5TFV1STF0dGM2dw?oc=5"
    },
    {
     "src": "GoogleNews",
@@ -57,15 +121,15 @@
    },
    {
     "src": "GoogleNews",
-    "date": "Mon, 12 Oct 2026 11:35:00 GMT",
-    "title": "CCC Intelligent Solutions Stock Jumps on Takeover Report - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQndWbF82VW5LWGRwMXhHSW5lU0hOVVVielQwc0haMmpka2Q2SDJ0dy1ZWFoyQWNZN1A4RVhjeldrWWFIU1o5S2xKWnpIMDVBUHVRUTRvQVEzenhmOHpiMnVMTE1FbUNwRk4tdFJ6TENCbFhOZFhhbVhSLW5vUm81M0I5ZXhJLTA0VEZiUFpzUXV0SEYwUmc?oc=5"
+    "date": "Mon, 12 Oct 2026 11:55:00 GMT",
+    "title": "Biggest stock movers Monday: CCC, BIIB, IREN, and more - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOTdsS2t6WUJkR0xEQzJGQVoyRW43V2FlUkJxam5hdThPS1VvVGhOZ1Jwd2t4OTh4NndmcFQ0QXFFcWozWENIR1dwaXpuV2NmZV9pTW9pTkpUT09UV2lxc1ZHd1QzRmNfcjZVOFlaWEYzdG1ERHJ2X3FYMFNWajdEb09Ec1ExcjVVY3lv?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Mon, 12 Oct 2026 09:32:56 GMT",
-    "title": "Biggest stock movers Monday: CCC, BIIB, IREN, and more - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOTdsS2t6WUJkR0xEQzJGQVoyRW43V2FlUkJxam5hdThPS1VvVGhOZ1Jwd2t4OTh4NndmcFQ0QXFFcWozWENIR1dwaXpuV2NmZV9pTW9pTkpUT09UV2lxc1ZHd1QzRmNfcjZVOFlaWEYzdG1ERHJ2X3FYMFNWajdEb09Ec1ExcjVVY3lv?oc=5"
+    "date": "Sat, 10 Oct 2026 02:54:59 GMT",
+    "title": "CCC Stock Price Prediction 2026-2027 | CCC Intelligent Solutions Forecast - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xT3NpdzRQY2szamlwNUF5VEtvdnpTZU1kdlZrb2c5bkZOb01xR2FETWY2bDhCa1RTc0FEVWt6NnRiakIxX0lrZXIxTFhsVEVrb3RBaUFWNTNMaDBYanl3Z3RLbw?oc=5"
    },
    {
     "src": "GoogleNews",

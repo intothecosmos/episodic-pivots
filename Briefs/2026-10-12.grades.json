@@ -1,35 +1,22 @@
 {
- "CTNM": {
-  "tier": "unknown",
-  "grade": 3,
-  "verdict": "WATCH (event-capped)",
-  "why": [
-   "catalyst unknown \u2014 capped 3\u2605, recheck",
-   "event: earnings 2026-10-29 (est)"
-  ],
-  "snapshot_et": "2026-10-12 07:47",
-  "label": "v1"
- },
  "TRAX": {
   "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.45x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-10-12 07:47",
-  "label": "v1"
+  "grade": 3,
+  "verdict": "TRADE small / WATCH",
+  "why": [],
+  "snapshot_et": "2026-10-12 09:12",
+  "label": "v2"
  },
  "CCC": {
   "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)",
+   "volume: 0.08x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-10-12 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-12 09:12",
+  "label": "v2"
  },
  "GCL": {
   "tier": "unknown",
@@ -38,7 +25,17 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-12 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-12 09:12",
+  "label": "v2"
+ },
+ "ENVX": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-12 09:12",
+  "label": "v2"
  }
 }
