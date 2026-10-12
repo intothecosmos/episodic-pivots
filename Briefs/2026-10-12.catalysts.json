@@ -1,0 +1,122 @@
+{
+ "TRAX": {
+  "ticker": "TRAX",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 12, 2026",
+    "title": "First Track To Report Top-Line Phase 1b ANB033 Data In Celiac Disease Today; Stock Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/first-track-report-top-line-phase-1b-anb033-data-celiac-disease-today-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 07:00AM",
+    "title": "First Tracks Biotherapeutics Announces Positive Top-Line Results for ANB033 in Gluten-Challenge Study in Celiac Disease",
+    "url": "https://finviz.com/news/401124/first-tracks-biotherapeutics-announces-positive-top-line-results-for-anb033-in-gluten-challenge-study-in-celiac-disease"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-11-26 04:00PM",
+    "title": "First Tracks Biotherapeutics to Announce Top-Line Data from Cohort 1 of Phase 1b Trial of ANB033, a CD122 antagonist, in Celiac Disease on Oct. 12, 2026",
+    "url": "https://finviz.com/news/401057/first-tracks-biotherapeutics-to-announce-top-line-data-from-cohort-1-of-phase-1b-trial-of-anb033-a-cd122-antagonist-in-celiac-disease-on-oct-12-2026"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "phase [12]"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CTNM": {
+  "ticker": "CTNM",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CCC": {
+  "ticker": "CCC",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 07:35AM",
+    "title": "This Software Stock Jumps on Takeover Report. Is AI Disruption Anxiety Waning on the Sector?",
+    "url": "https://www.barrons.com/articles/ccc-intelligent-solutions-stock-software-takeover-0bd883b6?mod=bar_FV"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 09:45:58 GMT",
+    "title": "Why is CCC Intelligent Solutions stock surging today? - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTVnT2EyRDBWWlVqTzNSZVVtOENxTTdnYzFtSjBXZzQ5b296MVBZMFU3Vm9iRGdNM016MUFSQ0ZJNUhLcUVmaDBOUGZzWThMYXBoT1RHeFdPcVNXTFVnWmprWjNUa3RBQXR0dWpYT19melZVN2dEME9rbFhFQ3Q5ZmQyczZrU3ZZdHUtRkJ4bkowSWFLZDRpakl4TnF3Tm9RX2dKWmFBY1VxQVgyVzd2bm5VZnk?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 11:35:00 GMT",
+    "title": "CCC Intelligent Solutions Stock Jumps on Takeover Report - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQndWbF82VW5LWGRwMXhHSW5lU0hOVVVielQwc0haMmpka2Q2SDJ0dy1ZWFoyQWNZN1A4RVhjeldrWWFIU1o5S2xKWnpIMDVBUHVRUTRvQVEzenhmOHpiMnVMTE1FbUNwRk4tdFJ6TENCbFhOZFhhbVhSLW5vUm81M0I5ZXhJLTA0VEZiUFpzUXV0SEYwUmc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 09:32:56 GMT",
+    "title": "Biggest stock movers Monday: CCC, BIIB, IREN, and more - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOTdsS2t6WUJkR0xEQzJGQVoyRW43V2FlUkJxam5hdThPS1VvVGhOZ1Jwd2t4OTh4NndmcFQ0QXFFcWozWENIR1dwaXpuV2NmZV9pTW9pTkpUT09UV2lxc1ZHd1QzRmNfcjZVOFlaWEYzdG1ERHJ2X3FYMFNWajdEb09Ec1ExcjVVY3lv?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 10 Oct 2026 10:31:04 GMT",
+    "title": "CCC Intelligent Solutions Holdings Inc. Common Stock (NASDAQ:CCC) Stock Has Consensus Price Target of $9.12 According to Analysts - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZV9pdU5fenBLNG5IcWpiZGtQWDVGdWNvRGlFU0hlaWRleF9RUVBHWEY0TXFGUlZ1V3VLMVZaOTJiLWo1OVFxZW5zZFRiMTlKTmozUkFXWlRXME00NGJ4c1k3UjlrelNfV29uemVtamZRekp3dzIwT3BJeHBiaTJRcG5yMG54MnVZRi01eUhidnRXYXM2dmV1LUxTRzljMjRNdG90OW1mdDh2WmlfUUlYd2Z0RlBCN0tRMVhOZlZ3S0xra1d6aFRXRlJiV3RaN05qODZvWWRxc1E2WHdLMXM4RmRDbGI2NGlCdGlxNnJSeF9KZHVpOFRfX0didTdmdUxWczhfWGJvUEx0WC1aN3ZqQmk2N3hQR0k?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 10:41:00 GMT",
+    "title": "What Is Driving Computacenter (LSE:CCC) Stock Higher On AI Infrastructure Demand This Week? - Kalkine Media",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEFTeGdSNElvMWl4TGllN0k2UGdVcmhvM05mSVhqMzdjSy1iRHRBeUR4TUVaN0NXQm5qSVN5NnlENEo0Q2l6Yl9UdG9DcTY1eEpoSS1iZHlnTEZMazR4VlhnSDRheC1lTExRakg4eDExY05hby1XZHJFSHFSVnlYTXpwZjlQYlE3dllyVTVlMWl6OU9qcUE5bFVHRlhrcEcwc2d2MEM3dWM2Wkw3NVRTcXVKRnQxdUUzc1hIMGx2SExIVGh0OWpCZG5mbUxoUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 09 Oct 2026 23:45:10 GMT",
+    "title": "GTCR, Elliott Near Deal for CCC Intelligent Solutions - Briefs Finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTNkcUQ0bkpGWGNrTjZ4TE9yTGhqbmhpdXhjbEFTNm5ZQzJwRzJsMUE3NjcwR2ZJaVBwUlJoN1R0RVFVaEhPbHBXVmEyUnZYSlh0MXBsTGQzRWgweGpXV2ZJVTV0UktNTkQ2R3NJbFF2RUxDQ21ubVJqaVNiM2dwNUtNVXVFd1htZXBzelZGUTdKZw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 09 Oct 2026 21:05:50 GMT",
+    "title": "12 Information Technology Stocks Moving In Friday's After-Market Session - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVktMDZ0LW5wODlncHd0YVp1Y1IzTVVTWEh6b2RHTF9qREZsVmpyaXpoMTRkOGFvdVZqT202bjhQR0hfX0ZqNjU1VHRiSTZQY3VKSFo2bjlTQ0hLX1BnRVpqbTd5UGlZVTBOa01aaG1LaXhjeWY5Vjk2bTExMkc0Z09hRjZ4Z1piSHJXYXJNRHQ4ZXFFSFdHUWhrSFRDZUlraFZWRWlCemk2eGVDVEg2N1l4ci10NUZGZEhRbXBLOEIzU1JjQUVVZDhR?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "GCL": {
+  "ticker": "GCL",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 01:18:31 GMT",
+    "title": "ETFs Investing in GCL Technology Holdings Limited Stocks - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16YjNQbkNNX2J4Z3R1TGtJa1ZNemZFREtGX21mNEczYVNPemhGLUplY3lKRktNZjhDaE11S082NVdFaWRTQTRiRkFubWxERF9vaWR6WXp6djdPS2J3Wnc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 09 Oct 2026 20:00:00 GMT",
+    "title": "GCL Global Holdings Ltd Ordinary Shares (NASDAQ: GCL) Stock Price, News & Analysis - Kalkine",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRMDFKTl95MzhDaXhkNk9MYUxqX19ONmdVTjlkTlY0MV9OcV9Id25jWngzWThoeFU4bjN6amRlUW45TGdJU3dEY3JuT3lXTGlVb21Sdg?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
