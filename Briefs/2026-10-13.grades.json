@@ -1,4 +1,22 @@
 {
+ "FRMI": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "TRADE small / WATCH",
+  "why": [],
+  "snapshot_et": "2026-10-13 09:13",
+  "label": "v2"
+ },
+ "BMBL": {
+  "tier": "MA",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "cash takeover target \u2014 upside capped, not an EP"
+  ],
+  "snapshot_et": "2026-10-13 09:13",
+  "label": "v2"
+ },
  "RYDE": {
   "tier": "C",
   "grade": 1,
@@ -6,7 +24,7 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-13 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-10-13 09:13",
+  "label": "v2"
  }
 }

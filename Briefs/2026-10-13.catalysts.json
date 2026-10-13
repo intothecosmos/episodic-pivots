@@ -1,4 +1,187 @@
 {
+ "BMBL": {
+  "ticker": "BMBL",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-13",
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "title": "8-K 1.01,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830043/000095010326015480/dp254907_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 13, 2026",
+    "title": "Bumble To Be Acquired By Ithaca For $1.3 Bln In Cash; BMBL Up Nearly 4% In Pre-Market ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/bumble-be-acquired-ithaca-13-bln-cash-bmbl-nearly-4-pre-market"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 13, 2026",
+    "title": "Bumble Shares Jump 50% On Reports Of $1 Bln Takeover Talks ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/bumble-shares-jump-50-reports-1-bln-takeover-talks"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 12, 2026",
+    "title": "Noteworthy Monday Option Activity: LITE, BMBL, SPCX",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-monday-option-activity-lite-bmbl-spcx"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 08:34AM",
+    "title": "Bumble to Go Private in $1.3 Billion Deal With Ithaca Holdings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bumble-private-1-3-billion-123448331.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 08:30AM",
+    "title": "Bumble is in advanced talks to go private at a $1 billion valuation",
+    "url": "https://qz.com/bumble-go-private-ithaca-holdings-1-billion-101326"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 08:24AM",
+    "title": "Bumble Inc. to Be Acquired by Ithaca Holdings, the Long-Term Holding Company for Enduring Technology Businesses",
+    "url": "https://finviz.com/news/401770/bumble-inc-to-be-acquired-by-ithaca-holdings-the-long-term-holding-company-for-enduring-technology-businesses"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 04:21AM",
+    "title": "Bumble's potential $1 billion sale marks an embarrassing fall from the dating app's peak",
+    "url": "https://finance.yahoo.com/markets/stocks/article/bumbles-potential-1-billion-sale-marks-an-embarrassing-fall-from-the-dating-apps-peak-195715107.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 04:50PM",
+    "title": "Dating App Bumble Said to Near $1 Billion Sale to Ithaca",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dating-app-bumble-said-near-205045221.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 04:39PM",
+    "title": "BMBL Stock Soars Over 50% On $1B Take-Private Talks; MTCH Edges Higher As Well",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bmbl-stock-soars-over-50-203910324.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 03:51PM",
+    "title": "Bumble Stock Rallies 49%. Can a Take-Private Deal Save the Dating App?",
+    "url": "https://www.barrons.com/articles/bumble-stock-dating-app-private-report-8c46d76f?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 03:47PM",
+    "title": "Bumble shares skyrocket 50% as WSJ reports on deal talks",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-climb-wall-street-banks-earnings-season/card/bumble-shares-skyrocket-50-as-wsj-reports-on-deal-talks-qn2yPIzTacbjvhkK474Y?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 03:15PM",
+    "title": "Bumble Reportedly Nears $1 Billion Deal to Go Private",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bumble-reportedly-nears-1-billion-191504538.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 02:48PM",
+    "title": "Bumble stock surges on report of $1B buyout talks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bumble-stock-surges-report-1b-184843728.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 02:34PM",
+    "title": "Bumble in Talks to Be Taken Private in $1 Billion Deal, WSJ Says",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bumble-talks-taken-private-1-183455574.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 02:31PM",
+    "title": "Bumble Shares Jump 20% on Potential Deal",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026/card/bumble-shares-jump-20-on-potential-deal-6F1n1eBzYGDOabmaoR8o?mod=wsj_FV"
+   }
+  ],
+  "pre_tier": "MA-target",
+  "pre_tier_hits": [
+   "to be acquired .*cash",
+   "in cash",
+   "cash takeover: upside capped at deal price \u2014 not an EP"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FRMI": {
+  "ticker": "FRMI",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 08:00AM",
+    "title": "Fermi Signs Credit Support Agreement with AMD and Announces Partnership",
+    "url": "https://finviz.com/news/401642/fermi-signs-credit-support-agreement-with-amd-and-announces-partnership"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 04:01PM",
+    "title": "Fermi Announces Third Quarter 2026 Earnings Release and Call Date",
+    "url": "https://finviz.com/news/401377/fermi-announces-third-quarter-2026-earnings-release-and-call-date"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 13 Oct 2026 12:33:00 GMT",
+    "title": "FRMI Stock Slides As Cash Burn And Debt Pressure Mount - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OclFnNk1DV3BzTGRfX2RHb29yYWVickk4Qy1kM3hrVVcyTGY2UXZTSWZOcjVTeGZXVEc5UWxCc2ttamlwalFIWEphVTZqdVo0dkJmQVUxc1hTQVZlcThlZnQ2M3FvV3lyMm1acm1jOA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 13 Oct 2026 12:32:00 GMT",
+    "title": "FRMI Stock Slides As Traders Eye Cash Burn And Support - www.timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TekFKVlF2REVtU1FiR3pkZWZYR1NvVzlkU3BJQU1EcU4wUmE3SGtSUzAyTWxNcVU1d1YzZzk3dkgyTFZ4WGd6VnlKdXc3OXJfZkVOS0FqS0RJR2FTbEdPdzlJS1RsbTZacmFfa1cxcDNEaVU?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 11 Oct 2026 21:32:35 GMT",
+    "title": "FRMI Stock Rips On $6.5B TensorWave Deal \u2014 Mizuho Says \u2018Long-Awaited Catalyst\u2019 Has Arrived - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjBRRVBSejYzcXh3WklORW51elpnUkgzMTBZT1hjQUFQWWxSTUFvMGx0NjhTUE1fMFpOOHBaTlk4bm9QaTBKSFhHTjNZZmlXOVBZWTE0V1ZId3JKR3hEZHFpYlJ0eDlMUFpwZ2dTSVV1U203eGFZYmFhR2dud2FPdVAyVUhQOWNaSEYwWXFnR2tRTDVQb0JhTjZFQ0EwYnNET1Z3aWY4Snc0VGgxWTRXeGt0M1Y2WDZHR0lWWWx1TmtFZFJuRTJWbHJRVDVRUzc1S3lNcmZpNTRoUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 15:34:42 GMT",
+    "title": "Fermi: The Risks Are Still Rising (NASDAQ:FRMI) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BZXV6U053MDRfb2RxOGtKMGVkc1BBRGJwN3BoV2NNdzlrYWRLUHl3NzNONXdpLVpBcEk4bzNBcEZRUHpRTWZEUDRsZVZSLVdMcTAzdHptNU9BZnc1TE9TTUFPZkU1MXh5dTVBZmVMcW9EenM?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 00:02:21 GMT",
+    "title": "Fermi (FRMI) Stock Looks Fully Priced Following Its Texas Power Deal - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRUtMd1lXYVpESzFheVVNQmlMYk9ZRnkwUlYzM2lKWlpEY0dSTFUtQkU3a0ZkRVhqVm5yYVVqbGFIZTFZWVFrZUNYQWJMSWU5dHBES0pkR2JaOUZ4RDNRMUJoejBsSUtnY3hORHcxTmJSYlVkMDlSa2RRNGFBd1R4dHB2YmNTTEJjSnpDSjEyM1RJQl92SDA0RlpHcTl0RjVDT0NSclRuUExIaG42c0F3c2stLTgzbURIOVJ4UXFJRmo4X1FDLVHSAcsBQVVfeXFMUGo1ZERFX3phb1UtR1hUWWp3RS10V1RLVzhpWVU3YUhHT3JpYVdSdVpBM0F4OENEMmxRa1VtN1UwSHhoMVVDTFBEejJIUGlxZ3F2ZGxYdm90bXBVdVpHWlY5UzQtX24xNUZkbURxQkdoS1Z6RWdfNFRrcUtvWndVZXE1QU05c09FWDI1b2hIZDZ0cDk2RWlZUEQ5b1ZKcGs4SmYyMGFuanAxbU1RelByQ3Bxd1FvWHRnVXZNbFhYcjRuZEdrRlREejFWdjA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 23:09:06 GMT",
+    "title": "FRMI Dec 2026 1.000 put (FRMI261218P00001000) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91RGFreEhSMlBuLWFUR2NaWWx5ZlhvTExQSTlwaE9EODBrTTBSQXBYRTEzZWxRUnQ0bjZKX01SanNZUDVvUTM2aHV2c1EySUZSNnBNZy1yWVB2TkIwOUZ0cUVIbEhmaUd1V2tQQWVB?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 06:21:13 GMT",
+    "title": "Fermi Inc. (NASDAQ:FRMI) Stock Has Consensus Target Price of $20.67 According to Brokerages - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOODN6dnd0djZUcVZQUmM0aU5RRFNsMXdORzBKTTZramdFMzRoUUxFY3NGdU1uWDYyMl9ES0xWZUc1NElVQmdEZlNWQVlxdUpwSUpIQTNmT1ZZVkxPdE5UOHZuZjVRNE5XVVdVWTlkaEFTNWxnSU1lblAzMVZPVjVkbW83NGNiRnJqMG5RT010WE95aENFcHdVeTlnRjRZUGR6QUtmSU5vc0VvWkROdTZIeHd1d3VQQlp1bVBZYmJuTE1fcURsUXRWR0pJWktKSjFFNEZQbVpnRTdWaWU5N3dpbFJFcW4?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "partnership",
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "RYDE": {
   "ticker": "RYDE",
   "filings": [],
