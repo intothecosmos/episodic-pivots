@@ -1,0 +1,32 @@
+{
+ "RYDE": {
+  "ticker": "RYDE",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 17:53:11 GMT",
+    "title": "RYDE UPCOMING DEADLINE: Levi & Korsinsky Alerts Ryde Group - GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNejFYSzVCM2Y3ekdscXVUcDRPeDFGWVZkR3BaN2lIWkUxT3VlSzlYT29CY2F3Q0dRNUFoSVBGUEc3Sk53Tm1BNXY1ckxVUi1Ec09KVEhmLVpPQlU1a2pLZjBQWWlzblBhdjhMeW9NYy1STW1lSFlxWlhOcllDMmZJV2Jxb043QkE0YVFPOVlmRWJ1T2phRmtDSVQ3cnFJMEI1NUxidDFvc0M2Y05OWmVSc1lBb0d2cUpuNDZoM2JzVm1WVWxOM2pJSl9vTTI4OXE3NEwxSm9PY3NkVk0wV3A4UTJvbWMtazhNemh5bGZOZGVDS2ZocGNsTXEtU0JWcUZLZVU0VS1raUdXQ0tYWUdMS28yT2MtMWc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 13 Oct 2026 05:02:16 GMT",
+    "title": "Pomerantz joins RYDE class action, sets Nov 9 deadline for investors - scanx.trade",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONTA0WnZ5U0c0OXN6LWdPOVdHbDJGYmp3V1Y5N3RYNFcxeXltRVhuTVlmQWlIbnBiaVcwVXBUWnI1SkVHVHVJNkM3VDFYWmJpVjdIU0FsYTB4eUVaMV9tZy1xeTdvTWJ3M2gwbnYwVFQ1YXNKbzVRbW9VemJrWWRDa2ItNVZ4VFFqVFFnQmxoM1hUUjY0aTZud09xeHprRzJIbnZCdnI3VjRGWWpXT2c?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 00:37:57 GMT",
+    "title": "Class Action Filed Against Ryde Group Ltd (RYDE) Over Securities Violations - Contact Levi & Korsinsky Today - ACCESS Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbUhFZWFaZFJyeXJOWFhJTVJYZEZDRjBLZlkwYm9yaFhyTjEtcjV5UVhBWV9VT3RYLVpqbnBIRTQtNFlYTXpnMjNZN3g1c084ZURiVGFkQTNIQWpsVEpQa28yZjh3SnByWWJGUndfckNjQms3OTZzcThXNkR0bkJyZ2w3N09ERUN6Wm5kSjItOGF0S25IdTVJQVhsUC15a1NqQ1NuZFN3Q1JHNEt0aTFRS2NvQ3ZYOWE2Mi1PWjZlVWNGbUx6YU5WZkZjTVNTM3VjTGd0U0RTbUFjVmhVM0E3WGdrUWk?oc=5"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "class action"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
