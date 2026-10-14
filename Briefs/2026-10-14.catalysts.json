@@ -8,12 +8,6 @@
     "date": "Wed, 14 Oct 2026 03:19:42 GMT",
     "title": "Antelope Enterprise Holdings Stock Surges 150% After Hours - State Street Communication Services Select S - Benzinga",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVE5TVlEX2xKOVRDQXB3aUcxdFRtb3R5M2N1bjk4Slo3UG5IYXg1Q2lyOVNSZUhfWVFXOEtaUFhfdEZEXzlDNUJjNzNLNUFoTlFrZklGR3A4dVFkTU04UFBfNzZEZHNFOWpjWkFiQUdlMmh1S2dhR2wyeHJTczE2dXdoRzRGUkNGUU5hM293eVpNU1JzTUlGSlNhVVFWOV9YaU5xcVVraXdtQnRLNjdDcjlvR3F0dw?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 12 Oct 2026 03:38:16 GMT",
-    "title": "AEHL Stock More Than Doubles After Company Launches \u2018Genius Plan\u2019 - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmE2TUpwRjBUaVJteWttMVBaZTlPaVNTWEM0N3RTc1BWc1FNcnJRZ1NzX1RHWmRmblB0ZjVCVXcwY0hOQjJkLUxZeGEzUkt4cXRPWW1YT0NFd2MxdzM0R1VGVHdmT011OHpVaFFOVzZNSU9YV013WjB5Q1d3a0dUbnE3NVVHUEJ3WmJha3VfT0F3UlJUZWU1SXN3?oc=5"
    }
   ],
   "pre_tier": "unknown",
@@ -40,6 +34,12 @@
     "title": "Liquidia Settles All Litigation With United Therapeutics; Shares Rise ",
     "publisher": "RTTNews",
     "url": "https://www.nasdaq.com/articles/liquidia-settles-all-litigation-united-therapeutics-shares-rise"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-14-26 08:57AM",
+    "title": "This Biotech Stock Surges 37% on Patent Settlement. 'Better Than the Best-Case Scenario.'",
+    "url": "https://www.barrons.com/articles/liquidia-stock-patent-settlement-united-therapeutics-89c378ee?mod=bar_FV"
    },
    {
     "src": "finviz",
@@ -70,12 +70,6 @@
     "date": "Oct-13-26 05:44PM",
     "title": "Liquidia Announces Global Settlement Resolving All Pending Litigation with United Therapeutics, Ensuring Continued Commercialization of YUTREPIA in PAH",
     "url": "https://finviz.com/news/402136/liquidia-announces-global-settlement-resolving-all-pending-litigation-with-united-therapeutics-ensuring-continued-commercialization-of-yutrepia-in-pah"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-13-26 06:40AM",
-    "title": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On Sweetgreen, Target And Airbnb  Liquidia And FICO Face Downgrades",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-wall-street-wrap-analysts-104036579.html"
    }
   ],
   "pre_tier": "B?",
@@ -85,116 +79,59 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "VSTM": {
-  "ticker": "VSTM",
+ "VIR": {
+  "ticker": "VIR",
   "filings": [
    {
     "src": "SEC",
     "date": "2026-10-14",
     "form": "8-K",
-    "items": "2.02,5.02,7.01,8.01,9.01",
-    "title": "8-K 2.02,5.02,7.01,8.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926115687/tm2627537d4_8k.htm"
+    "items": "3.02,8.01,9.01",
+    "title": "8-K 3.02,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1706431/000162828026065826/vir-20261009.htm"
    }
   ],
   "headlines": [
    {
-    "src": "Nasdaq",
-    "date": "Oct 14, 2026",
-    "title": "Verastem Oncology Prices $250 Mln Stock, Warrant Offering; Pre-market Shares Up ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/verastem-oncology-prices-250-mln-stock-warrant-offering-pre-market-shares"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Oct 14, 2026",
-    "title": "Verastem Reports VS-7375 Data, Prices $250M Offering And Names New CEO; Shares Up In Premarket ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/verastem-reports-vs-7375-data-prices-250m-offering-and-names-new-ceo-shares-premarket"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Oct 14, 2026",
-    "title": "Verastem Oncology Names Michael Bailey CEO ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/verastem-oncology-names-michael-bailey-ceo"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Oct 12, 2026",
-    "title": "Does Verastem (VSTM) Have the Potential to Rally 79% as Wall Street Analysts Expect?",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/does-verastem-vstm-have-potential-rally-79-wall-street-analysts-expect"
-   },
-   {
     "src": "finviz",
-    "date": "Oct-14-26 06:04AM",
-    "title": "Verastem Oncology Announces Pricing of $250 Million Offering of Common Stock and Pre-Funded Warrants",
-    "url": "https://www.businesswire.com/news/home/20261014594734/en/"
+    "date": "Oct-14-26 08:30AM",
+    "title": "Vir Biotechnology Enters Multi-Program Collaboration and License Agreement with Gilead Sciences to Discover and Develop Novel PRO-XTEN Dual-masked T-cell Engagers for Solid Tumors",
+    "url": "https://finviz.com/news/402425/vir-biotechnology-enters-multi-program-collaboration-and-license-agreement-with-gilead-sciences-to-discover-and-develop-novel-pro-xten-dual-masked-t-cell-engagers-for-solid-tumors"
    },
    {
-    "src": "finviz",
-    "date": "Oct-14-26 06:01AM",
-    "title": "Verastem Oncology Announces Planned Chief Executive Officer Transition and Succession Plan",
-    "url": "https://www.businesswire.com/news/home/20261014530284/en/"
+    "src": "GoogleNews",
+    "date": "Wed, 14 Oct 2026 12:30:00 GMT",
+    "title": "Gilead gets exclusive rights to develop three experimental cancer drugs - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN01FWHE2VjVZQU1uUkkyUGhQWUZGdWVpNkJkdGhyWjYyZy1hdlo5N3U1aVBzUlRFU0FaNXBhNkVhSmNOSVZOc2wyVlVtUmM5YWRkS19ZYVNvYUxaeHFyX1owSjAwTlJ6el9tbllRc2QtTlFmRjUzUzV3cnppOHpUbHYzR09Xd0pfOTY2ejZNdjhmOVVEUFJoZzlQbjFNSHlTc3BnT3gtdmV1VlJwbzVMQnk3SjB1clNJRFE?oc=5"
    },
    {
-    "src": "finviz",
-    "date": "Oct-14-26 06:00AM",
-    "title": "VS-7375 Demonstrates Robust Anti-Tumor Activity Across Advanced KRAS G12D-Mutant Cancers, Highlighted by 50% Confirmed ORR in 2L Pancreatic Ductal Adenocarcinoma and Two Complete Responses in 2L+ Disease (One Confirmed)",
-    "url": "https://finviz.com/news/402212/vs-7375-demonstrates-robust-anti-tumor-activity-across-advanced-kras-g12d-mutant-cancers-highlighted-by-50-confirmed-orr-in-2l-pancreatic-ductal-adenocarcinoma-and-two-complete-responses-in-2l-disease-one-confirmed"
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 04:40:53 GMT",
+    "title": "Why Did Vir Biotechnology Stock Surge 60% After-Hours Today? - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGpqV09Qc0RwZVU4cm1RODdrSUJFdWNYYmw5ZVNMTmhDRVhCTm15aTZSajhRckF6R194Q1hqTjZKQXJlbmJDMC1XT21TRDVfZ2xidWd4NzdxVE5oV1RURFhRMkFqajJUTnRQWm1GeUp6V1VJMzdKTzh0OGczWkp4M1VzdmR5Um43dVlSVnF2Tk1jTU9peTJvdkpHQUNjNlpSSmp0UEZwSWwzcnZZSUtJbVdiNnREOGtpaThF?oc=5"
    },
    {
-    "src": "finviz",
-    "date": "Oct-11-26 10:17PM",
-    "title": "Stocktwits Pharma Pulse: JNJ Earnings, Cancer Updates And Two FDA Target Dates  The Weeks Biotech Watchlist",
-    "url": "https://finance.yahoo.com/healthcare/articles/stocktwits-pharma-pulse-jnj-earnings-021714982.html"
+    "src": "GoogleNews",
+    "date": "Wed, 14 Oct 2026 13:09:36 GMT",
+    "title": "Vir, Gilead ink licensing deal worth up to $1.9B (VIR:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXFwdWYwU3ZxNmxIUHV6bWdETFhYQ2VsUW1CNmFaWkhfb0pCYk51R2tGbzcyV2pIZnRkR2xrYTJrT3h1bjlEd0s3YWIyajdoVngteEZwU3ZXZEI5cVJKdDlSdXo1aEs5NHgwdVNHVnRfY1R2N3ZtOTZhZ0dONzhodVdEOA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 13 Oct 2026 11:14:18 GMT",
+    "title": "Vir Biotechnology (NasdaqGS:VIR) Stock Price - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGNldWduTGh0c2g2NkotRkdkUXhtM2thOEZRMHRFSzJTYUpYWUlSeDJBRDh6S042MDlxVXZHOEZYaFI4NEhuWXJOcGZnd2hoX1dvMUdvbzFUVXZ3eG9QVTF2elhrMzJSVGN4TF9nWHRrTkFvbl9BWmR5X2lsbElHMGR0aElhTS1CdDlFLVZVNA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 11 Oct 2026 22:55:35 GMT",
+    "title": "Vir Biotechnology, Inc. (VIR) Stock forecasts - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZVVhVjYzTFJLSy15RUJpd1k4bHVSZWRhWkt4VFR1U3lPSmRoV0x3SEtnbHJCTGhoemNwYk5vcnVuNzgtVWZPVGdUNnFTVVBqU0EtR29hVWhyTF93akVyZl9rQzAyQzF4a2hFek5GV2xKMVowYWdUMWlyUGdCcnUxR05SYWd4M1NJck5tTWZyVVRLMG8?oc=5"
    }
   ],
   "pre_tier": "C?",
   "pre_tier_hits": [
-   "pricing of",
-   "warrant"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "ENVX": {
-  "ticker": "ENVX",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-10-13",
-    "form": "8-K",
-    "items": "2.02,7.01,9.01",
-    "title": "8-K 2.02,7.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000058/envx-20261012.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "finviz",
-    "date": "Oct-13-26 04:58PM",
-    "title": "Enovix Receives 100,000-Battery Drone Order",
-    "url": "https://finviz.com/news/402123/enovix-receives-100000-battery-drone-order"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-12-26 08:35AM",
-    "title": "Enovix Q3 Revenue Rises 38% to $11 Million, Exceeding Guidance as Defence Demand Grows",
-    "url": "https://finviz.com/news/401240/enovix-q3-revenue-rises-38-to-11-million-exceeding-guidance-as-defence-demand-grows"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-12-26 07:30AM",
-    "title": "Q3'26 Revenue $11.0 Million Up 38% Year/Year",
-    "url": "https://finviz.com/news/401151/q326-revenue-110-million-up-38-yearyear"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "revenue",
-   "8-K item 2.02 (earnings)"
+   "8-K item 3.02 (equity sale)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
