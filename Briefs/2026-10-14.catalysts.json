@@ -1,0 +1,202 @@
+{
+ "AEHL": {
+  "ticker": "AEHL",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 14 Oct 2026 03:19:42 GMT",
+    "title": "Antelope Enterprise Holdings Stock Surges 150% After Hours - State Street Communication Services Select S - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVE5TVlEX2xKOVRDQXB3aUcxdFRtb3R5M2N1bjk4Slo3UG5IYXg1Q2lyOVNSZUhfWVFXOEtaUFhfdEZEXzlDNUJjNzNLNUFoTlFrZklGR3A4dVFkTU04UFBfNzZEZHNFOWpjWkFiQUdlMmh1S2dhR2wyeHJTczE2dXdoRzRGUkNGUU5hM293eVpNU1JzTUlGSlNhVVFWOV9YaU5xcVVraXdtQnRLNjdDcjlvR3F0dw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 12 Oct 2026 03:38:16 GMT",
+    "title": "AEHL Stock More Than Doubles After Company Launches \u2018Genius Plan\u2019 - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmE2TUpwRjBUaVJteWttMVBaZTlPaVNTWEM0N3RTc1BWc1FNcnJRZ1NzX1RHWmRmblB0ZjVCVXcwY0hOQjJkLUxZeGEzUkt4cXRPWW1YT0NFd2MxdzM0R1VGVHdmT011OHpVaFFOVzZNSU9YV013WjB5Q1d3a0dUbnE3NVVHUEJ3WmJha3VfT0F3UlJUZWU1SXN3?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "LQDA": {
+  "ticker": "LQDA",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-14",
+    "form": "8-K",
+    "items": "1.01,1.02,7.01,8.01,9.01",
+    "title": "8-K 1.01,1.02,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1819576/000110465926115672/tm2627557d1_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 14, 2026",
+    "title": "Liquidia Settles All Litigation With United Therapeutics; Shares Rise ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/liquidia-settles-all-litigation-united-therapeutics-shares-rise"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-14-26 07:11AM",
+    "title": "Premarket movers: Alibaba gains on new AI glasses; Liquidia rallies as legal eases",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-alibaba-gains-ai-111122644.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-14-26 05:13AM",
+    "title": "Liquidia shares surge to 5-month high premarket on United Therapeutics settlement",
+    "url": "https://finance.yahoo.com/healthcare/articles/liquidia-shares-surge-5-month-091354174.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 07:39PM",
+    "title": "LQDA Explodes After Hours On Deal Ending Years Of Patent Fight, Keeping YUTREPIA On Market",
+    "url": "https://finance.yahoo.com/healthcare/articles/lqda-explodes-hours-deal-ending-233953516.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 06:26PM",
+    "title": "Liquidia stock surges 40% on $380.7M litigation settlement with UTHR",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/liquidia-stock-surges-40-380-222658498.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 05:44PM",
+    "title": "Liquidia Announces Global Settlement Resolving All Pending Litigation with United Therapeutics, Ensuring Continued Commercialization of YUTREPIA in PAH",
+    "url": "https://finviz.com/news/402136/liquidia-announces-global-settlement-resolving-all-pending-litigation-with-united-therapeutics-ensuring-continued-commercialization-of-yutrepia-in-pah"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 06:40AM",
+    "title": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On Sweetgreen, Target And Airbnb  Liquidia And FICO Face Downgrades",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-wall-street-wrap-analysts-104036579.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 1.01 (material agreement)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "VSTM": {
+  "ticker": "VSTM",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-14",
+    "form": "8-K",
+    "items": "2.02,5.02,7.01,8.01,9.01",
+    "title": "8-K 2.02,5.02,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1526119/000110465926115687/tm2627537d4_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 14, 2026",
+    "title": "Verastem Oncology Prices $250 Mln Stock, Warrant Offering; Pre-market Shares Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/verastem-oncology-prices-250-mln-stock-warrant-offering-pre-market-shares"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 14, 2026",
+    "title": "Verastem Reports VS-7375 Data, Prices $250M Offering And Names New CEO; Shares Up In Premarket ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/verastem-reports-vs-7375-data-prices-250m-offering-and-names-new-ceo-shares-premarket"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 14, 2026",
+    "title": "Verastem Oncology Names Michael Bailey CEO ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/verastem-oncology-names-michael-bailey-ceo"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 12, 2026",
+    "title": "Does Verastem (VSTM) Have the Potential to Rally 79% as Wall Street Analysts Expect?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/does-verastem-vstm-have-potential-rally-79-wall-street-analysts-expect"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-14-26 06:04AM",
+    "title": "Verastem Oncology Announces Pricing of $250 Million Offering of Common Stock and Pre-Funded Warrants",
+    "url": "https://www.businesswire.com/news/home/20261014594734/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-14-26 06:01AM",
+    "title": "Verastem Oncology Announces Planned Chief Executive Officer Transition and Succession Plan",
+    "url": "https://www.businesswire.com/news/home/20261014530284/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-14-26 06:00AM",
+    "title": "VS-7375 Demonstrates Robust Anti-Tumor Activity Across Advanced KRAS G12D-Mutant Cancers, Highlighted by 50% Confirmed ORR in 2L Pancreatic Ductal Adenocarcinoma and Two Complete Responses in 2L+ Disease (One Confirmed)",
+    "url": "https://finviz.com/news/402212/vs-7375-demonstrates-robust-anti-tumor-activity-across-advanced-kras-g12d-mutant-cancers-highlighted-by-50-confirmed-orr-in-2l-pancreatic-ductal-adenocarcinoma-and-two-complete-responses-in-2l-disease-one-confirmed"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-11-26 10:17PM",
+    "title": "Stocktwits Pharma Pulse: JNJ Earnings, Cancer Updates And Two FDA Target Dates  The Weeks Biotech Watchlist",
+    "url": "https://finance.yahoo.com/healthcare/articles/stocktwits-pharma-pulse-jnj-earnings-021714982.html"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "pricing of",
+   "warrant"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ENVX": {
+  "ticker": "ENVX",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-13",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000058/envx-20261012.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 04:58PM",
+    "title": "Enovix Receives 100,000-Battery Drone Order",
+    "url": "https://finviz.com/news/402123/enovix-receives-100000-battery-drone-order"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 08:35AM",
+    "title": "Enovix Q3 Revenue Rises 38% to $11 Million, Exceeding Guidance as Defence Demand Grows",
+    "url": "https://finviz.com/news/401240/enovix-q3-revenue-rises-38-to-11-million-exceeding-guidance-as-defence-demand-grows"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-12-26 07:30AM",
+    "title": "Q3'26 Revenue $11.0 Million Up 38% Year/Year",
+    "url": "https://finviz.com/news/401151/q326-revenue-110-million-up-38-yearyear"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

@@ -1,0 +1,6 @@
+{
+  "LQDA": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "Global settlement with UTHR ends all litigation, keeps YUTREPIA on market (PAH), prelim Q3 sales $222.7M; Liquidia pays net $380.7M. Gap 47% in the worst band and premarket volume 0.21x ADV -> WATCH; upgrade to TRADE only if 9:45 volume >= 1x ADV (~4M sh)."},
+  "AEHL": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No catalyst found (no 8-K/PR); only live corporate action is a $100M ATM on a $163M cap after converts and two reverse splits. 176% no-news gap = dilution/squeeze vehicle."},
+  "VSTM": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "$250M offering priced at $8.00 (~37% dilution) same morning as VS-7375 data (PDAC 41% ORR n=22) and CEO succession. Offering = Tier C by rule."},
+  "ENVX": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "100k-battery drone order + prelim Q3 revenue $11.0M (+38%) already priced on 10-12; Gate 4 fail (proj $vol $1.3M), overhead 96%."}
+}
