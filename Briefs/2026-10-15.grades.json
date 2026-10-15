@@ -1,0 +1,34 @@
+{
+ "BMMX": {
+  "tier": "unknown",
+  "grade": 3,
+  "verdict": "WATCH (40%+ gap, needs Tier A + strong volume)",
+  "why": [
+   "catalyst unknown \u2014 capped 3\u2605, recheck",
+   "chart gate not computed (no history) \u2014 read the chart by hand",
+   "gap \u226540%: historically the worst band"
+  ],
+  "snapshot_et": "2026-10-15 07:46",
+  "label": "v1"
+ },
+ "PAG": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.14x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-15 07:46",
+  "label": "v1"
+ },
+ "OPK": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-15 07:46",
+  "label": "v1"
+ }
+}

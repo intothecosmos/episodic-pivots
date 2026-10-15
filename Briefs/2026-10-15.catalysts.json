@@ -1,0 +1,137 @@
+{
+ "BMMX": {
+  "ticker": "BMMX",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 08:09:23 GMT",
+    "title": "BMMX - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9wMk1QYXRSNnUzY05WS2ltMGtVWHpIbHlKVUhNTENJWkxacUU1dzhxWk0tbUsyR2lGTUdQeEctWkhFUUM2eWc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 14 Oct 2026 20:30:00 GMT",
+    "title": "Black Mammoth Metals Receives Approval to List on the Nasdaq Capital Market - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObjNuYXlOcWNldHlWYkt2V1JVMHNCNkVqOVN0T2FFY3c1a2w5VmNOWTRWcHJtRlZ6WEhpY29OVUV1aXhBN0U2UkoxVmptbFlWeHBrXzh5dER3bWdaVFdRbURrTURKZXgtaXNkbUJseGNYa0dVNGNuTGVYV3N2TVFvU2lBNUhHZ1NLYmNaSDFtX1JMaHNNYVpDQkE5NFpXRm9GY1U0UXRn?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 05:24:23 GMT",
+    "title": "Black Mammoth Metals Corporation (BMM.V) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lMGVZNDdZNnYzTEU4NzFhM2dvY1ZpSWgySWNEZ2tVVS1ubloyWXdjMTFFcWs4anZ6bzJVeDdFNmxYZjN6Z05jcjYza2RtTGtWcTQ0?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "OPK": {
+  "ticker": "OPK",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 14, 2026",
+    "title": "Hims & Hers Expands Australian Women's Health Platform With Hers",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/hims-hers-expands-australian-womens-health-platform-hers"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-15-26 07:30AM",
+    "title": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
+    "url": "https://finviz.com/news/402897/labcorp-enters-into-agreement-with-opko-health-to-acquire-select-assets-of-bioreference-health"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 14 Oct 2026 18:51:21 GMT",
+    "title": "OPKO Health (OPK) Expands 4Kscore Access, Is The Stock A Bargain? - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ0dXZVQ3Vm1lMms4bXBSMUNIWmlMWFZBSDh1TFFpaUxyNFFQQUN4bnpUSVR5TWstZ19obHlfeENhcVhud1JNdmkwUDczdDdXU01nWENneDhFSTc0RnduTWpIVS1fTDlqQjY0eDhCQXgzSXltcnNqUFVlMTcwcVJfRGtaaGZHV2QyUHBUSVd2MFJUek9TMllKOXBKdkx4cnRIWXVUbEFvNkk2SmpVZzNKckFlc1NzXzkySWt4ZVZHVGhYSTZRTVBabGRfMXJsWjN20gHQAUFVX3lxTE9DR1dlVDdWbWUyazhtcFIxQ0haaUxYVkFIOHVMUWlpTHI0UVBBQ3huelRJVHlNay1nX2hseV94Q2FxWG53Uk12aTBQNzN0N1dTTWdYQ2d4OEVJNzRGd25NakhVLV9MOWpCNjR4OEJBeDNJeW1yc2pQVWUxNzBxUl9Ea1poZkdXZDJQcFRJV3YwUlR6T1MyWUo5cEp2THhydEhZdVRsQW82STZKalVnM0pyQWVzU3NfOTJJa3hlVkdUaFhJNlFNUFpsZF8xcmxaM3Y?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 14 Oct 2026 08:26:18 GMT",
+    "title": "OPKO Health (NASDAQ:OPK) Share Price Breaks Below Fifty Day Moving Average - Time to Sell? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOXy1RdHpjSmJZSE40QVlyV0JORFQxWnI0YUZsS3NYLWdSX0xtSzFpV2U4SDNaRkstT0hRNnBjYktuTGVJalFWSkdlUjFaQjhHWExJT1NQRXNiZWp3QmQxWU5zNWpSRzdCZ01CQTNhc1h2VTFBN2lYRl8yTHpwWW1VWkw4QXhXTWUtV2x2YlNiLW5xYnBLUDN2VGlRQ2tNWHZ2UjFzeXRLQ1pJQ3Exd0ZvbUNlUFBhbVhzeFZrMlhBU2ZvS2REM2JBcjdOUFNGc2hsbnY1NnFudGFCTVdPdEE?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "PAG": {
+  "ticker": "PAG",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-15",
+    "form": "8-K",
+    "items": "1.01,2.03,5.02,8.01,9.01",
+    "title": "8-K 1.01,2.03,5.02,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1019849/000114036126039664/ef20083688_8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-15",
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "title": "8-K 8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1019849/000114036126039661/ef20083686_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 12, 2026",
+    "title": "Penske Automotive Group Becomes Oversold",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/penske-automotive-group-becomes-oversold"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-15-26 07:23AM",
+    "title": "Penske Automotive Group to Be Taken Private by Penske, Mitsui",
+    "url": "https://www.wsj.com/business/deals/penske-automotive-group-to-be-taken-private-by-penske-mitsui-77e061af?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-15-26 06:50AM",
+    "title": "Penske Automotive Group Announces Agreement to be Taken Private by Penske Corporation and Mitsui & Co.",
+    "url": "https://finviz.com/news/402829/penske-automotive-group-announces-agreement-to-be-taken-private-by-penske-corporation-and-mitsui-co"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-15-26 06:45AM",
+    "title": "PENSKE AUTOMOTIVE GROUP ANNOUNCES DIVIDEND INCREASE",
+    "url": "https://finviz.com/news/402826/penske-automotive-group-announces-dividend-increase"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-14-26 04:18PM",
+    "title": "Does The Fall In Avis Budget Stock Change Anything?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/does-fall-avis-budget-stock-201830695.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 08:09PM",
+    "title": "Can This Number Push Avis Budget Stock Higher?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/number-push-avis-budget-stock-000933747.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-13-26 07:46PM",
+    "title": "Is There A Risk Hiding In Carvana Stock's Record Quarter?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/risk-hiding-carvana-stocks-record-234606899.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 1.01 (material agreement)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
