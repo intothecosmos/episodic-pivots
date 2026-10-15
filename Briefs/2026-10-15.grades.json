@@ -2,33 +2,33 @@
  "BMMX": {
   "tier": "unknown",
   "grade": 3,
-  "verdict": "WATCH (40%+ gap, needs Tier A + strong volume)",
+  "verdict": "WATCH (chart unjudged)",
   "why": [
    "catalyst unknown \u2014 capped 3\u2605, recheck",
-   "chart gate not computed (no history) \u2014 read the chart by hand",
-   "gap \u226540%: historically the worst band"
+   "chart gate not computed (no history) \u2014 read the chart by hand"
   ],
-  "snapshot_et": "2026-10-15 07:46",
-  "label": "v1"
- },
- "PAG": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.14x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-10-15 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-10-15 09:12",
+  "label": "v2"
  },
  "OPK": {
   "tier": "unknown",
-  "grade": 1,
-  "verdict": "NO TRADE",
+  "grade": 3,
+  "verdict": "WATCH (event-capped)",
   "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
+   "catalyst unknown \u2014 capped 3\u2605, recheck",
+   "event: earnings 2026-10-28 (est)"
   ],
-  "snapshot_et": "2026-10-15 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-10-15 09:12",
+  "label": "v2"
+ },
+ "PAG": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "WATCH (event-capped)",
+  "why": [
+   "event: earnings 2026-10-28"
+  ],
+  "snapshot_et": "2026-10-15 09:12",
+  "label": "v2"
  }
 }

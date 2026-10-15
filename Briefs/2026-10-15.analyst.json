@@ -1,5 +1,5 @@
 {
-  "BMMX": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "First day of Nasdaq trading (uplisting from TSXV:BMM, commences 2026-10-15); no business catalyst. 40.6% gap and 414x ADV are listing artifacts vs a stale OTC close; no price history so ADR/stop cannot be set."},
-  "PAG": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Cash take-private by Penske Corp + Mitsui at $212.00/share (8-K 1.01); premarket already pinned at $211.66. Takeover target is not an EP; 0.14x ADV."},
-  "OPK": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Labcorp buys BioReference assets for $722M cash + up to $150M earnout (~70% of OPK cap) — real Tier B, but Gate 4 fails at v1 (0.1x ADV, $0.9M proj $vol) and earnings 10/28 inside the event window. Recheck at v2 only for volume."}
+  "OPK": {"tier": "B", "grade": 4, "verdict": "WATCH", "why": "Labcorp buys BioReference assets for $722M cash + up to $150M earnout (~70% of prior-close cap). v2: gap 22%, 7.8x ADV30 premarket, $98.9M proj $vol, Gate 4 pass, chart pass -> Tier B 3 +1 volume = 4. Event-capped: earnings 2026-10-28 (est) inside the 2-week window; $0.06 max stop makes spread ~16% of stop."},
+  "BMMX": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "First day of Nasdaq trading (uplisting from TSXV:BMM); no business catalyst. Gap already faded 40.6% -> 13.0% premarket; 453x ADV is a listing artifact; no price history so ADR/stop cannot be set."},
+  "PAG": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Cash take-private by Penske Corp + Mitsui at $212.00/share (8-K 1.01, $16.3B EV); premarket $211.01 pinned to deal price. Takeover target is not an EP."}
 }
