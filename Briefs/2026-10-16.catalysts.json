@@ -26,5 +26,155 @@
   "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ALEC": {
+  "ticker": "ALEC",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-14",
+    "form": "8-K",
+    "items": "5.02",
+    "title": "8-K 5.02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1653087/000119312526421080/alec-20261013.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 13, 2026",
+    "title": "Alector Maps Brain-Delivery Pipeline for Alzheimer\u2019s, Parkinson\u2019s Therapies",
+    "publisher": "MarketBeat",
+    "url": "https://www.nasdaq.com/articles/alector-maps-brain-delivery-pipeline-alzheimers-parkinsons-therapies"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-16-26 07:30AM",
+    "title": "Alector Announces Pricing of Underwritten Offering",
+    "url": "https://finviz.com/news/403517/alector-announces-pricing-of-underwritten-offering"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 00:21:00 GMT",
+    "title": "Alector (ALEC) Stock Fair Value Rises After Genentech Deal Draws Split Analyst Views - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGMzOUVhY0p1enFTc0lUQVlEaVR6Sk1RT2dUVHVPSlZzdmVfbEtiRVFEaG9UWklHM2xTcm1nc29aTjJVU1FBYVJHVnlobHQwYVhTNHRGZWpyclRFczREOTI0bUtQVllNZXRybjRYWnZNY1hyd3ZyVHRwMVJvSUgzZ2RvMXROX0Y5UVJKcnE4ZE5qZ2lVQVZibmxR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 11:40:00 GMT",
+    "title": "Alector Prices $75.0 Million Underwritten Common Stock Offering - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVU9mVnBVWGZkeE5YbHhtWTVjbHkzcnVvc2J6UUpITk9JVDZlR3lrY05DMkwwVDRQV1lWWV9CMlRHeG1TRVMwazFtQmt1elRpU1Z4eXpVNTIzVEdUTFFqWXA1SDNwLUtzbDZkZnZiaFR0Tm9iTVE5blZZU1pxaXhYamdGc3RSUHZLTkhORGZCVUI5UGEzclNnNEJTQjNNTWM?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 12:58:45 GMT",
+    "title": "Alector stock rises after pricing equity offering (ALEC:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXpCdFRiV0VJUy1IQzBGLXhPN1FHQkJGa2NpcV82Z3Z0Sm8wVkNpQUdxUmw0SVQ0dFp2Xy1ITjNQRFZmeWxWM1phSnJxY2l1dkd6a0dIcEtHMjBLQ3l4MDhKRDQ3YUhNbG1Hdl9wdGdxcXpubG1JMGc1azJTUGt4N3F5WFM5UDh2?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 04:47:57 GMT",
+    "title": "What Alector Bears Saw Before The Fall - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2ZVWFk1aUJuNHIxZFJZSlZhTDhGZkRiUF9QXzlEN0NrQlBNMk9xeGZnbnhRSnBkZ2lKdkxja1AxU0lfN1ZDb2loT2p0WXRTMERqejZnWE9fU2hHWGtKVHBtZUhhNFVtaFFNYnhHOEFBWEtLaVp6eUFGNnRCMU5oMXpJMUNHNDFyS25NdkhnWVNMQXpWOTk1a0w0bU5WazNELW9Vd05VcVVHYzZHUWVNYjVseVBIcFRsU1hB0gHAAUFVX3lxTE1rYVpENXdjMWJtUnRhVXpGWlBTamQtRV9wam12RVl3Q29YWF8yeUU5eDVJNXJUMlJxWWZQNmVhYThFT0w1UDI2c0dqV2NDX1ZMR0dMc1ROMFN5YUZKc3NlMEdudjcyWkYyQm4xQVFscDhveXMtV3RLN2RDZzBrUVBNamkzWG1PWEV2MXlwTEdqLURETkdzTGU2bE11ZUlmTFZENndfdmlRR1dLa3IxeXc4OHVkSGhTckNsa2JIdXVzZw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 23:06:19 GMT",
+    "title": "Alector, Inc. (ALEC) Discusses Strategic Advances in Next Generation Neurodegeneration Therapies and Pipeline Developments - Slideshow (NASDAQ:ALEC) 2026-10-15 - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOTVXN1RzYi1Ka3NYNkdESEppOE1TM2U5b0xNdVBIdFVrSWhldmE3dDFkQjFvajREdGZjZkk2RnNVWEpZZFEtc3pCTU0yem9hN01lSkZJbm50NFdIWTQ2SzFxLUlWYXhUTmRKeUxRV2JIRGFVMXFpNXNvQWMyWDZhZDg5WjJONUxIdDhTdUduQzRrcVNwYmxRX196X1pIT01weEMwXy1ackdwUFJ4SHp3NDBvcWl5bkxyWm54dm9NNHV3bEZUOVRVcjE5QTFDdw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 13 Oct 2026 14:51:00 GMT",
+    "title": "$ALEC stock is down 10% today. Here's what we see in our data. - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUl0Vk9fd0I5STJzaTdaT1RsN3ZTbVVXbFpJTzhTaU5nWFQwRk9aeVpRLTFRZ1NWQW1RaVhJRGcwY2M1dFlYdm1XdVljcEl4RFhlWnlsZU94a2dMWUYzaEtSLTdadU85Q3lqQm5kS2cyWVFUZ3RQeDlDTXBMempieVlELWRPSG9NaGNka0tMV1N1cDR3SGZzSGtwVU1NRjNmb0VF?oc=5"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "pricing of"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "UAMY": {
+  "ticker": "UAMY",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 23:00:02 GMT",
+    "title": "CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb2JfeWhWbG91TkNoUk5IejNzRlpWUW1hMjFWTDRGRnZGRjdGLVdObXRjNEtUd2lTQktSQmN5RVRNSXI1cUlvQ0RqS3UwRkRBMHdlakdNbFV5eXllaXVmaURDdndpaUtFUEtOdHNqaTB3QUZhU2xNMjlodnlLWDdhRkp2ejRBQWtqZ0IxakVrQ1BaUURDUDBKNUo1MjMtd056N2xXOEQ3OWMtVDlTUHlHZFZLa1NSdElNdi1NeEJ2Y0t1RnBmWmt1eWdoYzNJbkVNM0RoaTl4ZktfYTZueTRJOG0xb2UyZzhZTEVXcmQyV0Fwdzg4LWRQdkFsQQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 11:44:02 GMT",
+    "title": "UAMY Oct 2026 1.000 call (UAMY261030C00001000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TZkljWWRuWW0xVGwwTXNkcjhKYWtIeDI2WWRyT3RUblN5VF95M1hkX3FXUTBlUmNsNlJxWkJBTk8wZGt0Z0RjX0lFT0Z3amFFVzFUaXhFdFFUOG5fTnBFQzBnT3hxUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 14:08:58 GMT",
+    "title": "UAMY Oct 2026 1.500 put (UAMY261030P00001500) Stock Historical Prices & Data - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pbFc0TEEyZkZ5c1Y3cUIwZENFMld6VElIOWlDVlIwRC1ROWNLalFBVTM3ZXZtT3hKeTJESFhudXZaTmNLUENaZDlaQ3Z0bThGd2lTaVVkQmcyOVhLbTRHcTg3X1UtYUhjYWFKQ0dvaEs?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 12:37:10 GMT",
+    "title": "UAMY Oct 2026 3.000 put (UAMY261030P00003000) Stock Historical Prices & Data - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZN0tvcThnYkF0Wm5ScHJ2Q055MURkSUxLQVEwMHR1WmQ4V0ZCSlFmWWkwc256eFBUR0pxMThtM1NTcnZSTG5FOUhxMGpsVktlMUlvNXdKY01KcGw4NU9teHBodFVENTB3bTl2M21tbGw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 13 Oct 2026 07:47:36 GMT",
+    "title": "UAMY Oct 2026 5.000 put (UAMY261016P00005000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Eb0VUTVVQRGxLNnFhTFBsdTBndzc1U2JiZzlHazRfTVMwMkVfc0phT1JNbWcwZk1CTVR6RFBidTJSRmZybFhFa0RUelJoU3EtdGJVeW84ZDZLTzFiXzdWWlJPaFdEdw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "RGC": {
+  "ticker": "RGC",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 19:45:57 GMT",
+    "title": "Regencell Bioscience RGC Stock and Hims Attempt Bullish Breakout as Healthcare Stocks Revive - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3JNZ2NaQzBVS2JMWC1vRHk3R00yZUFTTzlaOHU5OHhOVHJkUEZfZ0tCSEdqTXdFYVBDbTFoMk5oZjdSakVBQS02b1g0SUh4RWlrMEZSbWVZWFpOX3pMZ1ZqbllYZE1PUW56TTQzdG5ZX3JXQzR4TWc5WlJHWm9NZGxOR05Nd0JXYzdpelpleXZsZmVsUkRUd3A0cjk5cWQtWHlCMGNsNm1RVnlDcmprSE9tbHNEQzN1V0haOEFIb29ZUkZFeU5TSmNrV1A0WjB6?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 02:53:41 GMT",
+    "title": "RGC Resources grants 242 shares: dividend per RGC Resources stock is USD 0.2175 - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZHRFNFBPdEgwUlZvYy1Fa3gzLV9uakQ2eUp1NW1lTHJLTXRsc1FHTzlwZXZvTF9iMWU1R1NPdk1rNHBJRHRLQXZrVzgta04yemNiM0hBYjFzMmEzc1QzN0RFWC1STnZkbFlzSTFhSFlZTWNUU3hyQ1ktMTB4MDZNc2pWNWk0OWxrRzBWb0NFSnlBUmp0VjlXLW1UZmRnYzduU0pBWDNNcFNMa1BONGdjR2M2blo5QkdwLURZX2dYZnpBMEhHaUtrVEpn?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 15 Oct 2026 17:05:51 GMT",
+    "title": "12 Health Care Stocks Moving In Thursday's Intraday Session - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLWVHd01JYVZQZnYxS1VxUkpQOUU1SkEwYVNzdEIzM3VnU2dVc3UyZG1TbE5IeG9WaUZvekc3Nm04SjZiT0lub2dCUEVOSU5rb3RuMlQ5a2ZTLTRqTVpCcGpyOXM1elN5Zy1RWDl1YjBCaTRsdGxrZTd0S2c4NUVYOHBkMmVfS0F2NW5ueDZKX0M4ZVk1UmU1TEdrNHVULUhKTS1tbFRsWHc2U0dlaXE3QkUyUGZhNER2N09JNGlqQmxSQ1J6bmNhU1BHWWVoUGZvT1l0d2ltMHdwdw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 14 Oct 2026 18:58:53 GMT",
+    "title": "RGC Oct 2026 10.000 call (RGC261016C00010000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jQ2otaVFLcDEyOUhha2JSUjlWc05sVGt4bHJEalFrTlBOVDIwNFBaMTRrZFczNGlJLTFQODZSaFVvYWRtRlNDWGlkODFyU2thM3F2N2hsbTVsNXFMZWNfRGZuTWo?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 14 Oct 2026 19:48:48 GMT",
+    "title": "RGC Oct 2026 10.000 call (RGC261016C00010000) stock historical prices and data - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZV3RrU1dGY2NIdzROY2dUQW5wTGltX2JXRkVWTGJ2MVBWeFVmQlFXSElYMWp1Nnp1WWxjZ1JfXzU0Z0hhT1lDa3MweUFobFluLVlGbFRYUm5Odk00cnJtM1FBdjI4OEtnWXF0T3lIYw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  }
 }

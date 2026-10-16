@@ -1,8 +1,26 @@
 {
+ "RGC": {
+  "tier": "Unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "No catalyst found (no 8-K/PR; headlines are a technical write-up and an unrelated company). 2025 meme name -85% off high, 3m +86.7% run into gap. Gate 2 fail, Gate 3 fail (0.3x ADV, large cap under-read noted), Gate 4 fail ($2.2M proj $vol)."
+ },
  "SITC": {
   "tier": "C",
   "grade": 1,
   "verdict": "NO TRADE",
-  "why": "Liquidating REIT: $32.4M DTP JV sale + $3.00/sh special distribution (85% of price) then voluntary NYSE de-listing before 2026-12-04 with no replacement listing. Not an EP catalyst; Gate 3 fail (0.1x ADV), Gate 4 fail ($1.6M proj $vol)."
+  "why": "Liquidating REIT: $32.4M DTP JV sale + $3.00/sh special distribution (85% of price) then voluntary NYSE de-listing before 2026-12-04 with no replacement listing. Not an EP catalyst; Gate 3 fail (0.2x ADV), Gate 4 fail ($3.0M proj $vol)."
+ },
+ "UAMY": {
+  "tier": "Unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Sector sympathy with CRML/MP/USAR on Trump defense critical-metals push; no company release since Sep 30 Q3 DoW shipments update. Gate 3 fail (0.1x ADV), Gate 4 fail ($4.9M proj $vol), overhead 99.3%."
+ },
+ "ALEC": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Priced $75.0M underwritten offering: 36.6M shares at $2.05 (7.3% premium), closes ~2026-10-19, ~44% dilution. Offering = Tier C = 1 star; also Gate 3 fail (0.1x ADV; real volume event was Oct 5) and Gate 4 fail ($2.7M proj $vol)."
  }
 }

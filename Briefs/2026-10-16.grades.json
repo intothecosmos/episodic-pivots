@@ -1,4 +1,14 @@
 {
+ "RGC": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-16 09:16",
+  "label": "v2"
+ },
  "SITC": {
   "tier": "unknown",
   "grade": 1,
@@ -6,7 +16,27 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-16 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-16 09:16",
+  "label": "v2"
+ },
+ "UAMY": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-16 09:16",
+  "label": "v2"
+ },
+ "ALEC": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-16 09:16",
+  "label": "v2"
  }
 }
