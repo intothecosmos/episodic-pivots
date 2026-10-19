@@ -15,9 +15,28 @@
    {
     "src": "Nasdaq",
     "date": "Oct 19, 2026",
+    "title": "Disc Medicine's Bitopertin Meets All Phase 3 Goals; FDA Resubmission Planned ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/disc-medicines-bitopertin-meets-all-phase-3-goals-fda-resubmission-planned"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 19, 2026",
     "title": "Disc Medicine Set To Report Phase 3 Bitopertin Results In Rare Blood Disorder; Stock Up ",
     "publisher": "RTTNews",
     "url": "https://www.nasdaq.com/articles/disc-medicine-set-report-phase-3-bitopertin-results-rare-blood-disorder-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 08:48AM",
+    "title": "Disc Medicine Shares Rise 60% After Phase 3 Bitopertin Trial Meets Primary and Secondary Endpoints",
+    "url": "https://finviz.com/news/403992/disc-medicine-shares-rise-60-after-phase-3-bitopertin-trial-meets-primary-and-secondary-endpoints"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 07:55AM",
+    "title": "Disc Medicine surge 60% on positive Phase 3 trial for rare sunlight disorder",
+    "url": "https://finance.yahoo.com/healthcare/articles/disc-medicine-surge-60-positive-115540132.html"
    },
    {
     "src": "finviz",
@@ -65,6 +84,19 @@
     "title": "Cleveland-Cliffs Reports Net Income In Q3 ",
     "publisher": "RTTNews",
     "url": "https://www.nasdaq.com/articles/cleveland-cliffs-reports-net-income-q3"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 19, 2026",
+    "title": "Cleveland-Cliffs (CLF) Q3 Earnings and Revenues Beat Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/cleveland-cliffs-clf-q3-earnings-and-revenues-beat-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 07:57AM",
+    "title": "CLF Stock Flashes Buy Signal On Steelmaker's Massive $4 Bil Outlook",
+    "url": "https://www.investors.com/news/clf-stock-cleveland-cliffs-q3-earnings?mod=IBD_FV"
    },
    {
     "src": "finviz",
@@ -121,12 +153,193 @@
     "url": "https://www.wsj.com/world/americas/cleveland-cliffs-braces-for-fight-as-canada-looks-to-block-layoffs-at-stelco-a8346d7a?mod=wsj_FV"
    }
   ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "EOSE": {
+  "ticker": "EOSE",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-19",
+    "form": "8-K",
+    "items": "2.02,7.01,8.01,9.01",
+    "title": "8-K 2.02,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026066229/eose-20261019.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 08:30AM",
+    "title": "Eos Energy Enterprises Announces Preliminary Third Quarter 2026 Revenue Growth and Continued Gross Margin Improvement and Sets Conference Call Date",
+    "url": "https://finviz.com/news/403957/eos-energy-enterprises-announces-preliminary-third-quarter-2026-revenue-growth-and-continued-gross-margin-improvement-and-sets-conference-call-date"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 12:30:00 GMT",
+    "title": "Eos\u2019 share of revenue left after production costs improved for an eighth straight quarter; its latest estimate is below zero. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb082OXNiNTRsTUlLNm91Mng2YUlkUkVoRHVWS2VOdUpUeUZpdHhPRGVxdzZ2RFdXanRuZEhvWDl3WmRJal84MFlhYnZYUUJycmhJbThKMUduZmszdHh4c2NnOGRIWnAtQThqUnEzcmFnUmxEOXZZMVBqWWk3Y2xBejAyYV9iam9RMTVSdEZ1d2laNjdXSjY0d2YwMnB3MHRpbGI1WVRTaHRScXNjbWY5RVR6VFVPWG9DRHc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 16:33:00 GMT",
+    "title": "EOSE Stock Slides As Legal Probes Pressure High-Risk Battery Play - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFJialVhTlN3bEpUejNuWk9BT0t5dEk5TXo5QUwzRXd4SlpqOUpUeUxQQ0V0LWNUTWM2N1RRcXNHb180NER3QlFDSVZEZnBha25VRnJ5TXluVTBmcVV0X1VmWThFYTVLcTY5aDNvaklsejJqQXh3ems3N2czaHoyZC1YQkw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 19:22:00 GMT",
+    "title": "$EOSE stock is down 15% today. Here's what we see in our data. - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaDZzSXhyTUFyY0MtNFRTd0lmU3ZKR3l6N0V6M2E2RDNRdldUZFBhb0pCUWwteF8xRkdvUjRaUlc1UVVHUm9sNFZMb1FONklLWGdlN09TQmRFeEdWS3BLbl9GQlVVT3dCYW0tXzlMMzJJQVNqM0pqRjQxZmEzMG8tX2V1WnlwSmlZS0p2X2FhRTVIR1plcU5zYWE3dUtPRWtVanc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 16:08:14 GMT",
+    "title": "Eos Energy Enterprises (NASDAQ:EOSE) Stock Falls 5.8% - Here's What Happened - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWkyRW1JdnQ0bG1rSUdWeURMWUUzNXFSOTB0TEhKTzR4SFFXR0tPcFBUdlQzNWlISUIzR0JiX01hVURTNnRQV2xrWHgwOXg0YXh0RUdtN1ZvbXJZWm9lbVVrODFycWtMblRqMUVzbzFOeTIwSE5DZFQ5WjhTczdxV0V1R01ESkJCVEZwQnRkVVI2U290eExFaHhxbDJxV2ktaU5vcE16dUxyTXdZcmEzN3dTQjgwdV9GampmOGl4SEo1ZmxwalNKZw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 18 Oct 2026 15:31:53 GMT",
+    "title": "EOSE Jan 2029 4.500 put (EOSE290119P00004500) Stock Historical Prices & Data - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nb2FXUVRPUjV2N2R3Q25iZ2ViUWx4R3NTa096cHZHUHRBdTRhdER6dlowdDd6TXR4cWExcGtSQnlRSjlzUUduR19ub1R6YlZReWstSFlPUGZ2WmRKakhSWWJDM25MbVBUa3B1Q3NpcUI?oc=5"
+   }
+  ],
   "pre_tier": "B?",
   "pre_tier_hits": [
-   "earnings",
    "revenue",
    "8-K item 2.02 (earnings)"
   ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "XE": {
+  "ticker": "XE",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 08:30AM",
+    "title": "X-energy, Amazon, American Electric Power Partner to Bring SMR Project to Indiana",
+    "url": "https://finviz.com/news/403968/x-energy-amazon-american-electric-power-partner-to-bring-smr-project-to-indiana"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 08:30AM",
+    "title": "AEP Partners with Amazon and X-energy to Explore Advanced Nuclear Energy in Indiana",
+    "url": "https://finviz.com/news/403965/aep-partners-with-amazon-and-x-energy-to-explore-advanced-nuclear-energy-in-indiana"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 12:30:00 GMT",
+    "title": "Amazon intends to buy power from 12 small reactors if Indiana project advances. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFNxaGJoeHBRRG9WaUFvNE5FS281Z19qRTJkSVpzRFVEYWMyTmM3NEx5dTBXQXlaTjIyaDNSenNqR2VHRzF1OGhyQzdpLVQyN3prM0xiYk1mZ0cyeVU2LUpFU25PRW41YjlTbGFFTTJfTHBBTWdBRmdfT3NpcllJU0tRTGVpM3A1RE56Z3VWNHU4UWZ1NGtBeUtLaGxmeDhFVDBqVGFCalRFa3puYzRKS1JyaEpab1AybUE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 06:42:02 GMT",
+    "title": "Technical Reactions to XE Trends in Macro Strategies - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR3NXZnR5RFZuT3VTT3ppZ25STUw0enlQYzRJS2xnVTRvTW9GVlM2YW43ZWxCWlZCeFJnV3lDZTRLeUdGRXNqRmRDSDllVDdscjFPU1JmQzZVSlA0M0U4TWNNSGE4ZnRWNlEyWHM5cll6RDViOG1lcXU0Y2wxNi04NU9IdXBPdWlvQ056WERxb2FrdkZqa1BJbXBvTHo0RkF3V0FsMldrd1I0cUtDVlcyZkJsUUZkN2pMbE5jb0dyTVlzRGxuZnNnMktDNmo?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 17 Oct 2026 05:14:15 GMT",
+    "title": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday? - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbVVSam1JdTZoSWJZbnJORzZvT3FvcmI5alFsRHVBNTd4OC1Ca3dKeG4zcGZ6RjM1R1hVOXpIQW5ZV3czdWo2Z1JVQTNwMTVGcTAwS1o0bDlZdVdaYUl3Uk94XzhNaDM4U1ZDWEdlUTlvZHAzdkxGR0VYOVcya1R2RHZSUlJiY0w3YURyaG5hYl84ajFDWFg5UTB6aHNuWXdFd2tzdE1nTXA1dy1HdHdLVHg3Z3QxWmJnMDV5Tnh5Q3U?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 17:52:30 GMT",
+    "title": "X-Energy (NASDAQ:XE) Stock Falls 8.5% - What's Next? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2x5azQzVS1ES2J4b1lhWU5SczRURTdsYzlXRnlRN1NqbUk2VFhrTDhmRllNTlVzMlc1WC1fNEFzV1p6RWJrTEM4akRBSGtlTWFodEZEREI2LTJNWWRLRTJfZTExcE55d25vN3ROWFpzeE5EOS1KWkgyT3dETjcxV3RySjFQSHM1c1dNUTBQRFJRMEZ2dF9jeHlGY1FzVGFaSmRfaGk3UQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 17 Oct 2026 00:44:00 GMT",
+    "title": "X-Energy Inc. (XE) Stock Price | Live Quotes & Charts | NASDAQ - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uVmtBaHFWY2s2THpJQTdkampGYzRlMjBXbEVNeFcwWVNnWGoxd1FGQnlRdUd2NEdVNUNIUEJqTXY4U29CclVBQXh3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 06:34:00 GMT",
+    "title": "Lobbying Update: $50,000 of X-ENERGY LLC lobbying was just disclosed - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWhIUnp1Q21aVmhPN0FFVXlLeFAxZXZucTVEWUpRaVgyZjlBcjJRM3RDRVBNUmF3ZlpZUV84TWwwN2w0ZHk3R05Ua1JoaFZlVVFCTDFYVGVZQ1VTeDBKWGdsdE1wWmRzc1ZicW1WVzBkYTdRVDJtTG4tNkVWNzVXZi13TDFRUXhuV1BhTU9vRHdlRXVkeF85WXotcjk0bVJSeEs4dDBxeXY3QUU?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 16 Oct 2026 08:21:31 GMT",
+    "title": "X-Energy, Inc. (NASDAQ:XE) Stock Rated \"Moderate Buy\" by Sell-Side Brokerages - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM2t1dnJJcmFqaTlfOUp1MUNscVA2SmdmVTdhd1lTc081N0JXZGRGbzJfZnNWRmNudWZ4U0JJeHFneUVfZDdlUXVqTHpIZ0cxQWZQYkJ4eWF6LVFvWmVfdzBoOUlHcUF5REJLZ1FDbEd5MjU2aXZ2Y1lKNzdZSXVKdnVfaWpyaU52cExkZ2ZiX0gwLWFPNE5iMVptQnRnTXJLUHBMcFdZQUJuekJpTTBzNHJIZlNtSUdoRzFwUmNpLUtnd0owdGJwcDRfcnBsWlJL?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 17 Oct 2026 08:44:45 GMT",
+    "title": "Why Did OKLO, XE, SMR, NNE, UEC Stocks Tumble On Thursday? - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSzNnLTZJVVM1UTQ4c21lSUVoMU0yTngyUXE1NU9UQXVpWi1KQWxGX0t5RC0zWTc0cDRMenZ4YmY3emZmbUpfdGsxa0lDY0ZKOHYyZkliRFdMNHZsbVphT2FJT2RRVTJ3clpqdVo4Q3VobjdvLWE4OWpwakVpbUx4cFVQMTZWY3NTMkpPVXpqR0k0RUlOQ0h3VG1aMGlGTGxPdXdLS1R3MTlBUE9PUjY4N1I2OW8zYk9W?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "EQPT": {
+  "ticker": "EQPT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-19",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1693736/000162828026066204/eqpt-20261019.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 07:00AM",
+    "title": "EquipmentShare Raises 2026 Financial Outlook on Strong Performance and Customer Demand",
+    "url": "https://finviz.com/news/403821/equipmentshare-raises-2026-financial-outlook-on-strong-performance-and-customer-demand"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 18 Oct 2026 14:14:40 GMT",
+    "title": "EquipmentShare.com (EQPT) Breaks Ground On Headquarters Expansion, Is It Still 58% Below Fair Value? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXFoem5CZW5lMnFQTDE1NElLcklVekR1b3BVWmVocTBSaUxlUlFYel82bTcxeGg0T29FdUZibEJMT2lFdXFGQnlsYTlUR2RTcXB0UVQ1OVdoVGd3Y2ZQa053VjVyU05yRjFRZ2l6clNHVng5YTJxTmo0UnZ6a3lCbnpIMFVBd3ZCVXRGWlEzRnNPZWxnVXppM0NjRVA3UEZjY1NaaQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 18 Oct 2026 19:20:18 GMT",
+    "title": "EQPT Jan 2029 15.000 call (EQPT290119C00015000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55LWxoX2dVbW1zTG84a3BMbzdCc2lGcm1wZ3FrdUVQTGhKaUYxZE90VjRiU3NXTGJzV3Q5Z1N5Nl9iczZfOXIzQ1RmeGxTX2RVQVZzazFnQkRlQWlYNXNVbmdkNkEtdw?oc=5"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "RYDE": {
+  "ticker": "RYDE",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 18 Oct 2026 19:29:39 GMT",
+    "title": "Press Release Distribution & Media Outreach Platform for PR Agencies - ACCESS Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY2lfcXNhb0JVcjNab3Y1OGVBUTZ2bUYxbEFvUzZ1NXpyX2d5OXVNZHF6cDBESWxWeTJZVmhlb1puMTJETk94Rk1ydTZPMHQ5R0ZnVHE0VlAya3JlR2NlcklONktuNzB1Q0ZidTFIaTl5Zlc3anJpa2NNWVR0Y0loSU9oWVhUQlVKQ1NCbWpfd2NXZ2hiblc2YTY0MUQ5OGhrSGJKZWxxYTZqWDJRMC05RUhqcnBTYTVBdV92VEwxR0ZTZnlienVBYWRKTjF6ekJfSm1ETm5icnlmcDJVR1k1aU5YQk8?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  }

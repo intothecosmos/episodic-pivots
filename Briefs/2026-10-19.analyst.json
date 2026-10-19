@@ -1,4 +1,8 @@
 {
-  "IRON": {"tier": "A", "grade": 3, "verdict": "WATCH", "why": "Pivotal Ph3 APOLLO met all primary/secondary endpoints (PPIX -41.4%, +12.2h light p=0.001); NDA resubmit YE26. 57% gap in >=40% band needs strong volume (premarket 0.46x ADV, Gate 3 fail); prior CRL overhead; regime red. Re-check 09:10."},
-  "CLF": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 beat: adj EPS $0.28, EBITDA $612M vs $575M guide, 2027 EBITDA >$4B. Large-cap cyclical +31% 3m into gap, 0.04x ADV premarket (Gate 3 fail), 12.9% gap; regime red."}
+  "IRON": {"tier": "A", "grade": 4, "verdict": "TRADE (half size — regime red), ORH reclaim only", "why": "Phase 3 APOLLO met all primary and secondary endpoints; gap shrank 57%→~28% at open after an 18% premarket fade; Gate 3 pass 1.3x ADV premarket, record-day pace; OR wider than 1.0x ADR cap so size down or skip; earnings est 11-05 just outside the window; regime red"},
+  "CLF": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 beat + 2027 EBITDA >$4B guide is Tier B earnings; premarket volume under-reads a 560M-float large cap but it is a +31%/3m cyclical run-up, not an EP profile"},
+  "EOSE": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Preliminary Q3 revenue $82-83M +170% y/y but gross margin still -53 to -55%, FY26 guided to lower half; Gate 3 fail 0.1x ADV; overhead 98.8%; earnings 11-05 confirmed"},
+  "XE": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Non-binding JDA with AEP/Amazon for 960 MW feasibility, no dollar value; Gate 3 fail 0.07x ADV; gap decayed to +7%"},
+  "RYDE": {"tier": "unknown", "grade": 1, "verdict": "NO TRADE", "why": "No catalyst found; Gate 4 fail ($0.1M projected dollar volume)"},
+  "EQPT": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Raised 2026 outlook; Gate 4 fail ($3M projected dollar volume)"}
 }

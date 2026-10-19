@@ -1,22 +1,64 @@
 {
  "IRON": {
   "tier": "A",
+  "grade": 4,
+  "verdict": "WATCH (event-capped)",
+  "why": [
+   "event: earnings 2026-11-05 (est)",
+   "regime red \u2014 half size or skip"
+  ],
+  "snapshot_et": "2026-10-19 09:24",
+  "label": "v2"
+ },
+ "CLF": {
+  "tier": "A",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.46x ADV (premarket)"
+   "volume: 0.1x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-19 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-19 09:24",
+  "label": "v2"
  },
- "CLF": {
+ "EOSE": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)"
+   "volume: 0.1x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-19 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-19 09:24",
+  "label": "v2"
+ },
+ "XE": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.06x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-19 09:24",
+  "label": "v2"
+ },
+ "RYDE": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-19 09:24",
+  "label": "v2"
+ },
+ "EQPT": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-19 09:24",
+  "label": "v2"
  }
 }
