@@ -1,0 +1,22 @@
+{
+ "IRON": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.46x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-19 07:47",
+  "label": "v1"
+ },
+ "CLF": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-19 07:47",
+  "label": "v1"
+ }
+}

@@ -1,0 +1,4 @@
+{
+  "IRON": {"tier": "A", "grade": 3, "verdict": "WATCH", "why": "Pivotal Ph3 APOLLO met all primary/secondary endpoints (PPIX -41.4%, +12.2h light p=0.001); NDA resubmit YE26. 57% gap in >=40% band needs strong volume (premarket 0.46x ADV, Gate 3 fail); prior CRL overhead; regime red. Re-check 09:10."},
+  "CLF": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 beat: adj EPS $0.28, EBITDA $612M vs $575M guide, 2027 EBITDA >$4B. Large-cap cyclical +31% 3m into gap, 0.04x ADV premarket (Gate 3 fail), 12.9% gap; regime red."}
+}

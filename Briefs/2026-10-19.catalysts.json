@@ -1,0 +1,133 @@
+{
+ "IRON": {
+  "ticker": "IRON",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-19",
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "title": "8-K 7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1816736/000119312526424649/d156263d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 19, 2026",
+    "title": "Disc Medicine Set To Report Phase 3 Bitopertin Results In Rare Blood Disorder; Stock Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/disc-medicine-set-report-phase-3-bitopertin-results-rare-blood-disorder-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 07:00AM",
+    "title": "Disc Medicine Announces Success on All Primary and Secondary Endpoints in the Pivotal Phase 3 APOLLO Trial of Bitopertin in Adults and Adolescents with Erythropoietic Protoporphyria (EPP)",
+    "url": "https://finviz.com/news/403816/disc-medicine-announces-success-on-all-primary-and-secondary-endpoints-in-the-pivotal-phase-3-apollo-trial-of-bitopertin-in-adults-and-adolescents-with-erythropoietic-protoporphyria-epp"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-18-26 05:00PM",
+    "title": "Disc Medicine to Host Corporate Webcast to Discuss Topline Results from the APOLLO Phase 3 Trial of Bitopertin in Erythropoietic Protoporphyria (EPP)",
+    "url": "https://finviz.com/news/403730/disc-medicine-to-host-corporate-webcast-to-discuss-topline-results-from-the-apollo-phase-3-trial-of-bitopertin-in-erythropoietic-protoporphyria-epp"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "phase 3 .*(met|positive|success)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CLF": {
+  "ticker": "CLF",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-19",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/764065/000076406526000112/clf-20261019.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 19, 2026",
+    "title": "Cleveland-Cliffs Q3 26 Earnings Conference Call At 8:30 AM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/cleveland-cliffs-q3-26-earnings-conference-call-8-30-am-et"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 19, 2026",
+    "title": "Cleveland-Cliffs Reports Net Income In Q3 ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/cleveland-cliffs-reports-net-income-q3"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 07:07AM",
+    "title": "Cleveland-Cliffs Expects 2027 Will Be a Very Good Year With Help From Tariffs. Stock Jumps 14%.",
+    "url": "https://www.barrons.com/articles/cleveland-cliffs-earnings-stock-price-d4d7ae2e?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 07:04AM",
+    "title": "Cleveland-Cliffs Revenue Rises on Higher Volumes, Selling Price",
+    "url": "https://www.wsj.com/business/earnings/cleveland-cliffs-revenue-rises-on-higher-volumes-selling-price-bcf7fc17?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 06:35AM",
+    "title": "Cleveland-Cliffs Shares Rise Over 7% as Third-Quarter Earnings Exceed Expectations",
+    "url": "https://finviz.com/news/403791/cleveland-cliffs-shares-rise-over-7-as-third-quarter-earnings-exceed-expectations"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 06:07AM",
+    "title": "Cleveland-Cliffs: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-q3-earnings-snapshot-100740322.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 06:00AM",
+    "title": "Cleveland-Cliffs Reports Third-Quarter 2026 Results",
+    "url": "https://finviz.com/news/403772/cleveland-cliffs-reports-third-quarter-2026-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 04:18AM",
+    "title": "Monday's Economic and Earnings Calendar",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-bounce-back-teach-earnings-third-quarter/card/monday-s-economic-and-earnings-calendar-se7fOQrlmQ3q5eCysMKY?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 03:36AM",
+    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to bounce back ahead of crucial week of tech earnings",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-bounce-back-teach-earnings-third-quarter?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-16-26 10:28PM",
+    "title": "Steel Dynamics Earnings Ahead: What Past Reactions Say About The Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-earnings-ahead-past-022819366.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-16-26 04:01PM",
+    "title": "Cleveland-Cliffs Braces for Fight as Canada Looks to Block Layoffs at Stelco",
+    "url": "https://www.wsj.com/world/americas/cleveland-cliffs-braces-for-fight-as-canada-looks-to-block-layoffs-at-stelco-a8346d7a?mod=wsj_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
