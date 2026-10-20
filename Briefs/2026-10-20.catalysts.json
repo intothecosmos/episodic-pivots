@@ -1,8 +1,79 @@
 {
+ "BRZE": {
+  "ticker": "BRZE",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-20",
+    "form": "8-K",
+    "items": "1.01,8.01,9.01",
+    "title": "8-K 1.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1676238/000095010326015850/dp254600_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 20, 2026",
+    "title": "Salesforce To Acquire Braze For $5.66 Bln ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/salesforce-acquire-braze-566-bln"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 08:37AM",
+    "title": "Salesforce to buy Braze for $5.7 billion, CRM shares slide 3%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-buy-braze-5-7-123750798.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 08:12AM",
+    "title": "Salesforce to Buy Marketing Platform Braze for $5.7 Billion",
+    "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-buy-marketing-platform-braze-121214100.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 08:00AM",
+    "title": "Salesforce Signs Definitive Agreement to Acquire Braze",
+    "url": "https://finviz.com/news/404518/salesforce-signs-definitive-agreement-to-acquire-braze"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "definitive agreement to (be )?acquire"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "SAIQ": {
   "ticker": "SAIQ",
   "filings": [],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 20, 2026",
+    "title": "Up 35%, Should You Buy SpaceX Stock Right Now?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/35-should-you-buy-spacex-stock-right-now"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 08:00AM",
+    "title": "WISeSat.Space and SEALSQ Advance Satellite Cybersecurity Hardening as FOSSA Launches New 6U Satellite Aboard SpaceX Falcon 9",
+    "url": "https://finviz.com/news/404507/wisesatspace-and-sealsq-advance-satellite-cybersecurity-hardening-as-fossa-launches-new-6u-satellite-aboard-spacex-falcon-9"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 12:00:00 GMT",
+    "title": "SpaceX launched a satellite carrying cybersecurity hardware. WISeSat plans tests in orbit. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMEVRV1FiQ19aUlpVbGhpQzU1Q3JIRkdxZGR1WUlLa3JXWGF2N3VEMkt1MWY4UFRyVHhyNjBqV21JbUlISzJsdlZCSmR1NUJhUUhIbThEMjJrRzBCcmZLSEhpeWZaRXFUeDkzWVNXc0YzVWdMcWZJTmM3SHhSbGFIZzBNLVZCRjlqN2ZCSkM2WEJ4WEJfWWJQY29DRUU2NDIxaExJb3FQa0wyNmFhbHV4YU1zSzlGN2l1ZWYybEZxOWE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 11:47:00 GMT",
+    "title": "SAIQ Stock Rockets On Nasdaq Debut As Volatility Takes Hold - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0VaM3JkVlU4SXE1SThpRVJDdE5GM1FsNlMyLXQzYmRvdVlsOUFRNUVUM3VHeWVfNzNVR1MtY3llbzQ4Z3ZQcUVTYU40cHNpQWVYM0pZZFFPUUtyenlLc053d0ZyUXpoMHRUOHdMeHg1UFhhanJqNVRYQnJWTUVFano5V3psZVNjQ0E?oc=5"
+   },
    {
     "src": "GoogleNews",
     "date": "Sat, 17 Oct 2026 00:44:00 GMT",
@@ -37,6 +108,12 @@
    },
    {
     "src": "finviz",
+    "date": "Oct-20-26 07:43AM",
+    "title": "Premarket movers: RTX rises, GE slips following quarterly results",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-rtx-rises-ge-114301034.html"
+   },
+   {
+    "src": "finviz",
     "date": "Oct-20-26 07:06AM",
     "title": "Rapport Therapeutics soars over 50% as bipolar mania drug meets trial goals",
     "url": "https://finance.yahoo.com/healthcare/articles/rapport-therapeutics-soars-over-50-110649910.html"
@@ -56,7 +133,41 @@
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
-   "phase [12]"
+   "phase [12]",
+   "quarterly results"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "MYGN": {
+  "ticker": "MYGN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-20",
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "title": "8-K 1.01,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/899923/000089992326000094/mygn-20261019.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 08:30AM",
+    "title": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp",
+    "url": "https://finviz.com/news/404584/myriad-genetics-and-labcorp-announce-definitive-agreement-for-myriad-to-sell-prenatal-health-testing-business-to-labcorp"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 17 Oct 2026 16:50:17 GMT",
+    "title": "Myriad Genetics, Inc. (MYGN) stock price, news, quote and history - Yahoo Finance Australia",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUM2FmbU45eFRUdVhBaXF4elh0STltRVhaNVhuQnpSNEVEeEpHbGZiS3RTVmZQeVlpbG1Ockc4dnlxZUoxRWx6U1dXdkJDRVZpa2c?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 1.01 (material agreement)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
@@ -74,6 +185,12 @@
    }
   ],
   "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 07:52AM",
+    "title": "Hertz shares jump 5% as subsidiary Oro Mobility secures $80M strategic investment",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hertz-shares-jump-5-subsidiary-115250193.html"
+   },
    {
     "src": "finviz",
     "date": "Oct-20-26 07:05AM",
@@ -94,6 +211,18 @@
    },
    {
     "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 11:06:05 GMT",
+    "title": "Investors get 50% of votes in Hertz (HTZ) venture, but Hertz retains majority economic ownership. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOExhQ2xsSWJKNUZlYXB5a19ERDdTUFVwd2laV3dTODJsTGtFcEFwQjhyYzNKTXhzTzFUaC1VdHdteTdlRnZ2am9qaXRHRVFTeVVIOTVKUFFTc2tGUWFoVXdCMGRoVGFfeWdxc1Y5M25kQjdxZmMtcjBWemp0ZFBtLTNDOF81cVNybVYtRjhrQWlsdXJFbEdnV0NBSWtERDY3WUJZVWtFMDVqaEk5WU9ob2IxTQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 21:38:47 GMT",
+    "title": "Hertz Global Holdings, Inc. (Coinbase Tokenized Stock) (HTZC) Price Prediction for 2026 to 2031 - Bybit",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHdtNVBNVFYwWEsyaWxzX1VZczRtSXpVdlQ3eEZzZlpic2dwd3hHTDFXNjJqS0x3Q3dIclJreDBDRFAyMFhlSnJxMEhURFZXdFBJZ0d2WGFjT2NDX3pFM0dHQkxoQllLYWxoTFE4ZkYwUTBPTVhQNl9Ibno1WnFOdU95c3BsY1loS2hTSV90YnBCNjA1MjdRTQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
     "date": "Sun, 18 Oct 2026 03:46:21 GMT",
     "title": "Why Did T, MAT, And HTZ Stocks Slump To 52-Week Lows Last Week? - Stocktwits",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcmpVS0JsVkRNVnBjTGRJOXZWWVN4OVFvaUR0Ykc1VXV4OXNzMHRpMEtuOFBlN1RrMGJldmZOeDMxNXZ6N1Y2aGxoeXlEQ0xVU3UwbDVNbmx1U2Q2MXhXa2JpZmVXbGd0NUlLbXpERll3cXZkYlZianlZQjdfZ1FWSzdDYXdiZk1LeDAwdlVZYTMtVDNNSkFWeS1SRGJKNkt6eWFMcXhKcUozNXNVQ2RaaXV0dm1OMWtqbzVxdA?oc=5"
@@ -103,12 +232,6 @@
     "date": "Sun, 18 Oct 2026 21:46:26 GMT",
     "title": "HTZ Oct 2026 4.500 put (HTZ261023P00004500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TUUJ5S0NWRXBEdW1DVlNPbExrd1ZXTW4zZ1llRjNNUnBDbVZKQlExbXJsQlZiQTFjbVFJTFRTWkQwSjhvdkRhSTRGYzdTNXBWaFhOTFhRc3Z6Z2NYdDFqako5TG4?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sat, 17 Oct 2026 05:33:43 GMT",
-    "title": "HTZ Oct 2026 5.000 put (HTZ261016P00005000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVkh4b0ttaWhjS29wdV85XzhPRnpkc2VmNUl0SXp5TUNXWFFVTWhvNGg4ckdncGkwTVJMU0pNcEdfb3plbGtsZmJBbEdJQ1psdmZhV050bWlBSzNLSTZhWjJ1M0E?oc=5"
    }
   ],
   "pre_tier": "B?",
@@ -119,9 +242,58 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
+ "KVYO": {
+  "ticker": "KVYO",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 07:11:04 GMT",
+    "title": "Klaviyo (KVYO) Stock Looks Discounted Following Its 40% Three Year Fall - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2U5ei0tQWdsTUhvSWtaMGo1WTF1QUZSS1JKd2Jxazhna2QxaDNOcXNjdnVrdlJsaFJKQUNGanlDUDZGc19WS0hoYVdMNWNrV1JaR2JkR0NYbDhwYU9ITVVLc1B0RVR3bEhXNGE2SDZNbjBWMzhMTlF0UGg3RzA1VXQxZUxPcUFJcDItbjBFb055aDZ3MU1IZ240cms2c3RYN0E?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 10:19:25 GMT",
+    "title": "Klaviyo, Inc. (KVYO) - What Are Analysts Thinking About This Stock? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGF5NVJ2RWpKQnY5M3FSMVFHQWVLQUlfS3VpckVpMGtwejFSQkdjUng4OWY2eUpJNEpCLURXZDJSU2l3a3lxWEFHdWU3UE9iZ1hLT3J0Q3RhLVNwR3YySDFCNHg1VnpfRDI2N2R3UGdKOTVHSTdnQ29ZdERxV01tcXR6SUtoSXdjUDBqTDhJY1hGUUo2bFZfTGpaODUtOUg2NngySkMybDVnUjhiT1docFFLWTJ1S3l2a0pnWE1hT2w1QQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 17 Oct 2026 13:58:56 GMT",
+    "title": "Klaviyo, Inc. (KVYO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0p5VkNQYmtJa0NFS2ZZQmMyUUtFdlI4a2RQT2hNOWRUUmFyRVEtcG5DaGo4aHlTVnBna2dURnFBZkRqQnRKSnBublkxNHZwekE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 17 Oct 2026 00:02:32 GMT",
+    "title": "Klaviyo Inc (KVYO) Shares Fall 5.6% -- What GF Score of 27 Tells Investors - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGtKY0ctUFNYY1EtYjQxUlhDeThHMWFOZmZ1V2M1MEFBcEFCMVc2dExlUkJNa0prS3dDTmxfZzJlcnFnT3RnVGlQTkN2cGF3STh1V3hIUHZkOTRqcE9Ic1JXSUlmcUd0NXBOUVZVOUxqZTBxMkZpZG90Q0RJQXNfQ0lUa2kxeEtTSTZwQU91YnN0QldSVlZZN2xlUDFfS0gzVW5KcEVjTmlWZw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 17 Oct 2026 17:57:23 GMT",
+    "title": "Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wTkJENUlJTXQ4WEVRUl81RTFCM2hNNkZQWmgzeXM0em5tb2cyUnVKalBEb05NbUNWYzAzd2IyNkpvYmhkM3ktOVJxSldBYkNSTGc?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "ALVO": {
   "ticker": "ALVO",
-  "filings": [],
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-20",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1898416/000117184326006704/f6k_102026.htm"
+   }
+  ],
   "headlines": [
    {
     "src": "Nasdaq",

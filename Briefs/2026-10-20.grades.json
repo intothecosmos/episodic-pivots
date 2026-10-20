@@ -1,4 +1,15 @@
 {
+ "BRZE": {
+  "tier": "A",
+  "grade": 4,
+  "verdict": "WATCH (40%+ gap, needs Tier A + strong volume)",
+  "why": [
+   "gap \u226540%: historically the worst band",
+   "regime red \u2014 half size or skip"
+  ],
+  "snapshot_et": "2026-10-20 09:15",
+  "label": "v2"
+ },
  "RAPP": {
   "tier": "B",
   "grade": 3,
@@ -7,30 +18,51 @@
    "event: earnings 2026-11-05 (est)",
    "regime red \u2014 half size or skip"
   ],
-  "snapshot_et": "2026-10-20 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-20 09:15",
+  "label": "v2"
  },
  "SAIQ": {
   "tier": "unknown",
   "grade": 3,
-  "verdict": "WATCH (40%+ gap, needs Tier A + strong volume)",
+  "verdict": "TRADE small / WATCH",
   "why": [
    "catalyst unknown \u2014 capped 3\u2605, recheck",
-   "gap \u226540%: historically the worst band",
    "regime red \u2014 half size or skip"
   ],
-  "snapshot_et": "2026-10-20 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-20 09:15",
+  "label": "v2"
+ },
+ "MYGN": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "WATCH (event-capped)",
+  "why": [
+   "event: earnings 2026-11-04",
+   "regime red \u2014 half size or skip"
+  ],
+  "snapshot_et": "2026-10-20 09:15",
+  "label": "v2"
  },
  "HTZ": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.12x ADV (premarket)"
+   "volume: 0.25x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-20 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-20 09:15",
+  "label": "v2"
+ },
+ "KVYO": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.13x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-20 09:15",
+  "label": "v2"
  },
  "ALVO": {
   "tier": "A",
@@ -39,7 +71,7 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-20 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-20 09:15",
+  "label": "v2"
  }
 }

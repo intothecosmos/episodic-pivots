@@ -1,26 +1,44 @@
 {
+ "BRZE": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Cash takeover target: Salesforce $47.50/share cash (~$5.7B), premarket 4.5% below deal price; not an EP per Gate 1"
+ },
  "RAPP": {
   "tier": "B",
   "grade": 3,
   "verdict": "WATCH",
-  "why": "Phase 2 bipolar mania met primary (3.1-pt YMRS, p=0.045) and secondary; marginal stats, 1.6x ADV premarket, regime red; TRADE small only if volume builds at v2"
+  "why": "Phase 2 bipolar mania met primary (3.1-pt YMRS, p=0.045); faded +50%\u2192+21% premarket, 2.6x ADV short of the 5x bar, est. earnings 11-05; TRADE small only on ORH reclaim with volume; regime red"
  },
  "SAIQ": {
-  "tier": "Unknown",
-  "grade": 2,
+  "tier": "C",
+  "grade": 1,
   "verdict": "NO TRADE",
-  "why": "43% gap with no catalyst found (no filing/PR; last news 10-10), 4.5M float squeeze, 73% overhead, recent $10M PIPE; recheck at v2"
+  "why": "Promotional PR: partner FOSSA satellite launch carrying SEALSQ chip, no dollars, WISeSat does not own it; 4.5M float squeeze, 85% overhead, recent $10M PIPE"
+ },
+ "MYGN": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "WATCH",
+  "why": "Sale of prenatal business to Labcorp for $210M cash (~52% of cap); 0.5x ADV premarket below Gate 3 line, confirmed earnings 11-04; needs >=1x ADV by 9:45 else NO TRADE"
  },
  "HTZ": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
-  "why": "Oro Mobility JV: $80.9M investor stake + 2L note buyback at 60% discount; Gate 3 fail 0.1x ADV, 82% overhead, earnings 11-05"
+  "why": "Oro Mobility stake sale $80.9M + 2L note buyback; Gate 3 fail 0.2x ADV, 75% overhead, earnings 11-05"
+ },
+ "KVYO": {
+  "tier": "Unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Sympathy gap on Braze takeout, no own catalyst; Gate 3 fail 0.1x ADV; earnings 11-04"
  },
  "ALVO": {
   "tier": "B",
   "grade": 1,
   "verdict": "NO TRADE",
-  "why": "FDA approval of new SIMLANDI manufacturing process (capacity, not a new approval); Gate 4 fail $1.6M proj dollar volume, Gate 3 fail"
+  "why": "FDA approval of new SIMLANDI manufacturing process (capacity); Gate 4 fail $1.6M proj dollar volume, Gate 3 fail"
  }
 }
