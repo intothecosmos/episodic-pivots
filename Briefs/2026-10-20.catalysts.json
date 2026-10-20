@@ -1,0 +1,154 @@
+{
+ "SAIQ": {
+  "ticker": "SAIQ",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 17 Oct 2026 00:44:00 GMT",
+    "title": "WISeSat.Space Holdings Corp. (SAIQ) Stock Price | Live Quotes & Charts | NASDAQ - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UUkVBa3Q2UVp6SjFGUmhyXzFubXBJY1VvZTA0M0otWnNIM004MTFJZjVrV2VndU1DTk13eUhfMUpIblNNMmhnbDZDQWM?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "RAPP": {
+  "ticker": "RAPP",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-20",
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "title": "8-K 7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526425647/d185134d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 20, 2026",
+    "title": "Rapport's RAP-219 Meets Both Endpoints In Phase 2 Bipolar Mania Trial; Stock Surge 30% In Premarket ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/rapports-rap-219-meets-both-endpoints-phase-2-bipolar-mania-trial-stock-surge-30-premarket"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 07:06AM",
+    "title": "Rapport Therapeutics soars over 50% as bipolar mania drug meets trial goals",
+    "url": "https://finance.yahoo.com/healthcare/articles/rapport-therapeutics-soars-over-50-110649910.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 07:02AM",
+    "title": "Rapport Therapeutics Shares Rise Over 50% Premarket as RAP-219 Meets Phase 2 Bipolar Mania Trial Endpoints",
+    "url": "https://finviz.com/news/404411/rapport-therapeutics-shares-rise-over-50-premarket-as-rap-219-meets-phase-2-bipolar-mania-trial-endpoints"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 06:00AM",
+    "title": "Rapport Therapeutics Announces Positive Topline Results from its Phase 2 Trial of RAP-219 for the Treatment of Bipolar Mania",
+    "url": "https://finviz.com/news/404329/rapport-therapeutics-announces-positive-topline-results-from-its-phase-2-trial-of-rap-219-for-the-treatment-of-bipolar-mania"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "phase [12]"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "HTZ": {
+  "ticker": "HTZ",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-20",
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "title": "8-K 1.01,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1657853/000095010326015848/dp255212_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 07:05AM",
+    "title": "Hertz-Backed Oro Mobility Secures $80 Million Strategic Equity Investment to Accelerate Independent Growth",
+    "url": "https://www.businesswire.com/news/home/20261020471685/en/"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 11:05:00 GMT",
+    "title": "Hertz will own most of Oro, which secured $80 million to expand its fleet. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUt5NjUwY25fTmFsWGRlaVhvZDcyOVc4SE1xXzdoWGhpaUFGbVFReURoT0JVOWNnZm9yUlY2ckVlOEZ5TWtVYjBUM29EUjI1UmJnTXlySElyNWo3NG9DN1c3S09JUy1MZDk4TzFBZ1NDM01uOVZVeEV5cTVmeUFTZVViTjJNYXBDUEhXUVF0TkRPRUI4akhtcm1NdjktWEdKY3JRNWpyUjkxYTRNZUwwR2hENVNxQQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 18 Oct 2026 20:50:05 GMT",
+    "title": "HTZ Stock Rockets 16% After Hertz, Uber Take Their Partnership To A New Level \u2013 What\u2019s The Role Of Oro Mobility? - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaEl2SnA2Ti1ON2MwS3VqZ3lBbUJ6Qlh4V0ZQR2dmbzNaTGdBblpjWTVjYi1WWGpELW1DcVQzVDZPc0dlVGp1QlpTVGprRnRZTEx4bktXZE96NTBUek03Ml9vN0UxUTVSRGY5dnpJQmluNFNFSVZFMjY5RzNwWEtZa1lVMVI4cFUtdjYtVnVNTmxMVzBNVVk2Q0t6WnBzR3ExeFptMjZRNjI1WE9kQjNNZ3FqTVcxTTVsdV9XY1FjaHEyMDRQUG9MRm44SHlWNzRXNURkc1RlMTRRdURMVmUzd0NkbHZiQmxPZnp1MFhFRktyOHRmZHBrVl9rLVZ5WkVl?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 18 Oct 2026 03:46:21 GMT",
+    "title": "Why Did T, MAT, And HTZ Stocks Slump To 52-Week Lows Last Week? - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcmpVS0JsVkRNVnBjTGRJOXZWWVN4OVFvaUR0Ykc1VXV4OXNzMHRpMEtuOFBlN1RrMGJldmZOeDMxNXZ6N1Y2aGxoeXlEQ0xVU3UwbDVNbmx1U2Q2MXhXa2JpZmVXbGd0NUlLbXpERll3cXZkYlZianlZQjdfZ1FWSzdDYXdiZk1LeDAwdlVZYTMtVDNNSkFWeS1SRGJKNkt6eWFMcXhKcUozNXNVQ2RaaXV0dm1OMWtqbzVxdA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 18 Oct 2026 21:46:26 GMT",
+    "title": "HTZ Oct 2026 4.500 put (HTZ261023P00004500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TUUJ5S0NWRXBEdW1DVlNPbExrd1ZXTW4zZ1llRjNNUnBDbVZKQlExbXJsQlZiQTFjbVFJTFRTWkQwSjhvdkRhSTRGYzdTNXBWaFhOTFhRc3Z6Z2NYdDFqako5TG4?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 17 Oct 2026 05:33:43 GMT",
+    "title": "HTZ Oct 2026 5.000 put (HTZ261016P00005000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tVkh4b0ttaWhjS29wdV85XzhPRnpkc2VmNUl0SXp5TUNXWFFVTWhvNGg4ckdncGkwTVJMU0pNcEdfb3plbGtsZmJBbEdJQ1psdmZhV050bWlBSzNLSTZhWjJ1M0E?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "partnership",
+   "8-K item 1.01 (material agreement)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ALVO": {
+  "ticker": "ALVO",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 20, 2026",
+    "title": "FDA Clears New Manufacturing Process For Alvotech's SIMLANDI Biosimilar; Stock Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/fda-clears-new-manufacturing-process-alvotechs-simlandi-biosimilar-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 05:22AM",
+    "title": "Alvotech shares jump premarket after FDA approves new Simlandi process",
+    "url": "https://finance.yahoo.com/healthcare/articles/alvotech-shares-jump-premarket-fda-092253935.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 04:30AM",
+    "title": "Alvotech Receives FDA Approval for New SIMLANDI Manufacturing Process That More Than Doubles Output Per Batch",
+    "url": "https://finviz.com/news/404312/alvotech-receives-fda-approval-for-new-simlandi-manufacturing-process-that-more-than-doubles-output-per-batch"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "fda approv",
+   "approves"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

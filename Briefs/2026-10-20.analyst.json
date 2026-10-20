@@ -1,0 +1,26 @@
+{
+ "RAPP": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "WATCH",
+  "why": "Phase 2 bipolar mania met primary (3.1-pt YMRS, p=0.045) and secondary; marginal stats, 1.6x ADV premarket, regime red; TRADE small only if volume builds at v2"
+ },
+ "SAIQ": {
+  "tier": "Unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "43% gap with no catalyst found (no filing/PR; last news 10-10), 4.5M float squeeze, 73% overhead, recent $10M PIPE; recheck at v2"
+ },
+ "HTZ": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Oro Mobility JV: $80.9M investor stake + 2L note buyback at 60% discount; Gate 3 fail 0.1x ADV, 82% overhead, earnings 11-05"
+ },
+ "ALVO": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "FDA approval of new SIMLANDI manufacturing process (capacity, not a new approval); Gate 4 fail $1.6M proj dollar volume, Gate 3 fail"
+ }
+}
