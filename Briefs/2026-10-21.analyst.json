@@ -1,0 +1,6 @@
+{
+ "SMCI": {"tier": "A", "grade": 4, "verdict": "WATCH", "why": "Prelim Q1 FY27 rev $18.5-19.5B vs $15B guide/consensus, GM 12-12.5%; Gate 3 fail premarket (0.1x ADV); earnings 2026-11-03 inside event window; regime red"},
+ "AMKR": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "NVIDIA $1.3B prepayment for Korea packaging capacity ($3B cumulative); earnings 2026-10-26 inside event window; 0.0x ADV premarket; overhead 72%; regime red"},
+ "SLNH": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Definitive JV with APLD for 50 MW Texas AI data center, no $ terms; Gate 4 fail ($0.63, $vol proj $0.9M)"},
+ "BNC": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "New CEO + BNB validator plan + bell-ringing; no fundamental catalyst; Gate 4 fail ($vol $1.1M), chart fail (3m +78%)"}
+}

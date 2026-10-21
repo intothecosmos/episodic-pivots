@@ -1,0 +1,42 @@
+{
+ "SMCI": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.05x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-21 07:46",
+  "label": "v1"
+ },
+ "AMKR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.03x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-21 07:46",
+  "label": "v1"
+ },
+ "SLNH": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-21 07:46",
+  "label": "v1"
+ },
+ "BNC": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-21 07:46",
+  "label": "v1"
+ }
+}

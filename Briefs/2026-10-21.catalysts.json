@@ -1,0 +1,299 @@
+{
+ "AMKR": {
+  "ticker": "AMKR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 20, 2026",
+    "title": "Amkor's AI Packaging Growth Accelerates: Can the Momentum Last?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/amkors-ai-packaging-growth-accelerates-can-momentum-last"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 20, 2026",
+    "title": "Will ASE Technology's CPO Roadmap Create a New Growth Opportunity?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/will-ase-technologys-cpo-roadmap-create-new-growth-opportunity"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 20, 2026",
+    "title": "Amkor Technology, Inc. (AMKR) is Attracting Investor Attention: Here is What You Should Know  ",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/amkor-technology-inc-amkr-attracting-investor-attention-here-what-you-should-know"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:30AM",
+    "title": "Amkor Technology and NVIDIA Advance Strategic Partnership for AI Infrastructure",
+    "url": "https://www.businesswire.com/news/home/20261020288781/en/"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "partnership"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SMCI": {
+  "ticker": "SMCI",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-20",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000025/smci-20261020.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 20, 2026",
+    "title": "Super Micro Computer Expects Q1 Revenue Above Previous Guidance ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/super-micro-computer-expects-q1-revenue-above-previous-guidance"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 20, 2026",
+    "title": "Notable Tuesday Option Activity: BETR, SMCI, CLOV",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-betr-smci-clov"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 19, 2026",
+    "title": "Super Micro Computer (SMCI) Surpasses Market Returns: Some Facts Worth Knowing",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/super-micro-computer-smci-surpasses-market-returns-some-facts-worth-knowing"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:43AM",
+    "title": "SpaceX Saves the AI Trade, Meta Can Reignite It",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-28320c31?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:42AM",
+    "title": "Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-earnings-tesla-meta-oil-prices?mod=IBD_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:39AM",
+    "title": "Musk says he's exploring a SpaceX-Tesla megamerger. What would a combined company be worth?",
+    "url": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:35AM",
+    "title": "Supermicro Brings NVIDIA Aerial RAN Computer Solutions to the Network Edge with Nokia to Enable Low-latency AI Services",
+    "url": "https://finviz.com/news/405153/supermicro-brings-nvidia-aerial-ran-computer-solutions-to-the-network-edge-with-nokia-to-enable-low-latency-ai-services"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:30AM",
+    "title": "Super Micro Computer Surges On Blowout Preliminary Revenue; Dell, HPE Jump",
+    "url": "https://www.investors.com/news/technology/super-micro-stock-surges-blowout-preliminary-revenue-dell-hpe-jump?mod=IBD_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:21AM",
+    "title": "Premarket movers: Super Micro, SCHMID Group and SpaceX surge",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-super-micro-schmid-112107443.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 06:26AM",
+    "title": "Why Is Super Micro Computer Stock Surging in Pre-Market Trading?",
+    "url": "https://finviz.com/news/405037/why-is-super-micro-computer-stock-surging-in-pre-market-trading"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 06:24AM",
+    "title": "Why Is Dell Technologies Stock Rising in Pre-Market Trading?",
+    "url": "https://finviz.com/news/405036/why-is-dell-technologies-stock-rising-in-pre-market-trading"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 05:57AM",
+    "title": "Micron Stock Jumps as AI Trade Shows Signs of Life Again",
+    "url": "https://www.barrons.com/articles/micron-stock-price-ai-trade-dd5be21d?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 05:21AM",
+    "title": "SpaceX pops after earnings, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-meta-tesla-third-quarter-earnings-season-big-tech/card/spacex-pops-after-earnings-and-other-early-market-movers-qudWbLg5H9XXjOvwCjSK?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 04:41AM",
+    "title": "Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rise-premarket-spacex-084106939.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 04:32AM",
+    "title": "Supermicro stock surges 12% after raising revenue outlook on AI demand",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-surges-12-raising-210904986.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SLNH": {
+  "ticker": "SLNH",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-21",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/form8-k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-20",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226047705/form8-k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-19",
+    "form": "8-K",
+    "items": "5.03,5.07,9.01",
+    "title": "8-K 5.03,5.07,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226047604/form8-k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:30AM",
+    "title": "Soluna Agrees to Form Strategic Partnership with Applied Digital to Develop Wind-Powered AI Data Center in Texas",
+    "url": "https://finviz.com/news/405148/soluna-agrees-to-form-strategic-partnership-with-applied-digital-to-develop-wind-powered-ai-data-center-in-texas"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 11:22AM",
+    "title": "Soluna elects former Google infrastructure executive Dan Golding to board",
+    "url": "https://finance.yahoo.com/technology/ai/articles/soluna-elects-former-google-infrastructure-152252559.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 08:00AM",
+    "title": "Soluna Elects Dan Golding to Board of Directors",
+    "url": "https://finviz.com/news/404484/soluna-elects-dan-golding-to-board-of-directors"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "partnership"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BNC": {
+  "ticker": "BNC",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-19",
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "title": "8-K 5.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1482541/000148254126000058/bnc-20261013.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 04:05PM",
+    "title": "BNB Standard Corporation to Ring the Nasdaq Opening Bell on October 26 to Celebrate Its New Name and Leadership",
+    "url": "https://finviz.com/news/404830/bnb-standard-corporation-to-ring-the-nasdaq-opening-bell-on-october-26-to-celebrate-its-new-name-and-leadership"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 09:00AM",
+    "title": "BNB Standard Corporation Appoints Alex Odagiu as Chief Executive Officer and Announces Plan to Operate a BNB Chain Validator",
+    "url": "https://finviz.com/news/404010/bnb-standard-corporation-appoints-alex-odagiu-as-chief-executive-officer-and-announces-plan-to-operate-a-bnb-chain-validator"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 16:45:40 GMT",
+    "title": "symbol__ Stock Quote Price and Forecast - CNN",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBna1A3RFZObnRuYk4xSXB6cVNKM3JpcEo3T2dfdi0wS3N4RzN3NS1TSVBkN1Z4MGdrTmpyd0FhT0o5NkJmWlc3VjFVZVJteXM?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 20:05:00 GMT",
+    "title": "Nasdaq's bell will mark BNB Standard's new name and CEO on Oct. 26 - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNzYxeTcyX2p5OTBmOUZFVGRDZ1Z0TFFTWWxvcVdRS2NsaEl1d3lzRENwN2hkdkpMdW5oM0YtS2hfZDVwWUp0OVNkbjZtbGExbXlIU1hHT0hXMzlmbmk3cDJVemMtd1p0d1M5RjVrcjBDQTZaNFVCd0Z3UmVUcDlxclJ3eWczRjFhQ3BVbHFySmlnMzROZVBkWjhESHFJOG8zWVg2TXNKMXdyWHk0NGJpQXNKOGpaODJSZEJuUUNR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 21:00:59 GMT",
+    "title": "BNC Nov 2026 5.000 put (BNC261120P00005000) stock price, news, quote and history - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vVjJ3Vm1rYnQ2VEpqSlhKaThPWEd4Z25VVTBCVmQ5cWZPc0tJN2l3MVJEbXhmMktEOHF1WXMwaXFTRmEzMTJ0T0E5WmIyOV8xNjhjejZBOFVQbEp3akFSVUh1Vm4?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 20:28:42 GMT",
+    "title": "(BNC) Strategic Equity Report (BNC:CA) - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenRlS3lzNVpyRmdzZ01iNVZXQk40dDhkR1RxaVZuVlBKZ0VfcTV2d3dxYi0tNnpxaVNCc3htN3hNUFRoQ1JuOU5OU1FzTmNJZTI5TkFzanhTcWh0azZTaExMME5NWTBycl9HLUVOTEFZTXZFWTlnR2JLcWtoc3cyLUNoQ3RZLXdvb3FfSjhB?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 21:33:13 GMT",
+    "title": "BNC Q3 2023 Earnings: $0.10 Loss per Share as Stock Climbs 9.2% - Revenue Surprise History - https://www.siam.in/",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVBMMVVEc29wS3J5SkZRRk5BR3lqd0ZCa0MwZ000T0NpTlNqRWdiQTlnN2hlOHBXYjJKSkVXMk5Na01ub1ZXTTFsc2ZXM3cyc0oxVzNkRm5vMU5BNWMwT01hVXhha0hPZkxVU3I2NWxWbnVMeng5UjhPeWVBSlliSzNOYU03MFhNYWtrNGh1R0JKX2NqLWw0a3pMc3FfMVlHWTBj?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 13:00:00 GMT",
+    "title": "A former Goldman Sachs banker will lead BNB Standard, which plans a system to verify digital-currency transactions. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHd2c2FMN0dtZkNhN2RrWTRPRll6WWF1cmMtSmd5TFNkTlB5X2pOcldRbWFfb2k3UzlfRVNzM3lPWWtGR3lUbm05Q0NpU2VJYV9TS3pxT2xOYkRzaTNVYWl5dmUwTzF0WHI1UDdfQUhWVk1GVDQ2MzFObHhYVEYxeG82a2c4aUQ1ZTRvUjBDVjdLQ2ROOEJUSEtrODFCZzY0bGtwTzFFa0ViNE54cjFxSXRrVE9tY2xRU2c?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 21 Oct 2026 01:18:40 GMT",
+    "title": "BNC Nov 2026 7.500 call (BNC261120C00007500) stock price, news, quote and history - Yahoo Finance Australia",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tWmd0eEJnUEZuUjA5TkNxY0s0LVBUVGdSRnZ2T3FYOFY0MlRxbW1WaVJSSnpheF9XeVpodG5YX3R1UHpmVEQ3QUdUdU5DMWFNLTl6RFJqdG1sNzJEX3ZWaDV4Zlc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 13:00:50 GMT",
+    "title": "A $525,000 annual base salary goes to the new CEO of BNB Standard (BNC). - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzN5RHNybEJodWloMmtIYWdfRE1TVUZlYmE2VUR2ZnhBeVFWU1FENXhsRHBhSTR1cWxXTk12YTR0WmZpcExVNlNOVXdMUnhvNUVMMzI1UTlDdXFjQ2F6eUIyd3Q4UDRYTUxfTk4zYUR2Z0tZMmhSQTNXUUtsRlM2dEtTLXkzY2g0elVweVY2b2pfN2dULUpUeXA0UW1lRXJCdW16NzBCckM?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 14:31:46 GMT",
+    "title": "BNC Mar 2027 10.000 call (BNC270319C00010000) Interactive Stock Chart - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44b3J6NGx3NTNJdFpzeHVvb0ZFX1VfaC1WbDA3WndVeWltZUlnT2ZmMzlZWUpKQzVfMGVCSWUwVEJDanBfR0ZKazdkSzdpaG1qdTIwVFlVdmRBdW1GazUxVnFYS2djWFBMSUJSQg?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
