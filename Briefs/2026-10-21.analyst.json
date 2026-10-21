@@ -1,6 +1,7 @@
 {
- "SMCI": {"tier": "A", "grade": 4, "verdict": "WATCH", "why": "Prelim Q1 FY27 rev $18.5-19.5B vs $15B guide/consensus, GM 12-12.5%; Gate 3 fail premarket (0.1x ADV); earnings 2026-11-03 inside event window; regime red"},
- "AMKR": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "NVIDIA $1.3B prepayment for Korea packaging capacity ($3B cumulative); earnings 2026-10-26 inside event window; 0.0x ADV premarket; overhead 72%; regime red"},
- "SLNH": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Definitive JV with APLD for 50 MW Texas AI data center, no $ terms; Gate 4 fail ($0.63, $vol proj $0.9M)"},
- "BNC": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "New CEO + BNB validator plan + bell-ringing; no fundamental catalyst; Gate 4 fail ($vol $1.1M), chart fail (3m +78%)"}
+ "SPCX": {"tier": "A", "grade": 4, "verdict": "TRADE", "why": "Q3 rev $14.6B +161% y/y, net income $4.4B vs -$1.1B, adj EBITDA $8.8B +306%; chart pass, no event in window; Gate 3 fail on premarket basis (0.1x of 94M ADV, large-cap under-read); regime red - half size or skip; Tesla merger chatter is headline risk"},
+ "SMCI": {"tier": "A", "grade": 4, "verdict": "WATCH", "why": "Prelim Q1 FY27 rev $18.5-19.5B vs $15B guide/consensus, GM 12-12.5%; gap 12.4%; Gate 3 fail premarket (0.1x ADV); earnings 2026-11-03 inside event window; regime red"},
+ "BNC": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "New CEO + BNB validator plan + bell-ringing; no fundamental catalyst; Gate 4 fail ($vol $1.8M), chart fail (3m +78%)"},
+ "USDE": {"tier": "Unknown", "grade": 1, "verdict": "NO TRADE", "why": "No filing/PR; ENA treasury vehicle, crypto sympathy gap; Gate 4 fail ($vol $2.3M), chart fail (3m +513%)"},
+ "AMKR": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "NVIDIA $1.3B prepayment intact but gap faded to +7.1% by 09:20, below the 8% screen; earnings 2026-10-26 inside event window; regime red"}
 }
