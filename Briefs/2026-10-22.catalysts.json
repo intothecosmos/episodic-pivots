@@ -11,7 +11,138 @@
     "url": "https://www.sec.gov/Archives/edgar/data/1935979/000193597926000083/bhvn-20261022.htm"
    }
   ],
-  "headlines": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 22, 2026",
+    "title": "Biohaven's Troriluzole NDA Accepted For FDA Review; Decision In Q1 2027; Stock Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/biohavens-troriluzole-nda-accepted-fda-review-decision-q1-2027-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-22-26 07:43AM",
+    "title": "Biohaven stock surges 25% on FDA acceptance of drug filing",
+    "url": "https://finance.yahoo.com/healthcare/articles/biohaven-stock-surges-25-fda-114326271.html"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 11:43:26 GMT",
+    "title": "Biohaven stock surges 25% on FDA acceptance of drug filing - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGVvcDQ2aVdSaFBnenFHZng4S013RVprdWtZY1ZaUGZkRGk0TmV0N3ZfellSQkxVRldXZng2ZDV6N0o4YnpLcERNWThONzNLUTFzNjliM1NUTUlDNmRGUF8xVXNQdzF5SkZwS3RsaGZyeHl5Ny12MnE1OUFhMVhNOVpQNk95bVEyT1VoaVk4ZWhteVk?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 12:05:32 GMT",
+    "title": "12 Health Care Stocks Moving In Thursday's Pre-Market Session - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZE0wck5lRzFoNE8yNkI1WlJGTGR1S0VLeHBzYWNfRkJETXdzUmo0ZEZ1WWlFOTl4MG9FLWY0cks3dEpyalRIMllrTDViMXZoUFlXbjJHU0p2Y3VtZ1dzekJ1Q0lmUFhyempzSkx5Nm5Gb0V1MTI3OFJMMkZyQnd4WUZlSmtzZEh5N1Zhd1czZGhYbEFzZDZGSmtKcEpSZ0lLZFJqT0xQR0o0eElhdWhoc0hJYTRBTjE0SUFz?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 11:48:00 GMT",
+    "title": "BHVN Stock Pops As Ono Deal Supercharges Cash And Pipeline - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZlNYZ2xRZ3JJYV8wZ1F0aDVMWlp0QTdmbmpWbUs5MXd3UWRpTENCOTZEZ0dUTlYxSk9VM3ZzbHk5OWlCbW9iV3ZSM2ZOeGlmdWlEOUVuWGxxQlo4ZDFBS1NueDYxN2k5ZTVTcVNoQll5UmF3cVdN?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 11:47:00 GMT",
+    "title": "BHVN Stock Pops As Ono Deal Delivers Cash And Validation - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52RllhN0hIVEJrSVZyRGpjSVpXMDA5c2JqTWpSY0dLUGpkdXBWNTJyQ0VhdnhaVHRFQjFGbXhPQ3lVd0RmLWpPZnZGdGYwY3RfSHlMZmxwRmc0VzlFNVdOZU8zcFdVUlZDaWxtUjNQXzhoSWc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 12:32:00 GMT",
+    "title": "BHVN Jumps As Ono Deal Supercharges Biohaven Cash Runway - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TdXM1WTVXR0xwZ09xTzhCeEd5eUdZUjRRc0pISDA0RWRidmEwQWFwZGxoTE9Qa0VzR3g3WmZDNnptMFBHQi1nZkxBcXNBd2RVSmQ5c3VZUGZNVG1yMEMtblR3SFR1OWNXak5WYTRDTjJjd3JtWUlvVkVB?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "NANO": {
+  "ticker": "NANO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-21",
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "title": "8-K 7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2101833/000110465926117880/tm2628070d1_8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-19",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/2101833/000143774926032856/atii20261016f_425.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 21 Oct 2026 20:15:00 GMT",
+    "title": "Forge Nano to Trade on NASDAQ as NANO After Completing Business Combination with Archimedes Tech SPAC Partners II Co. - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYm40NFptWHNvdTlnblRFY29DSDRUNUQ0eUxNUGdrZW1YSG00aVBla3dmb1JSSWsxWURvcDJ3Zm1NQ0plQTU2VVBtc0VvSXBqdm52Y1prbVFWM0dGWTlBTkp1MENoMm1tRDlJMEdXb2JjQW9ndVlzZngxNGRzZTBJSTYwZzR3WnpieHFKcHdmU1Jld0E1UWctcg?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 03:33:59 GMT",
+    "title": "NANO | Archimedes Tech SPAC Partners II Co. Stock Overview (U.S.: Nasdaq) - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdjlzT2ZsTHpFWkVTTWRoUkdUY1liQ2MxT0lxTFI3LTVXZmxCZ1I0NG4yRFViTUlSdXBfQUhuc1NKeUhnYzZNMTBJVEc3Mm4ySWFQWnQyS1MwTFdFbVAwWGJvN1ZENUxZbUVpcVFRQVlDNXZqZmRHTkZ0bnBISHExV2NR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 05:30:00 GMT",
+    "title": "Forge Nano: Powering Ahead With The SPAC Merger - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ2phbktSQVNPSWNaRHEtVkNxUkI0aTNQamw5c2VHN201dGQzSmFhQ1hJUW9JYjBidTFVUFh2bHk0QnFLb0JBakJ2bTgxNW8yV1QyampFWkhDakRfT3ItV3ZjSFh3bjNfTU51MFp4QWJuaVNWaWY3bm4wUThaMUdTeldXZ1NFTkJNc25j?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 07:00:00 GMT",
+    "title": "Failed Bank Information for Nano Banc, Irvine, CA - Federal Deposit Insurance Corporation (FDIC) (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WUzZBNng1bWRJWG1wRXJvaTVCc0l4ei1KMWFKWUxERlUxai1nMU84ejVkdFVlNUhSWEl1dmRrMFEyb2NqOG13akdVQnNTMkRzX3l0ZTVULW9pdW4tR1F6WURzdXlmTGJIYXM2MjBR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 17:05:25 GMT",
+    "title": "Nano Labs (NA) Analyst Ratings, Stock Forecast and Price Target - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNN0Z6c1JQa3JBLUhxNlg1Wk1aUWw4eHNtNi0xSHUwZEZBX3NIQkkzWlBkQjA3MHJQMFBRaE5TLTk4REctd2VwT3lvbzF3R2JWdTA5UlpQOGxjdTFsaVVVV2w3ZjltdWpMVjJnQUVWVUw3SEl6Q09CWFRRTl9oc29FbmQ5VmduUGpoQlJFWFZ0WENOaFc3VTE4MUczZ0pXaFNCZnl4VldFbUNsMzNlRzdCZVQ5dWp5eHJuTlJjR0lDWWtnYjI3QXAwaWxNaE5ZcElwQnh3dkRXOXRxcTd0NkltMjBLREFxai1LeHBDTmdhQzNxY1R5dnpma1c0ZXkzb21OVTNQU1B6VTlvMU42YVBnQmNVQWxuT0djdnhnMUpGOTBsWWFpNXBDTFJLbGdYOHh0OVBpV21xMWZHdTVfSXEwdXR2RE1STlJYMUltOUpLNkpoeXM?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 10:02:23 GMT",
+    "title": "E-nano S&P 500 Futures,Dec-2026 (NES=F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vTVN2ZlBUNnJraUhpMDc2MGxCbDRoWXMtcEVTUURMUmc1a3BIQXRZMVViQnJzOFhyY2R1MU0tRWZkU0JYSzNRNlN0VUUtNEFMTGMwejl3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 12:28:10 GMT",
+    "title": "Nano Nuclear Energy (NASDAQ:NNE) Given New $19.00 Price Target at Truist Financial - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2wzVFkzMTdIdU9BUWJzWEtKcnpYOGVYOWVKaFBycFltam9wbDBOa2d6LVZCbDJ6NnNsUUFaWmNSWE1sUVE4OVhQNHY3R1Nib1ZQcVJpb0w4R3RPbjZkbVlaXzdnZ3k0OE5odzFwaDlKYXdoN3E3c1lYM2o0Rk5TdERfU2JjWm05V3ZFbTB6QzZUOHF6ellTWXVYZGFZcld1NUFyLXd1MzFTSUJmRjczN3dwclc3bDlndTJrbk5ucGM0VWd3WmtmelJya2s0WDBmTk9kZjhOdw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 04:10:59 GMT",
+    "title": "Weebit Nano Q1 FY27 slides: ReRAM qualified, targets hit, stock falls - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnNhQjhhS1U4ay1wSDcyRExuSXhXWXZZSUFEVXN2T2lxdEFUbTJ3QVkxS2w0NHJKVDlsWUEzdkk4M3duUGlGQmFJZ083VmdlSVBrR0xZXzF1TW1NRUF2WEFzY0pJX2dfWVg3SzlxVk1RRzFMbVcyNE1JRlU1eXNyMlY4Q3M2M2dCaTRjemEyWklwU29ZaEJmQkhlNXhMMHBTRW1SS2tzZGJfaExJMGdYVUVJSkJuMVA5TlViREQwQXM?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 18:22:02 GMT",
+    "title": "Nano Labs(NA) Stock Options Chain | Quotes & News - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPbEUyX1p6akRjemZxeVVnaFZvLWNPeXJnNVNJcEQwNWYzWWtlWl95Snp6dUJJR2dyNWZnb1lzQUdTYTJxU1dsUHZORC1ZQW5HaEp1LWdZR1ByVjNIc3BMQllKeGNSUEFVc1FvUVRBLVh0Wkl1Umd6UEZIc1ZrR0NzZlAzSEVsSkFVX1plNnBWLUM4a0NPRXRKdUdtYWR6WVpjcWR3X1o3dWVmWWR3eU53VXc4X3A2RnhTakF2M3JqS3hiOUxnM3M5LTEtV3pFeEdKcFE2ZHA5dENwc09xRlhId0oyNWxsdm9OQnY0RDNVMjFGUThoWmxnMWllQjdCQkxuZzZqMWNiX1F1NjlaRlZNaGloMTNiTlNFTmRBMElzMFRLOXA5aVdQWjFRNGtNNjY5clRGbXRmSXVJRnhLNWxfZlpZM2h6d1lZTFdFRGRhV1JwZkZLTmU0Q240dWRvMmtzQXdKY2c2c0hoV2xsMGE3d0FYdWg1dGxEWEhaMWtsQnpJVl9Kb3FOb2F5eFRNTWgwTklHX1p4djJtbUE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 09:57:12 GMT",
+    "title": "E-nano S&P 500 Futures,Dec-2026 (NES=F) stock price, news, quote and history - Yahoo Finance Australia",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BSjlTV2VJeWg5bEFHMzJZalloSHJRdjVNMWRzVFFoSDB5VkFXSzJOZVEyMWh4N3pHVmwzNVQ1Yk9mS2syQTh2ZVg4UWRiSVhRWkw4NklR?oc=5"
+   }
+  ],
   "pre_tier": "unknown",
   "pre_tier_hits": [],
   "sec_status": "ok",
@@ -23,9 +154,9 @@
   "headlines": [
    {
     "src": "GoogleNews",
-    "date": "Mon, 19 Oct 2026 11:36:46 GMT",
-    "title": "What's Going On With Exascale Labs Stock Monday? - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWd5eUROd0YwaEV0UU5mQnVrejZLOGFaTTNQV1YwNHVTQWp3elNUaU1vTjB0WC04dTF0NGlHMURSVzNkTG5MUm5XdTJvQk1YQWx2cjg5TEUycDk2VmlXa0FUQU9XUUk2TmJnODNXUGo2VzlSSEhPWWV0SkM0Rnh4UFBCWktTNllWaG02ZmdiU0praEptVm9BUm9ta3ZVRjk5X0dIVXQ2Vl9VeGM?oc=5"
+    "date": "Thu, 22 Oct 2026 12:32:00 GMT",
+    "title": "XLAB Stock Surges On $8.2M NVIDIA GPU Server Contract - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzlmTmN3X3RjUWJsajVDaXoxeUpWNHltcHNUWUUwQlA0SXgwT1ZrT010WGZXQm5RRGhYeGRLdWFhZkRMNWpJYXFWaVZtZ0VOdTlCdGt4OVo0RW81Skx0QmdmTlB0Tml0Z1ROdW1oc2pJZ1lscnNkWk9qN19kT1hxYk9OTGZyVVZuQW1CNg?oc=5"
    },
    {
     "src": "GoogleNews",
@@ -35,25 +166,27 @@
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 20 Oct 2026 16:33:00 GMT",
-    "title": "XLAB Stock Volatility Draws Traders After Parabolic Run - timothysykes.com",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaElRX2RoT2pKRlNkZmtWQ0I3OW1IRXYzZlNfMTFtd2RWOXNBeFBYR1JGN3FMVk1xMUxhU2hNcmJ6Y25lSllIYTVRQnlTR0JNMlk4aVBZSDBTcTVkNXltcGpBdGhaTGptR0I4Y19OVGxxYWY4eFBZSnpIRTZtczM4NGNOSlo?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 19 Oct 2026 13:07:04 GMT",
-    "title": "Exascale Lab stock surged 72.79%, still below the $2.46 hourly 200-period EMA - The Cryptonomist",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3VmdzaUhtSWJKekV1T1hyM3FOZ0ctWGJheW9kQXVYRGlhNnpiSE9WUHVpZ0YxRS1kMUhQNUNOOE4zSGJGRVRzczlrODBpbk50akFSU0ttTUQyckx1aWJ1Xzhtc2dNdy1wRkpMR0pXMUZCMzREMUdHV3VTOVg?oc=5"
+    "date": "Mon, 19 Oct 2026 11:36:46 GMT",
+    "title": "What's Going On With Exascale Labs Stock Monday? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWd5eUROd0YwaEV0UU5mQnVrejZLOGFaTTNQV1YwNHVTQWp3elNUaU1vTjB0WC04dTF0NGlHMURSVzNkTG5MUm5XdTJvQk1YQWx2cjg5TEUycDk2VmlXa0FUQU9XUUk2TmJnODNXUGo2VzlSSEhPWWV0SkM0Rnh4UFBCWktTNllWaG02ZmdiU0praEptVm9BUm9ta3ZVRjk5X0dIVXQ2Vl9VeGM?oc=5"
    },
    {
     "src": "GoogleNews",
     "date": "Tue, 20 Oct 2026 16:36:00 GMT",
     "title": "XLAB Stock Whipsaws As Traders Target High-Volatility Setup - StocksToTrade",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzQ3eFZ0Sm9HSDM0NmZ3VGlibnZHMExtbVMtVTJmZzZIbkF1VUhSLWl0VnVUSWt5SE1VbVVIYkVXY1A3aWFibjVzZllWeDgwXzZzZ0JaNGtJX3hDTF9CUFJHd3c2Rjl5R21VY3QyMTdKWVdPbDlmZTdrelpFLUdnZUQwNFdJUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 16:33:00 GMT",
+    "title": "XLAB Stock Volatility Draws Traders After Parabolic Run - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXBWT1N4YzEweUhSSDg3X29yY2xjdGZoaG9XeWF0aGIzUVlOYVUwVUM1cnlyNUFqZTd1Yk9Fd2tEa0NGVE5HWHk1QWRGelUtMXd1cTh3RTFNSlRDS1VPUjlCRkFsY25lUDVqSG50eGZzVlFXY2FGMExPa2pTZ1hlcnY4SlQ0b2dwWkE?oc=5"
    }
   ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "contract"
+  ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -82,9 +215,21 @@
    },
    {
     "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 12:32:00 GMT",
+    "title": "SAIQ Stock Rockets On Deals, Satellites, And Volatile Trading - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT24zNGxQQzJVQUtlY0RMWFhJbVhyNVN4azJ6ckVqVXlERFRxLTF2cU13YUtIVlBfWUxrVmw5bkVtSGcwMkRKVHIzRHNleTRVdHdwV0drYlVTQmNJZzY4bHE5WW0tZVJpTmZpSmY4ZzBPd0pvLW5LYUs5VE5xb05Da3R4Rzhody0wSGVyQg?oc=5"
+   },
+   {
+    "src": "GoogleNews",
     "date": "Tue, 20 Oct 2026 16:06:00 GMT",
     "title": "Space Stock WISeSat.Space Holdings Corp. (Nasdaq: SAIQ) Rockets on News - Makes Nasdaq Top Gainer List - Investorideas.com",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWDQ2R1dRaHFUVjVOOFlfYmVIaDlQRnZ5T0tEWm90VllRLVkyM1JoeFJ1ZzVfT2VKbXdCRjZiRnhlTWRRNDZUZUFadHVjUWo2Nm9lb1pzdmtDZVViYU04MG01YmVZWE5ISW5yNmYxWFN3NHdNSFpmUUhONFZ0Z1BjenNJZHlKdURSZ3RCZWtYVUdVVDZIUndSRjFoQnR0cUtMcG12OXVWM0pZT1lmWHAtZ0ZfaF9wb0wxMk1MbkJ3WDVWUXZjNW8tbUhBTkdNM0dfYzlJaGlFY0Y4Q05PcVl5YnluS3ZaejdpM3c?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 22 Oct 2026 11:48:00 GMT",
+    "title": "SAIQ Stock Rockets As WISeSat.Space Debuts On Nasdaq - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXVQVEhlamtwckhGZFp1ZmtfVWRLYmFBV2dMT2hJQldpSEg4MkRoa29TODAxVnBEQmJwX0dBOXd0aV85UExtb3NHMnFQb256ekdwVUdHZ0JQTEI0U29uZDBlaXhMN0tyS21pbllvZ1pnVVRwR2F4Z2MxN2drWFBMblBJQmJEdw?oc=5"
    },
    {
     "src": "GoogleNews",
@@ -100,15 +245,61 @@
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 20 Oct 2026 13:18:00 GMT",
-    "title": "SAIQ Stock Rockets On Nasdaq Debut As Volatility Spikes - Timothy Sykes",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVRfWUJxY2g4RkVKTUxyUEVoYUpvbVdKZ25hcWxta3UyOGgwNkVfQmxYMVJocmd0bENPWkNzTmRSMDNoRTVMY0xoU09TZDdOTzY3bXhQbHJsQzJyTnBJenlIVE9fVXdObENoeHlQVkNwRVE3bzQ2cmFkV3JzNGJCMElPbzJrbzFYTGdJRg?oc=5"
+    "date": "Thu, 22 Oct 2026 11:48:00 GMT",
+    "title": "SAIQ Stock Rockets On SpaceX Launch And SPAC Frenzy - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONEZIcFJWbDVKMWNsM0JDMkc1eTV0dW4tLURzX1JGVkRqckU1Y2owRlVhclZELWxqemdjbHJ5LU9qbklWYVlMTmZfM3R3NXNUMF93Y1BXYTdGdTI1US1Xd09UdTlvN3BfdzBaNTJxaVFIX1JhcVh4WGpYOWZDT01pOVF6QlRUaFF3SEE?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ATOM": {
+  "ticker": "ATOM",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-22-26 06:30AM",
+    "title": "Atomera Has Signed a Joint Development Agreement With IQE to Bring High-Performance, Cost-Effective RF GaN-on-Silicon to Volume Markets",
+    "url": "https://finviz.com/news/406183/atomera-has-signed-a-joint-development-agreement-with-iqe-to-bring-high-performance-cost-effective-rf-gan-on-silicon-to-volume-markets"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-19-26 06:30AM",
+    "title": "Atomera to Announce Third Quarter 2026 Financial Results and Host Webinar on Thursday, October 29, 2026",
+    "url": "https://finviz.com/news/403783/atomera-to-announce-third-quarter-2026-financial-results-and-host-webinar-on-thursday-october-29-2026"
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 21 Oct 2026 13:17:00 GMT",
-    "title": "SAIQ Stock Reverses Hard After 260% Speculative Spike - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd1lqMEJMQmpEQ3NRRGVqTmF4cVg2RUNWU2wzN0pPU045RDV1Rkp1NmFhVnEzM2l2c3JST2t4MVR4THdiNWJBc00ydGZnVEZNaTZHZ1pYdXpfcHo3YUY4dmNRVW85SGF3MFBVSnhNQnRuRmtpWVBTaGMzbk1lUkh4YjZpVGtvUQ?oc=5"
+    "date": "Thu, 22 Oct 2026 11:07:01 GMT",
+    "title": "Atomera (ATOM) Partners with IQE plc to Advance RF GaN-on-Silico - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQU1yQzRsSS1kTXl4R0tud0o0UE9JRnRVd0taTnZOaWhlSnliMm5NS3VLZzBweXVzcWJUWkYxWnJYZW9hVnotT2lxaTFCSEhwOUtEaFRrQ3VTbDB2UHJ5THdjbmlRLV95NXFEVXlpMlFPcXdWSFlMckJQbTl5NmdtcDVjd1AxNTU4SlpkN1lnNWhSdzRWVGwwVnBtNkZXdmJPcGlEZHZRQVRKX0pLa0hzRg?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 21 Oct 2026 16:41:16 GMT",
+    "title": "ATOM Nov 2026 7.500 put (ATOM261120P00007500) Interactive Stock Chart - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zX1ZFcU1mLU9xdzJORlUzcjhzQUFsMWNFckRHVVVsT2EyOHBYak5CRXhuajdjOExFamFNbHpuYktmcXFTdGdjWEZScG1LR1h5SUJyRUJvZW9peDlGS3RCUlBuZnM0Y2szb3NzZTFR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 14:26:39 GMT",
+    "title": "ATOM Nov 2026 5.000 put (ATOM261120P00005000) stock price, news, quote and history - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OZUdFMUpGVlNiWnlyV1BzblZ5Y0x1TTNrY0tlb1FMVHpyeHdIWGpNQUFiNHlnZzl6c21kOFRSMm1PWDYtOVV0LVN6WC1zRGRPZjIxZjNYdklBTUlUOXlCTTB0bkhfdw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 04:55:27 GMT",
+    "title": "ATOM Nov 2026 2.500 put (ATOM261120P00002500) interactive stock chart - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HdUJuRHdHUUlCY0V4NTE2dGRlc1NKSGk2azV2b1g3LTNtOHZ4eVVSV2o0bkhKanFXR0NyWlQwN0VuQkZ4OFRSZTZSME1uenFzVkdrdjNBVU14WGY1OW5vVXVLS2w4R3l5M3FqQ2tR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 18:05:40 GMT",
+    "title": "ATOM Jan 2027 7.500 put (ATOM270115P00007500) interactive stock chart - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TY0xWSW5FTWMxRzh0N3dvVkgtaFhDZnZzVUlPLWVDYldLTXU5QjlTVGtfa05fN2loSlBTaWF1ajNhUHI0XzktUllRTVFwVGJ2bGJjY0lqZ0ljbm5wU0xTbXlSelJDQ21TaXY0Ym9n?oc=5"
    }
   ],
   "pre_tier": "unknown",
