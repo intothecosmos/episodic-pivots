@@ -1,0 +1,173 @@
+{
+ "BHVN": {
+  "ticker": "BHVN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-22",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1935979/000193597926000083/bhvn-20261022.htm"
+   }
+  ],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "XLAB": {
+  "ticker": "XLAB",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 11:36:46 GMT",
+    "title": "What's Going On With Exascale Labs Stock Monday? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWd5eUROd0YwaEV0UU5mQnVrejZLOGFaTTNQV1YwNHVTQWp3elNUaU1vTjB0WC04dTF0NGlHMURSVzNkTG5MUm5XdTJvQk1YQWx2cjg5TEUycDk2VmlXa0FUQU9XUUk2TmJnODNXUGo2VzlSSEhPWWV0SkM0Rnh4UFBCWktTNllWaG02ZmdiU0praEptVm9BUm9ta3ZVRjk5X0dIVXQ2Vl9VeGM?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 07:00:00 GMT",
+    "title": "Exascale Labs Holdings (XLAB) Stock Price, News & Analysis - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WWjhqSVhmZEVzbGJacDE5RWlqbFJvTEpVNjlUWDNRR1BMLUJrLXp1QnpMbV9fdldoMHNUMlpja040a3k4MkVIa3VJbWczX3plU2o0?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 16:33:00 GMT",
+    "title": "XLAB Stock Volatility Draws Traders After Parabolic Run - timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaElRX2RoT2pKRlNkZmtWQ0I3OW1IRXYzZlNfMTFtd2RWOXNBeFBYR1JGN3FMVk1xMUxhU2hNcmJ6Y25lSllIYTVRQnlTR0JNMlk4aVBZSDBTcTVkNXltcGpBdGhaTGptR0I4Y19OVGxxYWY4eFBZSnpIRTZtczM4NGNOSlo?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 19 Oct 2026 13:07:04 GMT",
+    "title": "Exascale Lab stock surged 72.79%, still below the $2.46 hourly 200-period EMA - The Cryptonomist",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3VmdzaUhtSWJKekV1T1hyM3FOZ0ctWGJheW9kQXVYRGlhNnpiSE9WUHVpZ0YxRS1kMUhQNUNOOE4zSGJGRVRzczlrODBpbk50akFSU0ttTUQyckx1aWJ1Xzhtc2dNdy1wRkpMR0pXMUZCMzREMUdHV3VTOVg?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 16:36:00 GMT",
+    "title": "XLAB Stock Whipsaws As Traders Target High-Volatility Setup - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzQ3eFZ0Sm9HSDM0NmZ3VGlibnZHMExtbVMtVTJmZzZIbkF1VUhSLWl0VnVUSWt5SE1VbVVIYkVXY1A3aWFibjVzZllWeDgwXzZzZ0JaNGtJX3hDTF9CUFJHd3c2Rjl5R21VY3QyMTdKWVdPbDlmZTdrelpFLUdnZUQwNFdJUQ?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SAIQ": {
+  "ticker": "SAIQ",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 22, 2026",
+    "title": "Stocks Rally on Positive AI News, with SpaceX up +7%",
+    "publisher": "Barchart",
+    "url": "https://www.nasdaq.com/articles/stocks-rally-positive-ai-news-spacex-7"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-20-26 08:00AM",
+    "title": "WISeSat.Space and SEALSQ Advance Satellite Cybersecurity Hardening as FOSSA Launches New 6U Satellite Aboard SpaceX Falcon 9",
+    "url": "https://finviz.com/news/404507/wisesatspace-and-sealsq-advance-satellite-cybersecurity-hardening-as-fossa-launches-new-6u-satellite-aboard-spacex-falcon-9"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 21 Oct 2026 18:52:48 GMT",
+    "title": "WISESAT.SPACE HOLDINGS CORPORATION (SAIQ) Stock Forecast & Analyst Ratings - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOLWphLTlUSE5WeGdjMlJDYTdMYWRKbDhHQ21NMlVaWDJ1M0FLNVd0YUVCX01fSTZJUjJpWDg5NHRjb0RndjYzdGZNVDVsaGYtYk5jZk00cDljRFhCMmY2TDFKTEZFSHUtemJqSlZsSktZOHJwWW10SEd4VWJ0a2JYWmRKMUc3Q0JZWW5Yak1Kd2U3WHMweDRvZ3k5LWFGWFgwazBvc2NLTVI5bnZpMl9RVXZIbHRMVm1KSjJuZEJaaVRyWmZZVW80Tnc0TWNwRnBqNWxGSzZMV0ZHRmtMN3Nsc2FLcmFabDdpQXQwWldiNGF1bFVGcmxfN2htNEpoTjlVXy1FdkdjdVNfVXpia1VmMEVTc2JNZm1GTm1XZWxfNllKd3czUGN5XzFncWpqZXFUUEozNDVaMVAtLXpPeXBWSGQzQm41ME1zNE9kdkVCVUVtVmc0R3dJOGNvRU1DeE9abS1RZ2txLTNReWtWeGtXM0tQUktPc1Z6WXNn?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 16:06:00 GMT",
+    "title": "Space Stock WISeSat.Space Holdings Corp. (Nasdaq: SAIQ) Rockets on News - Makes Nasdaq Top Gainer List - Investorideas.com",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWDQ2R1dRaHFUVjVOOFlfYmVIaDlQRnZ5T0tEWm90VllRLVkyM1JoeFJ1ZzVfT2VKbXdCRjZiRnhlTWRRNDZUZUFadHVjUWo2Nm9lb1pzdmtDZVViYU04MG01YmVZWE5ISW5yNmYxWFN3NHdNSFpmUUhONFZ0Z1BjenNJZHlKdURSZ3RCZWtYVUdVVDZIUndSRjFoQnR0cUtMcG12OXVWM0pZT1lmWHAtZ0ZfaF9wb0wxMk1MbkJ3WDVWUXZjNW8tbUhBTkdNM0dfYzlJaGlFY0Y4Q05PcVl5YnluS3ZaejdpM3c?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "title": "WISeSat.Space Holdings (SAIQ) Stock Price, News & Analysis - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLTmV4TjFCckMxckk1UWFPZDhrYW5EMjVfaTBvOUtOa21kY0ZpamIySGZuZURONzJ6MWR3Ylp4aFU3dHBtd1Q2d2dJcFE2NmtQV3RF?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 20:44:08 GMT",
+    "title": "WISESAT.SPACE HOLDINGS CORPORATION (SAIQ) Stock Forum and Discussion - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQU1FvNDY4OEQ5N2lVZjJVakNYWndVSGRTV25VaUZad3dPOERpU2p5MlZPTDBieFU5SVVLd3RfNlZ2Z0p0VllHMUc5d05RRFFzWmZUTVZ1TEl6aldBQS1aNC05LXVDcC1HU2J6dm5jVWVMWFVZYldEUUl6YmNHUVVOSGptanlSeEszS1lLdHpBMGE3bVEydlZUcmxuR2ZURjJWRmstenJlWDJ5eHlnb2xvQ0YxNnNtenB0cmNqa3p0X3Z3dEtpM0htUjA2NjI4UVFBRTVnOVVFZWxReU9wWURBMUhuQzRJSDZ2Mld1U3EydWRCLWp1YkxGYjFLVG43RVBHUWNCRUNfVVI1MTFzVnhCVUJkYm02T3FHUWdiV2ZLVzNxSzBSZXJOWWh3SUVZUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 20 Oct 2026 13:18:00 GMT",
+    "title": "SAIQ Stock Rockets On Nasdaq Debut As Volatility Spikes - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVRfWUJxY2g4RkVKTUxyUEVoYUpvbVdKZ25hcWxta3UyOGgwNkVfQmxYMVJocmd0bENPWkNzTmRSMDNoRTVMY0xoU09TZDdOTzY3bXhQbHJsQzJyTnBJenlIVE9fVXdObENoeHlQVkNwRVE3bzQ2cmFkV3JzNGJCMElPbzJrbzFYTGdJRg?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 21 Oct 2026 13:17:00 GMT",
+    "title": "SAIQ Stock Reverses Hard After 260% Speculative Spike - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd1lqMEJMQmpEQ3NRRGVqTmF4cVg2RUNWU2wzN0pPU045RDV1Rkp1NmFhVnEzM2l2c3JST2t4MVR4THdiNWJBc00ydGZnVEZNaTZHZ1pYdXpfcHo3YUY4dmNRVW85SGF3MFBVSnhNQnRuRmtpWVBTaGMzbk1lUkh4YjZpVGtvUQ?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AVEX": {
+  "ticker": "AVEX",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-22-26 12:29AM",
+    "title": "Why Did NFLX, CMG, AVEX Stocks Crash To 52-Week Lows Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-nflx-cmg-avex-042953739.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:28PM",
+    "title": "AVEX Stock Crashes To Fresh 52-Week Lows After Navy Reportedly Halts Drone Boat Orders  Company Says No Orders Were Stopped",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/avex-stock-crashes-fresh-52-232827291.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 06:01PM",
+    "title": "AEVEX Reaffirms Maritime Systems Strategy and Continued U.S. Navy Investment",
+    "url": "https://finviz.com/news/406014/aevex-reaffirms-maritime-systems-strategy-and-continued-us-navy-investment"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 12:30PM",
+    "title": "Aevex's Drone-Launching Boats Sunk by Navy, Report Says. The Stock Is Crumbling.",
+    "url": "https://www.barrons.com/articles/aevexs-drone-boats-navy-cheaper-weapons-pivot-45c3cc21?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 07:41AM",
+    "title": "Aevex stock drops 5% as US Navy halts $130M drone boat program",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aevex-stock-drops-5-us-114150834.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 08:47PM",
+    "title": "Robbins LLP is Investigating Whether AEVEX Corp. Concealed a Pre-Arranged Plan to Override a Commitment by Madison Requiring a 180-day Lock-Up After the Company's IPO",
+    "url": "https://www.newsfilecorp.com/release/316714/Robbins-LLP-is-Investigating-Whether-AEVEX-Corp.-Concealed-a-PreArranged-Plan-to-Override-a-Commitment-by-Madison-Requiring-a-180day-LockUp-After-the-Companys-IPO"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-21-26 09:00AM",
+    "title": "Drones Have Morphed into Big Business -- And The Revenue Opportunity Is Exploding",
+    "url": "https://finviz.com/news/396564/drones-have-morphed-into-big-business-and-the-revenue-opportunity-is-exploding"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

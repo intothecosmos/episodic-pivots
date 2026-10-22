@@ -1,0 +1,26 @@
+{
+ "BHVN": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "WATCH",
+  "why": "FDA accepted troriluzole NDA resubmission (SCA), PDUFA Q1 2027, AdCom pending; prior CRL 2025-11; 42.7% gap on 0.9x ADV fails the 40%+ overlay; earnings 11-05 inside window; regime red"
+ },
+ "XLAB": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "no fresh news; stale $8.2M Sunon GPU deal already ran +73% on 10-19; chart fail; negative equity, recent issuance"
+ },
+ "SAIQ": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "de-SPAC micro-float squeeze on numberless partner-satellite PR; volume fail 0.2x ADV; ADR 34.6%"
+ },
+ "AVEX": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "rebuttal bounce after Navy GARC halt report; no new business; Gate 4 fail $5.9M proj dollar volume"
+ }
+}
