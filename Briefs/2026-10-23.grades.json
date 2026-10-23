@@ -1,0 +1,13 @@
+{
+ "SAIQ": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.17x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-23 07:46",
+  "label": "v1"
+ }
+}
