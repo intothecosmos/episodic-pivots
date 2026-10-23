@@ -4,10 +4,30 @@
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.17x ADV (premarket)",
+   "volume: 0.22x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-10-23 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-10-23 09:11",
+  "label": "v2"
+ },
+ "CCI": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-23 09:11",
+  "label": "v2"
+ },
+ "AMT": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-23 09:11",
+  "label": "v2"
  }
 }

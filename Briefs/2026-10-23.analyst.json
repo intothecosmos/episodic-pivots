@@ -1,8 +1,20 @@
 {
+ "CCI": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Bloomberg report of SpaceX talks for >=80k cell sites \u2014 unsigned, sector-wide thematic gap (AMT/SBAC sympathy); Gate 3 fail 0.04x ADV premarket (under-reads large cap); 13% gap = 4 ADRs; regime red. Re-check only if >=1x ADV by 9:45 with ORH reclaim; cap 3 stars."
+ },
+ "AMT": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Sympathy with CCI on SpaceX report, nothing AMT-specific; earnings 2026-10-27 inside window caps at WATCH; at 52w high; Gate 3 fail; regime red."
+ },
  "SAIQ": {
   "tier": "Unknown",
   "grade": 2,
   "verdict": "NO TRADE",
-  "why": "No fresh catalyst (Oct 20 partner satellite PR only, no numbers); 0.2x ADV volume fail; 2.2M float de-SPAC; regime red"
+  "why": "No new catalyst (Oct 20 partner PR, no contract/dollars); 0.22x ADV premarket on 27% gap in 2.2M controlled float; Unknown caps 3, volume fail -> 2; regime red."
  }
 }
