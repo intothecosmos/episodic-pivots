@@ -1,14 +1,26 @@
 {
  "XNCR": {
   "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": "Tier B Phase 1 ESMO data (45.5% cORR n=11, RP3D selected); Gate 3 fail 0.3x ADV premarket; +92% 6m; regime red; recheck v2 for volume"
+  "grade": 3,
+  "verdict": "WATCH",
+  "why": "Tier B Phase 1 ESMO data (45.5% cORR n=11, RP3D selected; 8-K 2.02 is only cash runway into 2029); Gate 3 bare pass 1.0x ADV premarket, record ratio 0.3, no strong-volume bonus; gap faded 36.9%->29.5%; +92% 6m; est. earnings 2026-11-09 caps at WATCH; regime red half size or skip"
  },
  "RRC": {
   "tier": "C",
   "grade": 1,
   "verdict": "NO TRADE",
-  "why": "All-stock takeover target (0.987 EQT per share) \u2014 not an EP; Gate 3 fail; earnings 2026-10-27 in window"
+  "why": "All-stock takeover target (0.987 EQT per share) - not an EP; Gate 3 fail 0.1x; earnings 2026-10-27 in window"
+ },
+ "SAIQ": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Non-binding related-party LOI with SEALSQ (~$15M est., no definitive agreement) - Tier C; Gate 3 fail 0.1x ADV; 2.2M float, 39% ADR halt-machine profile"
+ },
+ "SGRY": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Cash takeover target at $23.50/share (Bon Secours/HealthSpan, ~$6B) - not an EP; Gate 4 fail $6.1M proj dollar volume; Gate 3 fail 0.1x"
  }
 }

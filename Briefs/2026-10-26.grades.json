@@ -1,22 +1,44 @@
 {
  "XNCR": {
   "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
+  "grade": 3,
+  "verdict": "WATCH (event-capped)",
   "why": [
-   "volume: 0.34x ADV (premarket)"
+   "event: earnings 2026-11-09 (est)",
+   "regime red \u2014 half size or skip"
   ],
-  "snapshot_et": "2026-10-26 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-26 09:35",
+  "label": "v2"
  },
  "RRC": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.02x ADV (premarket)"
+   "volume: 0.11x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-26 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-26 09:35",
+  "label": "v2"
+ },
+ "SAIQ": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.08x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-10-26 09:35",
+  "label": "v2"
+ },
+ "SGRY": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-26 09:35",
+  "label": "v2"
  }
 }

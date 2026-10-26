@@ -1,7 +1,16 @@
 {
  "XNCR": {
   "ticker": "XNCR",
-  "filings": [],
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "8-K",
+    "items": "2.02,7.01,8.01,9.01",
+    "title": "8-K 2.02,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326732/000121390026112279/ea0309596-8k_xencor.htm"
+   }
+  ],
   "headlines": [
    {
     "src": "finviz",
@@ -11,7 +20,7 @@
    },
    {
     "src": "GoogleNews",
-    "date": "Sun, 25 Oct 2026 11:12:15 GMT",
+    "date": "Sun, 25 Oct 2026 13:25:40 GMT",
     "title": "Xencor, Inc. (XNCR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2Ykp4Q0ZjZ0plUFVnTkNaRm9RdTdoSEZvZVloSHZZMGUxSUlMdW9vNXc1QVNGSkQ5bWRsTmEwdktUVG1FVGl2YmJFRFNMaGU5Znc?oc=5"
    },
@@ -54,8 +63,116 @@
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
-   "phase [12]"
+   "phase [12]",
+   "8-K item 2.02 (earnings)"
   ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SGRY": {
+  "ticker": "SGRY",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "title": "8-K 1.01,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926118643/tm2628254d1_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "Bon Secours Nears $6 Billion Deal For Surgery Partners; Stock Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/bon-secours-nears-6-billion-deal-surgery-partners-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 09:00AM",
+    "title": "HealthSpan Partners to Acquire Surgery Partners, Establishing a Leading Outpatient Surgical Care Platform",
+    "url": "https://www.businesswire.com/news/home/20261025658025/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 07:56AM",
+    "title": "Premarket movers: Moderna, Brazil ADRs drop; SpaceX rises",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-moderna-brazil-adrs-115628526.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 07:51AM",
+    "title": "Surgery Partners Shares Rise More Than 21% Premarket Following Reported $6 Billion Bon Secours Deal",
+    "url": "https://finviz.com/news/407609/surgery-partners-shares-rise-more-than-21-premarket-following-reported-6-billion-bon-secours-deal"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-25-26 02:24PM",
+    "title": "Bon Secours Nears $6 Billion\u00a0Takeover of Surgery Partners, FT Reports",
+    "url": "https://finance.yahoo.com/healthcare/articles/bon-secours-nears-6-billion-182456406.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-25-26 02:16PM",
+    "title": "Bon Secours nears $6bn takeover of Bain-backed Surgery Partners",
+    "url": "https://finance.yahoo.com/healthcare/articles/bon-secours-nears-6bn-takeover-181623379.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-25-26 08:33AM",
+    "title": "Can Intuitive Surgical Make Up For A Lower Price Per Surgery?",
+    "url": "https://finance.yahoo.com/healthcare/articles/intuitive-surgical-lower-price-per-123346668.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 1.01 (material agreement)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SAIQ": {
+  "ticker": "SAIQ",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/2101411/000121390026112297/ea0309603-6k_wisesat.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 08:00AM",
+    "title": "WISeSat.Space Announces SEALSQ's Firm Intent to Acquire Capacity and Operational Services Associated with 12 Satellites for QSOC",
+    "url": "https://finviz.com/news/407625/wisesatspace-announces-sealsqs-firm-intent-to-acquire-capacity-and-operational-services-associated-with-12-satellites-for-qsoc"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 12:46:04 GMT",
+    "title": "Capacity from 12 satellites is part of WISeSat.Space (SAIQ)'s proposed sale to SEALSQ. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFJkMHIyandkd2t6Y1JnaU1PVzR1YVRYOWxTUGlCWG5iWUVpVmgtQ0JCSi12VDcyYTVJV1M3Tk0zVE1OMEhwNFhMaG1JWWg5Uy1LQ1d5YzRWQWgyWE5mYmhvUk1JWk1fNDRjZF9FU2xIcXpLeGxSaTl4Zm1VTlQwMjl1Z2xrMnhmQkFxak85bXVfSWttLTFnMFZTYWM2eG9Xel92SmJwS281RUs3dEVtYTNKaC02bElIS0wtOE4xd0hVY1k?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 23 Oct 2026 23:59:00 GMT",
+    "title": "WISeSat Space Holdings Corp (SAIQ) Stock Price, Quote, News & History - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mX1A3VXRMOEZGS2N2YUJCdVJ2d0g5LTctWGlmMEo5MEloSm5QTlJ4OXg0YjNDTWExWkZfZWhoMnpPVVFvcnJJdnduWQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 23 Oct 2026 12:33:00 GMT",
+    "title": "SAIQ Stock Rockets On Satellite Launch And Post-SPAC Hype - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1BQNHdOSmFUZktHWVloTkY4SXlmdkdJenBsbENKcERIWFVSUFFxSVBZc1FheU9mSlg4Z0p6dDdfNDFOUnFnUFR1MnhKR2FES3RtRmh6V05XelprVUJlT2xyNkExZlk1RzZZMzBOa2hGdnJ0SVFoZ18wc2lTQ19vUlRnNjhXckc3NlJQcw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -81,6 +198,25 @@
   ],
   "headlines": [
    {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "Range Resources Corporation to Merge with EQT Corporation in All-Stock Transaction",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/range-resources-corporation-merge-eqt-corporation-all-stock-transaction"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 09:28AM",
+    "title": "EQT, Range Resources to merge in $50bn all-stock deal",
+    "url": "https://finance.yahoo.com/news/eqt-range-resources-merge-50bn-132803111.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 08:22AM",
+    "title": "Natural Gas Is Feeding AI Data Centers. A $50 Billion Deal Proves It.",
+    "url": "https://www.barrons.com/articles/range-resources-stock-eqt-merger-d3a1bd3d?mod=bar_FV"
+   },
+   {
     "src": "finviz",
     "date": "Oct-26-26 06:52AM",
     "title": "EQT to acquire Range Resources in $50 billion all-stock deal",
@@ -91,59 +227,10 @@
     "date": "Oct-26-26 06:00AM",
     "title": "EQT Announces Strategic Acquisition of Range Resources, Creating America's Undisputed Natural Gas Champion",
     "url": "https://finviz.com/news/407513/eqt-announces-strategic-acquisition-of-range-resources-creating-americas-undisputed-natural-gas-champion"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 26 Oct 2026 06:46:47 GMT",
-    "title": "Range Resources (RRC) Q3 earnings report preview: what to look for - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVhON1ZGVE5SSHZva2ZjS1hDMmpGNVB0NllHYkxtdEtMaEZlVHpKek9BSHJEQTltQmIyT0REOXR4by11LVF6YkxfZk95MXpjSl91cHlOem1nU3N5NzRFNlQ0WE90OWtTaHlNTk5QWHE3alRtckJCd2pjZGE3NzdkY1YwdXJFZ3ZQWTlzNFdkdUkwZjFCU2pwRS1wd0g?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 26 Oct 2026 11:19:10 GMT",
-    "title": "EQT to buy Range Resources in $50B all-stock deal, creating largest U.S. gas producer (EQT:NYSE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXBxcDVCRmJIT0FWNUJudExLcFd2cVdMTk5KSC13VG5kWUhMbHhjamVVa21Da2lKNWZXRHhRaTc0SE5hVmplbmQtQ2NLSFF3U0ZvVC13bkhlSC1jSnU2T1hMVS13eGVLTnJwM1FXbzBnTml6ZGtRZ2xTQWNocnRPam43WVlHdndfZFFocHZaM1Y0M1FCcTdEcDY0a2oybnNVSXQtVTUwaW1kR25tbUI4VXozbl9YOXlta2RV?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 26 Oct 2026 10:06:58 GMT",
-    "title": "RRC: EQT\u2019s all-stock acquisition targets a $50B-plus gas leader and $325M in annual synergies - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOME9oRUk1a0I4VDdJSEl0SWd1bndXWHZJNGU3RzJscFNMaC1KOWY4M05Ia1E5NFhURkppSkJkbXFldHJvRjRmUFFlYU1KemVqS2JUWWtIRkRlZW4tWjBTZmdjTWhqZURMZ3FYN1JtYVpEZjM1ajF0MVlHdzNGc3Rpc1JCYkw0c29vSjUzRDhWSzlkM1pPekZkeVNGN1kwOWFJcUNISHJOSnpYdlY4eGdHd1BpWnowd3hQZDdQYUZWdGR3eXlrYTltRnZGdGJZcTJBMkRPTEFsWXBleDZLMXZtY20zYnJNWnRRVDNNZXRNMVhhbUozVXNMWUJ4NkVtN09TWEsw?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 26 Oct 2026 11:07:52 GMT",
-    "title": "An all-stock merger would put Range Resources (RRC) in a combined company with over $50B enterprise value. - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVZveUFNQWpWMHhYbnVFV1V0dlUtRkFHS2NtUHh5MjF1ZV9rTEpLLTFDSFkxcWZ0LXdoa240Vjh1aGpnNTVYMWtScmxFTGFYRkNHNE5Va196cExrQVUwOWNDUmtrazhqcmM0NEE5ekxHMGx1STJ6el9VcG15b3dxNVVCNWFocTE5Nm56cVZCd2JBLXVuSGtxb1JFYzgzemV0UlZwTlJBYnptMnpo?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 26 Oct 2026 11:19:10 GMT",
-    "title": "EQT to buy Range Resources in $50B all-stock deal, creating largest U.S. gas producer - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWGVCcTZPdlVSQi1sNC1DNXNKRDVyN0JXUkkxdWgxNXQxS2QwdmYxMXlUMHRMV2NydHVBTzg4anpYRTBibUFfdVBDakhFcFVCRmNtUUliNlZGZmdjdDRjVVRVMVdpeTNZRUFwUDJkcWZ3QTdmWlJtc2FGNy1VZ3JjSkR3eWhJd29FV01WeG5xYTlUdTFqNEUyTkdDSTJQNkdIXzR4NmEwazBrUEJMbllkWVBUS0hvSDktZWNzNTZ3T1k2eVg4azU4R2ZMdDB4THZrbVUxNWp5aXp4NUZRX0E?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sun, 25 Oct 2026 22:10:27 GMT",
-    "title": "RRC Mar 2027 38.000 call (RRC270319C00038000) interactive stock chart - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VMFFkT0NMOURUbkN0WmdGS1BwWm9lS2V3aTRmWHZfcmRlYk5jZ2E4WXlPZDE3MnppbzBfVl9kY2JBN0MxRHZKeEJNVFExTkhEc1FJYlJ3U2d6TFZhckdibXhCTVF2QTVrMkp0ag?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 26 Oct 2026 11:28:52 GMT",
-    "title": "EQT would expand its board to 12 under its merger agreement with Range Resources (RRC). - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTdmUldaX2lXNVhjSGY5SFhPWUYtRGtzM01hRTR6QlgxT0o5ejhHYmk0Z05PZ3FJSzZyWnJpeXIzQ0NuSDhaVmw1LUlFbmVrZHZzME1Reks5ZXNxSVZ2TzNZTWRERkdKYUxSalczZHBDYWx4NG5ITUlqRkNkX2xwXzVVZWZ1UGc1M1JoNlJIcXNqRkxoVVRFUFR4Y3dEa2hrckw3QzN1Vzh6NVJyQVRMMmhzamhKN3kyazFHUQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 26 Oct 2026 10:00:00 GMT",
-    "title": "EQT Corporation (EQT) To Acquire Range Resources in All-Stock Deal - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNHVsRUN6Z0RYZWphTUljbkFqWDE1aFhncHRQNG9NUWtpM1RTZmdWRGlRdG1PcHBpLTZaWG5pVmVhR1E5WG5GMUxQYU54dXRUbHE0Q0x3aHZSVkZxeVNfUmVZbEJCZzdVa2dMRmM5NnFoYVlnelY1VGFjbG1JTjNyY2QwbTNXYk5ndnNIWkl2cVlrSlh6cHRoNF9nTjhnX1ZyRXFQRlNvdXdhVFRtb0xZU3BhUC0wVUVpbGxrdjdZN05qZ3kw?oc=5"
    }
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
-   "earnings",
    "8-K item 1.01 (material agreement)"
   ],
   "sec_status": "ok",
