@@ -1,0 +1,14 @@
+{
+ "XNCR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Tier B Phase 1 ESMO data (45.5% cORR n=11, RP3D selected); Gate 3 fail 0.3x ADV premarket; +92% 6m; regime red; recheck v2 for volume"
+ },
+ "RRC": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "All-stock takeover target (0.987 EQT per share) \u2014 not an EP; Gate 3 fail; earnings 2026-10-27 in window"
+ }
+}

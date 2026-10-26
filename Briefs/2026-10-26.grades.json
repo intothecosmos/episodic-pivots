@@ -1,0 +1,22 @@
+{
+ "XNCR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.34x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-26 07:47",
+  "label": "v1"
+ },
+ "RRC": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.02x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-26 07:47",
+  "label": "v1"
+ }
+}
