@@ -1,0 +1,573 @@
+{
+ "BRAI": {
+  "ticker": "BRAI",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 09:00AM",
+    "title": "Braiin Targets USD 56.9 Billion CX Software Market with Agentic AI Expansion and Major Upgrade to RADIUS CX Platform",
+    "url": "https://finviz.com/news/407764/braiin-targets-usd-569-billion-cx-software-market-with-agentic-ai-expansion-and-major-upgrade-to-radius-cx-platform"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 15:10:29 GMT",
+    "title": "Braiin Stock Rallies: What's Driving the Move? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2d1NTNDUkdVNldDSzl5VzdCdERHLXROd2pkTk1kZzcwb2JoZnk5bXZBYURGVmpHS2JaZi1nNzR1RjFra2hmUEdMZGdFZ2htTEdLcUN4SnJXdVVyNWh1LVdXcks3R0lmbjVfZlVYTEQ1bDVLeEVlU2oxS1hFS05JOHNVamFBaGdIcTc3eXZqSFlHUHEyMkRuZXh2UmJMeGJKbDNCNVd3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 15:10:29 GMT",
+    "title": "Braiin Stock Rallies: What's Driving the Move? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGZDbi1DdWtkMU5WRHFMR3ZWcm9EVng2QzU5Y3JiM09mQlFfRldqdVl2QXhpYXJBcmg2Q1JmcGd1eEp2OXRGYUZFUEU1Z2M2eHZiU0dvbV9ES1o4c0lkejFQN2lUenIxc3VUVEtMNlhncGFSamVUemFsdVVpN2VpcEhYcTFQY3hCZVUxekFlTG5wUFBRQTcyYmlOV0d1WHJKRFkxWDJiNA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 27 Oct 2026 11:28:11 GMT",
+    "title": "Breakeven On The Horizon For Braiin Limited (NASDAQ:BRAI) - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkRERVZ1elNjbG5PeFVQQnRzZmlmSHIzM3FvWER3bm9RdXQwelhkclBhbExXVGo2VWhLTl9ZWWJncFVKVDYxNmNaRlNHSFI0ZE90UW12aTJ5QV9raVR5UXczTUxsWDZnNnQwdFJzQTE2TnNGTFBzc3lEeWF4c0ZJQlBfUlJxTHR3WTN4eU1Ib0RyLVpIWWp1TDZaSV96aEJWRTUzMnZmQk1hUUswN210WTF3djFzd2ZNYkF30gHAAUFVX3lxTFBONEk3OWZfSGdXLURXT25mWXBoNTBSU0lNLVpFeURnTHFwX2k4QXR2aTkxV1RhdlljbFlQVzVUNXkyQlpBSFhYMWdkUnhHN3RBX3VCaVhwR3pobGRneTU4MXM4VGJNX214RHlGajJoUTFhVHhiX3l2NGFBVWZzR1dHcW5LcWFIUXRKdjIyaXBwM2VmOEdfbEVZczZTYzEzemRISHJyZlB2N2tJVGZoZ1JKejl3aUI3eVhEWGgtczhGcQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 13:00:00 GMT",
+    "title": "AI agents can now handle routine customer requests, bringing in a person when needed. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2w1bTgwWnMxdS1qQzM2ZzVDNjk2MnVpeGdvQXFFUVpXc0FCdUQ3MW50LWJ5aDZVU2NqUEtndzlJdUMxdG80T1BIVm5lU1hYckRKSEFwVzdoelJWanBtOUx4UGQyb1Z0NGt3Sk45d0tWN2o1SE5xQjdxZTdkbVE1bnFpN09kMkZocG9OODhDaFM0TFZrYU1GWmRkXzRFdS1SU3BtVzJodVlILVRyaEhRYUpudUUxcGNoMTFOY3Jn?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "upgrade"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "MFIC": {
+  "ticker": "MFIC",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1278752/000119312526432627/d115048d425.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "8-K",
+    "items": "1.01,2.02,7.01,9.01",
+    "title": "8-K 1.01,2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1278752/000119312526432622/d115048d8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1278752/000110465926118961/tm2628314d2_425.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "Novartis AG Reports Q3 2026 Financial Results and Raises Full-Year Core Operating Income Guidance",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/novartis-ag-reports-q3-2026-financial-results-and-raises-full-year-core-operating-income"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 06:00AM",
+    "title": "Ares Capital Corporation Agrees to Acquire MidCap Financial Investment Corporation",
+    "url": "https://finviz.com/news/408493/ares-capital-corporation-agrees-to-acquire-midcap-financial-investment-corporation"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 05:30AM",
+    "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
+    "url": "https://www.wsj.com/finance/investing/ares-private-credit-fund-to-buy-competitor-from-apollo-daecb67c?mod=wsj_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 2.02 (earnings)",
+   "8-K item 1.01 (material agreement)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CLS": {
+  "ticker": "CLS",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1030894/000110465926118978/tm2628147d1_8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1030894/000103089426000050/cls-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1030894/000103089426000049/cls-20261026.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "Celestica (CLS) Q3 Earnings and Revenues Top Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/celestica-cls-q3-earnings-and-revenues-top-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "Celestica Inc. Reveals Climb In Q3 Bottom Line ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/celestica-inc-reveals-climb-q3-bottom-line"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 06:22AM",
+    "title": "Coca-Cola, Boeing, Celestica, Whirlpool, and More Stocks That Explain Today's Market",
+    "url": "https://www.barrons.com/articles/stock-movers-f0207bd5?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 06:00AM",
+    "title": "Whirlpool shares sink after earnings, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound/card/whirlpool-shares-sink-after-earnings-and-other-early-market-movers-WvhhuoLhfPNUOD8lLyOF?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 04:39AM",
+    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rise as oil prices fall on Iranian leader comments",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 04:17AM",
+    "title": "CLS Stock Soars Premarket After Blowout Q3  Retail Calls It Very Inexpensive As Celestica Touts AI Supercycle",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cls-stock-soars-premarket-blowout-081754257.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 08:44PM",
+    "title": "Celestica's AI growth puts capacity in focus as revenue outlook reaches US$40 billion",
+    "url": "https://www.digitimes.com/news/a20261027VL202/celestica-revenue-growth-capacity-outlook.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 04:33PM",
+    "title": "Celestica: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/celestica-q3-earnings-snapshot-203343813.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 04:17PM",
+    "title": "Celestica Announces Third Quarter 2026 Financial Results and Will Hold 2026 Investor and Analyst Day",
+    "url": "https://finviz.com/news/408117/celestica-announces-third-quarter-2026-financial-results-and-will-hold-2026-investor-and-analyst-day"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 05:31AM",
+    "title": "Verizon earnings on tap after stock hit by SpaceX wireless move",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-federal-reserve-interest-rate-decision-october-meeting/card/verizon-earnings-on-tap-after-stock-hit-by-spacex-wireless-move-IGHlsmLKODOteCG2zy7a?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 04:31AM",
+    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set for steady start ahead of Fed rate decision",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-federal-reserve-interest-rate-decision-october-meeting?mod=mw_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "GLXY": {
+  "ticker": "GLXY",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/glxy-20261027.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 07:00AM",
+    "title": "Galaxy Announces Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/408549/galaxy-announces-third-quarter-2026-financial-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 09:43AM",
+    "title": "Galaxy Digital Says Bitcoin Bear Market Is Officially Over",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/galaxy-digital-says-bitcoin-bear-134300442.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 09:01AM",
+    "title": "Bitcoins Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-bear-market-over-galaxy-130102380.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "JBLU": {
+  "ticker": "JBLU",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1158463/000115846326000097/jblu-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1158463/000115846326000095/jblu-20261026.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "JetBlue Airways Corporation Reports Operating Revenue of $2.8 billion for the third quarter of 2026",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/jetblue-airways-corporation-reports-operating-revenue-28-billion-third-quarter-2026"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "Why JetBlue Stock Dived by Almost 10% on Monday",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-jetblue-stock-dived-almost-10-monday"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "JetBlue (JBLU) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/jetblue-jblu-q3-earnings-how-key-metrics-compare-wall-street-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "JetBlue Airways Q3 Loss Widens ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/jetblue-airways-q3-loss-widens"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "JetBlue Airways (JBLU) Reports Q3 Loss, Misses Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/jetblue-airways-jblu-reports-q3-loss-misses-revenue-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "JetBlue Airways Corporation Q3 Loss Widens ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/jetblue-airways-corporation-q3-loss-widens"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 07:29AM",
+    "title": "JetBlue Airways Shares Rise 5.5% Premarket as Airline Forecasts Q4 Revenue Growth and Margin Improvement",
+    "url": "https://finviz.com/news/408597/jetblue-airways-shares-rise-55-premarket-as-airline-forecasts-q4-revenue-growth-and-margin-improvement"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 06:06PM",
+    "title": "JetBlue's Loss Widens Despite Higher Revenue. Blame Rising Fuel Costs.",
+    "url": "https://www.barrons.com/articles/jetblue-earnings-stock-price-44cfbb47?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 05:21PM",
+    "title": "JetBlue shares jump on Q3 results and 2027 outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jetblue-shares-jump-q3-results-212104798.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 04:25PM",
+    "title": "JetBlue: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jetblue-q3-earnings-snapshot-202542774.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 04:15PM",
+    "title": "JetBlue Announces Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/408120/jetblue-announces-third-quarter-2026-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 01:45PM",
+    "title": "JetBlue Shares in Tailspin as High Fuel Prices Threaten Turnaround",
+    "url": "https://www.wsj.com/business/airlines/jetblue-shares-in-tailspin-as-high-fuel-prices-threaten-turnaround-38f32c31?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 01:43PM",
+    "title": "Can JetBlue still avoid bankruptcy? Analysis says yes, but it wont be easy",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jetblue-still-avoid-bankruptcy-analysis-174337687.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SOFI": {
+  "ticker": "SOFI",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1818874/000181887426000065/sofi-20261027.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 07:35AM",
+    "title": "SoFi Earnings Top Views. Fintech Hikes 2026 Revenue Guidance.",
+    "url": "https://www.investors.com/news/technology/sofi-stock-sofi-earnings-q32026-news?mod=IBD_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 07:11AM",
+    "title": "SoFi Lifts Outlook After Profit, Revenue and Memberships Jump",
+    "url": "https://www.wsj.com/business/earnings/sofi-lifts-outlook-after-profit-revenue-and-memberships-jump-8cc45f94?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 07:06AM",
+    "title": "SoFi's stock climbs as lending surge drives an earnings beat and rosy outlook",
+    "url": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 07:06AM",
+    "title": "SoFi Technologies Posts Another Beat-and-Raise Quarter. Earnings May Quiet the Skeptics.",
+    "url": "https://www.barrons.com/articles/sofi-earnings-stock-price-944cbed1?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 07:00AM",
+    "title": "SoFi Reports Third Quarter 2026 with Record Net Revenue of $1.4 Billion, Net Income of $241 Million and Raises Full-Year Guidance",
+    "url": "https://finviz.com/news/408576/sofi-reports-third-quarter-2026-with-record-net-revenue-of-14-billion-net-income-of-241-million-and-raises-full-year-guidance"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 06:19AM",
+    "title": "Nasdaq, S&P 500 Futures Gain Premarket While Oil Rebounds: CLS, NVDA, SKHY, CRWV, SOFI In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-gain-101925923.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 05:29AM",
+    "title": "Seagate headlines busy day of earnings",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound/card/seagate-headlines-busy-day-of-earnings-a1Jfu6qSlBRjmUPbeAGp?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 04:39AM",
+    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rise as oil prices fall on Iranian leader comments",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 10:45PM",
+    "title": "Dow, S&P 500, Nasdaq Futures Climb As Tech Stocks Get A Boost From Anthropic IPO Listing: SOFI, BB, PYPL, CLS In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-024554043.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 09:12PM",
+    "title": "SOFI Vs PYPL: Which Fintech Stock Looks Better Ahead Of Q3 Earnings?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-vs-pypl-fintech-stock-011216713.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 01:27PM",
+    "title": "Expanding Lending with AI: Pagaya CEO & Co-Founder Gal Krubiner, Live from Money 20/20 2026",
+    "url": "https://finance.yahoo.com/technology/ai/articles/expanding-lending-ai-pagaya-ceo-172726093.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 12:29PM",
+    "title": "Transforming the Credit Experience: Taktile CEO & Co-Founder Maik Taro Wehmeyer, Live from Money 20/20 2026",
+    "url": "https://finance.yahoo.com/technology/ai/articles/transforming-credit-experience-taktile-ceo-162940578.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 11:20AM",
+    "title": "Accelerating SMEs From HK to the World: FundPark CSO & Chief of Staff Hay Yip, Live from Money 20/20 2026",
+    "url": "https://finance.yahoo.com/small-business/articles/accelerating-smes-hk-world-fundpark-152054630.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 11:19AM",
+    "title": "AI and Personal Finance: Yodlee CEO Farouk Ferchichi, Live from Money 20/20 2026",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-personal-finance-yodlee-ceo-151933885.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 12:22AM",
+    "title": "Financial Stocks Analyst Roundup: Truist Weighs In On PYPL, FISV, SOFI, AFRM, MA, V",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/financial-stocks-analyst-roundup-truist-042221179.html"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FER": {
+  "ticker": "FER",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1468522/000146852226000077/a6ktennesseei-24_26102026.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 27 Oct 2026 10:37:19 GMT",
+    "title": "A $24.8B award figure mixed measures. Ferrovial (FER) puts I-24 payments on a consistent basis. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1Z4ZFB3VGNNLUZKMG5INWxWUkJsc29MWkZoMkdEVi0zZDJUa3NzcHJKczJrU1IzbEJfOWs0aHhhN05vVmdETFR6dkFKMEsyemkzaG03aWlCMDhkTUdjdHZsZ0VLN3pScTdLUVQyVWN5clA1djlaTm9TNmtPR2RScjB5VkNjLTF1bEhIdjRjblZNV1lXREJtS3VGUWpGaS1VWmZiYnJWRTJCblQ3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 25 Oct 2026 07:00:00 GMT",
+    "title": "Ferrovial N.V. (FER) Stock Price, News & Analysis - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mWE1nVC1ZWUVjR3VXNTFBaGNDbnQ2TUFVbnZjUUFiYzlPOXlGX3E5YmZkZlM0LTczbTlxSENvUE5RN2hnczVBbmI5MVU3NTJuVmc?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "INIO": {
+  "ticker": "INIO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2109150/000162828026067394/inio-20261027.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 06:41AM",
+    "title": "Innio: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/innio-q3-earnings-snapshot-104125623.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 06:30AM",
+    "title": "INNIO Reports Record Third Quarter 2026 Financial Results with Revenue Up 57%, Net Income Up 176% and Adjusted EBITDA Up 70%; Raises 2026 Full-Year Guidance",
+    "url": "https://finviz.com/news/408510/innio-reports-record-third-quarter-2026-financial-results-with-revenue-up-57-net-income-up-176-and-adjusted-ebitda-up-70-raises-2026-full-year-guidance"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 19:40:17 GMT",
+    "title": "Innio N.V. (INIO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KbXhra0k2Y3lGTzVaTVVUN09teDNTcml6djNlcWZIZFZQaEM1VUpWbk52d0loZjY4T2NSejBETF9QcUFaYlBheEpZX01uSklYYUNXMHB6MllXMHU5RTRBVUZ3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 27 Oct 2026 01:15:35 GMT",
+    "title": "Top Innio (INIO) Competitors 2026 - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFc5T0gxcXJ0VzdCTFlHcUZKN21TUEdKTm1GNHFSeHRyeEluMXpRYkFwWE56V2UtS2ZrNTdtVFQ1M0Z6TlFMM2p3ZEhORnRpRmJ2M3NYVzRoZlNOd2ZYMEVOU3JCY2g1ZklCd1hmdE9ZSTd5aHE1TGZXNWY2b0NrNA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 27 Oct 2026 10:55:00 GMT",
+    "title": "INNIO N.V ($INIO) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV1hzU3M4ajFIMHVBWWRlRnRuSlBfMjNaaU9nRklseGtDd0J0WGJ2XzZGVHo3TDlfNHBTTl85Wkh2WllGV1FvVF9PcWstMGlWRU9RVjZ3dl9QVzFGVk0tdUc4M2hWeHBDUVAtN3g0RFdOYWE4eHBVTU1PTzBpYkFadkFmYVJhUUpFOVE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 25 Oct 2026 07:00:00 GMT",
+    "title": "Innio (Nasdaq:INIO) - Stock Analysis - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41T3l3SVNGVnhUZjd5Q2tvOTViSjJTQ3lFTGRBRHVpNk1HekNoNzBqbjFZMG9DdmdkMEVBQWhuU1N5OTNFV0xiYWE3Ukc0RnJHRFRXTHR5U253Snd4WW1sNG9sUi10X014OWFDZUdCXzE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 27 Oct 2026 01:36:07 GMT",
+    "title": "Innio N.V. (INIO) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qc0ZFRG1ObkZCXzlDdllVRlN6cHhZY01KejVaemdPZG14dHJFSmZLMGxZd3FWVE9BSTlRSTYwbXMyOGxNM1hOclBtdm1WNFBLTk1xdWd1UXFYdw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 19:56:42 GMT",
+    "title": "Innio (NASDAQ:INIO) Stock Price Up 7.9% - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2R1SFlEUlpsUkZkZWNHcS1idy1NZ0dQRXVyY1lkWFFINU93YXA4dGowYzdvdXJDYkpzWXpuZTNOSWJLd2ZtMmJHeVhOa3dFSlVybVJYb1BIYzlPY1hOUFRMVFdVV0ctMF9HUzlNU3JUdFd4bXpUZ0h5aE1pdnc3eFQ5eFEweTh5TElsQjNacFY0NWQ1RU16ZmdEUDBjT1RFdFZIRzNlQnA?oc=5"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

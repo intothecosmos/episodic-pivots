@@ -1,0 +1,7 @@
+{
+  "MFIC": {"tier": "takeover", "grade": 1, "verdict": "NO TRADE", "why": "Ares Capital acquiring MFIC for ~$10.88/sh ($1.21 cash + ~$9.67 ARCC stock); cash/stock takeover target is not an EP"},
+  "BRAI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Day-old fluffy product PR with no numbers; Oct 26 spike to 5.05 then -40% close at 2.12 on 25x ADV; today's +46% is a bounce below yesterday's open"},
+  "SOFI": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Beat-and-raise (rev +44%, EPS +64%, 2026 guide up, 2027 guide above consensus) but Gate 3 fail: 0.12x ADV premarket at 07:47; recheck at v2, regrade 4* if >=1x"},
+  "CLS": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Rev +83%, adj EPS $3.30 vs $1.58, 2026 outlook raised, 2027 $40B; Gate 3 fail: 0.04x ADV premarket; recheck at v2"},
+  "FER": {"tier": "Unknown", "grade": 2, "verdict": "NO TRADE", "why": "6-K clarifies already-announced I-24 concession payments ($21B PV); no new award; 0.04x ADV thin premarket print"}
+}
