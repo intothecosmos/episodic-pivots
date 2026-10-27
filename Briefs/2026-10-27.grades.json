@@ -8,8 +8,8 @@
    "gap \u226540%: historically the worst band",
    "regime red \u2014 half size or skip"
   ],
-  "snapshot_et": "2026-10-27 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-27 09:21",
+  "label": "v2"
  },
  "MFIC": {
   "tier": "B",
@@ -19,68 +19,68 @@
    "event: earnings 2026-11-05",
    "regime red \u2014 half size or skip"
   ],
-  "snapshot_et": "2026-10-27 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-27 09:21",
+  "label": "v2"
  },
  "SOFI": {
   "tier": "A",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.12x ADV (premarket)"
+   "volume: 0.33x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-27 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-27 09:21",
+  "label": "v2"
  },
  "CLS": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)"
+   "volume: 0.15x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-27 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-27 09:21",
+  "label": "v2"
+ },
+ "INIO": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.08x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-27 09:21",
+  "label": "v2"
+ },
+ "JBLU": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.05x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-27 09:21",
+  "label": "v2"
  },
  "FER": {
   "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)",
+   "volume: 0.05x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-10-27 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-27 09:21",
+  "label": "v2"
  },
- "INIO": {
-  "tier": "A",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
-  ],
-  "snapshot_et": "2026-10-27 07:47",
-  "label": "v1"
- },
- "GLXY": {
+ "IMSR": {
   "tier": "B",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-27 07:47",
-  "label": "v1"
- },
- "JBLU": {
-  "tier": "B",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
-  ],
-  "snapshot_et": "2026-10-27 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-27 09:21",
+  "label": "v2"
  }
 }

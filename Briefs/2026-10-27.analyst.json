@@ -1,7 +1,10 @@
 {
-  "MFIC": {"tier": "takeover", "grade": 1, "verdict": "NO TRADE", "why": "Ares Capital acquiring MFIC for ~$10.88/sh ($1.21 cash + ~$9.67 ARCC stock); cash/stock takeover target is not an EP"},
-  "BRAI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Day-old fluffy product PR with no numbers; Oct 26 spike to 5.05 then -40% close at 2.12 on 25x ADV; today's +46% is a bounce below yesterday's open"},
-  "SOFI": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Beat-and-raise (rev +44%, EPS +64%, 2026 guide up, 2027 guide above consensus) but Gate 3 fail: 0.12x ADV premarket at 07:47; recheck at v2, regrade 4* if >=1x"},
-  "CLS": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Rev +83%, adj EPS $3.30 vs $1.58, 2026 outlook raised, 2027 $40B; Gate 3 fail: 0.04x ADV premarket; recheck at v2"},
-  "FER": {"tier": "Unknown", "grade": 2, "verdict": "NO TRADE", "why": "6-K clarifies already-announced I-24 concession payments ($21B PV); no new award; 0.04x ADV thin premarket print"}
+  "MFIC": {"tier": "takeover-target", "grade": 1, "verdict": "NO TRADE", "why": "ARCC cash+stock takeover at ~$10.88; merger arb, not an EP; upside capped by the spread."},
+  "BRAI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Day-old numberless product PR; +48% premarket is a bounce off yesterday's -40% pump-and-dump close; 40%+ gap band; earnings 11-06 in window."},
+  "SOFI": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Beat-and-raise ($1.371B rev +44%, 2026/2027 guides above consensus) but Gate 3 fail at 09:21 (0.3x ADV30 premarket, under-reads a 1.27B-float name); 82.7% overhead; regime red. Regrade to 4 if >=1x by 9:45."},
+  "CLS": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Beat-and-raise ($5.83B rev +83%, 2027 outlook $40B) but gap fading 15.6%->9.9% premarket, 0.1x ADV30; overhead 93.7%; $16.42 max stop; regime red. Regrade to 4 only if >=1x ADV by 9:45 and gap holds >=8%."},
+  "INIO": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Record Q3 ($1.168B rev +57%, NI +176%, backlog $8.0B +142%, 2026 guide raised) but Gate 3 fail at 09:21 (0.1x ADV30 premarket on a 750M-share Sept-2026 IPO); regime red. Regrade to 4 if >=1x by 9:45."},
+  "FER": {"tier": "Unknown", "grade": 2, "verdict": "NO TRADE", "why": "6-K clarifies the already-awarded I-24 concession; nothing new; 0.1x ADV on a Madrid-liquidity dual listing."},
+  "JBLU": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 earnings gap on 0.1x ADV30, overhead 97%; no guidance step-change read; not re-read at v2."},
+  "IMSR": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (projected $vol $2M); 8-K 8.01 is a share-repurchase announcement, not a catalyst."}
 }
