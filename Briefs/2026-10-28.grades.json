@@ -2,33 +2,77 @@
  "BRAI": {
   "tier": "B",
   "grade": 3,
-  "verdict": "WATCH (event-capped)",
+  "verdict": "WATCH (40%+ gap, needs Tier A + strong volume)",
   "why": [
    "event: earnings 2026-11-10 (est)",
+   "gap \u226540%: historically the worst band",
    "regime red \u2014 half size or skip"
   ],
-  "snapshot_et": "2026-10-28 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
+ },
+ "ULBI": {
+  "tier": "unknown",
+  "grade": 3,
+  "verdict": "WATCH (40%+ gap, needs Tier A + strong volume)",
+  "why": [
+   "catalyst unknown \u2014 capped 3\u2605, recheck",
+   "event: earnings 2026-11-17 (est)",
+   "gap \u226540%: historically the worst band",
+   "regime red \u2014 half size or skip"
+  ],
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
+ },
+ "STLA": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.29x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
+ },
+ "AXGN": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.19x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
  },
  "VRT": {
   "tier": "A",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
+   "volume: 0.19x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
+ },
+ "WING": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
    "volume: 0.1x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-28 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
  },
  "FLEX": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)"
+   "volume: 0.05x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-28 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
  },
  "BOOM": {
   "tier": "B",
@@ -37,17 +81,47 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-28 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
  },
- "LCII": {
+ "WEN": {
   "tier": "MA",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "cash takeover target \u2014 upside capped, not an EP"
   ],
-  "snapshot_et": "2026-10-28 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
+ },
+ "KDK": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
+ },
+ "ULCC": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
+ },
+ "PUMP": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-28 09:38",
+  "label": "v2"
  }
 }

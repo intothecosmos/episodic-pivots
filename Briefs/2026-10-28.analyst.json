@@ -1,7 +1,14 @@
 {
-  "VRT": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Beat-and-raise (Q3 sales $4.313B +61%, adj EPS $2.21 +78%, FY26 guide $14.65B mid) but Gate 3 fail at 07:47 (0.1x ADV30 premarket, under-reads an $80B cap); 59.9% overhead, 36% off high; $10.11 max stop; regime red. Regrade to 4 if >=1x by 9:45 with gap intact."},
-  "FLEX": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Beat-and-raise (Q2 FY27 rev $8.49B +25%, adj EPS $1.18 vs $0.79, FY27 guide raised on sales/EPS/margin) but Gate 3 fail at 07:47 (0.04x ADV30 premarket) and gap only 9.1%; overhead 51%; regime red. Regrade to 4 only if >=1x ADV by 9:45 and gap holds >=8%."},
-  "BRAI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No new release since the Oct 26 numberless Force AI product PR; day-3 halt-machine bounce (Oct 26 -40% close, Oct 27 +56% record volume, +35% premarket today); earnings est 11-10 in window. Machine 3* overruled."},
-  "LCII": {"tier": "takeover-target", "grade": 1, "verdict": "NO TRADE", "why": "Monomoy unsolicited $101/share all-cash proposal on top of the pending all-stock Patrick Industries merger; bidding-contest arb, upside capped; not an EP."},
-  "BOOM": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (projected $vol $2.8M on $110M cap); Q3 beat flattered by $5.4M tariff refunds, Q4 guide steps down; no raise."}
+  "AXGN": {"tier": "A", "grade": 4, "verdict": "TRADE", "why": "Beat-and-raise: Q3 rev $75.8M +26.2%, adj EPS $0.21 vs $0.12, adj EBITDA $13.4M (17.7%), FY26 rev guide raised to >=$290M/+29%. Chart clean (13% off high, 7% overhead). Gate 3 1.05x ADV30 by 9:45 (first15) pass, not strong. Weakness: 5-min OR $2.65 > max stop $1.89 (1.0x ADR) - stop must fit or skip. Regime red: half size."},
+  "VRT": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Beat-and-raise (Q3 sales $4.313B +61%, adj EPS $2.21, FY26 guide $14.65B mid) but Gate 3 fail: 0.81x ADV30 by 9:45 (first15); gap faded 16.8% -> 13.2%; 59% overhead, 36% off high; OR range $14 vs max stop $10.13; regime red."},
+  "ULBI": {"tier": "MA", "grade": 1, "verdict": "NO TRADE", "why": "EnerSys cash tender at $16.00/share (166% premium, EV $320M, close Q1 CY27). Stock pinned at 15.62 - merger arb, upside capped, not an EP."},
+  "BRAI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No new filing/PR since Oct 26 numberless Force AI/RADIUS CX product PR; day 3 of halt-machine bounce (Oct 26 5.05 -> 2.12, Oct 27 +56%, today +43% on 9.8x ADV first15). Earnings est 11-10 inside window. Machine 3* overruled."},
+  "STLA": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 loss narrows, AOI up on cost cuts, FY26 outlook confirmed not raised; 0.72x ADV30 by 9:45 (first15) Gate 3 fail; 87.6% overhead, 63% off high."},
+  "FLEX": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Tier A beat-and-raise (v1) but gap faded to +6.0% at 9:45 on 0.48x ADV30 (first15) - below screen and Gate 3 fail."},
+  "WING": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Q3 SSS -5.4%, adj EPS -3.5%, FY26 SSS guide cut to -6.5% to -7%; relief bounce on 0.42x ADV."},
+  "WEN": {"tier": "MA", "grade": 1, "verdict": "NO TRADE", "why": "Peltz/Trian buyout offer - takeover target, not an EP."},
+  "BOOM": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail: projected dollar volume < $10M; Q4 guide steps down."},
+  "KDK": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "First commercial driverless-truck deal but Gate 4 fail (dollar volume < $10M); earnings 11-05 inside window."},
+  "ULCC": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Q3 earnings; Gate 4 fail (dollar volume < $10M)."},
+  "PUMP": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Q3 earnings; Gate 4 fail (dollar volume < $10M); 93% overhead."}
 }
