@@ -1,0 +1,7 @@
+{
+  "VRT": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Beat-and-raise (Q3 sales $4.313B +61%, adj EPS $2.21 +78%, FY26 guide $14.65B mid) but Gate 3 fail at 07:47 (0.1x ADV30 premarket, under-reads an $80B cap); 59.9% overhead, 36% off high; $10.11 max stop; regime red. Regrade to 4 if >=1x by 9:45 with gap intact."},
+  "FLEX": {"tier": "A", "grade": 2, "verdict": "WATCH", "why": "Beat-and-raise (Q2 FY27 rev $8.49B +25%, adj EPS $1.18 vs $0.79, FY27 guide raised on sales/EPS/margin) but Gate 3 fail at 07:47 (0.04x ADV30 premarket) and gap only 9.1%; overhead 51%; regime red. Regrade to 4 only if >=1x ADV by 9:45 and gap holds >=8%."},
+  "BRAI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No new release since the Oct 26 numberless Force AI product PR; day-3 halt-machine bounce (Oct 26 -40% close, Oct 27 +56% record volume, +35% premarket today); earnings est 11-10 in window. Machine 3* overruled."},
+  "LCII": {"tier": "takeover-target", "grade": 1, "verdict": "NO TRADE", "why": "Monomoy unsolicited $101/share all-cash proposal on top of the pending all-stock Patrick Industries merger; bidding-contest arb, upside capped; not an EP."},
+  "BOOM": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (projected $vol $2.8M on $110M cap); Q3 beat flattered by $5.4M tariff refunds, Q4 guide steps down; no raise."}
+}

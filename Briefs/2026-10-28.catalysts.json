@@ -1,0 +1,365 @@
+{
+ "BRAI": {
+  "ticker": "BRAI",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 09:00AM",
+    "title": "Braiin Targets USD 56.9 Billion CX Software Market with Agentic AI Expansion and Major Upgrade to RADIUS CX Platform",
+    "url": "https://finviz.com/news/407764/braiin-targets-usd-569-billion-cx-software-market-with-agentic-ai-expansion-and-major-upgrade-to-radius-cx-platform"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 28 Oct 2026 07:25:50 GMT",
+    "title": "Braiin Shares Climb 56% After Hours as Force AI Launches - Braiin (NASDAQ:BRAI) - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXYtMHZacEpLNHRFQkg2SERRaFZyeXo0ay1UZ0xtazloVXlta2c5MXd3cUtGU3dGT2YwN1NvanhIcmRCS3o4dkxkcTdXVEpWV2lEcUVKZ2VIVEhsUENtRVp4VGYtUjFnOUlNUmZRdXRPUElRaTVqb0N1SG5rWUZhR3V4TTVTazd0YkxBeVFESWZyc3lYTzJyaVlZQkF2LVZCcUNOQ2VB?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 27 Oct 2026 18:00:27 GMT",
+    "title": "Unusual Volume Stocks: POM, SHFS and BRAI Among Session Movers - ChartMill",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHpsVm5mczBfbVQ4X0tCaHpkLXFJNEV6blRna0dhU25kRVF0dGJISXRrYU1lN25fY2lna3QtMnZLam9PQTJoM2dsWG9QZkJVMjJUbm5Xbl8wbVdlb1lrVVRlMGNXQXZEUlpaUU9ELVRISHh2VG5Cb0FLQ1dyWFkwWi11WFRnb2hNTlhaUFBtZ2htTEdVdGpPUFJNT2xGbkk4cGhoOF9YWE5pX2hTQTNwbUpB?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 27 Oct 2026 14:19:00 GMT",
+    "title": "BRAI Stock Plunges As Momentum Cracks Below Key Support - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53b05PbDItV0VhdkxvZmloNzdOblBZR0Z5a05jb3hlUzhUMjI4ZUNqWF9ZS2dQRWRHYUd0LWhDSTNqa3RpM1dkcnBveXpocmh1NzNCZFFtMEdaUmlCTnkxRVY0ZVNmVk9URkwzQWw2WU56ZUd5X2NR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 13:00:00 GMT",
+    "title": "AI agents can now handle routine customer requests, bringing in a person when needed. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2w1bTgwWnMxdS1qQzM2ZzVDNjk2MnVpeGdvQXFFUVpXc0FCdUQ3MW50LWJ5aDZVU2NqUEtndzlJdUMxdG80T1BIVm5lU1hYckRKSEFwVzdoelJWanBtOUx4UGQyb1Z0NGt3Sk45d0tWN2o1SE5xQjdxZTdkbVE1bnFpN09kMkZocG9OODhDaFM0TFZrYU1GWmRkXzRFdS1SU3BtVzJodVlILVRyaEhRYUpudUUxcGNoMTFOY3Jn?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 27 Oct 2026 12:50:00 GMT",
+    "title": "Braiin (NASDAQ:BRAI) and Lucas GC (NASDAQ:LGCL): Which AI Penny Stock Has Sales Behind the News? - kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGdCUl9DVlNtNEp3MWdqRDRFdVpHQ2hSclV6N1hZM2RVUmVtazg2cHNXdE1sMEtPWWJpcldSSjM1cF9VU1Zud0dGcU5qbkdNUEhjTW5wVXBWbUYzSU5UN1B6SnVaeUtYNmtHMmtoWnBPQVBFU1VfWnUtOEhjQ0paYmM1NEZmMVZfNzA4bkJPOHlMeEpUZl93R2gxdnB4Y3g5WmZ6eXJqN2t1VmlkaW0wQjhzX21EZmVidWVsOEJMOTI?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 27 Oct 2026 17:05:39 GMT",
+    "title": "12 Information Technology Stocks Moving In Tuesday's Intraday Session - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVFlUTkxZ2xXOW95WVk0cURibmduQ1dsNlVWR2UzS0ZaanF6Y2dmNUROdWo5SENHSW9QX09ud0tMekFKQm5uU2VUR2pTaWpBRkZEd2JVNzlheXRsRHl1dlNKdjk0LWRCRjh4eWhSc1VHY2JVbV9YdUtHMk9fN0tIQXFMaTI3Y0otbGM4dlJ1MEZqM1hXTGpSWmxaWjBPcXBON2syZ2pDdm1qaHZhbVFBcGt5TTlwdlA0TFk5Q01HSXBJalgxSlE?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "upgrade"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BOOM": {
+  "ticker": "BOOM",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/34067/000003406726000053/boom-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/34067/000003406726000052/boom-20261027.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "DMC Global (BOOM) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/dmc-global-boom-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "DMC Global Inc. Reports Third Quarter Sales of $172.8 million",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/dmc-global-inc-reports-third-quarter-sales-1728-million"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "DMC Global (BOOM) Q3 Earnings and Revenues Top Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/dmc-global-boom-q3-earnings-and-revenues-top-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 06:07PM",
+    "title": "DMC Global Blows Past Estimates On Broad Margin Gains, But Tariff Refunds And A Seasonal Q4 Step-Down Temper The Beat",
+    "url": "https://finviz.com/news/409514/dmc-global-blows-past-estimates-on-broad-margin-gains-but-tariff-refunds-and-a-seasonal-q4-step-down-temper-the-beat"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 04:05PM",
+    "title": "DMC Global Reports Third Quarter Financial Results",
+    "url": "https://finviz.com/news/409269/dmc-global-reports-third-quarter-financial-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "VRT": {
+  "ticker": "VRT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067707/vrt-20261028.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-27",
+    "form": "8-K",
+    "items": "2.01,7.01,9.01",
+    "title": "8-K 2.01,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067393/vrt-20261027.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067127/vrt-20261026.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Can nVent Electric Become the Next Vertiv?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/can-nvent-electric-become-next-vertiv"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Vertiv Raises 2026 Guidance ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/vertiv-raises-2026-guidance"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Vertiv Holdings Co Reports Third Quarter 2026 Net Sales Growth of 61%",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/vertiv-holdings-co-reports-third-quarter-2026-net-sales-growth-61"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Vertiv Holdings Co Profit Climbs In Q3 ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/vertiv-holdings-co-profit-climbs-q3"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "Ranking 4 AI Power Stocks By Balance Sheet After the Sell-off: Vertiv, GE Vernova, Bloom Energy, and Plug Power.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/ranking-4-ai-power-stocks-balance-sheet-after-sell-vertiv-ge-vernova-bloom-energy-and-plug"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "These Dividend-Paying Stocks Offer Notable AI Exposure: AVGO VRT",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/these-dividend-paying-stocks-offer-notable-ai-exposure-avgo-vrt"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/vertiv-expands-ai-data-center-footprint-can-it-beat-aph-and-smci"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "Can Vertiv's Americas Strength Drive Robust Q3 2026 Earnings Growth?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/can-vertivs-americas-strength-drive-robust-q3-2026-earnings-growth"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "Vertiv Holdings Co Completes Acquisition of Utility Innovation Holdings, Inc. for $1.45 billion",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/vertiv-holdings-co-completes-acquisition-utility-innovation-holdings-inc-145-billion"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "Vertiv to Report Q3 Earnings: Should You Buy, Sell, or Hold the Stock?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/vertiv-report-q3-earnings-should-you-buy-sell-or-hold-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 07:41AM",
+    "title": "Vertiv Holdings shares jump after orders doubled",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-fed-decision-interest-rates-big-tech-alphabet-microsoft/card/vertiv-holdings-shares-jump-after-orders-doubled-ZsuI0gX0qDVlEVHXNrgZ?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 06:37AM",
+    "title": "Vertiv Stock Jumps 14% as Earnings Show Another Way to Play the AI Boom",
+    "url": "https://www.barrons.com/articles/vertiv-earnings-stock-price-dc947d8b?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 05:55AM",
+    "title": "Vertiv Reports Strong Third Quarter 2026 with Net Sales Growth of 61%, Organic Orders Growth over 100% and Diluted EPS Growth of 91% (Adjusted Diluted EPS Growth of 78%); Raises Full Year 2026 Guidance Across All Key Metrics",
+    "url": "https://finviz.com/news/409734/vertiv-reports-strong-third-quarter-2026-with-net-sales-growth-of-61-organic-orders-growth-over-100-and-diluted-eps-growth-of-91-adjusted-diluted-eps-growth-of-78-raises-full-year-2026-guidance-across-all-key-metrics"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 05:29AM",
+    "title": "Microsoft and Alphabet headline big day of earnings",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-fed-decision-interest-rates-big-tech-alphabet-microsoft/card/microsoft-and-alphabet-headline-big-day-of-earnings-kZSUldbkDvZov8TqA13F?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:27AM",
+    "title": "Stock Market Today: Dow set to ease while Nasdaq is set to rise with Fed decision on tap as Microsoft and Alphabet results loom; SK Hynix stock soars",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-fed-decision-interest-rates-big-tech-alphabet-microsoft?mod=mw_FV"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FLEX": {
+  "ticker": "FLEX",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637426000039/flex-20261028.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Flex Q2 27 Earnings Conference Call At 8:30 AM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/flex-q2-27-earnings-conference-call-8-30-am-et"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "Flex to Report Q2 Earnings: What's in the Cards for the Stock?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/flex-report-q2-earnings-whats-cards-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 07:05AM",
+    "title": "FLEX REPORTS SECOND QUARTER FISCAL 2027 RESULTS",
+    "url": "https://finviz.com/news/409832/flex-reports-second-quarter-fiscal-2027-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "LCII": {
+  "ticker": "LCII",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "title": "8-K 8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/763744/000076374426000094/lcii-20261028.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 06:03AM",
+    "title": "Patrick Industries, Inc. Reaffirms Merger Agreement with LCI Industries",
+    "url": "https://finviz.com/news/409752/patrick-industries-inc-reaffirms-merger-agreement-with-lci-industries"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 06:00AM",
+    "title": "LCI Industries Confirms Receipt of Unsolicited, Non-Binding Proposal from Monomoy Capital Partners",
+    "url": "https://finviz.com/news/409746/lci-industries-confirms-receipt-of-unsolicited-non-binding-proposal-from-monomoy-capital-partners"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 28 Oct 2026 11:32:50 GMT",
+    "title": "Why is LCI Industries stock surging today? - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTFXcnRndXVWb1hmc2dmQlRDczR2ZUVUaW43Sk9nTXJ3dHVsS1ZQTlVaTlF1alI3eHNoT3pqdE0xMDh5YVFlbVRDM3hZVFoyU0tNby1rVmZudm80cWJrWDByRUVFM21oeXN1NDJwNFZ5cU5aQ3BrSkVSRVgtdGRhS0NpZ1hxdmZzV0dlNDZ1bG9hMzlGM1I5TVdHUDBfNnRyeldWNmV3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 28 Oct 2026 10:15:14 GMT",
+    "title": "LCI Industries confirms unsolicited bid from Monomoy at $101/share in cash - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlRmNF80d3FYUTBBaHR4eExaZmhUdWZvd0c4NDR6cFkydW1PRHlYZG1hMGJDR2E2R3AzRlRrdGt3SWlWaXhSMy1iNE52OFgyZk5JSDB2OVVXbUx3WTZEVGZNRU0wSmVTLVRHaFo0NHVFTE9lb0l3TXU4WUY4eFQ5eHgxLWhGbFIwNld3TmtwUGpkVUJXUUhUUEt6bF9KUENhNEo2Yk9ibm5UMGVaa1p3TzFSZWNGeWE5cVRnUGZoNG1OeG5NU1VDcXo2YmVXaVpxQXc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 28 Oct 2026 10:00:00 GMT",
+    "title": "LCI Industries Confirms Receipt of Unsolicited, Non-Binding Proposal from Monomoy Capital Partners - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSHo1SUdYWGViNGh1T29jak96Qk1jQ0hlQ21iU1NpcnFHV3ZwdGpKSmtKWHpUcXpVb3BtYVhJbFdVZ1d6UzdoOHQwb2tZbzhsdzZWMVk5M19IY3NGZmhhenpoT1c2MGgyQkVxQmVwNi1GRFN2YU1xX0V6T2MyUmNEd0VsQndrdnhvbXVPQnhQUkppbWNxNkt1RlZzSkNZV1AyX3gtcjZHaDNLQ3ZFQlVIZld5SmZxQzJpNW4yeGpNWGM4TzdjLWZYb2Q0eFRhSGJFV3JtTzNiYUs3RTlMTGRYX3Vrb1RsY0w4RUE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 28 Oct 2026 10:00:54 GMT",
+    "title": "LCI Industries confirms $101-per-share takeover bid from Monomoy - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd2Z6eHpYV1pOcUNyMHVlbjh4MGVQdzEzM0FFSG1qVWRZMTNIdEFfQUJvOTZhaGJIUDJCTktkeHlFZnpWdmJKVzJLdGhyNmp1VHM4UVJVc2JSUjg3Y2x2T2oyWDZlNEV0QllTSU03am9NcDUyYmxCMWQ2NUZlWkk0NWNodzBkX0wzbkNCLTdSbEszTXJDcVl1TFBTSlA2Q01TWU9Va0FHdThTU3Z4MEUyLU1VY0FDOHJsTndORmtoTGhGWEU?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 28 Oct 2026 10:19:48 GMT",
+    "title": "LCI Industries receives $101 per share buyout proposal from Monomoy By Investing.com - Investing.com India",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTm9naTVhSWpBRjc3X29lMlNQeW1XNTJHaDlRcDA2X1VjUWpRNkctNnZvcjNMMUtMdzZFRmFJRmRqYThnV19wWFBnQk5ET1NrblNHZ3FaakJ2M1dGQ2IwRTlPWHVhc0FsU24wM3FoNXRSd3kwOEJndDgtdlpjVzdtVG54YmNEaWMtN2hGRF9tazd2TjN1SWo3bFh1WXVBUVBVSEpreUN4cjM1QzJfeUxDMEVXOU81em1GeGVqNHI3WUI1d0dwbUE?oc=5"
+   }
+  ],
+  "pre_tier": "MA-target",
+  "pre_tier_hits": [
+   "in cash",
+   "cash takeover: upside capped at deal price \u2014 not an EP"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

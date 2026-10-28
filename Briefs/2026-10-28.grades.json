@@ -1,0 +1,53 @@
+{
+ "BRAI": {
+  "tier": "B",
+  "grade": 3,
+  "verdict": "WATCH (event-capped)",
+  "why": [
+   "event: earnings 2026-11-10 (est)",
+   "regime red \u2014 half size or skip"
+  ],
+  "snapshot_et": "2026-10-28 07:47",
+  "label": "v1"
+ },
+ "VRT": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.1x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-28 07:47",
+  "label": "v1"
+ },
+ "FLEX": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-28 07:47",
+  "label": "v1"
+ },
+ "BOOM": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-28 07:47",
+  "label": "v1"
+ },
+ "LCII": {
+  "tier": "MA",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "cash takeover target \u2014 upside capped, not an EP"
+  ],
+  "snapshot_et": "2026-10-28 07:47",
+  "label": "v1"
+ }
+}
