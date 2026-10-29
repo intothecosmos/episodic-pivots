@@ -1,7 +1,12 @@
 {
-  "KDK": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "Day 2 of Oct 28 binding DAAS deal: 75 driverless trucks for DTL Transport, per-mile fee, value undisclosed, deliveries from 2028 (~$11M ARR implied). Oct 28 +17% on 2.0x ADV; today +13% premarket on 0.7x ADV30 (premarket). Earnings 2026-11-05 inside window -> WATCH cap. $1.48 stock 87% off high, 84% overhead. Regime red."},
-  "PURR": {"tier": "Unknown", "grade": 2, "verdict": "NO TRADE", "why": "No company catalyst since Oct 23 $100M buyback 8-K; HYPE treasury vehicle marking to the token. Gate 3 fail 0.13x ADV30 premarket; earnings 11-05 inside window."},
-  "INSM": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev $524.4M, BRINSUPRI $400.1M +29% q/q, loss $0.46 vs $1.75; FY26 guide raised at low end only. $21B cap, 63% overhead, 48% off high. Gate 3 fail 0.1x ADV30 premarket - recheck at v2."},
-  "NCLH": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Beat-and-raise: adj EPS $1.12 vs $0.90 guide, FY26 adj EPS raised to ~$1.70, EBITDA ~$2.55B; but net yield -6.5%, leverage 5.5x, 72% overhead. Gate 3 fail 0.08x ADV30 premarket - recheck at v2."},
-  "TDOC": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Q3 rev $605.1M -3%, adj EBITDA $79.4M +14%, BetterHelp -13%; Gate 4 fail: projected dollar volume $3.8M < $10M."}
+  "CROX": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Beat-and-raise (3rd FY26 raise, HEYDUDE back to growth), 1% off 52w high, 0.3% overhead; but kq_vol 0.76x ADV30 at 9:45 (fail) and OR-low stop ~$10 vs 1.0x ADR $4.44 after a 139.75->150 run; regime red"},
+  "NCLH": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Q3 adj EPS 1.12 vs 0.90 guided, FY26 raised to ~1.70; kq_vol 0.93x ADV30 at 9:45 (fail by a hair), 70% overhead, 5.5x leverage, first ORH break already faded; regime red"},
+  "INSM": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev 524M, BRINSUPRI 400M, low-end guide raise; kq_vol 0.89x at 9:45 (fail), sold from 109 to 103.78 in 5 min, 62% overhead; regime red"},
+  "PURR": {"tier": "Unknown", "grade": 2, "verdict": "NO TRADE", "why": "No company catalyst (HYPE token tracking), kq_vol 0.92x (fail), earnings 2026-11-05 inside window, trading below the open"},
+  "CVNA": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Units +39%, rev +42% but EBITDA margin down, guide to high end of existing range (beat not raise); kq_vol 0.38x, 73% overhead, 34% off 52w high"},
+  "CMG": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Comps +2.1% but adj EPS -7% y/y, relief gap; kq_vol 0.36x, 83% overhead"},
+  "BHC": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail: projected dollar volume < $10M"},
+  "FVRR": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail: projected dollar volume < $10M"},
+  "TDOC": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail: projected dollar volume < $10M; Q3 revenue -3% y/y"},
+  "MAX": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail: projected dollar volume < $10M"}
 }

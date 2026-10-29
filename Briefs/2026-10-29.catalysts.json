@@ -1,4 +1,239 @@
 {
+ "INSM": {
+  "ticker": "INSM",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-29",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-29",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1104506/000110450626000047/insm-20260930.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Insmed Inc Q3 Loss Narrows ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/insmed-inc-q3-loss-narrows"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:06AM",
+    "title": "Insmed: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/healthcare/articles/insmed-q3-earnings-snapshot-110652398.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:00AM",
+    "title": "Insmed Reports Third-Quarter 2026 Financial Results and Provides Business Update",
+    "url": "https://finviz.com/news/411257/insmed-reports-third-quarter-2026-financial-results-and-provides-business-update"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 05:35AM",
+    "title": "Amazon headlines another busy day of earnings that includes Intel and Sandisk",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel/card/amazon-headlines-another-busy-day-of-earnings-that-includes-intel-and-sandisk-ge5ueJBhLtd8DChnCygs?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 04:29AM",
+    "title": "Stock Market Today: Dow set for 300-point gain as S&P 500 and Nasdaq poised to decline after Alphabet results; Amazon and Intel earnings on tap",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel?mod=mw_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CROX": {
+  "ticker": "CROX",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-29",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1334036/000133403626000058/crox-20261029.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Crocs Q3 Profit Climbs, Raises FY26 Guidance; Pre-market Shares Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/crocs-q3-profit-climbs-raises-fy26-guidance-pre-market-shares"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Crocs Inc. Q3 Profit Rises ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/crocs-inc-q3-profit-rises"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 08:31AM",
+    "title": "Crocs stock soars 19% on earnings beat and raised guidance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crocs-stock-soars-19-earnings-123106332.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:14AM",
+    "title": "Crocs: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crocs-q3-earnings-snapshot-111442377.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:00AM",
+    "title": "Crocs, Inc. Reports Strong Third Quarter 2026 Results; Raises Full-Year 2026 Outlook",
+    "url": "https://finviz.com/news/411248/crocs-inc-reports-strong-third-quarter-2026-results-raises-full-year-2026-outlook"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "MAX": {
+  "ticker": "MAX",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000264/max-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000263/max-20261028.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "MediaAlpha (MAX) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/mediaalpha-max-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "MediaAlpha, Inc. Reports Third Quarter 2026 Financial Results",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/mediaalpha-inc-reports-third-quarter-2026-financial-results"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "MediaAlpha (MAX) Reports Q3 Earnings: What Key Metrics Have to Say",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/mediaalpha-max-reports-q3-earnings-what-key-metrics-have-say"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "MediaAlpha, Inc. (MAX) Beats Q3 Earnings and Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/mediaalpha-inc-max-beats-q3-earnings-and-revenue-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 06:50PM",
+    "title": "MediaAlpha Blows Past Its Own Guide As Growth Reaccelerates, But A TRA Gain Flatters EPS And Q4 Contribution Slows",
+    "url": "https://finviz.com/news/410869/mediaalpha-blows-past-its-own-guide-as-growth-reaccelerates-but-a-tra-gain-flatters-eps-and-q4-contribution-slows"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:05PM",
+    "title": "MediaAlpha Announces Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/410517/mediaalpha-announces-third-quarter-2026-financial-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "PURR": {
+  "ticker": "PURR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526431200/purr-20261023.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 05:24PM",
+    "title": "Hyperliquid Strategies Ramps Up Buyback Plan to $100M After Stock Sell-Off",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hyperliquid-strategies-ramps-buyback-plan-212400126.html"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 29 Oct 2026 12:47:00 GMT",
+    "title": "PURR Stock Rebounds As Traders Zero In On Momentum - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnFsRHVxaGFhX0htRWF0WWxYSno3STh0U0JrY1F4U05iZkdiQVNTUWVuVWluTGtaQm4tRUlTYy1yWElGdG01b01xZXl2b0sxMUZWcVVXekNKZkctd1dXc3RDeGVRcFZZeTlTY0dvYU9UREQ0LW9WZ0pkY0dmWDRuUEQ2em5UdndpZXc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 28 Oct 2026 04:54:04 GMT",
+    "title": "Hyperliquid Strategies Raises Share Buyback Authorization to $100M as $PURR Stock Falls 33% - Crowdfund Insider",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFl0ME1GRTVycS1qeDlGV0o5dUNZSUxySWpXaV92SF9xR3VROVpRRWJUdjg5NkxObzNXUVVTSVNHcEFMTUV0ZUlCaEVWemlwTENfWk5Kamhlb1ZzT1U0Uk0wSXNfdjFLUXYxMHpmYTdRdzlVRENILUpBZVZFZC15THBNOTE0Q3MtYS1wYTN1Q2ZXMkZUVHNIV0hkLWo4V0NyaU9tVk04N2tIZFhlTDRkMFI1RTJNb05tZ3hqS1ZaQVNodFZwUk9nRnYzWFVpQXROSXRz?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 21:24:00 GMT",
+    "title": "Hyperliquid Strategies Ramps Up Buyback Plan to $100M After Stock Sell-Off - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVE2VkgySUtrdzBpTUV3UVE1bnU1bVBmY1RHMVh4ZGZRWWQ5STdRQ3BQUzJTdG02cE81S2M4Z05UZVowcko2SUlBMFB0WDJwb294M19wQkNIX1ZUMzhpblMzOFBxUUZmU2lITVVObktKY0pTVUZySm5kQk9BVE9jZ3prSlg0WFMyY3IxVVowVmYzMG1QVng5LUtRc2VNd0lFNlJUTkxDVFNHQQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 13:14:01 GMT",
+    "title": "Hyperliquid Strategies (PURR) raises its buyback cap and extends the program through October 31, 2027. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXRtWUN0Zl9KMDJSRVBrWk82T2ZsY05melIwNWVyU253bVpjMXRQenFSYzl3aVFhdFZUb0lEdUFfelRQcjJZVHBzOUFER1hXYlhrMHpQSXRoSGxpczhIb3ZmYVVYZ0kydkJTTDl3bWRVN0RRSUQ1NjROd2FMSElIUnM3aFRpSzhMd1hyaDVjTnUzQ0I5MGZxenRpQ2NrTjRWQUF2QlJyZEstRW03dXk2RGQ3ZU52dw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "TDOC": {
   "ticker": "TDOC",
   "filings": [
@@ -48,11 +283,10 @@
     "url": "https://www.nasdaq.com/articles/teladoc-tdoc-reports-q3-loss-beats-revenue-estimates"
    },
    {
-    "src": "Nasdaq",
-    "date": "Oct 27, 2026",
-    "title": "Unveiling Teladoc (TDOC) Q3 Outlook: Wall Street Estimates for Key Metrics",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/unveiling-teladoc-tdoc-q3-outlook-wall-street-estimates-key-metrics"
+    "src": "finviz",
+    "date": "Oct-29-26 08:05AM",
+    "title": "Teladoc Beats On Cost Discipline And BetterHelp Insurance Ramp, But Revenue Is Still Shrinking",
+    "url": "https://finviz.com/news/411487/teladoc-beats-on-cost-discipline-and-betterhelp-insurance-ramp-but-revenue-is-still-shrinking"
    },
    {
     "src": "finviz",
@@ -71,150 +305,103 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "INSM": {
-  "ticker": "INSM",
+ "BHC": {
+  "ticker": "BHC",
   "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-10-29",
-    "form": "8-K",
-    "items": "2.02,9.01",
-    "title": "8-K 2.02,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_8k.htm"
-   },
    {
     "src": "SEC",
     "date": "2026-10-29",
     "form": "10-Q",
     "items": "",
     "title": "10-Q",
-    "url": "https://www.sec.gov/Archives/edgar/data/1104506/000110450626000047/insm-20260930.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/885590/000088559026000123/bhc-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/885590/000088559026000121/bhc-20261028.htm"
    }
   ],
   "headlines": [
    {
     "src": "Nasdaq",
     "date": "Oct 29, 2026",
-    "title": "Insmed Inc Q3 Loss Narrows ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/insmed-inc-q3-loss-narrows"
+    "title": "Bausch Health (BHC) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/bausch-health-bhc-q3-2026-earnings-call-transcript"
    },
    {
     "src": "Nasdaq",
-    "date": "Oct 27, 2026",
-    "title": "Notable Tuesday Option Activity: MCY, INSM, REPL",
-    "publisher": "BNK Invest",
-    "url": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-mcy-insm-repl"
+    "date": "Oct 28, 2026",
+    "title": "Bausch Health Companies Inc. Reports Third Quarter 2026 Consolidated Revenues of $2.94 billion",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/bausch-health-companies-inc-reports-third-quarter-2026-consolidated-revenues-294-billion"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Bausch Health (BHC) Surpasses Q3 Earnings and Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/bausch-health-bhc-surpasses-q3-earnings-and-revenue-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Bausch (BHC) Reports Q3 Earnings: What Key Metrics Have to Say",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/bausch-bhc-reports-q3-earnings-what-key-metrics-have-say"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Bausch Health Companies Inc. Q3 Profit Climbs ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/bausch-health-companies-inc-q3-profit-climbs"
    },
    {
     "src": "finviz",
-    "date": "Oct-29-26 07:06AM",
-    "title": "Insmed: Q3 Earnings Snapshot",
-    "url": "https://finance.yahoo.com/healthcare/articles/insmed-q3-earnings-snapshot-110652398.html"
+    "date": "Oct-28-26 06:20PM",
+    "title": "Bausch Health Crushes Estimates And Raises 2026 Again, But Slowing Xifaxan Demand And An Unchanged 2027 Outlook Temper The Beat",
+    "url": "https://finviz.com/news/410832/bausch-health-crushes-estimates-and-raises-2026-again-but-slowing-xifaxan-demand-and-an-unchanged-2027-outlook-temper-the-beat"
    },
    {
     "src": "finviz",
-    "date": "Oct-29-26 07:00AM",
-    "title": "Insmed Reports Third-Quarter 2026 Financial Results and Provides Business Update",
-    "url": "https://finviz.com/news/411257/insmed-reports-third-quarter-2026-financial-results-and-provides-business-update"
+    "date": "Oct-28-26 05:18PM",
+    "title": "Bausch: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bausch-q3-earnings-snapshot-211855239.html"
    },
    {
     "src": "finviz",
-    "date": "Oct-29-26 05:35AM",
-    "title": "Amazon headlines another busy day of earnings that includes Intel and Sandisk",
-    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel/card/amazon-headlines-another-busy-day-of-earnings-that-includes-intel-and-sandisk-ge5ueJBhLtd8DChnCygs?mod=mw_FV"
+    "date": "Oct-28-26 05:05PM",
+    "title": "Bausch Health soars on earnings beat and raised outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bausch-health-soars-earnings-beat-210557960.html"
    },
    {
     "src": "finviz",
-    "date": "Oct-29-26 04:29AM",
-    "title": "Stock Market Today: Dow set for 300-point gain as S&P 500 and Nasdaq poised to decline after Alphabet results; Amazon and Intel earnings on tap",
-    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel?mod=mw_FV"
+    "date": "Oct-28-26 04:07PM",
+    "title": "Bausch Health Announces Full Redemption of 8.500% Senior Notes Due 2027",
+    "url": "https://finviz.com/news/410566/bausch-health-announces-full-redemption-of-8500-senior-notes-due-2027"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:06PM",
+    "title": "Bausch Health Announces US$50 Million Share Repurchase Program",
+    "url": "https://finviz.com/news/410567/bausch-health-announces-us50-million-share-repurchase-program"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:01PM",
+    "title": "BAUSCH HEALTH ANNOUNCES THIRD QUARTER 2026 RESULTS, RAISES GUIDANCE",
+    "url": "https://finviz.com/news/410464/bausch-health-announces-third-quarter-2026-results-raises-guidance"
    }
   ],
-  "pre_tier": "B?",
+  "pre_tier": "A?",
   "pre_tier_hits": [
-   "earnings",
-   "8-K item 2.02 (earnings)"
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
   ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "KDK": {
-  "ticker": "KDK",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "finviz",
-    "date": "Oct-28-26 08:14PM",
-    "title": "Kodiak AI Faces A Credibility Test On Its Year-End Driverless Launch As Shares Sink Near Lows",
-    "url": "https://finviz.com/news/410961/kodiak-ai-faces-a-credibility-test-on-its-year-end-driverless-launch-as-shares-sink-near-lows"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-28-26 04:00PM",
-    "title": "Stoneridge and Kodiak AI Announce Collaboration to Advance Autonomous Commercial Vehicles",
-    "url": "https://finviz.com/news/410460/stoneridge-and-kodiak-ai-announce-collaboration-to-advance-autonomous-commercial-vehicles"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-28-26 09:00AM",
-    "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-    "url": "https://finance.yahoo.com/technology/ai/articles/kodiak-lands-first-commercial-deal-130000978.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Oct-28-26 09:00AM",
-    "title": "Kodiak AI and DTL Transport Reach Historic Agreement To Deploy 75 Driverless Trucks As Part of Commercial Driver-As-A-Service Rollout",
-    "url": "https://finviz.com/news/410048/kodiak-ai-and-dtl-transport-reach-historic-agreement-to-deploy-75-driverless-trucks-as-part-of-commercial-driver-as-a-service-rollout"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "collaboration"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "PURR": {
-  "ticker": "PURR",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-10-26",
-    "form": "8-K",
-    "items": "7.01,9.01",
-    "title": "8-K 7.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526431200/purr-20261023.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "finviz",
-    "date": "Oct-26-26 05:24PM",
-    "title": "Hyperliquid Strategies Ramps Up Buyback Plan to $100M After Stock Sell-Off",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/hyperliquid-strategies-ramps-buyback-plan-212400126.html"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 28 Oct 2026 04:54:04 GMT",
-    "title": "Hyperliquid Strategies Raises Share Buyback Authorization to $100M as $PURR Stock Falls 33% - Crowdfund Insider",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFl0ME1GRTVycS1qeDlGV0o5dUNZSUxySWpXaV92SF9xR3VROVpRRWJUdjg5NkxObzNXUVVTSVNHcEFMTUV0ZUlCaEVWemlwTENfWk5Kamhlb1ZzT1U0Uk0wSXNfdjFLUXYxMHpmYTdRdzlVRENILUpBZVZFZC15THBNOTE0Q3MtYS1wYTN1Q2ZXMkZUVHNIV0hkLWo4V0NyaU9tVk04N2tIZFhlTDRkMFI1RTJNb05tZ3hqS1ZaQVNodFZwUk9nRnYzWFVpQXROSXRz?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 26 Oct 2026 21:24:00 GMT",
-    "title": "Hyperliquid Strategies Ramps Up Buyback Plan to $100M After Stock Sell-Off - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVE2VkgySUtrdzBpTUV3UVE1bnU1bVBmY1RHMVh4ZGZRWWQ5STdRQ3BQUzJTdG02cE81S2M4Z05UZVowcko2SUlBMFB0WDJwb294M19wQkNIX1ZUMzhpblMzOFBxUUZmU2lITVVObktKY0pTVUZySm5kQk9BVE9jZ3prSlg0WFMyY3IxVVowVmYzMG1QVng5LUtRc2VNd0lFNlJUTkxDVFNHQQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 26 Oct 2026 13:14:01 GMT",
-    "title": "Hyperliquid Strategies (PURR) raises its buyback cap and extends the program through October 31, 2027. - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXRtWUN0Zl9KMDJSRVBrWk82T2ZsY05melIwNWVyU253bVpjMXRQenFSYzl3aVFhdFZUb0lEdUFfelRQcjJZVHBzOUFER1hXYlhrMHpQSXRoSGxpczhIb3ZmYVVYZ0kydkJTTDl3bWRVN0RRSUQ1NjROd2FMSElIUnM3aFRpSzhMd1hyaDVjTnUzQ0I5MGZxenRpQ2NrTjRWQUF2QlJyZEstRW03dXk2RGQ3ZU52dw?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -255,24 +442,23 @@
    },
    {
     "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Norwegian Cruise Line (NCLH) Q3 Earnings and Revenues Beat Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/norwegian-cruise-line-nclh-q3-earnings-and-revenues-beat-estimates"
+   },
+   {
+    "src": "Nasdaq",
     "date": "Oct 28, 2026",
     "title": "Better Cruise Stock Buy: Carnival or a 50/50 Split of Royal Caribbean and Norwegian Cruise Line?",
     "publisher": "The Motley Fool",
     "url": "https://www.nasdaq.com/articles/better-cruise-stock-buy-carnival-or-50-50-split-royal-caribbean-and-norwegian-cruise-line"
    },
    {
-    "src": "Nasdaq",
-    "date": "Oct 27, 2026",
-    "title": "Norwegian Cruise to Post Q3 Earnings: What's in the Cards?",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/norwegian-cruise-post-q3-earnings-whats-cards"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Oct 26, 2026",
-    "title": "Curious about Norwegian Cruise Line (NCLH) Q3 Performance? Explore Wall Street Estimates for Key Metrics",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/curious-about-norwegian-cruise-line-nclh-q3-performance-explore-wall-street-estimates-key"
+    "src": "finviz",
+    "date": "Oct-29-26 08:56AM",
+    "title": "Norwegian Cruise Line Soars After Beat-And-Raise Quarter",
+    "url": "https://www.investors.com/news/norwegian-cruises-carnival-royal-caribbean-earnings-oil-prices?mod=IBD_FV"
    },
    {
     "src": "finviz",
@@ -331,7 +517,320 @@
   ],
   "pre_tier": "A?",
   "pre_tier_hits": [
-   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)",
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FVRR": {
+  "ticker": "FVRR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-29",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1762301/000117891326004897/zk2636286.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Fiverr International Ltd. Reports Third Quarter 2026 Revenue of $90.9 million",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/fiverr-international-ltd-reports-third-quarter-2026-revenue-909-million"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Fiverr International (FVRR) Q3 Earnings and Revenues Beat Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/fiverr-international-fvrr-q3-earnings-and-revenues-beat-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Relative Strength Alert For Fiverr International ",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/relative-strength-alert-fiverr-international"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "I've Been Wrong About Fiverr International Stock for 3 Years. Here's Why I'm Finally Changing My Mind.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/ive-been-wrong-about-fiverr-international-stock-3-years-heres-why-im-finally-changing-my"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 01:39AM",
+    "title": "Fiverr: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fiverr-q3-earnings-snapshot-053937580.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 01:00AM",
+    "title": "Fiverr Announces Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/411091/fiverr-announces-third-quarter-2026-results"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CVNA": {
+  "ticker": "CVNA",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082026000067/cvna-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082026000066/cvna-20261028.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Carvana (CVNA) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/carvana-cvna-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Carvana Co. Reports Q3 2026 Results with 217,385 Retail Units Sold and $8.040 billion Revenue",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/carvana-co-reports-q3-2026-results-217385-retail-units-sold-and-8040-billion-revenue"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Compared to Estimates, Carvana (CVNA) Q3 Earnings: A Look at Key Metrics",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/compared-estimates-carvana-cvna-q3-earnings-look-key-metrics"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "CARVANA CO. Bottom Line Climbs In Q3 ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/carvana-co-bottom-line-climbs-q3"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Carvana (CVNA) Misses Q3 Earnings Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/carvana-cvna-misses-q3-earnings-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "CARVANA Q3 26 Earnings Conference Call At 5:30 PM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/carvana-q3-26-earnings-conference-call-5-30-pm-et"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 06:01AM",
+    "title": "Fortinet stock slumps after earnings, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel/card/fortinet-stock-slumps-after-earnings-and-other-early-market-movers-ofrdfmNAftTp66PoXeg4?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 01:38AM",
+    "title": "Why Is CVNA Stock Rising 8% Overnight?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-cvna-stock-rising-8-053804735.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 07:29PM",
+    "title": "Carvana Misses On EPS As Record 39% Unit Growth Comes At The Cost Of Thinner Unit Margins",
+    "url": "https://finviz.com/news/410900/carvana-misses-on-eps-as-record-39-unit-growth-comes-at-the-cost-of-thinner-unit-margins"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:45PM",
+    "title": "Carvana shares rise after Q3 revenue beats expectations",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/carvana-shares-rise-q3-revenue-204536410.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:33PM",
+    "title": "Carvana Profit Soars as Vehicle Sales Climb Nearly 40%",
+    "url": "https://www.wsj.com/business/earnings/carvana-profit-soars-as-vehicle-sales-climb-nearly-40-8e0355ab?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:12PM",
+    "title": "Carvana: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/carvana-q3-earnings-snapshot-201245077.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:10PM",
+    "title": "Carvana Reaches Sales Milestone but Earnings Come in Short",
+    "url": "https://www.barrons.com/articles/carvana-earnings-stock-price-f7e5221b?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:05PM",
+    "title": "Carvana Announces Record Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/410551/carvana-announces-record-third-quarter-2026-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CMG": {
+  "ticker": "CMG",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-29",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000104/cmg-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000103/cmg-20261028.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Chipotle: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/chipotle-3-key-takeaways-long-term-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Chipotle (CMG) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/chipotle-cmg-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Chipotle Mexican Grill, Inc. Reports Third Quarter 2026 Results with Total Revenue Increasing 9.6% to $3.3 billion",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/chipotle-mexican-grill-inc-reports-third-quarter-2026-results-total-revenue-increasing-96"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Compared to Estimates, Chipotle (CMG) Q3 Earnings: A Look at Key Metrics",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/compared-estimates-chipotle-cmg-q3-earnings-look-key-metrics"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Chipotle Mexican Grill (CMG) Q3 Earnings Lag Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/chipotle-mexican-grill-cmg-q3-earnings-lag-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Chipotle Mexican Grill Inc. Announces Fall In Q3 Bottom Line ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/chipotle-mexican-grill-inc-announces-fall-q3-bottom-line"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Chipotle Mexican Grill Q3 26 Earnings Conference Call At 4:30 PM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/chipotle-mexican-grill-q3-26-earnings-conference-call-4-30-pm-et"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "YUMC vs. CMG: Which Stock Is the Better Value Option?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/yumc-vs-cmg-which-stock-better-value-option-0"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 08:22AM",
+    "title": "Chipotle stock pops on sustained sales momentum in Q3",
+    "url": "https://finance.yahoo.com/markets/stocks/article/chipotle-stock-pops-on-sustained-sales-momentum-in-q3-203209272.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:55AM",
+    "title": "Why Is Chipotle Mexican Grill Stock Rising 6.9% in Premarket Trading?",
+    "url": "https://finviz.com/news/411372/why-is-chipotle-mexican-grill-stock-rising-69-in-premarket-trading"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 06:01AM",
+    "title": "Fortinet stock slumps after earnings, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel/card/fortinet-stock-slumps-after-earnings-and-other-early-market-movers-ofrdfmNAftTp66PoXeg4?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 05:46AM",
+    "title": "The rest of Chipotle's year hinges on brisket",
+    "url": "https://finance.yahoo.com/markets/stocks/article/the-rest-of-chipotles-year-hinges-on-brisket-094651032.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 12:19AM",
+    "title": "CMG Stock Rises Overnight: CEO Calls Chipotle A 'Category Leader' After Strong Q3 Revenue, Retail Agrees",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cmg-stock-rises-overnight-ceo-041942850.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 06:13PM",
+    "title": "Chipotle Beats Its Own Comp Guide But Misses On Earnings As Margins Pay For Traffic",
+    "url": "https://finviz.com/news/410820/chipotle-beats-its-own-comp-guide-but-misses-on-earnings-as-margins-pay-for-traffic"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 04:58PM",
+    "title": "Chipotle Logs Higher Revenue as Same-Restaurant Sales Climb",
+    "url": "https://www.wsj.com/business/earnings/chipotle-logs-higher-revenue-as-same-restaurant-sales-climb-4f8b2ba5?mod=wsj_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"

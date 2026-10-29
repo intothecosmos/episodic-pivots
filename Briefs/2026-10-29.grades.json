@@ -1,45 +1,84 @@
 {
- "KDK": {
-  "tier": "B",
-  "grade": 3,
-  "verdict": "WATCH (event-capped)",
-  "why": [
-   "event: earnings 2026-11-05",
-   "regime red \u2014 half size or skip"
-  ],
-  "snapshot_et": "2026-10-29 07:48",
-  "label": "v1"
- },
  "PURR": {
   "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.13x ADV (premarket)",
+   "volume: 0.3x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-10-29 07:48",
-  "label": "v1"
- },
- "INSM": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.1x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-10-29 07:48",
-  "label": "v1"
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
  },
  "NCLH": {
   "tier": "A",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.08x ADV (premarket)"
+   "volume: 0.24x ADV (premarket)"
   ],
-  "snapshot_et": "2026-10-29 07:48",
-  "label": "v1"
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
+ },
+ "INSM": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.18x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
+ },
+ "CROX": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.15x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
+ },
+ "CVNA": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.03x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
+ },
+ "CMG": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.03x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
+ },
+ "BHC": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
+ },
+ "FVRR": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
  },
  "TDOC": {
   "tier": "B",
@@ -48,7 +87,17 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-10-29 07:48",
-  "label": "v1"
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
+ },
+ "MAX": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-10-29 09:28",
+  "label": "v2"
  }
 }
