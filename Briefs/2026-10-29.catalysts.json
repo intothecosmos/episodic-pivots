@@ -1,0 +1,339 @@
+{
+ "TDOC": {
+  "ticker": "TDOC",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-28",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1477449/000147744926000050/tdoc-20261028.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Teladoc: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/teladoc-3-key-takeaways-long-term-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Teladoc (TDOC) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/teladoc-tdoc-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Teladoc Health, Inc. Reports Third Quarter 2026 Revenue of $605.1 million",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/teladoc-health-inc-reports-third-quarter-2026-revenue-6051-million"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Teladoc (TDOC) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/teladoc-tdoc-q3-earnings-taking-look-key-metrics-versus-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Teladoc (TDOC) Reports Q3 Loss, Beats Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/teladoc-tdoc-reports-q3-loss-beats-revenue-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "Unveiling Teladoc (TDOC) Q3 Outlook: Wall Street Estimates for Key Metrics",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/unveiling-teladoc-tdoc-q3-outlook-wall-street-estimates-key-metrics"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:05PM",
+    "title": "Teladoc Health Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/410518/teladoc-health-reports-third-quarter-2026-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "INSM": {
+  "ticker": "INSM",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-29",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-29",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1104506/000110450626000047/insm-20260930.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Insmed Inc Q3 Loss Narrows ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/insmed-inc-q3-loss-narrows"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "Notable Tuesday Option Activity: MCY, INSM, REPL",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-mcy-insm-repl"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:06AM",
+    "title": "Insmed: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/healthcare/articles/insmed-q3-earnings-snapshot-110652398.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:00AM",
+    "title": "Insmed Reports Third-Quarter 2026 Financial Results and Provides Business Update",
+    "url": "https://finviz.com/news/411257/insmed-reports-third-quarter-2026-financial-results-and-provides-business-update"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 05:35AM",
+    "title": "Amazon headlines another busy day of earnings that includes Intel and Sandisk",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel/card/amazon-headlines-another-busy-day-of-earnings-that-includes-intel-and-sandisk-ge5ueJBhLtd8DChnCygs?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 04:29AM",
+    "title": "Stock Market Today: Dow set for 300-point gain as S&P 500 and Nasdaq poised to decline after Alphabet results; Amazon and Intel earnings on tap",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-alphabet-earnings-results-amazon-intel?mod=mw_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "KDK": {
+  "ticker": "KDK",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 08:14PM",
+    "title": "Kodiak AI Faces A Credibility Test On Its Year-End Driverless Launch As Shares Sink Near Lows",
+    "url": "https://finviz.com/news/410961/kodiak-ai-faces-a-credibility-test-on-its-year-end-driverless-launch-as-shares-sink-near-lows"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 04:00PM",
+    "title": "Stoneridge and Kodiak AI Announce Collaboration to Advance Autonomous Commercial Vehicles",
+    "url": "https://finviz.com/news/410460/stoneridge-and-kodiak-ai-announce-collaboration-to-advance-autonomous-commercial-vehicles"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 09:00AM",
+    "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+    "url": "https://finance.yahoo.com/technology/ai/articles/kodiak-lands-first-commercial-deal-130000978.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-28-26 09:00AM",
+    "title": "Kodiak AI and DTL Transport Reach Historic Agreement To Deploy 75 Driverless Trucks As Part of Commercial Driver-As-A-Service Rollout",
+    "url": "https://finviz.com/news/410048/kodiak-ai-and-dtl-transport-reach-historic-agreement-to-deploy-75-driverless-trucks-as-part-of-commercial-driver-as-a-service-rollout"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "collaboration"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "PURR": {
+  "ticker": "PURR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-26",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526431200/purr-20261023.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-26-26 05:24PM",
+    "title": "Hyperliquid Strategies Ramps Up Buyback Plan to $100M After Stock Sell-Off",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hyperliquid-strategies-ramps-buyback-plan-212400126.html"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 28 Oct 2026 04:54:04 GMT",
+    "title": "Hyperliquid Strategies Raises Share Buyback Authorization to $100M as $PURR Stock Falls 33% - Crowdfund Insider",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFl0ME1GRTVycS1qeDlGV0o5dUNZSUxySWpXaV92SF9xR3VROVpRRWJUdjg5NkxObzNXUVVTSVNHcEFMTUV0ZUlCaEVWemlwTENfWk5Kamhlb1ZzT1U0Uk0wSXNfdjFLUXYxMHpmYTdRdzlVRENILUpBZVZFZC15THBNOTE0Q3MtYS1wYTN1Q2ZXMkZUVHNIV0hkLWo4V0NyaU9tVk04N2tIZFhlTDRkMFI1RTJNb05tZ3hqS1ZaQVNodFZwUk9nRnYzWFVpQXROSXRz?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 21:24:00 GMT",
+    "title": "Hyperliquid Strategies Ramps Up Buyback Plan to $100M After Stock Sell-Off - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVE2VkgySUtrdzBpTUV3UVE1bnU1bVBmY1RHMVh4ZGZRWWQ5STdRQ3BQUzJTdG02cE81S2M4Z05UZVowcko2SUlBMFB0WDJwb294M19wQkNIX1ZUMzhpblMzOFBxUUZmU2lITVVObktKY0pTVUZySm5kQk9BVE9jZ3prSlg0WFMyY3IxVVowVmYzMG1QVng5LUtRc2VNd0lFNlJUTkxDVFNHQQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 26 Oct 2026 13:14:01 GMT",
+    "title": "Hyperliquid Strategies (PURR) raises its buyback cap and extends the program through October 31, 2027. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXRtWUN0Zl9KMDJSRVBrWk82T2ZsY05melIwNWVyU253bVpjMXRQenFSYzl3aVFhdFZUb0lEdUFfelRQcjJZVHBzOUFER1hXYlhrMHpQSXRoSGxpczhIb3ZmYVVYZ0kydkJTTDl3bWRVN0RRSUQ1NjROd2FMSElIUnM3aFRpSzhMd1hyaDVjTnUzQ0I5MGZxenRpQ2NrTjRWQUF2QlJyZEstRW03dXk2RGQ3ZU52dw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "NCLH": {
+  "ticker": "NCLH",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-10-29",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000117184326006957/f8k_102826.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-10-29",
+    "form": "8-K",
+    "items": "5.02,9.01",
+    "title": "8-K 5.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926119841/nclh-20261027x8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Norwegian Cruise Line Holdings Q3 26 Earnings Conference Call AT 8:30 AM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/norwegian-cruise-line-holdings-q3-26-earnings-conference-call-8-30-am-et"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 29, 2026",
+    "title": "Norwegian Cruise Line Holdings Ltd. Q3 Income Advances ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/norwegian-cruise-line-holdings-ltd-q3-income-advances"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 28, 2026",
+    "title": "Better Cruise Stock Buy: Carnival or a 50/50 Split of Royal Caribbean and Norwegian Cruise Line?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/better-cruise-stock-buy-carnival-or-50-50-split-royal-caribbean-and-norwegian-cruise-line"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 27, 2026",
+    "title": "Norwegian Cruise to Post Q3 Earnings: What's in the Cards?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/norwegian-cruise-post-q3-earnings-whats-cards"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Oct 26, 2026",
+    "title": "Curious about Norwegian Cruise Line (NCLH) Q3 Performance? Explore Wall Street Estimates for Key Metrics",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/curious-about-norwegian-cruise-line-nclh-q3-performance-explore-wall-street-estimates-key"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:47AM",
+    "title": "Tech Earnings Hit Like Buses: Two Arrived at Once, and Amazon Is Next",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-063bb09d?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:44AM",
+    "title": "Norwegian Cruise Line Raises FY Outlook as 3Q Profit Rises",
+    "url": "https://www.wsj.com/business/earnings/norwegian-cruise-line-raises-fy-outlook-as-3q-profit-rises-248cce07?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:40AM",
+    "title": "Norwegian Cruise Line Stock Jumps as Passenger Spending Leaves Fuel Costs Astern",
+    "url": "https://www.barrons.com/articles/norwegian-cruise-line-earnings-stock-price-20940737?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 07:16AM",
+    "title": "Norwegian Cruise Line stock jumps on earnings beat",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/norwegian-cruise-line-stock-jumps-111654199.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 06:46AM",
+    "title": "Norwegian Cruise Line: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/norwegian-cruise-line-q3-earnings-104614588.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 06:31AM",
+    "title": "Norwegian Cruise Line Holdings Announces CFO Transition",
+    "url": "https://finviz.com/news/411172/norwegian-cruise-line-holdings-announces-cfo-transition"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 06:30AM",
+    "title": "Norwegian Cruise Line Holdings Reports Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/411173/norwegian-cruise-line-holdings-reports-third-quarter-2026-financial-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 09:57AM",
+    "title": "Royal Caribbean Stock Jumps After Better-Than-Expected Earnings, Raised Outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-stock-jumps-better-135721618.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-27-26 07:18AM",
+    "title": "Royal Caribbean Earnings Are Good News for Cruise Fuel Fears",
+    "url": "https://www.barrons.com/articles/royal-caribbean-earnings-stock-price-bf61ed12?mod=bar_FV"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
