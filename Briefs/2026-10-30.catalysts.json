@@ -1,0 +1,51 @@
+{
+ "NRXP": {
+  "ticker": "NRXP",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Oct-30-26 07:00AM",
+    "title": "NRx Pharmaceuticals (Nasdaq:NRXP) Receives FDA Approval of Preservative-Free Ketamine Ahead of November 10 FDA Goal Date",
+    "url": "https://finviz.com/news/412462/nrx-pharmaceuticals-nasdaq-nrxp-receives-fda-approval-of-preservative-free-ketamine-ahead-of-november-10-fda-goal-date"
+   },
+   {
+    "src": "finviz",
+    "date": "Oct-29-26 04:00PM",
+    "title": "NRx Pharmaceuticals (Nasdaq: NRXP) to Host Conference Call on October 30, 2026 to Discuss Regulatory Milestone for Preservative-Free Ketamine",
+    "url": "https://finviz.com/news/411999/nrx-pharmaceuticals-nasdaq-nrxp-to-host-conference-call-on-october-30-2026-to-discuss-regulatory-milestone-for-preservative-free-ketamine"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 30 Oct 2026 01:51:54 GMT",
+    "title": "NRx Pharmaceuticals, Inc. (NRXP) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vcV92OW1CeHY3b1BCNHhGSTZkbVh1X0pfeFE1YjJaWHJqYlVvUFBRSFprQ2xNRkZwV3lRb3R1ZlVQMTRsc0dRRFlXMHFvVkF4Rnc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 30 Oct 2026 06:21:34 GMT",
+    "title": "NRx Pharmaceuticals (NRXP) Stock Jumps Over 26% After Hours: What's Behind the Surge? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3ZOb0c1U1gyWVp4eFpfTmNEVE1PUUJaaWNwcUZ0eGRpU1BEeTh1ZFFyQ1RxU2dJdGxGeERiUllhc3NtUzh1cTJiLWxXSnVWMDJNZlRObzdBVjBxdkVNWkVLWHBUMEFnM3ZRZXBJUUdWaDNIOFRFdWJIQWIwVFoxTDZzRHR0VjVOVWpVMVdUMkhDM0tBN2JDY1dTY1ZWV00xVVFrUEMwbmtvQ0xMZERTbUF3Z2NlWnJzNnc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 30 Oct 2026 11:00:00 GMT",
+    "title": "The FDA approved ketamine without a preservative found in every currently available ketamine injection. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUlfQXRwNEY1TnRfZzI5aGpVN3MxYllIOTlRTGlmUHk0dTJFVTJHQlFpN2RMVTZpVmFyYVBQV3FialpxR1NOeU0tdEd3Ry1EaEZyaVZ4TWZrNmVGdnJvTGhndGR5ZEhEZnhGUDg3TW9kLW5HNEpMX0xKaGZ4UUZVa09lNEw1QU40Q0lQdFJ4NTQ0bHg3Wk9xUFdkUTlRdWJPVzBQY0JnUllzZEFIQllGaHJB?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 29 Oct 2026 20:00:00 GMT",
+    "title": "Preservative-free ketamine's commercial launch steps are on NRx's Friday call agenda. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmRNYWROODBYTER1RmtPNUhJRnhhQXk4ZFRoTzBwdDBmNGplZE0ybV9EbHJ0ZXhUUnhXRGtnMno1YThYX2x1RzdFTWhTYXRROEw4UU9HWW0xNm5zajlLMEdQMEcxRVF0RE50Z01jSVVtUHE0TzZWeTExUDhCX19xeWc2a1BiTnhWUm9odExWTUpJQkd1NW9rMkZmQ2hZY1VsdjBBTURmcWhidTZwVm1JTHRvZDlWWm9DXzFPX3Y4WQ?oc=5"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "fda approv",
+   "approval of"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
