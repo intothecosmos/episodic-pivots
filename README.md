@@ -20,6 +20,9 @@ python watchlist.py --current "SYM,SYM"  # desired ⚡EP Candidates composition 
 python historical.py --all               # Phase 2: universe → 2y bars → EP-days → SEC catalyst proxy (data/historical_eps.csv)
 python stats.py                          # bucket/hypothesis report on the historical set (winsorized R, SE)
 python stats.py --live --weeks 8         # same for the live pipeline
+python intraday.py --update              # archive new/incomplete event bars (data/intraday/, coverage.csv)
+python intraday.py --backfill --source hist --budget-min 9   # resumable backfill (1m ≤30d, 5m ≤60d, 1h older)
+python intraday.py --verify CVNA 2026-10-29                   # archived bars vs the daily bar; --report for coverage
 ```
 
 ## What each script does
@@ -32,6 +35,7 @@ python stats.py --live --weeks 8         # same for the live pipeline
 | `brief.py` | the above | `Briefs/DATE.md`, `Briefs/watchlist-DATE.txt`, `Briefs/DATE.grades.json` |
 | `outcomes.py` | daily + 5-min bars | `data/outcomes.csv`, Outcome block + `ret_5d/ret_20d/sim_r10/d1_low_held` keys in Log notes |
 | `notes.py` | Log notes | header callouts, hindsight flags, key edits |
+| `intraday.py` | yfinance 1m/5m/1h bars (pre/post) | `data/intraday/{TICKER}/{D0}.csv.gz` (D0..D5), `{D0}.pre14.csv.gz`, `coverage.csv` |
 
 ## Scheduled runs (cloud, ET)
 
