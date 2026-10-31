@@ -23,8 +23,8 @@ push. Disables itself after step 6 is DONE and emails Matt once. Emails Matt oth
 | Step | Deliverable | Status | Commit | Verified against |
 |---|---|---|---|---|
 | 1 | `scripts/intraday.py`; `data/intraday/` archive; `coverage.csv`; backfills 1m/5m/1h | **DONE 2026-10-30** | `v2.1 step 1 — intraday archive + backfills` | CVNA 2026-10-29 (1m: OHLC exact, ORH 67.71/ORL 63.81 = outcomes.csv), CHMI 2026-08-10 (1h), AMZN 2025-10-31 (1h) |
-| 2 | `scripts/market.py`; `data/market.csv` backfilled 2025-04-01→; EOD breadth query | NEXT | | |
-| 3 | Evening job: archive `--update`, `market.py --today`, EOD events (`scripts/eod.py`, `data/eod_events.csv`), outcomes rows `source=eod` | pending | | |
+| 2 | `scripts/market.py`; `data/market.csv` backfilled 2025-04-01→; EOD breadth query | **DONE 2026-10-30** | `auto: v2.1 step 2 — market.csv (index trend, VIX, Gate 0, EOD breadth)` | `market.py --verify`: gate0 = `regime_qqq` on all 23 scan days 2026-09-29→10-30 (incl. the 10-15 green→red flip) and QQQ SMA10/SMA20 = the Briefs' Gate 0 line to the cent on all 23; 399 rows 2025-04-01→2026-10-30, no blank index/VIX cells |
+| 3 | Evening job: archive `--update`, `market.py --today`, EOD events (`scripts/eod.py`, `data/eod_events.csv`), outcomes rows `source=eod` | NEXT | | |
 | 4 | Intraday features → end of `outcomes.csv` (+ `data/historical_features.csv`); `sim_r10_or15/30/60`; `stats.py --by/--or/--source` | pending | | |
 | 5 | `data/analyst.csv` + enums (`scripts/analyst.py`); 07:45 machine-only; 09:10 union grading + ISSUE/OPPORTUNITY/quiet message; push/model changes; JSON backfill; CLAUDE.md + README | pending | | |
 | 6 | Weekly review restructure (Data health first; regime/breadth/OR tables; Matt items as counts); disable build task; completion email | pending | | |
@@ -44,7 +44,7 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
 ## Housekeeping every nightly run (before the step)
 1. `python intraday.py --update` — refetches incomplete event files and archives new candidates/EOD events.
    Needed until step 3 wires it into the evening job; harmless afterwards.
-2. After step 2: `python market.py --today` (until step 3 wires it).
+2. After step 2 (now active): `python market.py --today` (until step 3 wires it into the evening job).
 3. Commit housekeeping data separately as `auto: v2.1 nightly data <date>` before starting the step.
 
 ## Step specs — decisions already made, do not re-decide
@@ -64,7 +64,7 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
   Empty/error files are retried at most 3 times.
 - 2025 NYSE holidays added to `common.NYSE_HOLIDAYS` (needed for the 2025 historical sessions).
 
-### Step 2 — `market.csv`
+### Step 2 (done) — `market.csv`
 - `scripts/market.py --backfill` (2025-04-01 → last complete session) and `--today` (append/replace today).
 - Columns, in this order: `date`; for each of QQQ,SPY,IWM,XBI the 13 PRD fields prefixed `qqq_`, `spy_`,
   `iwm_`, `xbi_` (`close,sma10,sma20,sma50,sma10_slope3_pct,sma20_slope3_pct,above10,above20,s10_gt_s20,
@@ -87,6 +87,14 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
   `regime_qqq` recorded on those dates' `candidates.csv` rows, and the QQQ sma10/sma20 must match
   `Briefs/<date>.md` Gate 0 line (within rounding). Print the comparison in the run log.
 - Do NOT wire into the evening job yet (step 3). The nightly build runs `--today` meanwhile.
+- As built (2026-10-30): `scan.gate0_rule(closes)` was factored out of `scan.regime()` (output verified byte-identical)
+  and `market.py` imports it — one definition of Gate 0. `sessions_since_cross`/`gate0_sessions` count
+  consecutive sessions in the current state including the day itself (1 = flip day). Breadth universe =
+  `scan._base_conds()` (US common stock, cap ≥ $100M; ~3,900 names). `vix_close` = yfinance `^VIX`, with
+  CBOE `VIX_History.csv` (keyless, official, next-morning) filling any date yfinance lacks. `--today` also
+  refreshes the two previous rows' non-breadth columns. Verification compares the brief dated D with the
+  market.csv row the brief names ("as of <date>", normally D−1, because the morning run judges the last
+  completed session). `--verify` is a CLI mode so later runs can re-check.
 
 ### Step 3 — evening job
 - `scripts/eod.py --date D` (default: today): scanner query with the historical definition — `gap >= 8`
@@ -180,6 +188,12 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
   consistent. See Findings.
 - 2026-10-30 (session, for step 3): evening task moves 16:35 → 20:35 ET. Default unless Matt objects.
 - 2026-10-30 (session, for step 5): old tasks whose notification channels change are disabled, not deleted.
+- 2026-10-30 (nightly, step 2): stockanalysis's 5Y history endpoint can serve the current session from a
+  stale intraday cache (QQQ 2026-10-30 close 687.15 / vol 58M vs 690.49 / 85M on the 1Y endpoint minutes
+  later, and `history()` caches the 5Y result 6h). `market.py` therefore always merges the uncached 1Y
+  range and keeps, per date, the row with the larger volume. `scan.regime()` (1Y) was never affected.
+- 2026-10-30 (nightly, step 2): `ep10_d1low_held_pct` counts only rows with ≥ 2 sessions known (D1-only
+  rows hold their low trivially); `ep10_gap_held_pct` = D1 close > prior close. Health gauges, not grades.
 
 ## Findings
 - Yahoo/yfinance intraday (verified 2026-10-30 on CVNA, CMG, NRXP, CPRI, AMZN, META): extended-hours bars
@@ -195,8 +209,30 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
   Logged as `status=empty` in coverage.csv, excluded from intraday stats, kept in the daily-bar baseline.
   Live lookbacks empty for BMMX 2026-10-15 (IPO that day) and NANO 2026-10-22 (symbol reassigned that day).
 - yfinance 1.7: per-symbol error text lives in `yfinance.shared._ERRORS` (must be imported as a module).
+- Breadth at 2026-10-30 EOD (QQQ −3.5% day, first live row): universe 3,889; up4 109 / down4 835;
+  56.5% above SMA20, 45.9% above SMA50; new 52w highs 193 / lows 158. `up4_ratio_10d` fills from the 10th
+  live row (≈2026-11-12). One scanner query, ~1.5 s, no rate-limit.
+- Gate 0 history 2025-04-01→2026-10-30: 200 green / 199 red sessions, 25 flips; longest green runs
+  2025-04-29→08-01 and 2026-04-13→06-08; the current red run started 2026-10-15 (12 sessions).
+- yfinance crumb fetch returned HTTP 429 once at 21:06 ET; the `^VIX` download still succeeded. The CBOE
+  CSV covers every session but today, so a yfinance outage blanks only the current day's `vix_close` until
+  the next night's refresh of the previous rows.
 
 ## Run log (newest first)
+- 2026-10-30 21:00–21:12 ET, nightly run 1 (step 2). Housekeeping: `intraday.py --update` touched 42
+  events (refetched the incomplete 1m files for 10-23→10-29, archived CPRI/NRXP 2026-10-30); live event files
+  138/138 fetched (99 complete), hist 2350/2476 (unchanged, 126 symbol-change empties); archive 13.9 MB /
+  4,966 files; committed `auto: v2.1 nightly data 2026-10-30`. Step 2: wrote `scripts/market.py`
+  (--backfill/--today/--verify) and `data/market.csv` (399 rows 2025-04-01→2026-10-30, 144 KB; backfill
+  2.7 s from cached bars). Verification `market.py --verify`: 23/23 scan days gate0 = candidates
+  `regime_qqq` (green through 10-15's brief, red from 10-16's), 23/23 QQQ SMA10/SMA20 equal to the brief
+  line to the cent (e.g. brief 2026-10-23: 727.33/737.24 = market.csv 2026-10-22; brief 2026-10-29:
+  716.69/732.48 = market.csv 2026-10-28). Re-running --backfill then --today → 0 cell changes (idempotent;
+  live breadth preserved). First live breadth row written for 2026-10-30 (see Findings). Side change:
+  `scan.gate0_rule()` factored out of `scan.regime()` (regime() output identical before/after). README
+  gained the market.py lines. Odd: `add_repo` tool was not present in this session (repo was already
+  cloned and in scope, so no effect). Next: step 3 (evening job: eod.py, outcomes `source`, task move to
+  20:35).
 - 2026-10-30 19:10–20:05 ET, interactive session with Matt (approval + step 1). Live backfill 138 events in
   3.2 min (121×1m, 15×5m, 2 pending = today's D0 not complete before 20:05); historical 1h backfill 2,476
   events in 23 min. Final coverage: event files hist 2350/2476 fetched (94.9%, 2345 complete), live 136/138;

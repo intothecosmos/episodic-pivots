@@ -23,6 +23,8 @@ python stats.py --live --weeks 8         # same for the live pipeline
 python intraday.py --update              # archive new/incomplete event bars (data/intraday/, coverage.csv)
 python intraday.py --backfill --source hist --budget-min 9   # resumable backfill (1m ≤30d, 5m ≤60d, 1h older)
 python intraday.py --verify CVNA 2026-10-29                   # archived bars vs the daily bar; --report for coverage
+python market.py --today                 # append today's row to data/market.csv (index trend, VIX, Gate 0, EOD breadth)
+python market.py --backfill              # rebuild market.csv 2025-04-01 → last session (breadth of live rows kept); --verify vs briefs
 ```
 
 ## What each script does
@@ -36,6 +38,7 @@ python intraday.py --verify CVNA 2026-10-29                   # archived bars vs
 | `outcomes.py` | daily + 5-min bars | `data/outcomes.csv`, Outcome block + `ret_5d/ret_20d/sim_r10/d1_low_held` keys in Log notes |
 | `notes.py` | Log notes | header callouts, hindsight flags, key edits |
 | `intraday.py` | yfinance 1m/5m/1h bars (pre/post) | `data/intraday/{TICKER}/{D0}.csv.gz` (D0..D5), `{D0}.pre14.csv.gz`, `coverage.csv` |
+| `market.py` | daily bars QQQ/SPY/IWM/XBI, yfinance `^VIX` (CBOE fallback), one scanner breadth query, candidates/outcomes | `data/market.csv` — one row per session: trend fields, VIX, `gate0` (same rule as `scan.regime()`), breadth (live days), scan/EOD counts, `ep10_*` health |
 
 ## Scheduled runs (cloud, ET)
 

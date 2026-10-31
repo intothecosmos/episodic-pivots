@@ -81,6 +81,19 @@ def scan(mode: str = "premarket", limit: int = 60) -> list[dict]:
     return rows
 
 
+def gate0_rule(c: list[float]) -> dict | None:
+    """Rubric Gate 0 on a list of closes (oldest→newest, last = the session being judged):
+    SMA10 > SMA20 and both rising vs 3 sessions ago → green, else red. None if < 25 closes.
+    The single definition of the rule — regime() (morning brief) and market.py (market.csv) both use it."""
+    if len(c) < 25:
+        return None
+    sma = lambda n, off=0: sum(c[len(c) - n - off:len(c) - off]) / n
+    s10, s20, s10p, s20p = sma(10), sma(20), sma(10, 3), sma(20, 3)
+    green = s10 > s20 and s10 > s10p and s20 > s20p
+    return {"state": "green" if green else "red", "close": c[-1], "sma10": round(s10, 2),
+            "sma20": round(s20, 2), "sma10_rising": s10 > s10p, "sma20_rising": s20 > s20p}
+
+
 def regime(asof=None) -> dict:
     """Gate 0: QQQ 10-day SMA > 20-day SMA, both rising (vs 3 sessions ago). Also SPY.
     Uses completed sessions only: a bar dated `asof` counts only after 16:00 ET."""
@@ -93,16 +106,11 @@ def regime(asof=None) -> dict:
             out[t] = {"state": "unknown"}
             continue
         rows = [r for r in h["rows"] if r["d"] < asof_iso or (r["d"] == asof_iso and now.hour >= 16)]
-        c = [r["c"] for r in rows]
-        if len(c) < 25:
+        g = gate0_rule([r["c"] for r in rows])
+        if not g:
             out[t] = {"state": "unknown"}
             continue
-        sma = lambda n, off=0: sum(c[len(c) - n - off:len(c) - off]) / n
-        s10, s20, s10p, s20p = sma(10), sma(20), sma(10, 3), sma(20, 3)
-        green = s10 > s20 and s10 > s10p and s20 > s20p
-        out[t] = {"state": "green" if green else "red", "close": c[-1], "sma10": round(s10, 2),
-                  "sma20": round(s20, 2), "sma10_rising": s10 > s10p, "sma20_rising": s20 > s20p,
-                  "asof": rows[-1]["d"]}
+        out[t] = dict(g, asof=rows[-1]["d"])
     q = out.get("QQQ", {})
     out["gate0"] = q.get("state", "unknown")
     return out
