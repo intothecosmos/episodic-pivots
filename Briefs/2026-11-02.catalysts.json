@@ -17,13 +17,25 @@
    },
    {
     "src": "GoogleNews",
+    "date": "Mon, 02 Nov 2026 13:32:42 GMT",
+    "title": "EVgo Receives $2 per Share Acquisition Offer From LS Power Equity Advisors - marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVkwSFRaMDdNWDVlWEp6bnR0NGdrQVJJdVhNaThWb3NZLWE4N2lndHgwLWYxMS11dVNxd19VWWJIMlZRU2l1bHdfTkx2REZyTmlrbUY1cUN3RmhJMXNVd3k5R04wbGhlTWFlUTNXZEI3YUFWWnZYcS1jNl9za3pRN2N1R3l3ZWRUNlp1VEF2VXROS1ZEaU44SHVaeEZmVWxWSXIxOUdIVnB6cGV3Y3pBdGJFVXNrc0NEUmVmQVN2M2ZmdG8t?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 02 Nov 2026 12:37:11 GMT",
+    "title": "With affiliates holding 56.81% voting power, LS Power proposes buying remaining EVgo (EVGO) Class A shares. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHRYQ3Izc2IyVGZNb1dLa2k0Q3ZiRE9WbE5ZcXltZnZNMHNxcUtQSFRUM19wc21iSTdWNFVONGRBa1k2OVcwWTQtSEMtTGtUaG5SYUthdHFQZnZDZnowdlhULUE0aGkwcnNOMnd2amZvY1NubW81V21tYzBKRmFCejBaTzhTV3JGRnM4cUJlUjRuOER0clBoaVhkUFBWdmpkN1EtTEF3SFl6VUlZRHh1bnk4NkdXeHpMbks4?oc=5"
+   },
+   {
+    "src": "GoogleNews",
     "date": "Fri, 30 Oct 2026 22:27:55 GMT",
     "title": "Evgo Stock Price Forecast. Should You Buy EVGO? - StockInvest.us",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XOVUzMjgyLWFtbXN2Y1VvSU11MDhMMFBOWVFzckNyUGZMRTJvbnFUdFFwRUMybHk3QXB5NzZyc2NZY2ExTFBucA?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Sat, 31 Oct 2026 21:26:23 GMT",
+    "date": "Sat, 31 Oct 2026 12:25:31 GMT",
     "title": "EVgo, Inc. (EVGO) stock price, news, quote and history - Yahoo Finance UK",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUFBKRWEtV2lPbkJnWFZycUQ2SHRTenNnM3FvMUs2bFBKUlJ0ZUhyQTNvaVFMNHh2dGhxYmF0eUEzY2RDRjA3Y0F6N0J3Vk9TdUE?oc=5"
    },
@@ -35,9 +47,9 @@
    },
    {
     "src": "GoogleNews",
-    "date": "Mon, 02 Nov 2026 12:37:11 GMT",
-    "title": "With affiliates holding 56.81% voting power, LS Power proposes buying remaining EVgo (EVGO) Class A shares. - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHRYQ3Izc2IyVGZNb1dLa2k0Q3ZiRE9WbE5ZcXltZnZNMHNxcUtQSFRUM19wc21iSTdWNFVONGRBa1k2OVcwWTQtSEMtTGtUaG5SYUthdHFQZnZDZnowdlhULUE0aGkwcnNOMnd2amZvY1NubW81V21tYzBKRmFCejBaTzhTV3JGRnM4cUJlUjRuOER0clBoaVhkUFBWdmpkN1EtTEF3SFl6VUlZRHh1bnk4NkdXeHpMbks4?oc=5"
+    "date": "Mon, 02 Nov 2026 13:18:59 GMT",
+    "title": "EVGO Stock In Focus As Analysts Cut Targets But Stay Bullish - www.timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUZ3lFQ3ZxNVV6THNkQkVEN19QZ2pwOWtOZGZQQVpoZmpTOWNvaVNPRUhYWTYyMDRFV3I4MHNQaFAzZ01OMVpCM1F0eDRJbmd3eXM1NDRzM09OQ3hDM0VZWGZuXzcxUFVCX1FHbmdyN0Zmdw?oc=5"
    },
    {
     "src": "GoogleNews",
@@ -90,19 +102,67 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "BRAI": {
-  "ticker": "BRAI",
+ "NVA": {
+  "ticker": "NVA",
   "filings": [],
-  "headlines": [
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 02 Nov 2026 10:52:38 GMT",
-    "title": "Braiin (BRAI) Analyst Ratings, Stock Forecast and Price Target - Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNSUpYU05ZdFFEM2h4TVVsUXdGbHNYd2pyR1l1VXh1djJya2l0d0xUeU9HRlIxcllNeGpraXVZWTRuc0FZTnlEd1Zub1otdzFGNjdyb1dQQ1FSNjZWZjVUYkQxOENuRXFCUkVfOHBzVjFEVUZpaGhUdVAwaXlqQ2pPaVN3c05pX2FuaVNDZlBtS2JUdTJvZjlOSE5CWFRfZTVKRWQ2RWNIZmVwblJqejNDZWFzdnVxNFpOSkJ4OTQwRXJFVTVZWGFJUWpwZ0pkSzdWOTEzN2NTMldWR19IZ3RPNFloQ2FPT3RIUUlGSUlfcVR2S19WRVVPanV6c0tvLWpYbGJHQjVZZ0tTREVIMGw2QkZreERwUmdBU1g3VmdWUi1xUWY1N3NzOC1KenJHeVFPU0dPdHluTDJUaHFQWWdqSFNDTE54VWkwU2E1OVJpNmZQT0c5ZVBpSVhtU2c0NU1JdVpsTFltV3JZeDlOd1RyWF85a0d2UUt5SGU5Mm9kejNTRjcxOEFUazhidGNRNklYV0VUVGVkZXhYVmFlUmQwXzZzU3B2dzNiS3c4?oc=5"
-   }
-  ],
+  "headlines": [],
   "pre_tier": "unknown",
   "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "TATT": {
+  "ticker": "TATT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/808439/000117891326004947/zk2636305.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/808439/000117891326004945/zk2636304.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/808439/000117891326004942/zk2636267.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 07:15AM",
+    "title": "TAT Technologies Reports Record Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/413051/tat-technologies-reports-record-third-quarter-2026-results"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 02 Nov 2026 12:15:00 GMT",
+    "title": "About $577 million in backlog and long-term agreements, TAT Technologies reports. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVNGdWZyeGd5c015U0RJZ3B0QldrdXRFVGJWS2ttSHVfREJDSFR4ZTlCMFhQOUxZZ2FPZjRvQVd3TWNYV3dPYlBON0VmdDB4cldsRml2UE5FVjBWZ0VyRldLY2xEMVItSjl3RklrSjJMLWdSRzZ1b05LLUhtWWNuQlQtdU0tNktzRlBSNjF0WGlhY3ZCNlQ0dnFSR0c1ejkySnp1cll0TGY?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 02 Nov 2026 12:16:30 GMT",
+    "title": "Revenue rose 20.2% at TAT Technologies (TATT), while profit grew faster. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOajNET2ZJdi1SY0ExeE9CVlJPb0RmUHNBRXkwRXNNbDJKS1JvTTlxRGtXeTlxUU1hTUlCRVFLbzNDWGVuMUJYUEtFd1RDcnlTUTkyaVpvd0FOa1l2dWIzTlpuUkFSZzZKYkJFVzVMcFlhTWhJREdGS29acWdpMkF4Q0lBSWc4LVkxYzB2eDgtVmRHNGxmQWpaanVXa2k4WVB5NHJ6dXN2WlNEMlhEUHhUTG9IdkdzV2s?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "revenue"
+  ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  }
