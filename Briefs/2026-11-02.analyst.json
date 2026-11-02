@@ -1,0 +1,5 @@
+{
+  "EVGO": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Cash takeover target, not an EP: 13D/A 2026-11-02, LS Power (54.9% voting power) proposes $2.00/share cash for the Class A it doesn't own, non-binding and withdrawable; prior close $1.26 -> pm $1.75 (~14% below the bid). Upside capped at the offer; earnings 2026-11-09 inside window; Gate 3 3.3x ADV / record 0.7; regime red"},
+  "PERI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Cash takeover target, not an EP: 6-K 2026-11-02, definitive merger agreement with Affle 3IL at US$11.70 cash/share (~$420M), unanimous board, vote + HSR, 180-day outside date; prior close $8.70 -> pm $11.42 (~2.5% spread). Price pinned to deal; Gate 3 2.7x ADV / record 0.2; regime red"},
+  "BRAI": {"tier": "Unknown", "grade": 1, "verdict": "NO TRADE", "why": "No filing or PR behind an 8.2% pm move on 0.1x ADV; Gate 4 fail (proj $vol $3.8M < $10M) and Gate 3 fail -> 1 star by rule; 94.8% overhead, -86% from 52w high, 24% ADR; earnings est 2026-11-06 inside window; regime red"}
+}
