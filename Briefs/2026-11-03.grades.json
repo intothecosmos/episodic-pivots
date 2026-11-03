@@ -1,52 +1,93 @@
 {
- "LSCC": {
+ "BRAI": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.33x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-11-03 09:14",
+  "label": "v2"
+ },
+ "BLZE": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.07x ADV (premarket)"
+   "volume: 0.2x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-03 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-03 09:14",
+  "label": "v2"
  },
  "GRAB": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.07x ADV (premarket)"
+   "volume: 0.13x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-03 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-03 09:14",
+  "label": "v2"
  },
  "AEHR": {
   "tier": "A",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)"
+   "volume: 0.11x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-03 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-03 09:14",
+  "label": "v2"
  },
- "BLZE": {
+ "LSCC": {
   "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.09x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-03 09:14",
+  "label": "v2"
+ },
+ "LIFE": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.07x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-03 09:14",
+  "label": "v2"
+ },
+ "FISV": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.07x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-03 09:14",
+  "label": "v2"
+ },
+ "HLIT": {
+  "tier": "A",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-03 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-03 09:14",
+  "label": "v2"
  },
- "BRAI": {
+ "CYPH": {
   "tier": "unknown",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-03 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-03 09:14",
+  "label": "v2"
  }
 }

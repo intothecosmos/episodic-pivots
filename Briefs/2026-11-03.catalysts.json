@@ -56,12 +56,69 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "BRAI": {
-  "ticker": "BRAI",
-  "filings": [],
-  "headlines": [],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
+ "HLIT": {
+  "ticker": "HLIT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/851310/000119312526443647/hlit-20261102.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Harmonic (HLIT) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/harmonic-hlit-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Harmonic (HLIT) Beats Q3 Earnings and Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/harmonic-hlit-beats-q3-earnings-and-revenue-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Harmonic Inc Q3 Profit Rises ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/harmonic-inc-q3-profit-rises"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 05:55AM",
+    "title": "Harmonic stock surges 17% on raised annual outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/harmonic-stock-surges-17-raised-105513780.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 11:25PM",
+    "title": "Harmonic: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/harmonic-q3-earnings-snapshot-042533056.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 06:38PM",
+    "title": "Harmonic's Breakout Quarter And Third Guidance Raise Run Into A Bookings And Cash-Flow Test",
+    "url": "https://finviz.com/news/413796/harmonics-breakout-quarter-and-third-guidance-raise-run-into-a-bookings-and-cash-flow-test"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 04:05PM",
+    "title": "Harmonic Announces Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/413494/harmonic-announces-third-quarter-2026-results"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -143,6 +200,22 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
+ "BRAI": {
+  "ticker": "BRAI",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 02 Nov 2026 10:30:22 GMT",
+    "title": "Braiin (BRAI) Analyst Ratings, Stock Forecast and Price Target - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOVG84NzBwUFZ5OVliTW00LTJYdjdwT3E1VEEwSTJyRDhpZFpEVWJmX1dBVnB3YjFPNjRXSFhwUmZMRTJILTFuclJzTDZrVEdCX1luRVhEZkZTQ2FXWDFEcDhBb0d2Y3pCb3prLUNfbTFjUzdjTmFnREFUclJWZndKYVU4VTdCNDZVWHkxNWVRQ1MydERuX1Q5a0szMEFMQmlfRWhQSC1SRDl2YzJrekJyM1lObHZ3TlFrb1dSckk2U3pZQlhyeXd5UnRGZ3czRmRaRjRNLVB4RzgzaldhbGl2eGJ2MDBhM1RhQ2VWcF8tUmxZYnllUDJ3X0F5VEdRTUdDb0l6VUhnZmR4bVdReWlaNG1NeDFxUlZkR0d4Vk1YWUZUQ2lIN2lFUnhXaUUyRlhHZHdIckNvYw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "LSCC": {
   "ticker": "LSCC",
   "filings": [
@@ -156,6 +229,13 @@
    }
   ],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Lattice Semiconductor: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/lattice-semiconductor-3-key-takeaways-long-term-investors"
+   },
    {
     "src": "Nasdaq",
     "date": "Nov 3, 2026",
@@ -243,10 +323,163 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
+ "LIFE": {
+  "ticker": "LIFE",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1788451/000119312526443655/life-20261102.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Ethos Technologies: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/ethos-technologies-3-key-takeaways-long-term-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Ethos (LIFE) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/ethos-life-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Ethos Technologies Inc. (LIFE) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/ethos-technologies-inc-life-q3-earnings-taking-look-key-metrics-versus-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 06:41PM",
+    "title": "Ethos Crushes Q3 Estimates And Raises Guidance Again, But Third-Party Mix Shift Keeps Compressing Margins",
+    "url": "https://finviz.com/news/413790/ethos-crushes-q3-estimates-and-raises-guidance-again-but-third-party-mix-shift-keeps-compressing-margins"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 04:05PM",
+    "title": "Ethos Reports Third Quarter Fiscal Year 2026 Financial Results",
+    "url": "https://finviz.com/news/413527/ethos-reports-third-quarter-fiscal-year-2026-financial-results"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FISV": {
+  "ticker": "FISV",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000039/fi-20261103.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Fiserv Posts Loss In Q3; Affirms 2026 Organic Revenue, Adj. EPS Outlook ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/fiserv-posts-loss-q3-affirms-2026-organic-revenue-adj-eps-outlook"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Fiserv Q3 26 Earnings Conference Call At 8:00 AM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/fiserv-q3-26-earnings-conference-call-8-00-am-et"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Noteworthy Monday Option Activity: UNH, WYNN, FISV",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-monday-option-activity-unh-wynn-fisv"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 07:09AM",
+    "title": "Fiserv: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-q3-earnings-snapshot-120940625.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 07:00AM",
+    "title": "Fiserv Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/414057/fiserv-reports-third-quarter-2026-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 03:48AM",
+    "title": "Michael Burrys Fiserv Buyout Math Hits $120  Reaffirms PayPal As A Fat Pitch Amid Global Payments Deal Buzz",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-fiserv-buyout-math-084842243.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "GRAB": {
   "ticker": "GRAB",
-  "filings": [],
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000150/a6-kforfx3sxearningsreleas.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1855612/000185561226000148/a6-kxearningsrelease4.htm"
+   }
+  ],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Grab Holdings Limited (GRAB) Reports Break-Even Earnings for Q3",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/grab-holdings-limited-grab-reports-break-even-earnings-q3"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 08:50AM",
+    "title": "Grab Shares Surge 10% as Q3 Revenue Rises 27% and Full-Year Earnings Outlook Improves",
+    "url": "https://finviz.com/news/414297/grab-shares-surge-10-as-q3-revenue-rises-27-and-full-year-earnings-outlook-improves"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 08:03AM",
+    "title": "Premarket movers: Apple, Palantir, Dynatrace slide premarket; Grab, Upwork jump",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-apple-palantir-dynatrace-130332497.html"
+   },
    {
     "src": "finviz",
     "date": "Nov-03-26 06:01AM",
@@ -258,48 +491,6 @@
     "date": "Nov-03-26 02:33AM",
     "title": "Grab Pivots Back to Southeast Asia After Blocked Taiwan Deal",
     "url": "https://www.wsj.com/business/earnings/grab-pivots-back-to-southeast-asia-after-blocked-taiwan-deal-aa5a69d9?mod=wsj_FV"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 11:06:09 GMT",
-    "title": "Why is Grab stock surging today? - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDRWaGJsZlpRUVRscGpmS0hzTVkzUUQxU2F0aHlKdVVSX3A0bDNYX09iUXZtREM5eVBOVGRtYk91NHZ6Sy0ySDhodE9WNV9tc1RWYjNCYndMUjJYLTBuMFd0cjBENXF1WmR6Z2l1eF9POWh1WE1Sd2hLZnFoV0ZuUjN3bmpWVHJRMmJ1aTdBdGM2eWRhblc5cQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 11:10:02 GMT",
-    "title": "Grab Holdings Limited (GRAB) Reports Break-Even Earnings for Q3 - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEJUWWhHUGdLeDhfUEJobVNiU0l3Q2liaWc4VHZ2dkF6VXRvbS1jVEU5b1BjSEN2NmRiS0lnaXpqWFhHLTJwYnJRNG5Ka2NCVzU4bGxyVnhUSk9IU2tyV1hNZmw4dUNBSXZqeXRhVkRtUHZRWjlnbXFpY2Y5RWhiZGdMVXlFblJkVEl5U3M0aW5sT1I3ZDVJa2YyX1JmZHI0?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 05:41:01 GMT",
-    "title": "Grab Holdings (GRAB) Stock Is Trending After Hours: Here's What's Happening - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMTViNDlPRGx4YjFxY1lMajB2cktxZkRkdzRlVVViVlFpUW9FOEc2cjU3MF9NUVU4c3E4Sk8ySWdKTGRWWGJBT1ZvQXlCeFNSbnBlUURfdXVWblgtLWVzeElDMUpEalVPSWVnYnRMZUhZTTFDMjN5VW5GOGpzZzRYNGJzWVZvbTNIbVAtUEx5WmUwRThhNXMxc2MyeHNGZkc5TkdWblZ2Z21xazFVVVdZOTZCU2EtT3hsRXRobFJ4UjR3RUJ6Mnc?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 01:42:00 GMT",
-    "title": "Grab Boosts Sales, Earnings Forecasts on Rising Ride Demand - Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVhyc2V2ZGVqejF3VnhWX0ZzMTRzU3hfWmNiRURHb1V3alJMZmNWOWpfTHZVLXMzYm5menQ3eGc5MEZuME56OTJCUlJlQXpZWm92eGh0Tlllc1hZcU1WVnJ5bDZidWpKcW9FM2h6WHAzT1N1ckZmeHl0RURLQW16NFFxTjZkaWhJWHk3WF9vWk0tS0E4Q3lMLXlmOFF6UVhJV0ZIRUV4TTNkZEsyRWc?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sat, 31 Oct 2026 00:10:00 GMT",
-    "title": "BYU sophomore Akina, 20, fires 64 to grab share of Mexico Open lead - ESPN",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkJGMFpORU5VbDRiUXhHVTJWU3VCcTRzdE12MEotejdRanVJN1QyLW5GQnF0UEdRZVB1QkdqRE1mTC1oNEpmQUk4TU83Zmc0bm1vMkFXamJHQzc1NExNU2dZRHItSkFzY2VEREV6X3BUX0RUaXJpNmRFYkZEd0duWW1QSlZZSkMxTVQ5aUR3aHZkTUhnYjJpUUVLQQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 10:26:05 GMT",
-    "title": "Grab stock rose 5.54%, but closed below all three daily EMAs - The Cryptonomist",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEkwSmNldU40XzR1Q0l3Nl9Ra3hPOXpGLVZkRlk5UVJFTTkzV2dTRlZpQWw5M2k1UHoxR05lN2NXY2tuLS1xTWlxd2lobGY0dk5GRUk4ei14bU40ZGtSN2syMXYtU2JnRlpFeEZKWU1udHB3Z2xWZDFPamFpMlFHOGRR?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Mon, 02 Nov 2026 23:50:00 GMT",
-    "title": "Grab Holdings boosts 2026 forecasts on strong delivery, ride-hailing demand - The Straits Times",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2R4YTBPX0p6NnBSNEF0cDNrLVdhU1BEaVJSbkRoR09laksyVTc2Znpqbm1NRDBnbmhpbnY1QkR2WjFFb1hDS0hUaFo1T3AwQUZldG55d0JkN2loMjQyWkN3OUdnU2paU05XQTZWcTJLclctYkhkX0x1TzI2N0h6ZkdEazY5UnVVem9WcnNoaTRobjVmTGxnRFM2a2pCaTk5dFRYWWdERTJKdTlKaXJzUi1nT2NXVDN5N0ZfNktFT3ZDTHJFYU1wZ2Nn?oc=5"
    }
   ],
   "pre_tier": "B?",
@@ -307,6 +498,15 @@
    "earnings",
    "revenue"
   ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CYPH": {
+  "ticker": "CYPH",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  }
