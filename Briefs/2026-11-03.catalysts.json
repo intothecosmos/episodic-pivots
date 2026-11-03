@@ -1,0 +1,313 @@
+{
+ "BLZE": {
+  "ticker": "BLZE",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1462056/000162828026068869/blze-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1462056/000162828026068866/blze-20261102.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Backblaze (BLZE) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/backblaze-blze-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Backblaze, Inc. (BLZE) Q3 Earnings and Revenues Top Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/backblaze-inc-blze-q3-earnings-and-revenues-top-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 06:32PM",
+    "title": "Backblaze Meets The Whisper As B2 Growth Hits 47%, But A 10x Capex Ramp Explains Why The Stock Has Been Cut By 62%",
+    "url": "https://finviz.com/news/413785/backblaze-meets-the-whisper-as-b2-growth-hits-47-but-a-10x-capex-ramp-explains-why-the-stock-has-been-cut-by-62"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 04:05PM",
+    "title": "Backblaze Announces Third Quarter 2026 Financial Results",
+    "url": "https://www.businesswire.com/news/home/20261102076920/en/"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BRAI": {
+  "ticker": "BRAI",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AEHR": {
+  "ticker": "AEHR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1040470/000165495426009385/aehr_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Aehr Test Systems: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/aehr-test-systems-3-key-takeaways-long-term-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Aehr Test Systems (AEHR) Q1 2027 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/aehr-test-systems-aehr-q1-2027-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Aehr Revenue Triples as AI Orders Pile Up: Rapid Earnings Reaction",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/aehr-revenue-triples-ai-orders-pile-rapid-earnings-reaction"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 02:52AM",
+    "title": "Why Is AEHR Stock Surging 10% Overnight?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-aehr-stock-surging-10-075211190.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 07:44PM",
+    "title": "Aehr Test Systems Crushes Estimates And Lifts Outlook, But The Stock Arrives Near Its Lows",
+    "url": "https://finviz.com/news/413842/aehr-test-systems-crushes-estimates-and-lifts-outlook-but-the-stock-arrives-near-its-lows"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 04:05PM",
+    "title": "Aehr Test Systems Reports Record First Quarter Fiscal 2027 Revenue of $33.0 Million; Raises Full-Year Revenue Outlook to $150 Million, Triple Fiscal 2026 Revenue",
+    "url": "https://finviz.com/news/413485/aehr-test-systems-reports-record-first-quarter-fiscal-2027-revenue-of-330-million-raises-full-year-revenue-outlook-to-150-million-triple-fiscal-2026-revenue"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 04:34AM",
+    "title": "Apple headlines Monday's earnings slate",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-rebound-midterm-elections-earnings-economic-data-apple/card/apple-headlines-monday-s-earnings-slate-jtMY5otAj4mkkZhh1VCJ?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 03:32AM",
+    "title": "Stock Market Today: Dow, S&P and Nasdaq set to rebound after worst day in five months; Apple results on tap",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-rebound-midterm-elections-earnings-economic-data-apple?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 07:30AM",
+    "title": "Aehr Test Systems Appoints Former Meta Infrastructure Executive Vijay Rao to Board of Directors",
+    "url": "https://finviz.com/news/411363/aehr-test-systems-appoints-former-meta-infrastructure-executive-vijay-rao-to-board-of-directors"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "LSCC": {
+  "ticker": "LSCC",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/855658/000143774926034452/lscc20260903_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Lattice (LSCC) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/lattice-lscc-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Lattice Semiconductor Corp. Q3 Income Climbs ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/lattice-semiconductor-corp-q3-income-climbs"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Big Quarterly Beats After the Close: AAPL, PLTR, LSCC, ROKU",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/big-quarterly-beats-after-close-aapl-pltr-lscc-roku"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Lattice Semiconductor Q3 Profit Rises ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/lattice-semiconductor-q3-profit-rises"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Lattice Semiconductor (LSCC) Tops Q3 Earnings and Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/lattice-semiconductor-lscc-tops-q3-earnings-and-revenue-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 05:02AM",
+    "title": "Fabrinet jumps on strong data center demand, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-us-midterm-elections-loom-amd-earnings-results/card/fabrinet-jumps-on-strong-data-center-demand-and-other-early-market-movers-RolILhJbUo0tK15FiPst?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 11:29PM",
+    "title": "Lattice: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-q3-earnings-snapshot-042936609.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 07:44PM",
+    "title": "Lattice Delivers A Blowout Quarter And A First Multi-Year Outlook, But A Stock Near Its Lows Signals Doubts About Durability",
+    "url": "https://finviz.com/news/413841/lattice-delivers-a-blowout-quarter-and-a-first-multi-year-outlook-but-a-stock-near-its-lows-signals-doubts-about-durability"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 05:19PM",
+    "title": "Big Quarterly Beats After the Close: AAPL, PLTR, LSCC, ROKU",
+    "url": "https://finviz.com/news/413804/big-quarterly-beats-after-the-close-aapl-pltr-lscc-roku"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 03:00PM",
+    "title": "Lattice Semiconductor Reports Record 3Q26 Revenue, Up 118% YOY",
+    "url": "https://finviz.com/news/413476/lattice-semiconductor-reports-record-3q26-revenue-up-118-yoy"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 09:36AM",
+    "title": "Earnings Results Wrap with Apple After the Close",
+    "url": "https://finviz.com/news/413388/earnings-results-wrap-with-apple-after-the-close"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 04:51AM",
+    "title": "A big sell-off collides with more Big Tech earnings and a midterm election: What to watch this week",
+    "url": "https://finance.yahoo.com/markets/article/a-big-sell-off-collides-with-more-big-tech-earnings-and-a-midterm-election-what-to-watch-this-week-110000657.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "GRAB": {
+  "ticker": "GRAB",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 06:01AM",
+    "title": "Grab surges 10% after raising full-year revenue, earnings outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/grab-surges-10-raising-full-110124746.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 02:33AM",
+    "title": "Grab Pivots Back to Southeast Asia After Blocked Taiwan Deal",
+    "url": "https://www.wsj.com/business/earnings/grab-pivots-back-to-southeast-asia-after-blocked-taiwan-deal-aa5a69d9?mod=wsj_FV"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 11:06:09 GMT",
+    "title": "Why is Grab stock surging today? - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDRWaGJsZlpRUVRscGpmS0hzTVkzUUQxU2F0aHlKdVVSX3A0bDNYX09iUXZtREM5eVBOVGRtYk91NHZ6Sy0ySDhodE9WNV9tc1RWYjNCYndMUjJYLTBuMFd0cjBENXF1WmR6Z2l1eF9POWh1WE1Sd2hLZnFoV0ZuUjN3bmpWVHJRMmJ1aTdBdGM2eWRhblc5cQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 11:10:02 GMT",
+    "title": "Grab Holdings Limited (GRAB) Reports Break-Even Earnings for Q3 - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEJUWWhHUGdLeDhfUEJobVNiU0l3Q2liaWc4VHZ2dkF6VXRvbS1jVEU5b1BjSEN2NmRiS0lnaXpqWFhHLTJwYnJRNG5Ka2NCVzU4bGxyVnhUSk9IU2tyV1hNZmw4dUNBSXZqeXRhVkRtUHZRWjlnbXFpY2Y5RWhiZGdMVXlFblJkVEl5U3M0aW5sT1I3ZDVJa2YyX1JmZHI0?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 05:41:01 GMT",
+    "title": "Grab Holdings (GRAB) Stock Is Trending After Hours: Here's What's Happening - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMTViNDlPRGx4YjFxY1lMajB2cktxZkRkdzRlVVViVlFpUW9FOEc2cjU3MF9NUVU4c3E4Sk8ySWdKTGRWWGJBT1ZvQXlCeFNSbnBlUURfdXVWblgtLWVzeElDMUpEalVPSWVnYnRMZUhZTTFDMjN5VW5GOGpzZzRYNGJzWVZvbTNIbVAtUEx5WmUwRThhNXMxc2MyeHNGZkc5TkdWblZ2Z21xazFVVVdZOTZCU2EtT3hsRXRobFJ4UjR3RUJ6Mnc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 01:42:00 GMT",
+    "title": "Grab Boosts Sales, Earnings Forecasts on Rising Ride Demand - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVhyc2V2ZGVqejF3VnhWX0ZzMTRzU3hfWmNiRURHb1V3alJMZmNWOWpfTHZVLXMzYm5menQ3eGc5MEZuME56OTJCUlJlQXpZWm92eGh0Tlllc1hZcU1WVnJ5bDZidWpKcW9FM2h6WHAzT1N1ckZmeHl0RURLQW16NFFxTjZkaWhJWHk3WF9vWk0tS0E4Q3lMLXlmOFF6UVhJV0ZIRUV4TTNkZEsyRWc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 31 Oct 2026 00:10:00 GMT",
+    "title": "BYU sophomore Akina, 20, fires 64 to grab share of Mexico Open lead - ESPN",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkJGMFpORU5VbDRiUXhHVTJWU3VCcTRzdE12MEotejdRanVJN1QyLW5GQnF0UEdRZVB1QkdqRE1mTC1oNEpmQUk4TU83Zmc0bm1vMkFXamJHQzc1NExNU2dZRHItSkFzY2VEREV6X3BUX0RUaXJpNmRFYkZEd0duWW1QSlZZSkMxTVQ5aUR3aHZkTUhnYjJpUUVLQQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 10:26:05 GMT",
+    "title": "Grab stock rose 5.54%, but closed below all three daily EMAs - The Cryptonomist",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEkwSmNldU40XzR1Q0l3Nl9Ra3hPOXpGLVZkRlk5UVJFTTkzV2dTRlZpQWw5M2k1UHoxR05lN2NXY2tuLS1xTWlxd2lobGY0dk5GRUk4ei14bU40ZGtSN2syMXYtU2JnRlpFeEZKWU1udHB3Z2xWZDFPamFpMlFHOGRR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 02 Nov 2026 23:50:00 GMT",
+    "title": "Grab Holdings boosts 2026 forecasts on strong delivery, ride-hailing demand - The Straits Times",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2R4YTBPX0p6NnBSNEF0cDNrLVdhU1BEaVJSbkRoR09laksyVTc2Znpqbm1NRDBnbmhpbnY1QkR2WjFFb1hDS0hUaFo1T3AwQUZldG55d0JkN2loMjQyWkN3OUdnU2paU05XQTZWcTJLclctYkhkX0x1TzI2N0h6ZkdEazY5UnVVem9WcnNoaTRobjVmTGxnRFM2a2pCaTk5dFRYWWdERTJKdTlKaXJzUi1nT2NXVDN5N0ZfNktFT3ZDTHJFYU1wZ2Nn?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
