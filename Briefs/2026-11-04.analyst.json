@@ -1,0 +1,44 @@
+{
+ "NVTS": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Q3 rev $14.0M +38% y/y, GM 40%, Q4 guide $16M; small base, Gate 3 fail 0.1x ADV, overhead 67%, regime red"
+ },
+ "TE": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "No company news; solar/IRA theme gap after election; earnings pending; 0.09x ADV"
+ },
+ "OSCR": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Political sympathy move (ACA subsidy hopes), Q3 unreported inside window, at 52w high, 0.05x ADV"
+ },
+ "ARRY": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Q3 beat + record $2.6B orderbook but FY26 guide cut; stock merger with Shoals; Gate 4 fail $7.5M proj"
+ },
+ "USAS": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Silver-complex sympathy gap, no company news, earnings pending; Gate 4 fail $1.6M proj"
+ },
+ "OUST": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Record product revenue $59M, Q4 guide $61-64M; Gate 4 fail $9M proj, 0.0x ADV premarket \u2014 recheck 09:10"
+ },
+ "HL": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Q3 EPS $0.22, record FCF $151M, guidance improved; Gate 4 fail $9M proj, moving with silver"
+ }
+}

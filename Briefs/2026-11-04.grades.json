@@ -1,0 +1,83 @@
+{
+ "NVTS": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.1x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-04 07:47",
+  "label": "v1"
+ },
+ "TE": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.09x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-11-04 07:47",
+  "label": "v1"
+ },
+ "OSCR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.05x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-04 07:47",
+  "label": "v1"
+ },
+ "ARRY": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-04 07:47",
+  "label": "v1"
+ },
+ "USAS": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-04 07:47",
+  "label": "v1"
+ },
+ "ASM": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-04 07:47",
+  "label": "v1"
+ },
+ "OUST": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-04 07:47",
+  "label": "v1"
+ },
+ "HL": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-04 07:47",
+  "label": "v1"
+ }
+}
