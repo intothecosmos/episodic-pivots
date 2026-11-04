@@ -1,4 +1,369 @@
 {
+ "ALIT": {
+  "ticker": "ALIT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1809104/000162828026069567/alit-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1809104/000162828026069535/alit-20261103.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 06:24PM",
+    "title": "Alight Beats And Raises For A Third Straight Quarter, But Deepening Recurring-Revenue And Margin Erosion And Unfinished Refinancing Temper The Turnaround Story",
+    "url": "https://finviz.com/news/415009/alight-beats-and-raises-for-a-third-straight-quarter-but-deepening-recurring-revenue-and-margin-erosion-and-unfinished-refinancing-temper-the-turnaround-story"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 03:05PM",
+    "title": "Alight Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/414799/alight-reports-third-quarter-2026-results"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 03:53:47 GMT",
+    "title": "Alight, Inc. (ALIT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1RE9IbDZrczR3amNQNmpKNUNza3BtTW9RMFNXdnBjMVNhSmVpUGF0UVZYNkNLTmw2LXFpTEVyNGhUeG9WbWxMVUpIWUZibGRjUGc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 21:45:55 GMT",
+    "title": "Alight (NYSE:ALIT) delivers impressive Q3 2026, stock jumps 15.2% - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjJ0MGhUM29YdGVFaktWRnkxM0RBbHJqSWltODE2N19NZUFVeU1md21aWUpRb3JXVld3SkF4TFhwanJxdEJmV3lXTW1mMDlEMEVYSFJiUWFCY3libGJIRDFiNVYzS0FtaXdRZUxsRVpRUDc0RXJCRFQwdGdKaHNDMlE3eVBvdkw0bm9BaVlEWW92NjJhY1lPU3pBRVRFa2RZeGVZ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 09:46:06 GMT",
+    "title": "Alight, Inc. (ALIT) - What Are Analysts Saying About This Stock? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmVydHVRVlJsRkEwaS1yeXhPQmRJX0RrYlFqdFkxSFptdk9IWmtGRFU1NTlnWnNfbElHdXdRc1Jha2NmZWJBNDBjYzhuQVZrbWhEdXNLODZUUmFlQmV2d0RDOEdzVUh4cTJud05ReF9CWEQ5U3pqVk1HQmZDd0N6eERLZjZXbHZSeXRqakRPYzFSZzBtcjlvbjQzYjFhQlJMaXoxMDNhTjBYTEZBWHh0dnV0ekpHTXVMNlRyZlB3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 02 Nov 2026 03:03:00 GMT",
+    "title": "What to expect from Alight\u2019s (ALIT) Q3 earnings - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYVh4M1Z6aTBXNGxXQl9oSWpZNG9TZVN0T281Q2Y0TGFGckZqbHlaUlRGa01LZGhIZFdSYXJCOGNwZTg2RmJ3aWV1eGhBNm1RM1JHRlpSSEV0NlNyd3NBbmtEWFA3OWhaX3c4aU5UU2RvMXVsb0lOVWJ1bjFpVGRZZTJfUVc2enRwZ0JfV2FfRHpSaV85b2o5MFNic2FlWUZxZ1IzZ1ZhcnEzUQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "DUOL": {
+  "ticker": "DUOL",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828026069692/duol-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828026069474/duol-20261103.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Duolingo Reports Q3 2026 Results with 29% Daily Active User Growth and Raises Full-Year Guidance",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/duolingo-reports-q3-2026-results-29-daily-active-user-growth-and-raises-full-year-guidance"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Duolingo (DUOL) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/duolingo-duol-q3-earnings-taking-look-key-metrics-versus-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Duolingo, Inc. (DUOL) Q3 Earnings Miss Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/duolingo-inc-duol-q3-earnings-miss-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 04:30AM",
+    "title": "Kaplan Fox Encourages Duolingo, Inc. (DUOL) Investors Seeking Recovery to Contact the Firm Before December 7, 2026",
+    "url": "https://www.newsfilecorp.com/release/322060/Kaplan-Fox-Encourages-Duolingo-Inc.-DUOL-Investors-Seeking-Recovery-to-Contact-the-Firm-Before-December-7-2026"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 03:01AM",
+    "title": "Why Is DUOL Stock Surging Over 11% Overnight Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-duol-stock-surging-over-080159800.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 07:28PM",
+    "title": "Duolingo's User Surge Clears The Whisper, But Paid Subscribers And Q4 Profits Still Trail The DAU Story",
+    "url": "https://finviz.com/news/415042/duolingos-user-surge-clears-the-whisper-but-paid-subscribers-and-q4-profits-still-trail-the-dau-story"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 07:07PM",
+    "title": "Earnings live updates: Duolingo stock jumps on user growth, upbeat guidance",
+    "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 05:28PM",
+    "title": "Duolingo Sees Booking Growth Accelerate Along With Users",
+    "url": "https://www.barrons.com/articles/duolingo-earnings-stock-price-5d81b64a?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 04:01PM",
+    "title": "Duolingo Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/414652/duolingo-reports-third-quarter-2026-results"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "RIOT": {
+  "ticker": "RIOT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "8-K",
+    "items": "1.02,2.02,9.01",
+    "title": "8-K 1.02,2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926122368/riot-20261029x8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "What's in the Offing for Riot Platforms Stock This Earnings Season?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/whats-offing-riot-platforms-stock-earnings-season"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 08:41AM",
+    "title": "Cipher Mining sinks 17% as Texas election puts AI data-center expansion at risk",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cipher-mining-sinks-17-texas-134134061.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:30AM",
+    "title": "Riot Platforms Reports Third Quarter 2026 Financial Results and Strategic Highlights",
+    "url": "https://finviz.com/news/415310/riot-platforms-reports-third-quarter-2026-financial-results-and-strategic-highlights"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 11:40AM",
+    "title": "4 Crypto Stocks Outpace Bitcoin on Election Day: What Drove the Jump?",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/4-crypto-stocks-outpace-bitcoin-164001072.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 07:11AM",
+    "title": "CIFR Stock Gets Biggest Price-Target Cut In Sector-Wide Reset Amid Keefe Bruyettes AI Hosting Valuation Concerns",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cifr-stock-gets-biggest-price-121159114.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 01:00AM",
+    "title": "3 Crypto Earnings Reports to Watch For First Week of November",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/3-crypto-earnings-reports-watch-060000093.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 10:04AM",
+    "title": "Crypto Stocks Slide After Reported Record $6.36 Billion Binance Hack",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-slide-reported-record-140425759.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 06:34AM",
+    "title": "Crypto stocks drop after record $6.3bn Binance hack",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-drop-record-6-103416583.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CMTG": {
+  "ticker": "CMTG",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1666291/000119312526445433/cmtg-20261103.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1666291/000119312526445419/cmtg-20260930.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 04:00PM",
+    "title": "Claros Mortgage Trust, Inc. Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/414972/claros-mortgage-trust-inc-reports-third-quarter-2026-results"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 17:01:51 GMT",
+    "title": "Claros Mortgage Trust Inc (5WO.DU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6cUdISXRTQ240SmNUM0xuVG5YRllMRkJYNFJxWnpUTlZoc09oMXBIQXdhUTFYWWppVnJ4Q2NDVGhmUEtzZ2lmTGxybmhLY3dnUTVVZnQ5WmItWmM1V24zVjB0UFU4NmZXYloxaA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 22:00:44 GMT",
+    "title": "Claros Mortgage Trust (NYSE:CMTG) Releases Quarterly Earnings Results, Beats Expectations By $0.31 EPS - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVlNETTFaNjJQQzQ5Nkc5V0VhUFhySC1YQURhWG9PR1FxSlZUWk51akVMOWI5dVVwQzlHRXZlWkR3R0szN1lGS0JTNm1oNV8xNW9zZVk3Y2JqT0xHR2RwaUtBU2xuWHNhdXFOZTNmS1lVQ0NNNmhwa1JYTDM4TGEzVGRQQm5INk5LeDBZbmRpTFRMLV9mMFpWXzcxcDhqWmFQWnlmYm9obXdfSDd6MGcwbVlnUW1BU3BFdk1DMTEyRVhoS2x4N0ZKYUJQQVlaSzZscXI0NWdMY3M3bEFyaHk1bk5jbEtBMl9PU3MzM2Y1SXlRZw?oc=5"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "STIM": {
+  "ticker": "STIM",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1227636/000110465926122380/stim-20260930x10q.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1227636/000119312526446239/d144740d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 08:04AM",
+    "title": "Neuronetics: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/neuronetics-q3-earnings-snapshot-130417745.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:50AM",
+    "title": "Neuronetics Reports Third Quarter 2026 Financial and Operating Results",
+    "url": "https://finviz.com/news/415317/neuronetics-reports-third-quarter-2026-financial-and-operating-results"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 13:10:00 GMT",
+    "title": "NEURONETICS ($STIM) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXFIa3Mxd0xrLXBLbWt3c3dIMnQzOU1VWkV2R0RET0dWQzBvWWR2OFdKeWdjRUNITV9GRjRiS2JBUENnVFAzSlBmQXdpazhiazJZWk5KZ1NCRjlNSWFBOHM0bmV5RUZGMURjYTdmSTJHenBXQUNyQ1F0TnhYcVlzZFZ0b0NWZVRuY3hWcw?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "KD": {
+  "ticker": "KD",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1867072/000110465926122363/kd-20261104x8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 4, 2026",
+    "title": "Kyndryl Holdings, Inc. Reveals Retreat In Q2 Income ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/kyndryl-holdings-inc-reveals-retreat-q2-income"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Seeking Clues to Kyndryl Holdings, Inc. (KD) Q2 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/seeking-clues-kyndryl-holdings-inc-kd-q2-earnings-peek-wall-street-projections-key-metrics"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:00AM",
+    "title": "KYNDRYL REPORTS SECOND QUARTER FISCAL 2027 RESULTS",
+    "url": "https://finviz.com/news/415217/kyndryl-reports-second-quarter-fiscal-2027-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "OUST": {
   "ticker": "OUST",
   "filings": [
@@ -62,6 +427,112 @@
   "pre_tier": "A?",
   "pre_tier_hits": [
    "record (quarterly )?revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BRKR": {
+  "ticker": "BRKR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109354/000119312526446176/brkr-20261104.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:23AM",
+    "title": "Bruker: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bruker-q3-earnings-snapshot-122326209.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 06:00AM",
+    "title": "Bruker Reports Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/415261/bruker-reports-third-quarter-2026-financial-results"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 13:24:10 GMT",
+    "title": "BRUKER CORP (NASDAQ:BRKR) Q3 EPS Beat and Margin Expansion Offset Slight Revenue Miss - ChartMill",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN0JFQXJ4ZFZMNXkxUVFXVTFZWTZoSlRyWkdYNFB1QzlhdmdXdlY1dm9wRTJOVV9rdko3MnhVQ3JnNU15UjlUWEg3Njg0MHp1U1ZoZHFoR3dSRTR6Mk83N3pHWDFmSDNWZmJtX3pPUTctc3RxdS1UNzVQU1N1azVsRkNLV1U4VHc4aWdDXzduRVVkc1lfb3NPb29nZzN2djM3ZkR3RUFRdFJiQjNkRm5YTTZHMnRBOF8yODFuUndTSVlHVjhwaV92UEpJTHZyazA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 12:54:00 GMT",
+    "title": "Bruker (NASDAQ:BRKR) surprises with Q3 2026 sales, stock soars - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkY4SnprQXZmckpKMG9vRWozdXlTZ3pxV3N4aS1CYTYzR21LdnFpSkFUNGZOLUl5Zlp4aU82T2NpRG8wYm1CX1cxT3c0MGFULXdmQUc0MlRHYm9YTWZtMTM5MVpOUDFUOFpaRjhpNjRDM3g5TWhLeUJOS0NaZUF4dWpxXzVmQXc4ZnhkOXVJbnJOSkpKSEdpajRuSjNyaWRDcFhHb01rV0czSmZwTWVGWDVSSFE3WnZBM0IwYw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 12:36:00 GMT",
+    "title": "BRUKER ($BRKR) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTGFWcmc5Szk2dHQxOElkRE9YU21ZNkNVTGRESXJrRzBTdFNEc0xKRmtySFNaMFUyZUlvMHBpdk5jemwxZ2JicG45M1h3b2RQelcxdFpEVmNacXJrSWZqT1R5OEtqUHlYbV92dE5IY3Y5aWRoRGJTNjFnSElSdFM3dWhjSV9jdw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 07:35:24 GMT",
+    "title": "Bruker Corporation (NASDAQ:BRKR) Stock Rated \"Moderate Buy\" by Wall Street Brokerages - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOVhXOFI3UEVqdVpsZkhveTV6VlRCYmkxTlc2ZXp0THdGRC1xQmhKOXVkT0xOcmoweXo1WTNDbk51RFd1c3pvS0JmdVpPMnpPMTlHY3NyaER6YjVkOE53ZXFYX05wQkJFZXBwOFV5am1ILWQ3RXVkalRxN0xTNkRsS3ZEVFAtQW9VTnlQcDRSUEV3MnlJelM3RGI3UTdOR01LYTdnU3FmMnlZOGNtYmFLX0tWeGVIa25PRVdLTnFVc0M5VzRxS0tQdldmN2NMbjFFVDhwZHRfSjdaZ2x1cFE?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ARRY": {
+  "ticker": "ARRY",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1820721/000119312526446212/d185761d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:01AM",
+    "title": "ARRAY Technologies Reports Financial Results for the Third Quarter 2026",
+    "url": "https://finviz.com/news/415220/array-technologies-reports-financial-results-for-the-third-quarter-2026"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 17:06:11 GMT",
+    "title": "Array Technologies, Inc. (ARRY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYmstRTd1NXZnSHZ2SExPcVlZU0hPVGV6eFRfWHBpNUtSTnpKdUpWRTVTbzIyQ3VZRHlKSmhtekRwYVVzSFZYTnZiWFNOLTlBbEE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 12:55:45 GMT",
+    "title": "Array Technologies, Shoals Technologies to merge in all-stock deal (ARRY:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVWdYaTJ3c2hmVlBWYmJXbl93N09JQktyM05aTHVTSkNGNHRIMHNocEs0dzkyb3BKMzZ1Y2x3elMwN2FJRENUTmt4dS1JMzljSWlnb01RR0tUQ05JUktZaTVNOU1ZeVRKU1lyWno1ZTd4SWpfVVg2TFIzYm5aZGNVRVBfTDdlS1JOeTFQSjNJQnR1WWV6NFA2VFlGbkVGbTdvRHJqZDNwaU5pZi1kQnlMa3ZEZ1l4SU9BU1B5M0JvN0hMTmJGV2xlNUdSbFdpRkN3Z0VYV2dzYmJyRC1PWXlBeXplb1NuLVJiZzV3RmVfV3NJd1dUNm9fUnl3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 12:01:00 GMT",
+    "title": "Contracts and orders at ARRAY reached a record $2.6 billion as it cut its 2026 sales forecast. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZF9mZk9rQXdHdm5KaE9DUkVsNTMyc3FRQklBb2VuYjRJNDVGQmRLX2xRNDNXSXlJLVdEZThUd1N5YXJEcFZvZ2RUQWlRSmR4RW5kWHJ1Ykk3MlVnWUhWSDBFQ0d6X3ZxUWRIU1B0MjVEWUpXUno3YkZoQmc0Z1p4Y0ktRzlyUnRUaVh2ZFhpaE4zTENzYVgweFItN1FZVWJKc0VwcFdzY0dlR3BDc3RxeXgyUzgxM0dZTTdlY29n?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "contract",
+   "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
@@ -161,6 +632,441 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
+ "TE": {
+  "ticker": "TE",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 19:18:31 GMT",
+    "title": "Here\u2019s Why TE Connectivity (TEL) is One of the Best Large Cap Tech Stock to Buy According to Billionaires - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEF0MHVzMmFjMWJXRzE1MTJSbWhHWjRwY3BMNFV3b2tpTUVSaUF4ZWdiNVo0THNhT2FiYmttSDhPYWhqcHVqNVFjY1dKcHV1eGs0bnJ1NVBhcloxXzg0NE1OcG1lYk9mVW9iajgzUHZnMl83NjhIN2s5UHBxN0txSXljbUFWbnp5ZmNlSFNJeWZ5ZDRLY0FN?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 11:39:59 GMT",
+    "title": "Mouser stocks TE Connectivity\u2019s HC-STAK 35 interconnection system - Engineering.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnNUakRGbDg3ajF6Z3FkRFVJODA0dXJZekNyb0VsNXNQQ2pmZ1hWenF4VkVZMnA4MXBscXE2UzdJTnFrc3dtSU9KWDF3SXVHYXBfVDVocEhFMDlPcHVJemdvSmJuVHZFajJDb25WQjlhaUluUmJRb19xalg4SzJwT0taVnRBXzJ0VmxsTlZ2bzdPVWkxSlFLbw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 21:47:00 GMT",
+    "title": "TE Connectivity PLC stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMk5vTlJzVFZ2MkxSbC1wQlZ4QkFBMUZNdmotcEVXQ0hQUXJZOXRTN2FCM3ozSjlUWlAyZHhtY1NVTXRYc3V6TlBjekxEdHM3cl95RkZvNEo5MzlySlJ5VTBWcFhFbldRUUdIVkxHMGpIc1JXcmxBekE2cnNJMkYwQ21hNGNZeXZwVWJFZkFicXVxa2NsVmdXcHFDZ0xMeHQzTHZ2eUluSm9jSkRMeGlYMWsyaFFTUVd5THo1eDB6QzIxVUtrX2JoaTlVQ2k0WVZ3Q25scDRhNWtxOXZWVVpFRkF5ZHpZc2RSdHBuVXVGb3Vjb0NLUno0SXhYUUJYWDdzWndDdw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 10:00:00 GMT",
+    "title": "The Eagles need to get this rookie playmaker more playing time ASAP - PennLive.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREkzc0pxNzEyUnVxbnNBWlh6MUsweDhDeU4zQUNUWkV1TlVTREFURF96akN5NlJuUVIyZ3BGMVhfMnJFenlmSzktbFcxdDYxZ21MVzRDdVdBcE5qUTI1N1FuMVlVLTg3cTlyUVJ2OUVtWnJfanM0SWtWaTBhWHJ3NmYxRVViMENzYkM0bGFsM3prQkFnN19RMDl4TjFtU1BfdWg3UzM2NlNja1h0YXQ1MUlZNzdDb3VDZHRFZGtLTFAwUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 19:02:00 GMT",
+    "title": "TE Stock Grinds Higher As Traders Watch Debt-Fueled Turnaround - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yTENoLVZxb1h5Rl9hNzZLQ2xBVFhwNU1rTGNhVEpPQXJLVlJaRWdfc0lpLW9hSEdnUE5PSm9EbFk2aEdFZ3dMV3N5VlhTaEZCMnZiaDBsckVkRlh4WEFobXk4VGtCWEZqN0lfS3otbkV6eHh1WHc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 10:45:34 GMT",
+    "title": "72,428 Shares in TE Connectivity Ltd. $TEL Bought by Mirae Asset Global Investments Co. Ltd. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNDhBVUhKN1ZnQXZFMmxNZENHcVpPd3NVbWJZQ1RtOXR4amxncHZTMGQ0eHhnYUVwdmE4MFY4QkRzWnhpMXZvOFRuaUdpQkhFby1FT1NXODBpX2trUUZOenRmSlpfdDlHTEFLbnRhbHk2SDJFa2tMV2pSTTA0S2lPVmhuU1FURTZudmlDOTRUWFRGeGNudXYtVHBrVlFLd2g3U2tTc2hWRjNhMi12VGtjTjVwMHNHcWpMUXA3ZHc5N2xQb3FXMTJDU0VuOF9zVUFlQW1uRjk1VS0tV3hWRWpTSkJ3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 18:27:01 GMT",
+    "title": "TE Connectivity (TEL) Stock Trades Below Fair Value On Cash Flow Views - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYS05Q0wxalJBaVNkM3djMEtHLWFjVDU5bDZ4M3MxcTZOQ3FtMHBnMmFWbk5ZSTBQeHVoekpVWWtDT09HTEN5b05zdklyM0RfSko4V1FpU3M5OW5NTTF4TDRrZE1NeXZjSzlXcm5YTXFTeU5DSTZYUDhNUmRZdzFzODJpV2ZzNDY3TkRJZE9rb1NUSGJ6WXNkTnJleUhnMW5wMFZWUW1hQjJ2bk8tN2VydU4tU2haM1VISFlHVjlUU3M2NU85YzFyZWJLWdIBywFBVV95cUxQYS05Q0wxalJBaVNkM3djMEtHLWFjVDU5bDZ4M3MxcTZOQ3FtMHBnMmFWbk5ZSTBQeHVoekpVWWtDT09HTEN5b05zdklyM0RfSko4V1FpU3M5OW5NTTF4TDRrZE1NeXZjSzlXcm5YTXFTeU5DSTZYUDhNUmRZdzFzODJpV2ZzNDY3TkRJZE9rb1NUSGJ6WXNkTnJleUhnMW5wMFZWUW1hQjJ2bk8tN2VydU4tU2haM1VISFlHVjlUU3M2NU85YzFyZWJLWQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 12:06:00 GMT",
+    "title": "Steelers Stock Watch 2026 \u2013 TE Darnell Washington - Steelers Depot",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnM2V1dNOHY5V1pLU0RySmt1UDJRUGstVVYxbDYzYzBVdzdmMUN6bWFUTHMwcEJ5eVdfcUNEdGlWVV9uZ0pKZFNKRENDdW9RVkFqalVQYVZib2FYd3o2b1JOWXZxSGJWY1FKSWFEUmNFalhtLXcycnpaTjF5N25MS25MU3k5Q2tkWHNVVw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "OCGN": {
+  "ticker": "OCGN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1372299/000110465926122401/tm2628896d1_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:14AM",
+    "title": "Ocugen: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/healthcare/articles/ocugen-q3-earnings-snapshot-121438756.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:00AM",
+    "title": "Ocugen Provides Business Update with Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/415235/ocugen-provides-business-update-with-third-quarter-2026-financial-results"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 10:00:47 GMT",
+    "title": "OCGN Apr 2027 1.500 put (OCGN270416P00001500) Stock Historical Prices & Data - Yahoo Finance - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYY2F0bFNGb1JMSm9EdlA5YlZxUjY3eHE4OWtRSGVfTEtON2pOTmQtSWpxVGVvWUZjdXpkaGhMalZWSEpfTW1nbGRHSHZxNzhUWE80V1R6Z1NOeFBhZG1KS1hBSlZYb1B3LXpfbHpKUUY?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 12:00:00 GMT",
+    "title": "Ocugen Provides Business Update with Third Quarter 2026 Financial Results - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMTJzTS1MZ1h3NHhJZ05kYXVqYnBDclJqcklCODRVcmw4N1V1ejVsZ2l5Qk1nY1A4RDNkN1BNc3FpUkNUWk9JNjRsSWpUMzZjT3lkNlJtdjhzN0pkbmd2WEExS0lDemRkd3N5aS1lbVcyYlVTNjVKYzlFSlFjeDYwT3I4dXpIMmhBLVpoTEFSSFdvYzRsVnFDX0RxYUt4RkNvRzZjZlpxdW1pVG5adFQyQWQzY1ZUTVIwUFBzcw?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "PLUG": {
+  "ticker": "PLUG",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Flux Power Holdings, Inc. (FLUX) Reports Q1 Loss, Beats Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/flux-power-holdings-inc-flux-reports-q1-loss-beats-revenue-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Here's the 1 Thing I'd Wait to See Before Buying Plug Power Stock",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/heres-1-thing-id-wait-see-buying-plug-power-stock"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "FCEL's Fuel Cells Offer Reliable Power for Utilities and IPPs",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/fcels-fuel-cells-offer-reliable-power-utilities-and-ipps"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Here's Why Plug Power (PLUG) Fell More Than Broader Market",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/heres-why-plug-power-plug-fell-more-broader-market"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Plug Power (PLUG) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/plug-power-plug-may-report-negative-earnings-know-trend-ahead-next-weeks-release"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "After Plunging 28.2% in 4 Weeks, Here's Why the Trend Might Reverse for Plug Power (PLUG)",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/after-plunging-282-4-weeks-heres-why-trend-might-reverse-plug-power-plug"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:59AM",
+    "title": "Top clean energy stocks to watch as Democratic sweep improves outlook",
+    "url": "https://finance.yahoo.com/energy/articles/top-clean-energy-stocks-watch-125922163.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 07:56PM",
+    "title": "Plug Power's Turnaround Faces A Credibility Test As Shares Sink Toward Lows",
+    "url": "https://finviz.com/news/413857/plug-powers-turnaround-faces-a-credibility-test-as-shares-sink-toward-lows"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FLNC": {
+  "ticker": "FLNC",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "title": "8-K 5.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1868941/000110465926120941/tm2628729d1_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Enlight Renewable Energy Ltd. (ENLT) Q3 Earnings and Revenues Top Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/enlight-renewable-energy-ltd-enlt-q3-earnings-and-revenues-top-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:59AM",
+    "title": "Top clean energy stocks to watch as Democratic sweep improves outlook",
+    "url": "https://finance.yahoo.com/energy/articles/top-clean-energy-stocks-watch-125922163.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 03:33PM",
+    "title": "Fluence Energy names interim CEO, CFO amid supply chain hiccups",
+    "url": "https://finance.yahoo.com/energy/articles/fluence-energy-names-interim-ceo-203323572.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 12:39PM",
+    "title": "Fluence Energy Stock Drops on Leadership Overhaul",
+    "url": "https://www.barrons.com/articles/fluence-energy-stock-ceo-cfo-bb8afc00?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 10:12AM",
+    "title": "FLNC Stock Slides After Fluence Energy Announces Leadership Changes  What Investors Need To Know",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/flnc-stock-slides-fluence-energy-151234207.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 09:03AM",
+    "title": "Fluence Energy stock falls as company replaces CEO and CFO",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-stock-falls-company-140344196.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 08:01AM",
+    "title": "Fluence Strengthens Executive Leadership Team to Accelerate Operational Transformation",
+    "url": "https://finviz.com/news/413136/fluence-strengthens-executive-leadership-team-to-accelerate-operational-transformation"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "HYMC": {
+  "ticker": "HYMC",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Get An Even Better Deal On HYMC Than Director Rhodes Did",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/get-even-better-deal-hymc-director-rhodes-did"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "XYZ": {
+  "ticker": "XYZ",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026069524/xyz-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-03",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026069513/xyz-20261103.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "8-K",
+    "items": "5.03,9.01",
+    "title": "8-K 5.03,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000119312526443728/d180541d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Block, Inc. Reports Gross Profit of $3.24 billion for Third Quarter Ended September 30, 2026",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/block-inc-reports-gross-profit-324-billion-third-quarter-ended-september-30-2026"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Block (XYZ) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/block-xyz-q3-earnings-taking-look-key-metrics-versus-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Block's Adjusted Profit Jumps as Losses Climb: Rapid Earnings Reaction",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/blocks-adjusted-profit-jumps-losses-climb-rapid-earnings-reaction"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Block (XYZ) Q3 Earnings and Revenues Beat Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/block-xyz-q3-earnings-and-revenues-beat-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Block Inc. Q3 Profit Rises ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/block-inc-q3-profit-rises"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Noteworthy Tuesday Option Activity: XYZ, BE, VST",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-tuesday-option-activity-xyz-be-vst"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Block Q3 Earnings Coming Up: What to Expect From Its Release",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/block-q3-earnings-coming-what-expect-its-release"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 08:49AM",
+    "title": "Block Shares Jump More Than 6% as Cash App Growth Drives Q3 Earnings Beat and Higher 2026 Guidance",
+    "url": "https://finviz.com/news/415435/block-shares-jump-more-than-6-as-cash-app-growth-drives-q3-earnings-beat-and-higher-2026-guidance"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:58AM",
+    "title": "Block stock jumps as Jack Dorsey's AI bet shows signs of paying off",
+    "url": "https://finance.yahoo.com/markets/stocks/article/block-stock-jumps-as-jack-dorseys-ai-bet-shows-signs-of-paying-off-125836099.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:17AM",
+    "title": "Block Promises Profit Momentum as Its AI Efforts Take Hold",
+    "url": "https://www.barrons.com/articles/block-earnings-price-share-d52678d3?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 06:11AM",
+    "title": "Block reaches preliminary $764m DOJ anti-money laundering deal",
+    "url": "https://finance.yahoo.com/news/block-reaches-preliminary-764m-doj-111111482.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 04:56AM",
+    "title": "Holding Bitcoin Paid Block 4x More Than Selling It to Cash App Users",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/holding-bitcoin-paid-block-4x-095626398.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 02:40AM",
+    "title": "Bitcoin rebound above $78k as Democrats sweep midterm elections",
+    "url": "https://finance.yahoo.com/news/bitcoin-recovers-near-78k-democrats-074054900.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 08:27PM",
+    "title": "Block Beats And Raises Again As Margins Hit A Record, But Cash App And Lending Growth Keep Slowing",
+    "url": "https://finviz.com/news/415075/block-beats-and-raises-again-as-margins-hit-a-record-but-cash-app-and-lending-growth-keep-slowing"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 05:42PM",
+    "title": "Block Promises Profit Momentum as Its AI Efforts Take Hold",
+    "url": "https://www.barrons.com/articles/block-promises-profit-momentum-as-its-ai-efforts-take-hold-d52678d3?mod=bar_FV"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "VRDN": {
+  "ticker": "VRDN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590750/000159075026000022/vrdn-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590750/000119312526446200/d176865d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 06:01AM",
+    "title": "Viridian Therapeutics Reports Third Quarter 2026 Financial Results and Highlights Recent Business Progress",
+    "url": "https://finviz.com/news/415251/viridian-therapeutics-reports-third-quarter-2026-financial-results-and-highlights-recent-business-progress"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 01 Nov 2026 07:00:00 GMT",
+    "title": "Viridian Therapeutics (Nasdaq:VRDN) - Stock Analysis - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOV90a0czQmQzNzhtb29ZNzRzWEFaWUJ2Vjk4SHY5enFkSklGY2xJNFVUY3JvMFU4ZFM1a3kweGVtNE83bFg0SW1vNFhva1AtaWdOdlhXbnFVcEpLcmhBa2JCdlg2UDdDT3hpNnpFY1hPLWEtckNaUTZUNWlXWmVEQS0tbTJxbEl5bk1mUEhEV2FkTmM?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 06:34:01 GMT",
+    "title": "Avoiding Lag: Real-Time Signals in (VRDN) Movement - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2NQTmJBaXV2V2E5TkFUWTJuS0tDUVh3cEtoS3ByNFFsS1VZRHJXaGt3a2tJUndaRGs0dG5qeDB6bzR0SkN2SXdnWGxQd2h1VWpTN3V1UVN3Q25jeC1CTHA1NkFHZF83REM2WUV4a1V2SFd3S1lRZWRWbFBOSFhDVmdrZmpuSjZ0c19pN1JuY1pCOXNFUEt5cFhnemVrbWlUejRFd3VyMVFIYmJXVzVGWVlYRUZONEZKWkFIdVZEYk03eE0wQjFj?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "HL": {
   "ticker": "HL",
   "filings": [
@@ -218,6 +1124,103 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
+ "USAS": {
+  "ticker": "USAS",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 07:15AM",
+    "title": "Higher Metal Prices Are Showing Up in Third-Quarter Results at Mines, Mills and Alloy Makers",
+    "url": "https://finviz.com/news/413052/higher-metal-prices-are-showing-up-in-third-quarter-results-at-mines-mills-and-alloy-makers"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FSLR": {
+  "ticker": "FSLR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 1, 2026",
+    "title": "First Solar: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/first-solar-3-key-takeaways-long-term-investors"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 08:40AM",
+    "title": "First Solar Shares Surge 8.1% as Democratic Midterm Victory Boosts Renewable Energy Stocks",
+    "url": "https://finviz.com/news/415421/first-solar-shares-surge-81-as-democratic-midterm-victory-boosts-renewable-energy-stocks"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 08:17AM",
+    "title": "Which sectors will benefit most and face pressure after Democratic sweep?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sectors-benefit-most-face-pressure-131755080.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:59AM",
+    "title": "Top clean energy stocks to watch as Democratic sweep improves outlook",
+    "url": "https://finance.yahoo.com/energy/articles/top-clean-energy-stocks-watch-125922163.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:15AM",
+    "title": "Green energy stocks surf on Democrat blue wave",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-to-fall-blue-wave-midterm-ai-fall-treasury-yield-drops/card/green-energy-stocks-surf-on-democrat-blue-wave-B0wjI7QD17NzGDX1lVGO?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 06:57AM",
+    "title": "Bloom Energy Is a Surprise Big Winner from the Elections",
+    "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-data-centers-midterm-elections-2eae1ed5?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 06:23AM",
+    "title": "Global renewable energy stocks rally after Democratic sweep in U.S. midterms",
+    "url": "https://finance.yahoo.com/energy/articles/global-renewable-energy-stocks-rally-112344196.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 05:53AM",
+    "title": "Wind-Energy Stocks, One of Trump's Least-Favorite Sectors, Gain Ground",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/wind-energy-stocks-one-of-trump-s-least-favorite-sectors-gain-ground-4yg1Fw3JzQNyfJVoHdsl?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 05:55AM",
+    "title": "These Stocks Have the Muscle to Power AI. They're Worth Another Look.",
+    "url": "https://www.barrons.com/articles/engineering-construction-procurement-stocks-ai-buildout-worth-looking-dabc2fd5?mod=bar_FV"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ASM": {
+  "ticker": "ASM",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 09:58:04 GMT",
+    "title": "ASM International stock targets stronger growth after record quarter - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeG9RZW1manhzR3hOTFBqY1ZrQWlCcE5vUThSTHcyaFhzRTlTRjd5MkV1aU0wNlhia3ZyRHljZ1dHci0tN204aktNaU5Kc0oxM3FPdmd2R2ZZQ2xLbXFwb2pVNk5GejVFM3VJdk0zZU0tM2xyaUk4M1ZUX2ZiOWhWbG1YRTVtUkw5OXpORm5CRzg4elhPY25FRVV1ellKeFpOTHFXM3RrUFIwOUhGQ0VWTk0zQ09Vd3pVLXR4UVBrUlhCN0JLWmxsd2Y2MA?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "OSCR": {
   "ticker": "OSCR",
   "filings": [],
@@ -251,110 +1254,63 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "TE": {
-  "ticker": "TE",
+ "CSIQ": {
+  "ticker": "CSIQ",
   "filings": [],
   "headlines": [
    {
-    "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 19:18:31 GMT",
-    "title": "Here\u2019s Why TE Connectivity (TEL) is One of the Best Large Cap Tech Stock to Buy According to Billionaires - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEF0MHVzMmFjMWJXRzE1MTJSbWhHWjRwY3BMNFV3b2tpTUVSaUF4ZWdiNVo0THNhT2FiYmttSDhPYWhqcHVqNVFjY1dKcHV1eGs0bnJ1NVBhcloxXzg0NE1OcG1lYk9mVW9iajgzUHZnMl83NjhIN2s5UHBxN0txSXljbUFWbnp5ZmNlSFNJeWZ5ZDRLY0FN?oc=5"
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Notable Tuesday Option Activity: GS, BURL, CSIQ",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-gs-burl-csiq"
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 04 Nov 2026 11:39:59 GMT",
-    "title": "Mouser stocks TE Connectivity\u2019s HC-STAK 35 interconnection system - Engineering.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnNUakRGbDg3ajF6Z3FkRFVJODA0dXJZekNyb0VsNXNQQ2pmZ1hWenF4VkVZMnA4MXBscXE2UzdJTnFrc3dtSU9KWDF3SXVHYXBfVDVocEhFMDlPcHVJemdvSmJuVHZFajJDb25WQjlhaUluUmJRb19xalg4SzJwT0taVnRBXzJ0VmxsTlZ2bzdPVWkxSlFLbw?oc=5"
+    "date": "Wed, 04 Nov 2026 03:13:03 GMT",
+    "title": "CSIQ Nov 2026 2.000 put (CSIQ261106P00002000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZSHZ1MGdQTnFmTU8xeHd4YnBReDNHMEJkbFJBQWRiRlVlNU8zaHczTmNlaG1uN21CVF9xNVVmdEYwQlFVbzU3c3pkY2k4bEREeUhvZi02M1ZUOXQtaXVvanE1MXpWZw?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 04 Nov 2026 10:00:00 GMT",
-    "title": "The Eagles need to get this rookie playmaker more playing time ASAP - PennLive.com",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREkzc0pxNzEyUnVxbnNBWlh6MUsweDhDeU4zQUNUWkV1TlVTREFURF96akN5NlJuUVIyZ3BGMVhfMnJFenlmSzktbFcxdDYxZ21MVzRDdVdBcE5qUTI1N1FuMVlVLTg3cTlyUVJ2OUVtWnJfanM0SWtWaTBhWHJ3NmYxRVViMENzYkM0bGFsM3prQkFnN19RMDl4TjFtU1BfdWg3UzM2NlNja1h0YXQ1MUlZNzdDb3VDZHRFZGtLTFAwUQ?oc=5"
+    "date": "Mon, 02 Nov 2026 04:34:02 GMT",
+    "title": "CSIQ 261030 21.00P (CSIQ261030P21000) Stock Options Chain | Quotes & News - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zbGxRVjdpdGhxeG5XOTE4aVd0OFdLUXlGcndmaVdTODVXVzM2TzNPSUFBQmctRWJnMmNyVWxJNUoySFBwNzYwb1lRYkh3NmlCa0lCRk5BemstYVhGZUVF?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 19:02:00 GMT",
-    "title": "TE Stock Grinds Higher As Traders Watch Debt-Fueled Turnaround - Timothy Sykes",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yTENoLVZxb1h5Rl9hNzZLQ2xBVFhwNU1rTGNhVEpPQXJLVlJaRWdfc0lpLW9hSEdnUE5PSm9EbFk2aEdFZ3dMV3N5VlhTaEZCMnZiaDBsckVkRlh4WEFobXk4VGtCWEZqN0lfS3otbkV6eHh1WHc?oc=5"
+    "date": "Tue, 03 Nov 2026 23:43:38 GMT",
+    "title": "CSIQ Nov 2026 11.500 put (CSIQ261106P00011500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uVlJLanlTUGcwSFNnZW8tWDJZWDlpRExvbUozU1VSOGlqWVVQc2JCVGNjY1VmblN1eDhHZWt0VUdMSlZCNlpjWGJJbDh6WWcxV09KWFdjelRSTkxCLUtnejljODRRUQ?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 04 Nov 2026 10:45:34 GMT",
-    "title": "72,428 Shares in TE Connectivity Ltd. $TEL Bought by Mirae Asset Global Investments Co. Ltd. - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNDhBVUhKN1ZnQXZFMmxNZENHcVpPd3NVbWJZQ1RtOXR4amxncHZTMGQ0eHhnYUVwdmE4MFY4QkRzWnhpMXZvOFRuaUdpQkhFby1FT1NXODBpX2trUUZOenRmSlpfdDlHTEFLbnRhbHk2SDJFa2tMV2pSTTA0S2lPVmhuU1FURTZudmlDOTRUWFRGeGNudXYtVHBrVlFLd2g3U2tTc2hWRjNhMi12VGtjTjVwMHNHcWpMUXA3ZHc5N2xQb3FXMTJDU0VuOF9zVUFlQW1uRjk1VS0tV3hWRWpTSkJ3?oc=5"
+    "date": "Tue, 03 Nov 2026 19:34:27 GMT",
+    "title": "CSIQ Dec 2026 13.000 call (CSIQ261218C00013000) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fa2lMbGFUTDV6cFVqN202eC05U2VEMU9QQkc2TDJPNTh0dy1rMkFJaGhhYlBZR1NLYWx4bkM1WDNlazBjVUtZUk16bXNTa19jSEJpYmRpUWp6UzBjVzVubDhXY1NRdWdDbDNOdGJ3?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 18:27:00 GMT",
-    "title": "TE Connectivity (TEL) Stock Trades Below Fair Value On Cash Flow Views - Simply Wall St",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamtRV2l3a0NEMXU5UDNST29ZZ2RPekt3b3pMalpjY2hIaWpjVmhJdEc0ZmczWU1Tdkt3UnlHUUlfSUhqTUQ0S2pZWlJqOF9nZnNtc1JJOHZFUGRmV2tNaHFVZ3I5TUYyOWItcm5NcWlZNDB6TGdYLS0zQnJyWUNUSmdqZUtDczk4dko1RmY1OUlZUUdQUTAzNnFjYzlFd2NLUFcwZlBBQ0xSbDRfQ3V6UFlUY1BtYnFnaUxUZXdkSUNNT2lqeGfSAcsBQVVfeXFMUGEtOUNMMWpSQWlTZDN3YzBLRy1hY1Q1OWw2eDNzMXE2TkNxbTBwZzJhVm5OWUkwUHh1aHpKVVlrQ09PR0xDeW9Oc3ZJcjNEX0pKOFdRaVNzOTluTU0xeEw0a2RNTXl2Y0s5V3JuWE1xU3lOQ0k2WFA4TVJkWXcxczgyaVdmczQ2N05ESWRPa29TVEhiellzZE5yZXlIZzFucDBWVlFtYUIydm5PLTdlcnVOLVNoWjNVSEhZR1Y5VFNzNjVPOWMxcmViS1k?oc=5"
+    "date": "Tue, 03 Nov 2026 14:04:04 GMT",
+    "title": "CSIQ Nov 2026 9.500 put (CSIQ261106P00009500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KdnpuR3ZpUUswaEdmY3ZQZjJRU3F3b3ozdk1tWjY1ZXgzX0J3TlprckRsQ1B3dU1Vc25CLU5XeVRlWWtBVXpjMHVDMHpuRmc3LXFyd1ozaEtEV1p3c1NHTWFva0dWdw?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Mon, 02 Nov 2026 05:00:00 GMT",
-    "title": "Weekly Recap: Technip Energies NV 2026 margin targets and stock surge - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa0pDODl2eWo2N0Y2MUMzWHRTaDdReFBqM3FMTU9RSWd2UFRvVUVSN2tjbkN3dnBUNy0yVkxqMXhpajhJb0NoRU5lRUMwYXJpRkVzWDAtTW1fWWdVd1pXeGdjellmNEtoVE9jRVpsQUNONE5QVUZySkc2YkRWVE1GV2VFNjF3QUsxR0dqVUtRY25MY29fZEtjM0lTdURyaTc0T1c4N3hfbzVMNEtRaFkxVl9DTDlqNGg2anVXbFFyRWw5Y1JKWjBKTVp3?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 04 Nov 2026 08:27:07 GMT",
-    "title": "159,113 Shares in TE Connectivity Ltd. $TEL Bought by Associated Banc Corp - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2JnNTIzTWtEVFNqYzItZnBTaDJ2QWdxc1gtd1c4TkZFRVAtYndYbGd2NEFORVJESHJ0MUQ4Vk9fekhyOGRFb01MVXdLQ2plMFpqOHNrSVN2MlNlbE1Xa0EyX0RpVzRfZ3FhUGgtR0d0ZzRTaVVQMkNjNHlzaXRfQ0RtQTBMeXNWdHh1LUV0UlhvMHhILU9hR0M4UXMyNHJmcEMwSXF6QTU3V0NfbzNyZHROVS04QjQ5Vko2VjZrQm00NkRXSXpwVnB6M1M?oc=5"
+    "date": "Tue, 03 Nov 2026 22:22:38 GMT",
+    "title": "One investor reports a 7.94% passive stake in Canadian Solar (CSIQ), with sole voting power. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHhLZlhCdHhwZ1BmNmhHcEJib21vN3pHUlktc2pPZVhlNGR4VlgzRDNtd2x1Ry1fODhURHdhXzJhVmlGa2ctc3RJSFVsVlpFZnNXOGdMTjNGU3hoOWFNdW1vVGh1SDBIWEhoZ0F3NjJrQ0dEZlZrMTRqM1pTS3g2Znd4eTJNQ0NVc09XX1RjeHlEdnBvb3pFZmpvMTZ2cFdORVlya3Q0VTJKWkJrVGF3OWtXUmk5clM0VGRaY0tnX0VES0NzbTcwRkZNZw?oc=5"
    }
   ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "stake"
+  ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "ASM": {
-  "ticker": "ASM",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "GoogleNews",
-    "date": "Sun, 01 Nov 2026 22:34:12 GMT",
-    "title": "ASM (0362) Analyst Ratings, Stock Forecast and Price Target - Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbVUyNWJ6X1A5UG1fMmlDSGNzcnRaV0JUX2oxTHhGRVVHNFdzb3E3QnRINDZ1cURVdzRTVEYxMmk4Z29aWG1CRmtEZmVYeXpUazZ0dEFqNVQ0UDVEMWIzQjU0cVlIdl9hVEg2WFhic3o1Zng5UlpQLWdjRTB5SnJkdjl1QjRqaF9OT25HUTBfMjlVQXpoX3BxSkwwa3pIY0hOd2M4ZmRYTWhvRmlCanRuamN2Yks1MUNhcXhrcTREMUtyRy0ySnJPV05sZ3pQYU9XZUpKZ2ZKYVFqWWpaTTEtZFVUZWQ2ZHVybVBBbGFBNmVIUTVfUS1DMklrM3JsS0xBendUVG5abFNTUXRHRHlTbHJPemxpazZ6MVFnTElMbEpjUTdFZFBxTmNaT3VCX3dRNlY1STBRb1poU1Fk?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Sun, 01 Nov 2026 10:50:28 GMT",
-    "title": "ASM Stock Price, Chart, and Forecast - Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQSVpqQXJaaWdYbmN2bW5Gc29BSTBNLWtrc3lSSmRoTGd6ZFdUV3BPSzVvU0lWc21LXzVybDZkZTZGOVBXbFlYVFJGQ3g2SU9ael9wTVRrTV83WEpMN1ZLM2JFM3V4NXlOc2tvcEJmaEUwckprRmNyVGN4TWVScVJadjl4Qjh1M3VMRlduSVM4ZWVXZzdyN0g4bTdtZGJKNWVBMktQREgzaHJZSl9CRVl6NVZlalhna01QUkcySWpLVHJCNDNkem00OEZQYVN1Y1ZsbEpKWmZfWDVrNU9lVHhGWnhnOFlOUkhDM293TkNqak1DSHRqVk9WbnVYdXZJYWZrMWJXcXJyLWdfd1VaSGZQNFVsTnl3WFlLRVBTZlFKUlZEQWVNNk1Jdg?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "USAS": {
-  "ticker": "USAS",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "finviz",
-    "date": "Nov-02-26 07:15AM",
-    "title": "Higher Metal Prices Are Showing Up in Third-Quarter Results at Mines, Mills and Alloy Makers",
-    "url": "https://finviz.com/news/413052/higher-metal-prices-are-showing-up-in-third-quarter-results-at-mines-mills-and-alloy-makers"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 04 Nov 2026 06:34:27 GMT",
-    "title": "Americas Gold and Silver Corporation (USA.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ySk5xaUJSQ2FHLUstV21OaW9mQkd0SUJwUjBzN1VHQVZNQjlzbEZ1NngycWRkZDNkbkpBQ0xNUmJWWk5Qci1IWFY1RjhoTDF3WFd6OQ?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "ARRY": {
-  "ticker": "ARRY",
+ "UWMC": {
+  "ticker": "UWMC",
   "filings": [
    {
     "src": "SEC",
@@ -362,32 +1318,44 @@
     "form": "8-K",
     "items": "2.02,9.01",
     "title": "8-K 2.02,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1820721/000119312526446212/d185761d8k.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1783398/000178339826000134/xbrl-20261104.htm"
    }
   ],
   "headlines": [
    {
     "src": "finviz",
-    "date": "Nov-04-26 07:01AM",
-    "title": "ARRAY Technologies Reports Financial Results for the Third Quarter 2026",
-    "url": "https://finviz.com/news/415220/array-technologies-reports-financial-results-for-the-third-quarter-2026"
+    "date": "Nov-04-26 08:30AM",
+    "title": "UWM Holdings Corporation Announces Third Quarter 2026 Results",
+    "url": "https://www.businesswire.com/news/home/20261104182725/en/"
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 17:06:11 GMT",
-    "title": "Array Technologies, Inc. (ARRY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYmstRTd1NXZnSHZ2SExPcVlZU0hPVGV6eFRfWHBpNUtSTnpKdUpWRTVTbzIyQ3VZRHlKSmhtekRwYVVzSFZYTnZiWFNOLTlBbEE?oc=5"
+    "date": "Wed, 04 Nov 2026 14:00:00 GMT",
+    "title": "$UWMC ($UWMC) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa3ZqRzh6ZWllb2xUaTVQa2tFY0ZnckRtckt4VWlXd1ltcTNNY3BVOTVqd2s3bVdLblZPVmFLdHJYUEdfUXFhZ3l1LVdYOEZHSnNMOER4TXQxRHVQb18wZjVFcF9RdFpTZHZWY3FBdVY3bVZQWHZ2V2ZKME9QS1BORXF0VHNmc2M?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 04 Nov 2026 12:01:00 GMT",
-    "title": "Contracts and orders at ARRAY reached a record $2.6 billion as it cut its 2026 sales forecast. - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZF9mZk9rQXdHdm5KaE9DUkVsNTMyc3FRQklBb2VuYjRJNDVGQmRLX2xRNDNXSXlJLVdEZThUd1N5YXJEcFZvZ2RUQWlRSmR4RW5kWHJ1Ykk3MlVnWUhWSDBFQ0d6X3ZxUWRIU1B0MjVEWUpXUno3YkZoQmc0Z1p4Y0ktRzlyUnRUaVh2ZFhpaE4zTENzYVgweFItN1FZVWJKc0VwcFdzY0dlR3BDc3RxeXgyUzgxM0dZTTdlY29n?oc=5"
+    "date": "Wed, 04 Nov 2026 13:30:00 GMT",
+    "title": "UWM Holdings Corporation Announces Third Quarter 2026 Results - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1duMFFOMDd5c3VySGptcDJvUEdickpFTjhKNXNpS2dLUDQ3aXllTGEwOWZISDVoSi03dFZrTVo1OUtXUmtNLWIzRXVKVWpIQlpEdFNtNmpqZWZzZmcxUVlacUpsSnFFaWtySElpMW5wZ2IxOWNTelZ5YXByOTVNWFk1TnFESFpXcUIwbE9HQTkxQ2NXRXBaQW92R3MzS0p5R2RTMUtMUDlNOHh2dTJQMkNDUWRXVDRXekE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 06:18:41 GMT",
+    "title": "UWM Q3 2026 Earnings Date and Estimates - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTEZ3QzJhVnJab3p0SGJPa1l3S2luMzR4Vkc4Ynp2Z3VQOUJvT1NqMDZkbU5ha2x2T1JfU1ZVZU1SRWI1elhBaXZJckhIRmxZVUhrd25EaHE3N0tKcDZaMTlXM1RQbVdleWxKZndwU3VFVHQzWk4tWEg3akR1S2pYLVIzZlRWZGpDVkE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 03 Nov 2026 22:26:09 GMT",
+    "title": "A 15-year anniversary brings UWM Holdings (UWMC) COO a fully vested 3,356-share grant. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmloRlFQeURkOGVJS1RZRUNLVTVKMWJ5bHM4OTB0MzFydVp5R2FZZ1RVemlIbFN3Tk5SMFJnSnY1dWhDZWp4eDRtZTdjbmV2RV9UdE9QaFlOYkpWSGRzWmRYaThaZHhSNnN1bnlfZlZSN18wTXZqY19MUklnWkZpVWF4cnNjdjFWZkpsbk41Q1g4RlZRNFlHMjNBMzRZQlBGUVpIZkRIVS15TlhRaHN1Uw?oc=5"
    }
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
-   "contract",
+   "earnings",
    "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",

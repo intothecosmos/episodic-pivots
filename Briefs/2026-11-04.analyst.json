@@ -1,44 +1,50 @@
 {
- "NVTS": {
+ "RIOT": {
+  "tier": "A",
+  "grade": 4,
+  "verdict": "TRADE",
+  "why": "$28B 15-yr 910MW Corsicana AI data-center lease (~$1.8B/yr rent vs $181M quarterly rev); no equity planned; 0.69x ADV premarket pass not strong; overhead 58%; regime red half size"
+ },
+ "ARRY": {
   "tier": "B",
-  "grade": 2,
+  "grade": 3,
+  "verdict": "WATCH",
+  "why": "Q3 rev $330M, record $2.6B orderbook but FY26 guide cut; all-stock Shoals merger 1.6931x, SHLS holders get 65% (~1.85x share issuance, arb overhang); Gate 4 now passes $63M; 0.53x ADV; overhead 72%; regime red"
+ },
+ "CSIQ": {
+  "tier": "C",
+  "grade": 1,
   "verdict": "NO TRADE",
-  "why": "Q3 rev $14.0M +38% y/y, GM 40%, Q4 guide $16M; small base, Gate 3 fail 0.1x ADV, overhead 67%, regime red"
+  "why": "No company news; solar sympathy post-election; earnings ~Nov 12 inside window; 0.21x ADV; overhead 96%"
  },
  "TE": {
   "tier": "C",
   "grade": 1,
   "verdict": "NO TRADE",
-  "why": "No company news; solar/IRA theme gap after election; earnings pending; 0.09x ADV"
+  "why": "No company news; solar/IRA theme gap; Q3 results pending inside window; 0.16x ADV; overhead 94%"
+ },
+ "NVTS": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Q3 rev $14.0M +38% y/y, Q4 guide $16M with opex jump; Gate 3 fail 0.15x ADV; overhead 67%; regime red"
+ },
+ "DUOL": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "DAU +29%, FY guide raised, EPS miss; 19.9% gap on 0.12x ADV premarket (large cap under-reads) - re-check 09:45; overhead 26%"
+ },
+ "OUST": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Record $59M rev, Q4 guide $61-64M; Gate 4 now passes but 0.05x ADV premarket; re-check at open"
  },
  "OSCR": {
   "tier": "C",
   "grade": 1,
   "verdict": "NO TRADE",
-  "why": "Political sympathy move (ACA subsidy hopes), Q3 unreported inside window, at 52w high, 0.05x ADV"
- },
- "ARRY": {
-  "tier": "B",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": "Q3 beat + record $2.6B orderbook but FY26 guide cut; stock merger with Shoals; Gate 4 fail $7.5M proj"
- },
- "USAS": {
-  "tier": "C",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": "Silver-complex sympathy gap, no company news, earnings pending; Gate 4 fail $1.6M proj"
- },
- "OUST": {
-  "tier": "A",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": "Record product revenue $59M, Q4 guide $61-64M; Gate 4 fail $9M proj, 0.0x ADV premarket \u2014 recheck 09:10"
- },
- "HL": {
-  "tier": "B",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": "Q3 EPS $0.22, record FCF $151M, guidance improved; Gate 4 fail $9M proj, moving with silver"
+  "why": "ACA-subsidy political sympathy move; Q3 unreported inside window; at 52w high; 0.1x ADV"
  }
 }
