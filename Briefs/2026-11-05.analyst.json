@@ -1,0 +1,7 @@
+{
+  "AEHL": {"tier": "Unknown", "grade": 1, "verdict": "NO TRADE", "why": "No catalyst found; serial-dilution pattern (1:6 + 1:16 reverse splits, 1.3M→19M shares since Aug, 80%-VWAP convert, live $100M ATM); 10/13 halt-spike round-trip = Gate 4 halt-machine fail"},
+  "U": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev +32%, strategic +59%, adj EBITDA 41% margin, first GAAP profit, Q4 guide +65-67%; Gate 3 fail 0.24x ADV premarket (large-cap under-read) — re-check 09:45"},
+  "APP": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev $2.18B +55%, NI $1.44B +72%, ~84% EBITDA margin; Gate 3 fail 0.1x ADV premarket; overhead 79%, 52w-high -56% — re-check 09:45"},
+  "RUN": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 beat but third top-end guidance cut, subscriber adds -24%; Gate 3 fail 0.12x ADV; overhead 72%"},
+  "EOSE": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev $82.7M +171%, GM -53%, FY reaffirmed, backlog -5% q/q, Item 2.05 line consolidation; Gate 3 fail 0.08x ADV; overhead 93%, 52w-high -88%"}
+}
