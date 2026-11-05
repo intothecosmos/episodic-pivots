@@ -11,7 +11,20 @@
     "url": "https://www.sec.gov/Archives/edgar/data/1470683/000149315226049623/form6-k.htm"
    }
   ],
-  "headlines": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 05 Nov 2026 12:33:00 GMT",
+    "title": "AEHL Stock Pulls Back As Volatility Grips Thin Float - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjBHc253ZXlLQVVuM3Bac3ZyeXl6OENrREFsMl92VmdnX2JXYWctclNlRlhZbHlOYTI4YlhMLWk5dDRyRzkxT3cxWEdpU2RXMTB6cFlpWHVxMDVqUEZxM1VPbTdwaElkMEQ3SlJJYjRuT25wVTVwMXVGQk96UmxXeGhmVG9TRVpKTlJQNlBEUWlUWjBWRUxR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 05 Nov 2026 13:19:00 GMT",
+    "title": "AEHL Stock Slides As Momentum Traders Watch Key Levels - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWVYMWYyQ2E5OVZ1RWxiNHJCdlg4ZmJrUFZHQV9ySDBzZFk2YnhKNE9UVzl0S3YzSmlpMkdwWlpPZUZ5MFBWVlJnN25iZlByZHhieVpzTHd3NGJnN0pxZ2pDZTMzLXIyQklvM3VFYjJzUnZ6cmpVZUcxWlJPNzhCdkt5X2Z5VDZ5c1BTVENDZGFGLUI1TV9qVV93?oc=5"
+   }
+  ],
   "pre_tier": "unknown",
   "pre_tier_hits": [],
   "sec_status": "ok",
@@ -69,6 +82,231 @@
    "reports (first|second|third|fourth) quarter",
    "earnings",
    "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "APP": {
+  "ticker": "APP",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000069/app-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-04",
+    "form": "8-K",
+    "items": "2.02,5.07,9.01",
+    "title": "8-K 2.02,5.07,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000068/app-20261029.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 4, 2026",
+    "title": "AppLovin Corporation Reports 72% Net Income Growth to $1.44 billion and Plans Nevada Reincorporation",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/applovin-corporation-reports-72-net-income-growth-144-billion-and-plans-nevada"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 4, 2026",
+    "title": "AppLovin Q3 Profit Surges 72%; Revenue Jumps 55% ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/applovin-q3-profit-surges-72-revenue-jumps-55"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 4, 2026",
+    "title": "AppLovin Turns 81% of New Sales Into Profit: Rapid Earnings Reaction",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/applovin-turns-81-new-sales-profit-rapid-earnings-reaction"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 4, 2026",
+    "title": "AppLovin (APP) Q3 Earnings and Revenues Beat Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/applovin-app-q3-earnings-and-revenues-beat-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 4, 2026",
+    "title": "AppLovin Q3 26 Earnings Conference Call At 5:00 PM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/applovin-q3-26-earnings-conference-call-5-00-pm-et"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "AppLovin Is the Worst-Performing Stock in the S&P 500 This Year. Has the Market Overreacted?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/applovin-worst-performing-stock-sp-500-year-has-market-overreacted"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 2, 2026",
+    "title": "Should AppLovin Stock Be in Your Portfolio Before Q3 Earnings?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/should-applovin-stock-be-your-portfolio-q3-earnings"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 09:15AM",
+    "title": "AppLovin stock soars after Q3 earnings, outlook beat",
+    "url": "https://finance.yahoo.com/markets/article/applovin-stock-soars-after-q3-earnings-outlook-beat-141507874.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 08:18AM",
+    "title": "Stock Market Today: Dow Rises After Postelection Rally; Cava, Dutch Bros Plunge On Earnings News (Live Coverage)",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-rally-cava-dutch-bros?mod=IBD_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 06:25AM",
+    "title": "Qualcomm, AppLovin, Snap, Arm, Sony, and More Stocks That Explain Today's Market",
+    "url": "https://www.barrons.com/articles/stock-movers-8b39c82b?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 05:40AM",
+    "title": "AppLovin stock jumps, and other early movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-democrat-sweep-midterm-elections-rally/card/applovin-stock-jumps-and-other-early-movers-CUfizZExv4rn5xz5NMnJ?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 04:15AM",
+    "title": "Kaplan Fox Announces That AppLovin Corporation (APP) Investors Have Until November 16, 2026 to Seek Lead Plaintiff Status",
+    "url": "https://www.newsfilecorp.com/release/322167/Kaplan-Fox-Announces-That-AppLovin-Corporation-APP-Investors-Have-Until-November-16-2026-to-Seek-Lead-Plaintiff-Status"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 02:31AM",
+    "title": "AppLovin Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - APP",
+    "url": "https://finviz.com/news/416512/applovin-corporation-sued-for-securities-law-violations-contact-the-djs-law-group-to-discuss-your-rights-app"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 09:59PM",
+    "title": "APP Stock Soars Over 20% Overnight After Record Q3  CEO Says Its AI Model Has More Room To Run",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/app-stock-soars-over-20-025920807.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 09:48PM",
+    "title": "AppLovin Rebuilds Credibility With A Re-Accelerating Q3 Beat, But A Slower Q4 Guide Meets A Stock Near Its Lows",
+    "url": "https://finviz.com/news/416472/applovin-rebuilds-credibility-with-a-re-accelerating-q3-beat-but-a-slower-q4-guide-meets-a-stock-near-its-lows"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BKSY": {
+  "ticker": "BKSY",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-05",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1753539/000175353926000154/bksy-20261105.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 06:00AM",
+    "title": "BlackSky Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/416773/blacksky-reports-third-quarter-2026-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 11:08AM",
+    "title": "SkyFi's 'Satellite Intelligence' Now Available as a Robinhood Agent App",
+    "url": "https://finviz.com/news/415613/skyfis-satellite-intelligence-now-available-as-a-robinhood-agent-app"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-03-26 07:00AM",
+    "title": "BlackSky to Host Investor Day on December 2, 2026",
+    "url": "https://www.businesswire.com/news/home/20261103685427/en/"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "WRBY": {
+  "ticker": "WRBY",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-05",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1504776/000150477626000022/wrby-20261105.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 5, 2026",
+    "title": "Warby Parker Inc. Bottom Line Retreats In Q3 ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/warby-parker-inc-bottom-line-retreats-q3"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 05:45AM",
+    "title": "Warby Parker Announces Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/416638/warby-parker-announces-third-quarter-2026-results"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 05 Nov 2026 14:00:45 GMT",
+    "title": "Warby Parker shares launched higher on Q3 results, new smart glasses (WRBY:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVd3N1loVHpGSl9IWld5X040UDFCZWxKaDhRUlVSRW9fZzE5N3hYY1RWTFVDZ1dqdkI0TVNuQnphYWd1ZWtJMUlxUmFCUmRMQW4zUUpkak9oaEY5d1RFbEpJZ3ZPa1l4d2xZd1BrOE5XNDFoZkd4MHJLOU9NYXJiNFZ4Mnl2T0pfZXJOMTJTaUlyQTdzTEdWaThBOFpXVzdJQTdzbXZNU3U?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 05 Nov 2026 12:26:29 GMT",
+    "title": "Warby Parker (NYSE:WRBY) posts Q3 2026 sales in line with estimates, stock jumps 18.9% - StockStory",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDVwWTBNakx6czc2VUlSMWhkeFQ4S0tWYzVSUG5LQk1xR2hXN3hZRmdSdnMtMTA3RGY0VzUwSmh5NzN6Nld0ZTV4aTQtLWVzck1odlVUbUtFYkw3MzhrT2F3WXg3bGtzYmk5Z0s3ZHVLNVptVEc2WjJyWWVzLUZrSS1YajhZb3NteE55M1RGZEthWXZBV2hpZEZKbXp3ZHcxSzRndzFfM2U0VFdDeU1rYVZKbldJWWFTSzdfT0lIenZLX1pmOFZwd3Z6N0ptWkpnZUtmcWJLdmkwV2xz?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 05 Nov 2026 12:11:00 GMT",
+    "title": "$WRBY ($WRBY) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkxLMlBWZ2RqZ3Y5WFZqU1hnYXRsZHROYVU4M0paaGpBQkJQY0VmajFEcEdEZlFlMnY3amZHOFdLanNGeEwwRUpFb2lsQ1k4aTZJaUZVZGU3Qms4WjdSQmFac0pndjRNQTRZb0hDdHoyQjAxWnNta3pWSktzbm5WU2M5TVhjcjA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 05 Nov 2026 01:11:58 GMT",
+    "title": "Warby Parker Inc. (WRBY) Stock Forecasts - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORVJmN1g5eTV6Ui1tdFRZLWVTZWlqSGFnWW1raE1rX01IVWVSUXNhT19qNHZZTVRfczVFRTBpRGlOdlpyZlFWNXBXV3RZRjViZll0SFU3dzJ2WHI1REUxQ2tLbTBMYUppdmR4Yi1ORGV1YURxUmRBSTR1WTdBbHRrLWVkNk54MUhEQVVMNlFtVQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
    "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
@@ -192,59 +430,6 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "WRBY": {
-  "ticker": "WRBY",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-05",
-    "form": "8-K",
-    "items": "2.02,9.01",
-    "title": "8-K 2.02,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1504776/000150477626000022/wrby-20261105.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 5, 2026",
-    "title": "Warby Parker Inc. Bottom Line Retreats In Q3 ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/warby-parker-inc-bottom-line-retreats-q3"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 05:45AM",
-    "title": "Warby Parker Announces Third Quarter 2026 Results",
-    "url": "https://finviz.com/news/416638/warby-parker-announces-third-quarter-2026-results"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 05 Nov 2026 12:26:29 GMT",
-    "title": "Warby Parker (NYSE:WRBY) posts Q3 2026 sales in line with estimates, stock jumps 18.9% - StockStory",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDVwWTBNakx6czc2VUlSMWhkeFQ4S0tWYzVSUG5LQk1xR2hXN3hZRmdSdnMtMTA3RGY0VzUwSmh5NzN6Nld0ZTV4aTQtLWVzck1odlVUbUtFYkw3MzhrT2F3WXg3bGtzYmk5Z0s3ZHVLNVptVEc2WjJyWWVzLUZrSS1YajhZb3NteE55M1RGZEthWXZBV2hpZEZKbXp3ZHcxSzRndzFfM2U0VFdDeU1rYVZKbldJWWFTSzdfT0lIenZLX1pmOFZwd3Z6N0ptWkpnZUtmcWJLdmkwV2xz?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 05 Nov 2026 12:11:00 GMT",
-    "title": "$WRBY ($WRBY) Releases Q3 2026 Earnings - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkxLMlBWZ2RqZ3Y5WFZqU1hnYXRsZHROYVU4M0paaGpBQkJQY0VmajFEcEdEZlFlMnY3amZHOFdLanNGeEwwRUpFb2lsQ1k4aTZJaUZVZGU3Qms4WjdSQmFac0pndjRNQTRZb0hDdHoyQjAxWnNta3pWSktzbm5WU2M5TVhjcjA?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 05 Nov 2026 01:11:58 GMT",
-    "title": "Warby Parker Inc. (WRBY) Stock Forecasts - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORVJmN1g5eTV6Ui1tdFRZLWVTZWlqSGFnWW1raE1rX01IVWVSUXNhT19qNHZZTVRfczVFRTBpRGlOdlpyZlFWNXBXV3RZRjViZll0SFU3dzJ2WHI1REUxQ2tLbTBMYUppdmR4Yi1ORGV1YURxUmRBSTR1WTdBbHRrLWVkNk54MUhEQVVMNlFtVQ?oc=5"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "earnings",
-   "8-K item 2.02 (earnings)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
  "ADMA": {
   "ticker": "ADMA",
   "filings": [
@@ -306,186 +491,6 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "APP": {
-  "ticker": "APP",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-04",
-    "form": "10-Q",
-    "items": "",
-    "title": "10-Q",
-    "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000069/app-20260930.htm"
-   },
-   {
-    "src": "SEC",
-    "date": "2026-11-04",
-    "form": "8-K",
-    "items": "2.02,5.07,9.01",
-    "title": "8-K 2.02,5.07,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000068/app-20261029.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 4, 2026",
-    "title": "AppLovin Corporation Reports 72% Net Income Growth to $1.44 billion and Plans Nevada Reincorporation",
-    "publisher": "Fintel",
-    "url": "https://www.nasdaq.com/articles/applovin-corporation-reports-72-net-income-growth-144-billion-and-plans-nevada"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 4, 2026",
-    "title": "AppLovin Q3 Profit Surges 72%; Revenue Jumps 55% ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/applovin-q3-profit-surges-72-revenue-jumps-55"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 4, 2026",
-    "title": "AppLovin Turns 81% of New Sales Into Profit: Rapid Earnings Reaction",
-    "publisher": "The Motley Fool",
-    "url": "https://www.nasdaq.com/articles/applovin-turns-81-new-sales-profit-rapid-earnings-reaction"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 4, 2026",
-    "title": "AppLovin (APP) Q3 Earnings and Revenues Beat Estimates",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/applovin-app-q3-earnings-and-revenues-beat-estimates"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 4, 2026",
-    "title": "AppLovin Q3 26 Earnings Conference Call At 5:00 PM ET ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/applovin-q3-26-earnings-conference-call-5-00-pm-et"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 2, 2026",
-    "title": "AppLovin Is the Worst-Performing Stock in the S&P 500 This Year. Has the Market Overreacted?",
-    "publisher": "The Motley Fool",
-    "url": "https://www.nasdaq.com/articles/applovin-worst-performing-stock-sp-500-year-has-market-overreacted"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 2, 2026",
-    "title": "Should AppLovin Stock Be in Your Portfolio Before Q3 Earnings?",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/should-applovin-stock-be-your-portfolio-q3-earnings"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 06:25AM",
-    "title": "Qualcomm, AppLovin, Snap, Arm, Sony, and More Stocks That Explain Today's Market",
-    "url": "https://www.barrons.com/articles/stock-movers-8b39c82b?mod=bar_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 05:40AM",
-    "title": "AppLovin stock jumps, and other early movers",
-    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-democrat-sweep-midterm-elections-rally/card/applovin-stock-jumps-and-other-early-movers-CUfizZExv4rn5xz5NMnJ?mod=mw_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 04:15AM",
-    "title": "Kaplan Fox Announces That AppLovin Corporation (APP) Investors Have Until November 16, 2026 to Seek Lead Plaintiff Status",
-    "url": "https://www.newsfilecorp.com/release/322167/Kaplan-Fox-Announces-That-AppLovin-Corporation-APP-Investors-Have-Until-November-16-2026-to-Seek-Lead-Plaintiff-Status"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 02:31AM",
-    "title": "AppLovin Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - APP",
-    "url": "https://finviz.com/news/416512/applovin-corporation-sued-for-securities-law-violations-contact-the-djs-law-group-to-discuss-your-rights-app"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-04-26 09:59PM",
-    "title": "APP Stock Soars Over 20% Overnight After Record Q3  CEO Says Its AI Model Has More Room To Run",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/app-stock-soars-over-20-025920807.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-04-26 09:48PM",
-    "title": "AppLovin Rebuilds Credibility With A Re-Accelerating Q3 Beat, But A Slower Q4 Guide Meets A Stock Near Its Lows",
-    "url": "https://finviz.com/news/416472/applovin-rebuilds-credibility-with-a-re-accelerating-q3-beat-but-a-slower-q4-guide-meets-a-stock-near-its-lows"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-04-26 05:46PM",
-    "title": "This year's worst-performing S&P 500 stock is finally seeing some major relief",
-    "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-04-26 05:11PM",
-    "title": "AppLovin Stock Surges As Earnings Beat Provides Much-Needed Boost",
-    "url": "https://www.investors.com/news/technology/applovin-stock-q3-2026-app-news?mod=IBD_FV"
-   }
-  ],
-  "pre_tier": "A?",
-  "pre_tier_hits": [
-   "beats?( analyst)? (estimates|expectations)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "EPAM": {
-  "ticker": "EPAM",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-05",
-    "form": "8-K",
-    "items": "2.02,8.01,9.01",
-    "title": "8-K 2.02,8.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201026000048/epam-20261104.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 5, 2026",
-    "title": "EPAM Systems Boosts FY26 Outlook - Update ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/epam-systems-boosts-fy26-outlook-update"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 5, 2026",
-    "title": "EPAM Systems, Inc. Announces Rise In Q3 Profit ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/epam-systems-inc-announces-rise-q3-profit"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 06:16AM",
-    "title": "Epam: Q3 Earnings Snapshot",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/epam-q3-earnings-snapshot-111633320.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 06:00AM",
-    "title": "EPAM Reports Results for Third Quarter 2026",
-    "url": "https://finviz.com/news/416545/epam-reports-results-for-third-quarter-2026"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-03-26 06:05PM",
-    "title": "Strategic Shareholder Activism: InvestorCom President & CEO John Grau, Live at NYSE",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/strategic-shareholder-activism-investorcom-president-230535100.html"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "earnings",
-   "8-K item 2.02 (earnings)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
  "U": {
   "ticker": "U",
   "filings": [
@@ -516,6 +521,24 @@
    },
    {
     "src": "finviz",
+    "date": "Nov-05-26 09:11AM",
+    "title": "Unity Software Finds an Ad Machine Hiding Inside Video Games",
+    "url": "https://www.barrons.com/articles/unity-software-earnings-stock-price-e7127adf?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 08:48AM",
+    "title": "Unity Stock On Track To Hit 11-Month High After Its First GAAP Profit Since Going Public: CEO Says Flywheel Is Kicking In",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/unity-stock-track-hit-11-134857767.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 07:46AM",
+    "title": "Unity Software stock soars 22% on strong Q3 beat, robust guidance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-soars-22-124617311.html"
+   },
+   {
+    "src": "finviz",
     "date": "Nov-05-26 07:00AM",
     "title": "Unity Reports Third Quarter 2026 Financial Results",
     "url": "https://www.businesswire.com/news/home/20261105010192/en/"
@@ -536,6 +559,248 @@
   "pre_tier": "B?",
   "pre_tier_hits": [
    "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FUN": {
+  "ticker": "FUN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-05",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1999001/000199900126000103/fun-20261105.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 06:46AM",
+    "title": "Six Flags Loss Narrows but Accident Seen Weighing on Results",
+    "url": "https://www.wsj.com/business/hospitality/six-flags-loss-narrows-but-accident-seen-weighing-on-results-85b939a4?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 06:00AM",
+    "title": "Six Flags Entertainment Corporation Reports 2026 Third Quarter Results",
+    "url": "https://www.businesswire.com/news/home/20261105329965/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-04-26 07:00AM",
+    "title": "Six Flags expands the holiday cheer with more parks, more events and more ways for families to celebrate in 2026",
+    "url": "https://finviz.com/news/415203/six-flags-expands-the-holiday-cheer-with-more-parks-more-events-and-more-ways-for-families-to-celebrate-in-2026"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "XERS": {
+  "ticker": "XERS",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-05",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1867096/000186709626000114/xers-20261105.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-02",
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "title": "8-K 5.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1867096/000186709626000095/xers-20261102.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 08:55AM",
+    "title": "Xeris CEO Sees Recorlev Nearing $1B In Annual Sales 3 To 4 Years Earlier Than Expected  XERS Stock On Track To Hit Over 7-Year Highs",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/xeris-ceo-sees-recorlev-nearing-135536454.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 07:27AM",
+    "title": "Xeris Biopharma: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/healthcare/articles/xeris-biopharma-q3-earnings-snapshot-122724937.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 07:00AM",
+    "title": "Xeris Biopharma Reports Third Quarter 2026 Financial Results and Business Highlights",
+    "url": "https://www.businesswire.com/news/home/20261105731893/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 07:00AM",
+    "title": "Xeris Biopharma Welcomes Menassie M. Taddese to Board of Directors",
+    "url": "https://finviz.com/news/413172/xeris-biopharma-welcomes-menassie-m-taddese-to-board-of-directors"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ASPN": {
+  "ticker": "ASPN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-05",
+    "form": "8-K",
+    "items": "2.02,5.02,7.01,9.01",
+    "title": "8-K 2.02,5.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1145986/000117184326007142/f8k_110526.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 06:40AM",
+    "title": "Aspen Aerogels: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aspen-aerogels-q3-earnings-snapshot-114038278.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 06:30AM",
+    "title": "Aspen Aerogels, Inc. Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
+    "url": "https://finviz.com/news/416602/aspen-aerogels-inc-reports-third-quarter-2026-financial-results-and-recent-business-highlights"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 06:30AM",
+    "title": "Aspen Aerogels Appoints Stacy Nieuwoudt to Board of Directors",
+    "url": "https://finviz.com/news/416600/aspen-aerogels-appoints-stacy-nieuwoudt-to-board-of-directors"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "TPR": {
+  "ticker": "TPR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-05",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000031/tpr-20260926.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-05",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036126042034/ef20084882_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 5, 2026",
+    "title": "Tapestry Boosts FY27 Outlook; Declares Dividend; Shares Surge 8.6% - Update ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/tapestry-boosts-fy27-outlook-declares-dividend-shares-surge-86-update"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 5, 2026",
+    "title": "Tapestry, Inc. Bottom Line Advances In Q1 ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/tapestry-inc-bottom-line-advances-q1"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 4, 2026",
+    "title": "Wall Street Analysts Think Tapestry (TPR) Could Surge 32.99%: Read This Before Placing a Bet",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/wall-street-analysts-think-tapestry-tpr-could-surge-3299-read-placing-bet"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 4, 2026",
+    "title": "Curious about Tapestry (TPR) Q1 Performance? Explore Wall Street Estimates for Key Metrics",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/curious-about-tapestry-tpr-q1-performance-explore-wall-street-estimates-key-metrics"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 3, 2026",
+    "title": "Why Tapestry (TPR) is a Top Value Stock for the Long-Term",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/why-tapestry-tpr-top-value-stock-long-term-0"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 07:33AM",
+    "title": "Tapestry jumps on fiscal Q1 beat, higher profit guidance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-jumps-fiscal-q1-beat-123336055.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 06:55AM",
+    "title": "Tapestry: Fiscal Q1 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-fiscal-q1-earnings-snapshot-115508268.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 06:54AM",
+    "title": "Tapestry Tops Q1 Expectations With 12% Sales Boost",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-tops-q1-expectations-12-115400687.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 05:45AM",
+    "title": "Tapestry, Inc. Reports Fiscal 2027 First Quarter Results and Raises Full Year Outlook",
+    "url": "https://finviz.com/news/416639/tapestry-inc-reports-fiscal-2027-first-quarter-results-and-raises-full-year-outlook"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 05:10AM",
+    "title": "US Futures Mixed After Rally On Wednesday  MU, TSLA, AAPL, MSFT, APP, NVDA, IREN In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-mixed-rally-wednesday-101026817.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-05-26 09:10AM",
+    "title": "Evercore Names New Top Pick: This Fashion Stock Joins Top 5 Outperformers",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-names-top-pick-fashion-141055474.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-02-26 11:12PM",
+    "title": "Jim Cramer Calls Ralph Lauren Stock Top Apparel Pick Before Thursday Earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-ralph-lauren-041200411.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
    "earnings",
    "8-K item 2.02 (earnings)"
   ],
@@ -644,8 +909,8 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "EOSE": {
-  "ticker": "EOSE",
+ "PTLO": {
+  "ticker": "PTLO",
   "filings": [
    {
     "src": "SEC",
@@ -653,107 +918,64 @@
     "form": "10-Q",
     "items": "",
     "title": "10-Q",
-    "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026070529/eose-20260930.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/1871509/000187150926000071/ptlo-20260927.htm"
    },
    {
     "src": "SEC",
     "date": "2026-11-05",
     "form": "8-K",
-    "items": "2.02,2.05,9.01",
-    "title": "8-K 2.02,2.05,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026070528/eose-20261104.htm"
+    "items": "2.02,2.05,7.01,9.01",
+    "title": "8-K 2.02,2.05,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1871509/000187150926000070/ptlo-20261105.htm"
    }
   ],
   "headlines": [
    {
     "src": "finviz",
-    "date": "Nov-05-26 06:45AM",
-    "title": "Eos Energy Enterprises Reports Third Quarter 2026 Revenue of $82.7 Million, Up 171% Year Over Year, with Gross Margin Improving 58 Percentage Points",
-    "url": "https://finviz.com/news/416632/eos-energy-enterprises-reports-third-quarter-2026-revenue-of-827-million-up-171-year-over-year-with-gross-margin-improving-58-percentage-points"
+    "date": "Nov-05-26 08:00AM",
+    "title": "Portillo's Inc. Announces Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/416923/portillos-inc-announces-third-quarter-2026-financial-results"
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 04 Nov 2026 22:53:03 GMT",
-    "title": "Eos Energy Enterprises, Inc. (EOSE) Latest Stock News & Headlines - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QTGFwSXpXaGFzQWFDQm9VT24wYjlDaklMM0FaR2xNOV9WdFdBbW9MMGhaNUFhZ09uZUlQZFVfZ1FwWHVvcldER2FhbndXNEoxTXlBMDFXV3U?oc=5"
+    "date": "Thu, 05 Nov 2026 14:16:00 GMT",
+    "title": "Portillo's rallies after earnings and unveiling a new strategic plan (PTLO:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzhjbHdXSG45N1JyUlJHdGtDS3lCREEzNlMtc1k5UF9Bc1dXU21ZME1QalZpSkE3bmgzaXMzMmh1cmxfVXNzZWNjOEM1bExxbVk2bTVLTGhXSHctRzZ5YWp6UlNnWHpwTS1DSGhNMUNNQTVCREVMVVlfUmkzQmk2eWhDWHJpS3pmREpVck42LWJOaXhNRm84NXlyU1lQVGVQOG9mZHNmbDA?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Thu, 05 Nov 2026 11:45:00 GMT",
-    "title": "Eos and MN8 agree to deliver battery storage for Google\u2019s West Virginia data centers. - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZm5aY3RkZWhqZ3BiaThxRmg3WUhRMlUwNHF2WUFXN25nMGNSYk5yMWhGUkJ6MzdQWS1QVUxwVXhZWTR3bGtKTHJwOXlEYmZTY2dPQWdPNEE4MzJUUFFTd1pldTVEZHlNajU5MW5MMlhvUWlBNV8yNUZDZ3ZoSUUxSUtpdGRZLUZJUG16bzRuVE5LcGQybnlBM01ZRUJXLVZscXZ5WEJkTkNyV1pVYlBVQkdNMHNiSS1yamxKQQ?oc=5"
+    "date": "Thu, 05 Nov 2026 13:18:00 GMT",
+    "title": "Portillo's (NASDAQ:PTLO) posts Q3 2026 sales in line with estimates, stock soars - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOTNrTDd0NlBQNkZwWlVnb0NrdGRLNHJyUjBmMkNEMklxc1pKczh0dElHNGZnOE1FZjlrZWR4dlFJcVVqMEoxNVNaZ0hkVWszdlQzbTlQakVzWnlWR2RrdHVKMzB3LXVoYVA2dm41akJFZUppVzk1UDQzQ0s1NlE4WGJqeDVKWVFLaXgwNEtlUlljNjRib0x0N3hyRW11c3JseWlBejVYMmJ0OHhvV1VadWwzVm1sYlJVdVBGblRIREE5V1B6NGdMRUlma3U5RTFEelJv?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 03 Nov 2026 21:59:43 GMT",
-    "title": "Eos Energy Enterprises, Inc. (EOSE) stock price, news, quote and history - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pdllFcDlfV0RhRWhSNHFBTW9zQThGN3A0YU1jYS15YkdNRVM2OVJTdnQ0TVNxUVJ0el92ZGx6eFdzWlhUOTdsc0VLZ3VLdUZySmc?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 05 Nov 2026 12:11:00 GMT",
-    "title": "EOS ENERGY ENTERPRISES ($EOSE) Releases Q3 2026 Earnings - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQXzgtTzI4bUx1bzJXUGtxVk96bElta2FMLVpCU2JsWFNQTm93T0lIakdGMC1ZZ01UUkFIX2xuMWM3cVV1N0RnRWxmUW1oWWtqR1BqeXRHcmpFVVRlbUI1QzQ3bXgxV1diUXlGaEpQSzctY3lhNlhwNTd4VUZnWWhsVGh4NjJoY1oxRlI2a2ItbjE4QmlfTWxuZE9tWQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 04 Nov 2026 21:27:04 GMT",
-    "title": "Eos Energy Enterprises (NASDAQ:EOSE) Stock Sees Heavy Call Option Buying - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVdGdThUZkNrNkNGU1otQjBRczBDT0pDSlRNYnNvOXZpLW9LdXZZUXBGNXdFaDBRVFN4T0ZPdFRVNEZmSExIazBjTlNWMDdmakd6TlAzRGJnMFRma1MwX0hOWnFrOVJRc2pjSjdSTVBIQ2Vyc2M2RHFXYzBXdi1pQ29jYWhkM3pBV2JrdS14aGtsV1IxS0xyM1NCd2RUV1JfWWJ3eFVyZkV1VUNSLXZLTF9JSUJwOXdmNWZDUWp6elAyOGV6VWxTZHpMdUI?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 04 Nov 2026 18:24:07 GMT",
-    "title": "Eos Energy Enterprises (NASDAQ:EOSE) Stock Price Up 21.3% - Still a Buy? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRG4tcTA3MENVVkdudXVsTjJoSDVjLWkzOXU3YmdhQXhfQ3NHd2JDOU9DZVc4Y0ZqdktXTGdXSGI3MHF5M2YxWnlXZkhYb3FwbTd1NHFCTU15ZjZES09fNVZDQVNFcXktLTFXbHRnTFlPMFN5MmlnNlVwTHR3NXA3ZHI2VmV6WEh3c21USmotRzhocG5MTURyZHY4UjJGNFlCaGFkSjZEaHRfUGpmZldqU0ZHa1BwUUtYN2hsVVlLdnFlaEE?oc=5"
+    "date": "Wed, 04 Nov 2026 18:16:00 GMT",
+    "title": "Portillo's Inc. (PTLO) Stock Price | Live Quotes & Charts | NASDAQ - www.timothysykes.com",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3XzlBT29OTDA0alRNRHlmcGEyUmVMVGZFdnNBZ1c4YkhOV25zRlFWNnY5amhFbGQ1VlB1bUh4UGx3TllHXzg4RUNBYkE?oc=5"
    }
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
-   "reports (first|second|third|fourth) quarter",
    "earnings",
-   "revenue",
    "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "FUN": {
-  "ticker": "FUN",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-05",
-    "form": "8-K",
-    "items": "2.02,7.01,9.01",
-    "title": "8-K 2.02,7.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1999001/000199900126000103/fun-20261105.htm"
-   }
-  ],
+ "HLP": {
+  "ticker": "HLP",
+  "filings": [],
   "headlines": [
    {
-    "src": "finviz",
-    "date": "Nov-05-26 06:46AM",
-    "title": "Six Flags Loss Narrows but Accident Seen Weighing on Results",
-    "url": "https://www.wsj.com/business/hospitality/six-flags-loss-narrows-but-accident-seen-weighing-on-results-85b939a4?mod=wsj_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 06:00AM",
-    "title": "Six Flags Entertainment Corporation Reports 2026 Third Quarter Results",
-    "url": "https://www.businesswire.com/news/home/20261105329965/en/"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-04-26 07:00AM",
-    "title": "Six Flags expands the holiday cheer with more parks, more events and more ways for families to celebrate in 2026",
-    "url": "https://finviz.com/news/415203/six-flags-expands-the-holiday-cheer-with-more-parks-more-events-and-more-ways-for-families-to-celebrate-in-2026"
+    "src": "GoogleNews",
+    "date": "Wed, 04 Nov 2026 21:06:00 GMT",
+    "title": "Hongli Group Inc. Ordinary Shares (NASDAQ: HLP) Stock Price, News & Analysis - kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pNllMaHlOY04zS2RmNFp3bXJmRUgzR3B5TmMtM1BZVFlxWjZUMnVJamZkbjhMQ181enl3OGJOX3pCNlBVQnF6TGJFN0ZKTms?oc=5"
    }
   ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "8-K item 2.02 (earnings)"
-  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -784,6 +1006,12 @@
    },
    {
     "src": "GoogleNews",
+    "date": "Thu, 05 Nov 2026 12:36:00 GMT",
+    "title": "IRONWOOD PHARMACEUTICALS ($IRWD) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFY0WmdjV3BNWnJLdkVmTjZNejNGZHpweUFocFlzUU9TbGpaT1VMRHNoeHJRSWZ2YWY2dE5YS1ROeVd4NlF4MDIyVU5GRHZFUEdLQWFxWm9rN0VFQVYxUjhQaW5tT3hPR2hVS0hBOXBJdGRuemV5aVdndmNHRFpwenFHU05pZlQtSTlQc0lGZE13U3dKRFpmd3M4Q19VQQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
     "date": "Wed, 04 Nov 2026 20:09:41 GMT",
     "title": "Ironwood Pharmaceuticals (IRWD) Set to Report Q3 Earnings on Nov - GuruFocus",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzZHZlRCY1dtQTlFTkxxdkExLVdmQ0d3TW5vX19FWFA4TDBSNFFkY1FJc21DMmh3eDk4SmdXb0tKVmFHbnlWTnNVN19xSEpqNlV1QUFRMWNJZW8xZl82WFlCaUFxcThXcTVCcURrREo0Q3FNYV9ya2U0Y2lHcERfaWpBSTRfbVFrY0dLdm5jbm1WZk1UNHFCdEVtRkhyVGdqZ2tENXViQ1dfQVd2?oc=5"
@@ -796,152 +1024,69 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "ALTO": {
-  "ticker": "ALTO",
+ "EPAM": {
+  "ticker": "EPAM",
   "filings": [
    {
     "src": "SEC",
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "form": "8-K",
-    "items": "2.02,9.01",
-    "title": "8-K 2.02,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/778164/000121390026115940/ea0310849-8k_alto.htm"
+    "items": "2.02,8.01,9.01",
+    "title": "8-K 2.02,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201026000048/epam-20261104.htm"
    }
   ],
   "headlines": [
    {
     "src": "Nasdaq",
     "date": "Nov 5, 2026",
-    "title": "Alto Ingredients, Inc. Reports Third Quarter 2026 Net Income of $12.7 Million",
+    "title": "EPAM Systems, Inc. Reports Third Quarter 2026 Results and Announces $1.8 billion Share Repurchase Program",
     "publisher": "Fintel",
-    "url": "https://www.nasdaq.com/articles/alto-ingredients-inc-reports-third-quarter-2026-net-income-127-million"
+    "url": "https://www.nasdaq.com/articles/epam-systems-inc-reports-third-quarter-2026-results-and-announces-18-billion-share"
    },
    {
     "src": "Nasdaq",
-    "date": "Nov 4, 2026",
-    "title": "Alto Ingredients (ALTO) Beats Q3 Earnings and Revenue Estimates",
+    "date": "Nov 5, 2026",
+    "title": "Epam (EPAM) Q3 Earnings and Revenues Surpass Estimates",
     "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/alto-ingredients-alto-beats-q3-earnings-and-revenue-estimates"
+    "url": "https://www.nasdaq.com/articles/epam-epam-q3-earnings-and-revenues-surpass-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 5, 2026",
+    "title": "EPAM Systems Boosts FY26 Outlook - Update ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/epam-systems-boosts-fy26-outlook-update"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 5, 2026",
+    "title": "EPAM Systems, Inc. Announces Rise In Q3 Profit ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/epam-systems-inc-announces-rise-q3-profit"
    },
    {
     "src": "finviz",
-    "date": "Nov-04-26 07:25PM",
-    "title": "Alto Ingredients Clears A Low Bar As 45Z Credits Offset A Sharp Drop In Operating Profit",
-    "url": "https://finviz.com/news/416393/alto-ingredients-clears-a-low-bar-as-45z-credits-offset-a-sharp-drop-in-operating-profit"
+    "date": "Nov-05-26 06:16AM",
+    "title": "Epam: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/epam-q3-earnings-snapshot-111633320.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-04-26 05:32PM",
-    "title": "Alto Ingredients: Q3 Earnings Snapshot",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/alto-ingredients-q3-earnings-snapshot-223233349.html"
+    "date": "Nov-05-26 06:00AM",
+    "title": "EPAM Reports Results for Third Quarter 2026",
+    "url": "https://finviz.com/news/416545/epam-reports-results-for-third-quarter-2026"
    },
    {
     "src": "finviz",
-    "date": "Nov-04-26 04:05PM",
-    "title": "Alto Ingredients, Inc. Reports Third Quarter 2026 Results",
-    "url": "https://finviz.com/news/415887/alto-ingredients-inc-reports-third-quarter-2026-results"
+    "date": "Nov-03-26 06:05PM",
+    "title": "Strategic Shareholder Activism: InvestorCom President & CEO John Grau, Live at NYSE",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/strategic-shareholder-activism-investorcom-president-230535100.html"
    }
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
    "reports (first|second|third|fourth) quarter",
-   "earnings",
-   "revenue",
-   "8-K item 2.02 (earnings)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "LXRX": {
-  "ticker": "LXRX",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-05",
-    "form": "8-K",
-    "items": "2.02,9.01",
-    "title": "8-K 2.02,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1062822/000106282226000124/lxrx-20261105.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 07:22AM",
-    "title": "Lexicon: Q3 Earnings Snapshot",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/lexicon-q3-earnings-snapshot-122205239.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 07:00AM",
-    "title": "Lexicon Pharmaceuticals Reports Third Quarter 2026 Financial Results and Provides Clinical Updates",
-    "url": "https://finviz.com/news/416690/lexicon-pharmaceuticals-reports-third-quarter-2026-financial-results-and-provides-clinical-updates"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 05 Nov 2026 12:00:00 GMT",
-    "title": "A heart muscle disease study enrolled 542 people, substantially above plan. Lexicon expects results in early 2027. - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0pRYjhvMzlZdzgyMUE5Z1NNZDlwZVpVRXlXRG5iZzB1TGl0V3ZXbG1OLVhLSTBjdzNWbkZncnpyNjRUNEV4UDBPcngyRzI3cEkzd2FLaDJoSXN2cW41OVIwcV9NOHgtMXM5akZhYUl3UWVyYmh4Yms0aDVmYVJsVUVreXJKRWc2SHN1Q3Biay0wZ1hCNjhBY3hLTkFFVXBjU0ZzRVA1WG9GRFhWb1JuckQ5R0UzcGJjM2R0NHZPcHc?oc=5"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "reports (first|second|third|fourth) quarter",
-   "earnings",
-   "8-K item 2.02 (earnings)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "IOVA": {
-  "ticker": "IOVA",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-05",
-    "form": "8-K",
-    "items": "2.02,9.01",
-    "title": "8-K 2.02,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1425205/000110465926123030/tm2628901d1_8k.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 2, 2026",
-    "title": "Iovance Biotherapeutics, Inc. Reports 24.6% ORR in Phase 2 IOV-LUN-202 Trial and Plans sBLA in 2027",
-    "publisher": "Fintel",
-    "url": "https://www.nasdaq.com/articles/iovance-biotherapeutics-inc-reports-246-orr-phase-2-iov-lun-202-trial-and-plans-sbla-2027"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 2, 2026",
-    "title": "Iovance Gears Up to Report Q3 Earnings: Here's What to Expect",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/iovance-gears-report-q3-earnings-heres-what-expect"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 07:10AM",
-    "title": "Iovance Biotherapeutics: Q3 Earnings Snapshot",
-    "url": "https://finance.yahoo.com/healthcare/articles/iovance-biotherapeutics-q3-earnings-snapshot-121003620.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-05-26 07:00AM",
-    "title": "Iovance Biotherapeutics Reports Record Third Quarter 2026 Revenue of ~$122M, Business Achievements, and Corporate Updates",
-    "url": "https://finviz.com/news/416728/iovance-biotherapeutics-reports-record-third-quarter-2026-revenue-of-122m-business-achievements-and-corporate-updates"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-02-26 01:11AM",
-    "title": "SLS, IBRX, IOVA End October In Red: Merck And AstraZeneca Earnings Put Cancer Bets And Buyout Hopes In Focus",
-    "url": "https://finance.yahoo.com/healthcare/articles/sls-ibrx-iova-end-october-061135229.html"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "phase [12]",
    "earnings",
    "revenue",
    "8-K item 2.02 (earnings)"

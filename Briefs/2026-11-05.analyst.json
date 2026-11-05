@@ -1,7 +1,12 @@
 {
-  "AEHL": {"tier": "Unknown", "grade": 1, "verdict": "NO TRADE", "why": "No catalyst found; serial-dilution pattern (1:6 + 1:16 reverse splits, 1.3M→19M shares since Aug, 80%-VWAP convert, live $100M ATM); 10/13 halt-spike round-trip = Gate 4 halt-machine fail"},
-  "U": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev +32%, strategic +59%, adj EBITDA 41% margin, first GAAP profit, Q4 guide +65-67%; Gate 3 fail 0.24x ADV premarket (large-cap under-read) — re-check 09:45"},
-  "APP": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev $2.18B +55%, NI $1.44B +72%, ~84% EBITDA margin; Gate 3 fail 0.1x ADV premarket; overhead 79%, 52w-high -56% — re-check 09:45"},
-  "RUN": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 beat but third top-end guidance cut, subscriber adds -24%; Gate 3 fail 0.12x ADV; overhead 72%"},
-  "EOSE": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev $82.7M +171%, GM -53%, FY reaffirmed, backlog -5% q/q, Item 2.05 line consolidation; Gate 3 fail 0.08x ADV; overhead 93%, 52w-high -88%"}
+  "AEHL": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No catalyst found (no PR since 10/01 ATM; 11/02 6-K is a funding note); serial-dilution shell (1:6 + 1:16 reverse splits, 1.3M→19M shares since Aug, 80%-VWAP convert, live $100M ATM); 10/13-14 halt-spike round-trip = Gate 4 halt-machine fail. 5.1x ADV premarket is thin-float churn, record ratio 0.1"},
+  "U": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev +32%, strategic +59%, adj EBITDA 41% margin, first GAAP profit, Q4 guide +65-67%; Gate 3 fail 0.49x ADV premarket (large-cap under-read, $788M proj $vol) — re-check 09:45; chart is breakout from strength (-4% from 52w high), not a base"},
+  "APP": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev $2.18B +55%, NI $1.44B +72%, ~84% adj EBITDA margin; Gate 3 fail 0.18x ADV premarket (large-cap under-read) — re-check 09:45; relief gap in downtrend: overhead 76%, 52w-high -54%, 6m -45%"},
+  "RUN": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev +52%, NI $153M, but subscriber adds -24% y/y and third FY26 guide cut; Gate 3 fail 0.25x ADV premarket; overhead 72%, 52w-high -52%; gap fading premarket"},
+  "FUN": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 rev $1.17B -11% reported/+1.4% same-park, adj EBITDA $493M, net loss -$3.59 incl $688M impairments; Q4 same-park EBITDA guided $140-150M vs $167M LY (October soft: weather + Over Georgia incident); Gate 3 fail 0.21x ADV; overhead 85%, 52w-high -65%"},
+  "EOSE": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Reaffirmed, pre-announced Q3 (rev $82.7M +171%, GM -53%, backlog -5% q/q); Gate 3 fail; weakest chart (overhead 93%, 52w-high -88%); dropped from v2 top 5"},
+  "TPR": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Fiscal Q1 beat, 12% sales growth, FY27 outlook raised; Gate 3 fail 0.0x premarket (large-cap under-read); long tail"},
+  "WRBY": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 sales in line, EPS down y/y, smart-glasses launch; Gate 3 fail 0.1x ADV premarket; long tail"},
+  "JOBY": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 revenue beat, third guidance raise, widening burn; Gate 3 fail 0.1x ADV; overhead 95%"},
+  "EPAM": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Earnings gap on 0.1x ADV premarket; Gate 3 fail"}
 }

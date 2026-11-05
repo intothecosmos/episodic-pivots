@@ -8,79 +8,98 @@
    "gap \u226540%: historically the worst band",
    "regime red \u2014 half size or skip"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
  "U": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.24x ADV (premarket)"
+   "volume: 0.49x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
  "RUN": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.12x ADV (premarket)"
+   "volume: 0.25x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
+ },
+ "FUN": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.21x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
  "APP": {
   "tier": "A",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.1x ADV (premarket)"
+   "volume: 0.18x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
- },
- "EOSE": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.08x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
- },
- "EPAM": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.05x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
  "JOBY": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.05x ADV (premarket)"
+   "volume: 0.14x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
- "IOVA": {
+ "WRBY": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "chart fail: neglect 59.0 (extended/collapsed pre-gap)",
+   "volume: 0.09x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
+ },
+ "EPAM": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.08x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
+ },
+ "TPR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
    "volume: 0.02x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
+ },
+ "HLP": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
  "TBI": {
   "tier": "B",
@@ -89,8 +108,8 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
  "IRWD": {
   "tier": "A",
@@ -99,28 +118,28 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
- "ALTO": {
+ "BKSY": {
   "tier": "B",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
- "WRBY": {
+ "ASPN": {
   "tier": "B",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
  "ADMA": {
   "tier": "A",
@@ -129,27 +148,27 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
- "FUN": {
+ "PTLO": {
   "tier": "B",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  },
- "LXRX": {
+ "XERS": {
   "tier": "B",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-05 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-05 09:18",
+  "label": "v2"
  }
 }
