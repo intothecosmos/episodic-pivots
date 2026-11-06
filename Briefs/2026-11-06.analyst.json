@@ -1,7 +1,9 @@
 {
-  "IREN": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "Q1 FY27: rev $228M +66% q/q, AI Cloud $200M +182%, backlog $20.3B; but net loss $263M, >$4B ARR delayed to Jan-Feb on Microsoft design change, $15B capex. Overhead 98.8%, 52w-high -72.5%, vol unconfirmed 0.08x premarket, regime red. Half size or skip; needs 09:45 vol >=1x and ORH reclaim."},
-  "BE": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "NTT DATA 900MW deal announced Nov 5 and BE closed -14% that day; today's gap is a bounce, catalyst already failed. Vol 0.05x, regime red."},
-  "SNDK": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No company news; sector bounce after chip crash. Vol 0.09x."},
-  "MU": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Only filing is 8-K 5.02 director retirement. SOX beta bounce. Vol 0.06x."},
-  "NBIS": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No company news; earnings Nov 12 inside window; Microsoft neocloud oversight story negative. Vol 0.05x."}
+  "FLY": {"tier": "A", "grade": 3, "verdict": "WATCH", "why": ">$1.3B ~3-yr engine deal with AST SpaceMobile (36 engines + licence), ~51% of mkt cap, paid partly in ASTS stock. Earnings Nov 10 inside window caps at WATCH; overhead 97%, 52w-high -72%, vol 0.16x premarket, regime red."},
+  "IREN": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "Q1 FY27: rev $228M +66% q/q, AI Cloud $200M +182%, backlog $20.3B; but net loss $263M, >$4B ARR delayed to Jan-Feb on Microsoft design change, $15B capex. Overhead 98.8%, 52w-high -72.7%, vol 0.12x premarket, regime red. Half size or skip; needs 09:45 vol >=1x and ORH reclaim."},
+  "HIMS": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "Lilly to sell Zepbound ($299/mo) and Foundayo ($149/mo) directly on HIMS platform; terms undisclosed, non-exclusive, formalises April routing deal. Strategic not numeric. Vol 0.11x premarket, 52w-high -44%, regime red."},
+  "OKLO": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3: rev $1.86M vs ~$1M est, EPS -0.22 vs -0.27, net loss $41.8M, cash $3.13B. Immaterial to valuation; relief bounce after -57% 3m. Overhead 99.3%, 52w-high -82.8%, vol 0.09x."},
+  "SNDK": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No company news; split chatter and 'down 45%' pieces. Sector sympathy bounce. Vol 0.14x premarket (large cap, under-read)."},
+  "BE": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Carried from v1: NTT DATA 900MW deal announced Nov 5 and BE closed -14% that day; today's gap is a bounce, catalyst already failed. Regime red."},
+  "NBIS": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Carried from v1: no company news; earnings Nov 12 inside the window. Overhead 62%."}
 }

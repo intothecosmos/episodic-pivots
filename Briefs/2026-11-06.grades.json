@@ -1,26 +1,108 @@
 {
+ "FLY": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.16x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
  "SNDK": {
   "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.09x ADV (premarket)",
+   "volume: 0.14x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
  "IREN": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
+   "volume: 0.12x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "HIMS": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.11x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "OKLO": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.09x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "NET": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
    "volume: 0.08x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
- "MU": {
+ "CRWV": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.08x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "WULF": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.07x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "BE": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.07x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "NBIS": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.07x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "AXTI": {
   "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
@@ -28,102 +110,111 @@
    "volume: 0.06x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
- "BE": {
+ "AMD": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.05x ADV (premarket)"
+   "volume: 0.06x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "NBIS": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.05x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "NET": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.04x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
  "AEHR": {
   "tier": "A",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)"
+   "volume: 0.05x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "CRWV": {
-  "tier": "unknown",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.04x ADV (premarket)",
-   "catalyst unknown \u2014 capped 3\u2605, recheck"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "AXTI": {
-  "tier": "unknown",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.04x ADV (premarket)",
-   "catalyst unknown \u2014 capped 3\u2605, recheck"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "CIFR": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.03x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "WULF": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.03x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
  "MRVL": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.03x ADV (premarket)"
+   "volume: 0.05x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "INOD": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.05x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "CIFR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "COHR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "LITE": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
  "DELL": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "WDC": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "ABNB": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.03x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "CRDO": {
   "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
@@ -131,51 +222,41 @@
    "volume: 0.03x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "AMD": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.03x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "CRDO": {
-  "tier": "unknown",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.02x ADV (premarket)",
-   "catalyst unknown \u2014 capped 3\u2605, recheck"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
  "MXL": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.02x ADV (premarket)"
+   "volume: 0.03x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
- "COHR": {
-  "tier": "B",
+ "APLD": {
+  "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.02x ADV (premarket)"
+   "volume: 0.03x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
- "APLD": {
+ "ALAB": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.03x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "LRCX": {
   "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
@@ -183,99 +264,100 @@
    "volume: 0.02x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
- "LITE": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.02x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "WDC": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.02x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "IONQ": {
-  "tier": "A",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.02x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "LRCX": {
+ "PENG": {
   "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.01x ADV (premarket)",
+   "volume: 0.02x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "ALAB": {
-  "tier": "A",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.01x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "TTMI": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.01x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "STX": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.01x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
  "AMAT": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.01x ADV (premarket)"
+   "volume: 0.02x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
- "VRT": {
+ "AMKR": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.02x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "TTMI": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.02x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "KLAC": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
    "volume: 0.01x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "HUT": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.01x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "INDI": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "CECO": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "SERV": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
  "KDK": {
   "tier": "B",
@@ -284,18 +366,8 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "FLY": {
-  "tier": "unknown",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
  "KEEL": {
   "tier": "B",
@@ -304,38 +376,18 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
- "PENG": {
-  "tier": "unknown",
+ "FSLY": {
+  "tier": "A",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "HUT": {
-  "tier": "B",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
- },
- "FPS": {
-  "tier": "unknown",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
-  ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  },
  "GLXY": {
   "tier": "unknown",
@@ -344,7 +396,17 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-06 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
+ },
+ "FPS": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-06 09:12",
+  "label": "v2"
  }
 }
