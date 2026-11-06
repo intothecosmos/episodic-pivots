@@ -1,0 +1,7 @@
+{
+  "IREN": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "Q1 FY27: rev $228M +66% q/q, AI Cloud $200M +182%, backlog $20.3B; but net loss $263M, >$4B ARR delayed to Jan-Feb on Microsoft design change, $15B capex. Overhead 98.8%, 52w-high -72.5%, vol unconfirmed 0.08x premarket, regime red. Half size or skip; needs 09:45 vol >=1x and ORH reclaim."},
+  "BE": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "NTT DATA 900MW deal announced Nov 5 and BE closed -14% that day; today's gap is a bounce, catalyst already failed. Vol 0.05x, regime red."},
+  "SNDK": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No company news; sector bounce after chip crash. Vol 0.09x."},
+  "MU": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Only filing is 8-K 5.02 director retirement. SOX beta bounce. Vol 0.06x."},
+  "NBIS": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No company news; earnings Nov 12 inside window; Microsoft neocloud oversight story negative. Vol 0.05x."}
+}
