@@ -1,5 +1,11 @@
 {
-  "GFR": {"tier": "MA-target", "grade": 1, "verdict": "NO TRADE", "why": "Cash/share takeover by Strathcona at C$11 cash (~US$7.85) or 0.25 SCR; premarket already at deal value. Takeover target is not an EP."},
-  "VIR": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Pivotal Phase 3 ECLIPSE 1 met primary endpoint (79% undetectable HDV RNA wk48 vs 0%). Tier A, but Gate 3 fail (0.1x ADV premarket) and Gate 4 fail ($8.8M proj < $10M) -> 1*. Continuation gap after +37% 3m run. Re-check at v2."},
-  "INO": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "8-K confirms $75M underwritten offering at $1.05 (+ pre-funded warrants, overallotment exercised), closing today. Offering = Tier C; Gates 3 and 4 fail."}
+  "CECO": {"tier": "A", "grade": 3, "verdict": "WATCH", "why": "Q3 revenue $404M (+105%), orders +234%, backlog $2.19B, adj EPS $0.60 vs $0.26; 2026 orders outlook raised to >$2.5B, new 2027 outlook $2.1-2.3B rev / $475-525M EBITDA. Tier A, but 45% gap is in the >=40% WATCH band unless volume >=10x ADV; chart pass on neglect only (3m -41%, 64% overhead); premarket 0.06x ADV under-reads a $2.5B cap. Regime red."},
+  "SGRY": {"tier": "MA-target", "grade": 1, "verdict": "NO TRADE", "why": "Amended all-cash HealthSpan merger at $25 (+ticking fee to $26.61); unsolicited $28 cash proposal rejected as not Superior. Premarket $25.80 is a bidding-war spread. Takeover target is not an EP."},
+  "TTD": {"tier": "Unknown", "grade": 2, "verdict": "WATCH", "why": "No release; Q3 earnings after the close today (consensus EPS $0.25 / rev $651M). Pre-earnings positioning gap. Event inside the window - never hold into earnings. Gate 3 fail, 75% overhead."},
+  "GFR": {"tier": "MA-target", "grade": 1, "verdict": "NO TRADE", "why": "Strathcona cash/share takeover at C$11 (~US$7.85) or 0.25 SCR; premarket at deal value. Not an EP. Unchanged from v1."},
+  "DCTH": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Q3 revenue $35.1M (+71%), net income $7.0M, 2026 guidance raised to $115-117M, $104M cash no debt. Tier B, but Gate 4 fail ($4.2M proj < $10M) -> 1* by rule; Gate 3 fail too."},
+  "INO": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "$75M underwritten offering at $1.05 closing today (confirmed v1). Offering = Tier C; Gates 3 and 4 fail."},
+  "IMVT": {"tier": "B?", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail ($7M proj < $10M). Catalyst not researched - Gate 4 decides."},
+  "AIOT": {"tier": "B?", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail ($0M proj). Catalyst not researched - Gate 4 decides."},
+  "QXO": {"tier": "B?", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail ($9M proj < $10M). Catalyst not researched - Gate 4 decides."}
 }

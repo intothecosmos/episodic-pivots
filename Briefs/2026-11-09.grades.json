@@ -1,4 +1,34 @@
 {
+ "SGRY": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.09x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-09 09:18",
+  "label": "v2"
+ },
+ "TTD": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.07x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-09 09:18",
+  "label": "v2"
+ },
+ "CECO": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.06x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-09 09:18",
+  "label": "v2"
+ },
  "GFR": {
   "tier": "MA",
   "grade": 1,
@@ -6,18 +36,18 @@
   "why": [
    "cash takeover target \u2014 upside capped, not an EP"
   ],
-  "snapshot_et": "2026-11-09 07:50",
-  "label": "v1"
+  "snapshot_et": "2026-11-09 09:18",
+  "label": "v2"
  },
- "VIR": {
+ "DCTH": {
   "tier": "B",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-09 07:50",
-  "label": "v1"
+  "snapshot_et": "2026-11-09 09:18",
+  "label": "v2"
  },
  "INO": {
   "tier": "C",
@@ -26,7 +56,37 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-09 07:50",
-  "label": "v1"
+  "snapshot_et": "2026-11-09 09:18",
+  "label": "v2"
+ },
+ "IMVT": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-09 09:18",
+  "label": "v2"
+ },
+ "AIOT": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-09 09:18",
+  "label": "v2"
+ },
+ "QXO": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-09 09:18",
+  "label": "v2"
  }
 }

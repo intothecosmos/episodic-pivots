@@ -1,8 +1,83 @@
 {
+ "CECO": {
+  "ticker": "CECO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/3197/000119312526452685/ceco-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 01:31:00 GMT",
+    "title": "CECO Environmental Moves To Y'All Street, Shares Plummet, And I'm Buying - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHFGaXlHZ3JmVGRycWtScUx5Z1JFRDNMUHk3eW5YdVVHX0JWcW03alJXMDNNZ1dOWXd6QnVUX0NVZjE3MlI0WlJVOHd3UVE3dFBiTXY4MVpsNjd0UmRtdklYZ0lWQ0o5T003WHFiME4zRmthcE8tM1dKNF9MTGtXSDZlcndjUnhZbjVBa0c2d0EzR0hzZTNsaE1mbnRwdVJoRHhpMmVBTzRkYVBUcUE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 12:22:18 GMT",
+    "title": "CECO: Q3 Earnings Snapshot - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTVLVkdVNVM0bnRZOVdjUnpaallGZ2tsTFVEQ3ZlVGtrRTZBMElJTThfQjVfR0hScVY4U0E5TUxrQ3dlN3ViZWZVdG12cEVuMEg0dnBZM3lpQmt2MkpLV0x1NjFXSng1MjBRWTBmbGV3U1hpblZ2Ul96OFJvUHBBQmJkNmJWcUV2M0dVN2RzWEVVVlMx?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 13:14:15 GMT",
+    "title": "CECO Environmental Corp (CECO) Raises Fiscal 2026 Outlook Amid S - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWZmRk1GXzg2QmVRQVdCbWVESC1kbVRVWU1DcnlFNS12TUpXb1dMS0ZZWjNYQVoteTlvNnplMlZncVdZVTBQZGNDLVBzemFlWlQ1TW5tODZzUkVLSFFRVWtYUW9PUGVBZWMxcnFjQ1V2RFFmSlBZUGlhRHFBVkZUczFZdkNuaktiRGI1SklqeG5FdmlUd2d5ME9kMW5FTVlYZ2o3STU2WkhEbUFNMEprU2Z5X1VzcHU3MmFN?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 12:36:00 GMT",
+    "title": "CECO ENVIRONMENTAL ($CECO) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkE3TDVwR3hqem9QWTVxTnpmUHJTSDY5V054cGV3RlNMeTdXaDIycWhTa3Z0cF96Uk5fNEJvcVliZzlqYjVvbWU3bVVwS1Q4ZHhLVEVIVERValVlS1Fjd2tfbDZNOWN6YmpWRlNGZl9LRjdSS3hJOGpLSXlBWWZHLWYxYkF2UFJiSFZQaVpYS0U5aElFcFE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 09:54:49 GMT",
+    "title": "CECO Environmental earnings set to test Thermon integration By Investing.com - Investing.com South Africa",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUkxPdUhLdkNwVXcyT19KcW11aVo4QW1JTENjTHZJZkY1cmtVNUUtYWNPcEVkVWUydGM5U2NkT2VSVXJ6Q1hSWGd4aWJxZmFEOWdINEo2WWRPNEJGUUNFOWJkQ0l1aDZLd2lmUjZkMmRwR0w3MEFwRl9DSE0xLVdEYWNhaWxOdy1qNm5zaUFSOWhzdk9rWFJZcUtZeXdjU1lwZzRyU3M2YkFDbUZRZXdJVG4zUDJrRlFQLU5oWg?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 13:32:13 GMT",
+    "title": "CECO Environmental (CECO) Reports Q3 EPS Beat, Revenue Surges 10 - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXFjRm1obXBfc2JJY1VIc2c1bkM3NENUTHF0QkI2RTZweDJmS3pUVmk3SFVOTE5QRDIwNTJ3S1dvWmJsblFJNGxwdTRsZ2VJWkdhMkhucm1Md0xScEZnQWtfSVpqRkk0dVAydVNrMko4aUtheFJxdklaN0pKczBtLXdvcFNzbUhGTXV2TDBzS3BBR0JCUnY3ZnZnSlFnZFRxYzcw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 12:32:22 GMT",
+    "title": "CECO Environmental Q3 Results: Sales up 105% YoY, EPS misses estimate - scanx.trade",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMmF0LVktd3o3UnFfU2JjY1gxTXdadEd0ZmhTbkIwWTlRcUQ5TkdlX1pHUlNGXzFMcjBWdzJwenhhQ0FvR0hmMGM3Q05VZnlxekRGMm95TWlyNDJud2xSQktESE5mcExJRnJQcXdTWTdSV2pMakR2ZXJHeGJsYTc1QnV1a3N1XzNOZWtQcEZBZy1WUllyLWRfc20tNXhuOGtVOWNRUUp2X1FsTkNqWW1rX002dU9RZ2tQb0pPQVRJR3E?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 06 Nov 2026 00:44:31 GMT",
+    "title": "CECO Environmental Stock In Focus Ahead Of Earnings Report and Investor Conferences - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcF9ldW1DZ1RtRl9vMktOUUoxV0U1NEhESHVtVmNwZWQ1M0RoaS1GTDFscGpaTHl1Q0YwelFxRmR3cVhKR2dBUUJSVGJpTTdURDBVN2hEMDNOeWhQN25DNXJidi1zUW5JQk41cWhrQ3BDY3JaMG5zZUVELUkxUE1VaDZEVnRybzhJT3h3a3l0ZjFLbVBHVm04b3ktQmRXOGZSb2JYSUtjdEFNemVkMUFsbnZieVBUU3hjYmVLaXZvNHU0Wk9GNXdobjhfOG1UdVJ5dEdQb3NMRdIB3AFBVV95cUxNS3IzUG1mVE1WbXlvUmlMVmhRajJzVlBSaEZTWHFhLTBfbm5wcWdUNE5xWFJsWHU3Z0tLbkIxLXV4NFZOZjBFbW1mNmx2SUZLdWdvTTJhU2p1bmZkaVhvbEl4emltaTFwREU0a2N4R2FjMkR4VUFlS3dwdWphaW1pOFBSYWQ5VHJ6MWNNbkEtdjN1emVZWUxzSWFQWGo0b2dvZnBCQ0VKYWhmS3RJWmRYc2NNQnNIZDdHWE5jcnhOOWJCY29jOHpJcE9iY2JhT2FvM3RVYklsSU5KU2d0?oc=5"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "GFR": {
   "ticker": "GFR",
   "filings": [],
   "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 07:51AM",
+    "title": "Strathcona to buy Greenfire in deal worth up to $2.05bn",
+    "url": "https://finance.yahoo.com/news/strathcona-buy-greenfire-deal-worth-125131034.html"
+   },
    {
     "src": "finviz",
     "date": "Nov-09-26 01:18AM",
@@ -30,45 +105,214 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "VIR": {
-  "ticker": "VIR",
-  "filings": [],
+ "AIOT": {
+  "ticker": "AIOT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1774170/000149315226050619/form8-k.htm"
+   }
+  ],
   "headlines": [
    {
     "src": "Nasdaq",
-    "date": "Nov 9, 2026",
-    "title": "Vir's Hepatitis Delta Combo Shows Sustained Viral Suppression; Shares Rise 15% Premarket ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/virs-hepatitis-delta-combo-shows-sustained-viral-suppression-shares-rise-15-premarket"
+    "date": "Nov 6, 2026",
+    "title": "What Analyst Projections for Key Metrics Reveal About PowerFleet (AIOT) Q3 Earnings",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/what-analyst-projections-key-metrics-reveal-about-powerfleet-aiot-q3-earnings"
    },
    {
     "src": "finviz",
-    "date": "Nov-09-26 12:59AM",
-    "title": "VIR Stock Soars Over 10% Overnight, Eyes Best Year Ever  Hepatitis Win Sparks Buyout Buzz And Bigger Bullish Bets",
-    "url": "https://finance.yahoo.com/healthcare/articles/vir-stock-soars-over-10-055942466.html"
+    "date": "Nov-09-26 07:23AM",
+    "title": "PowerFleet: Fiscal Q2 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/powerfleet-fiscal-q2-earnings-snapshot-122324280.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-08-26 11:13PM",
-    "title": "Why Did MRNA, XERS, VIR Stocks Surge To 52-Week Highs Last Week?",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-mrna-xers-vir-041351670.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-08-26 04:45PM",
-    "title": "Vir Biotechnology Announces Expanded Phase 2 SOLSTICE Data for Elebsiran and Tobevibart in Chronic Hepatitis Delta, Showing Deep and Sustained Viral Suppression, and Exploratory Finite Treatment Data",
-    "url": "https://www.businesswire.com/news/home/20261108600446/en/"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-08-26 04:15PM",
-    "title": "Vir Biotechnology Announces Primary Endpoint Met in Pivotal Phase 3 ECLIPSE 1 Trial for Elebsiran and Tobevibart in Chronic Hepatitis Delta",
-    "url": "https://www.businesswire.com/news/home/20261108631000/en/"
+    "date": "Nov-09-26 07:00AM",
+    "title": "Powerfleet Reports Results for Second Quarter Fiscal 2027",
+    "url": "https://finviz.com/news/418873/powerfleet-reports-results-for-second-quarter-fiscal-2027"
    }
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
-   "phase [12]"
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "DCTH": {
+  "ticker": "DCTH",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/872912/000162828026071915/dcth-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/872912/000162828026071894/dcth-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Delcath Systems Inc. Q3 Income Rises ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/delcath-systems-inc-q3-income-rises"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 08:00AM",
+    "title": "Delcath Systems Reports Third Quarter 2026 Results and Business Highlights",
+    "url": "https://www.businesswire.com/news/home/20261109539034/en/"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 13:35:00 GMT",
+    "title": "DELCATH SYSTEMS ($DCTH) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGdQWWw3WlBkSjBUcmNlQlQ3WHd6VWJBblFoUGVJUnF5UHBuQzg1RzZ4U1BLcnlUcUpIVVhVY2pNM2lGb2NPRFRsNTNIY09MclZNZWw2ZVNzMWNzeHlacUJsX2UwWWlEVlhkbDZXcmNGSTRaU3BWdk9BY1V5SXRCbzROWmNPNGQxM0lickxSRlJrUQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "IMVT": {
+  "ticker": "IMVT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000122/imvt-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1764013/000176401326000121/imvt-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 07:00AM",
+    "title": "Immunovant Provides Corporate Updates and Reports Financial Results for the Quarter Ended September 30, 2026",
+    "url": "https://finviz.com/news/418908/immunovant-provides-corporate-updates-and-reports-financial-results-for-the-quarter-ended-september-30-2026"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 12:36:00 GMT",
+    "title": "IMMUNOVANT ($IMVT) Releases Q2 2027 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVFVYk9nQlRUaHR2SEJOckp3eDRVZ05EOU5fOHhEZVh6Wkp2SkdXYllvQjkzRzF2ZnVOUS1MOEtVNV8xRFNneUEzWFFvQmdMM3ZHc3d5NlZEeUZPbE1fejNLeUVfQXZVNGQybkZQa1VVMVBudkM2UmVySnQwRDNtdTB2dFE5Ny1Vd2RZ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SGRY": {
+  "ticker": "SGRY",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "title": "8-K 1.01,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1638833/000110465926124236/tm2629312d1_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 07:30AM",
+    "title": "Surgery Partners and HealthSpan Partners Announce Amended Merger Agreement, Following Receipt of Unsolicited Proposal",
+    "url": "https://finviz.com/news/419120/surgery-partners-and-healthspan-partners-announce-amended-merger-agreement-following-receipt-of-unsolicited-proposal"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 06 Nov 2026 15:04:17 GMT",
+    "title": "Surgery Partners, Inc. (SGRY) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bzZLcGVQVDIwbE16bVB1UXRjRndGLWdmak03d0xyV05NbmpBYVMxTWljSGx5Zk8wWnY2Q3pxcDZrbE5DNFJheFQ1a2tVZUszSWc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 13:30:00 GMT",
+    "title": "A nonbinding $28-a-share proposal surfaced. Surgery Partners amended its HealthSpan deal to $25. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUlGUm5uRWZrQWdnTmZSZ0ZBbi1VOFd4dFZXX2FlQUoxdUFwOHE4dFpXQWFXU0pNWGVNTEFPUWxFYWdPWjBjREt4NmpNNlp5TzAxd3FURFpUUi1PX3o5NU92RnYxeW9iSVUyREtCNDlmd3RQTDdDQzRHLTFSWUM3MDZtSFlIMjRKSjY2M25OQkN1MWgxYUM5UklOVFQyck44UldZUXJpSF9ITS1PamNldVVlbzc5MlNmSEtDaQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 1.01 (material agreement)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "QXO": {
+  "ticker": "QXO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1236275/000162828026071846/qxo-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "QXO, Inc. Announces Preliminary Third Quarter 2026 Financial Information with Net Sales of approximately $4.90 billion",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/qxo-inc-announces-preliminary-third-quarter-2026-financial-information-net-sales"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 06:00AM",
+    "title": "QXO Announces Third Quarter 2026 Preliminary Financial Information",
+    "url": "https://www.businesswire.com/news/home/20261109943099/en/"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 11:31:11 GMT",
+    "title": "Hohimer Wealth Management LLC Buys 242,127 Shares of QXO, Inc. $QXO - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemVnandfSmdLTC1iR3cwYU5yTlZPeFRzRTUxcnA3c05wdFBocXpSRkVHS21yTHJrM29IeFBMZjJhbnFGY0trbGcycUoyNjNnY0hjTDl1ZWNlZ01mdTZvTVZ6MFNGOXJFU3c3RHVpbExPc3l4RHNpUjlXRk1yS3ZCdW9fYXZzMVdSTzlBQmlaOENlYXdRN2laeE42QW1KQVM0UmdpNS01RnNWbmhlRGpSanRyVEFFSlNhNXVhdWVKUmZhUQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
@@ -125,6 +369,55 @@
   "pre_tier_hits": [
    "public offering",
    "prospectus/registration filed (offering?)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "TTD": {
+  "ticker": "TTD",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 8, 2026",
+    "title": "The Trade Desk Stock Has Lost About 89% Since the End of 2024. Its Nov. 9 Report Is the Next Test.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/trade-desk-stock-has-lost-about-89-end-2024-its-nov-9-report-next-test"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 06 Nov 2026 10:11:24 GMT",
+    "title": "TTD Stock Quote Price and Forecast - CNN",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hT3h0QmZCaF93YTdNbzhYa0g4bWZaamlJLUc4eVRYYnZHVVMtNDFHZUQ5LW8wZ1hESGlqOTh0QWtZZDZZXzZUY01oMVFRM0U?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 12:20:18 GMT",
+    "title": "Trade Desk Likely To Report Lower Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Ear - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOXh3X0VNLW9NSk1rUmtTVWpyUlkzOEJ2TERZbTcycTlXelNOUWVQTUx1M2pFVzVXU2tKWGtZQXlSSDFJd1FXMEh5MHdJT1gxNUtMU2xxQ3VFeXVERkdYSmliU3l1ekhIYWdKaktmNzZCZmdnUTBDWHlYTjBHcGZ5WlUwbzg0bGhrYkNFYWhGTENvNGF3amUyRWRaMmpnVnhlbnBOTGlGTERUaFlUZUk2VWpmcFR1azZBTWdSRDJlTkQ0YkVUbGVxX2JZMldpWWxJWmEyY0RoeTkycHI1NkFjeWxpQTdnWDZXOWZjQjI4NW4wSEs3c3BuRTdpLTYyTkFlZzJsY2l1dWhVSkJreDJIVzZjRVhWdkoy?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 08 Nov 2026 03:02:00 GMT",
+    "title": "The Trade Desk (TTD) Q3 earnings: what to expect - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDI3dGYzQUpzVEwwczdHWmh2X0E4T2VBcEV4VTFXUzdqdXdzZ1FqSE1INFVZMmFnQmFGY0NRcGRHRTZyWnVZNlNDb2tncXdvUVdSZnM1Y3lzYnBHN3BuUFlzMG9IUVRoN3dzMG4wVVBrczFVcVhEUmJENXhxVERSN0ZwdFhYUTNHNWVQcWNVNVBqdmFDajg4VTM1SFRSSm5UTU1LQlBESXppZw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 08 Nov 2026 08:29:08 GMT",
+    "title": "Trade Desk (TTD) Stock Could Be A Bargain Following Its 87% Slump - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHRFUXFXTXA0MDBIaDNzQnlmdDJWejhRNzJIX3BLYU1OYW5XQ0FEdGUtMXdhV09PRDh1d0lXYXJaR0Q2UXFISEtSWEFGWlM5S041LTd1TEstM08xZFVTeFgyQVRUTVN1ZE9uMGxMeS0wcjNBTXJWSW5scVpSZnhEdjdMOUFiRFRSS1pQZFQ3T0lSZnVQYktHLVJwYkQ1VFNjSldmSmJ3cWdudEE1bGI2SFdhald3Sy1FOUw5MzJpQm1NYjDSAcgBQVVfeXFMTlF3VFFMNVlLR0tNTmNMYi1CTW1JWDFiTGpBTU01azhLTXZtalNlNG9RalRfWXh4ai1HWl9xSEpuYXRWWWk2bFR3MXBGY0lxR1BabHFyM19oNUlINURkdVhQSGVYc2Q4U01lbkdVMWlLalVYUTJVUUhPRllQZFo0eV9IUWEwV2xWeVNpT1JiVkxieWp5NGZoNnF3MF9HT3lxSDFvem1neDBnWHlWVU8xUzJLcHpTVnNsWk5MNGFtenIxcnJFVGxSa3I?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 08 Nov 2026 20:20:07 GMT",
+    "title": "Trade Desk Stock Is 90% Below Its High. Can Earnings Turn the Tide? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDZ3TUlkTHB4aFZmbHlmVWhOMXgxWGlYTi1ubXdZQ0VkT2ktSDFBZHlTdUlyTmNIS3ZWalFfd2IySUowQ1d2aF9tRW10NjdEZUdPQ1VtOVJyM2NaT3BVMnZhN3FOMjRST2lFbEUzdU9TeW1nVVA1RkRCZnNIeURqVkxIa1BCdU9kOS1yT3BTQ0VGVEhNcTlEVllWTmwyLVd5dnM3T0QxZWtxdlN3X3A0VjIwRXp3RTk0X0JfOWE4VVpRS185aHRmYw?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
