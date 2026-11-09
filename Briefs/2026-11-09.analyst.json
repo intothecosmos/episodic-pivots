@@ -1,0 +1,5 @@
+{
+  "GFR": {"tier": "MA-target", "grade": 1, "verdict": "NO TRADE", "why": "Cash/share takeover by Strathcona at C$11 cash (~US$7.85) or 0.25 SCR; premarket already at deal value. Takeover target is not an EP."},
+  "VIR": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Pivotal Phase 3 ECLIPSE 1 met primary endpoint (79% undetectable HDV RNA wk48 vs 0%). Tier A, but Gate 3 fail (0.1x ADV premarket) and Gate 4 fail ($8.8M proj < $10M) -> 1*. Continuation gap after +37% 3m run. Re-check at v2."},
+  "INO": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "8-K confirms $75M underwritten offering at $1.05 (+ pre-funded warrants, overallotment exercised), closing today. Offering = Tier C; Gates 3 and 4 fail."}
+}

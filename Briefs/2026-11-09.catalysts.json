@@ -1,0 +1,132 @@
+{
+ "GFR": {
+  "ticker": "GFR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 01:18AM",
+    "title": "Strathcona to acquire Greenfire Resources in $2 bln deal",
+    "url": "https://finance.yahoo.com/energy/articles/strathcona-acquire-greenfire-resources-2-061857554.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 11:50PM",
+    "title": "Strathcona Resources Ltd. Announces Agreement to Acquire Greenfire Resources Ltd",
+    "url": "https://www.newsfilecorp.com/release/323087/Strathcona-Resources-Ltd.-Announces-Agreement-to-Acquire-Greenfire-Resources-Ltd"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 09:09PM",
+    "title": "Greenfire Resources Reports Third Quarter 2026 Results and Provides an Operational Update",
+    "url": "https://www.newsfilecorp.com/release/323028/Greenfire-Resources-Reports-Third-Quarter-2026-Results-and-Provides-an-Operational-Update"
+   }
+  ],
+  "pre_tier": "MA-target",
+  "pre_tier_hits": [
+   "to acquire [A-Z][\\w ]+ in \\$[\\d.]+ ?(mln|million|bln|billion) deal",
+   "cash takeover: upside capped at deal price \u2014 not an EP"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "VIR": {
+  "ticker": "VIR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Vir's Hepatitis Delta Combo Shows Sustained Viral Suppression; Shares Rise 15% Premarket ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/virs-hepatitis-delta-combo-shows-sustained-viral-suppression-shares-rise-15-premarket"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 12:59AM",
+    "title": "VIR Stock Soars Over 10% Overnight, Eyes Best Year Ever  Hepatitis Win Sparks Buyout Buzz And Bigger Bullish Bets",
+    "url": "https://finance.yahoo.com/healthcare/articles/vir-stock-soars-over-10-055942466.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 11:13PM",
+    "title": "Why Did MRNA, XERS, VIR Stocks Surge To 52-Week Highs Last Week?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-mrna-xers-vir-041351670.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 04:45PM",
+    "title": "Vir Biotechnology Announces Expanded Phase 2 SOLSTICE Data for Elebsiran and Tobevibart in Chronic Hepatitis Delta, Showing Deep and Sustained Viral Suppression, and Exploratory Finite Treatment Data",
+    "url": "https://www.businesswire.com/news/home/20261108600446/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 04:15PM",
+    "title": "Vir Biotechnology Announces Primary Endpoint Met in Pivotal Phase 3 ECLIPSE 1 Trial for Elebsiran and Tobevibart in Chronic Hepatitis Delta",
+    "url": "https://www.businesswire.com/news/home/20261108631000/en/"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "phase [12]"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "INO": {
+  "ticker": "INO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "1.01,7.01,8.01,9.01",
+    "title": "8-K 1.01,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1055726/000119312526452658/d192373d8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-06",
+    "form": "424B5",
+    "items": "",
+    "title": "424B5",
+    "url": "https://www.sec.gov/Archives/edgar/data/1055726/000119312526451932/d141720d424b5.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Inovio Pharmaceuticals Consensus Price Target Raised 121.05% to $7.14",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/inovio-pharmaceuticals-consensus-price-target-raised-12105-714"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 6, 2026",
+    "title": "INOVIO Prices $75 Mln Public Offering With Shares At $1.05 Each; Stock Down 21% Premarket ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/inovio-prices-75-mln-public-offering-shares-105-each-stock-down-21-premarket"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 05:35AM",
+    "title": "Street Calls of The Week",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103502305.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-06-26 11:36AM",
+    "title": "Inovio stock tumbles 25% on $75M share offering",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/inovio-stock-tumbles-25-75m-163625184.html"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "public offering",
+   "prospectus/registration filed (offering?)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
