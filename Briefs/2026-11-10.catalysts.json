@@ -1,4 +1,60 @@
 {
+ "PEPG": {
+  "ticker": "PEPG",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "8-K",
+    "items": "2.02,7.01,8.01,9.01",
+    "title": "8-K 2.02,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835597/000119312526454469/pepg-20261110.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835597/000119312526454407/pepg-20260930.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 06:05AM",
+    "title": "PepGen Reports Third Quarter 2026 Financial Results and Recent Corporate Highlights",
+    "url": "https://finviz.com/news/419895/pepgen-reports-third-quarter-2026-financial-results-and-recent-corporate-highlights"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 06:01AM",
+    "title": "PepGen Announces Positive Phase 2 FREEDOM2-DM1 10 mg/kg Results Demonstrating Highest Reported Splicing Correction and Improvements Across Multiple Functional Measures",
+    "url": "https://finviz.com/news/419875/pepgen-announces-positive-phase-2-freedom2-dm1-10-mgkg-results-demonstrating-highest-reported-splicing-correction-and-improvements-across-multiple-functional-measures"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 12:41:00 GMT",
+    "title": "PepGen surges on new mid-stage trial data for muscle disorder therapy - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc25JZEpiOTNLTUwwc0tfYzJnMFdZQkh4Y2NZWGNHSERnS1ZqeWNxZUpRM1Y5OHY0c0VlVTRwQlR3N1ROcnBhaWpCT01SSjhOZzNFUThXMUphMlNNSXVGc05UcTc2dkFMMGZMZEwweXlpbmVaRTZrMm03U3ltWXd6QlVkaExfeWMzRVRTMUpQUHc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 12:35:00 GMT",
+    "title": "$PEPG ($PEPG) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWVUOHM2ODJyd2dxZDJTTUZOalFPWFUzOGhISmxpWUNzSDZhV1pmYlRicjdKb2JiTFFfWTV0dDdsQTJiWmkzUzhSYnVsWXQtQ2RHOC0yMWtSVzh0Wm53bWRqbEJTendvaFExUVpFX1dTbHNURnlQTjVJR1BVa2NhMkNjdFh5dUk?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "phase [12]",
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "SECZ": {
   "ticker": "SECZ",
   "filings": [
@@ -23,7 +79,7 @@
    {
     "src": "finviz",
     "date": "Nov-10-26 06:00AM",
-    "title": "Securitize Reports $66.3 Million Loss in First Public Quarter, Agrees to Buy River One",
+    "title": "Securitize Grows Revenue 13% in First Public Quarter, Agrees to Buy River One",
     "url": "https://finance.yahoo.com/markets/stocks/articles/securitize-reports-66-3-million-110048936.html"
    },
    {
@@ -123,6 +179,134 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
+ "HROW": {
+  "ticker": "HROW",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1360214/000162828026072325/hrow-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1360214/000162828026072195/hrow-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Harrow, Inc. Reports Record Third Quarter 2026 Revenue of $99.3 million",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/harrow-inc-reports-record-third-quarter-2026-revenue-993-million"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Harrow (HROW) Reports Q3 Earnings: What Key Metrics Have to Say",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/harrow-hrow-reports-q3-earnings-what-key-metrics-have-say"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Harrow (HROW) Q3 Earnings Lag Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/harrow-hrow-q3-earnings-lag-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:33PM",
+    "title": "Harrow: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/harrow-q3-earnings-snapshot-213306843.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:02PM",
+    "title": "Harrow Announces Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/419398/harrow-announces-third-quarter-2026-financial-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SENS": {
+  "ticker": "SENS",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926124515/sens-20260930x10q.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926124500/sens-20261109x8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Senseonics Shares Rise 12% As Q3 Revenue Jumps 140%; FY26 Outlook Raised ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/senseonics-shares-rise-12-q3-revenue-jumps-140-fy26-outlook-raised"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Senseonics Holdings (SENS) Reports Q3 Loss, Beats Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/senseonics-holdings-sens-reports-q3-loss-beats-revenue-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 06:51PM",
+    "title": "Senseonics' 140% Revenue Surge And Third Guidance Raise Outrun A Penny Miss, But Losses Keep Widening",
+    "url": "https://finviz.com/news/419681/senseonics-140-revenue-surge-and-third-guidance-raise-outrun-a-penny-miss-but-losses-keep-widening"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 05:07PM",
+    "title": "Senseonics: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/senseonics-q3-earnings-snapshot-220720058.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:05PM",
+    "title": "Senseonics Holdings, Inc. Reports Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/419453/senseonics-holdings-inc-reports-third-quarter-2026-financial-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "QMCO": {
   "ticker": "QMCO",
   "filings": [
@@ -192,55 +376,6 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "PDYN": {
-  "ticker": "PDYN",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-10",
-    "form": "10-Q",
-    "items": "",
-    "title": "10-Q",
-    "url": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526454426/pdyn-20260930.htm"
-   },
-   {
-    "src": "SEC",
-    "date": "2026-11-10",
-    "form": "8-K",
-    "items": "2.02,7.01,9.01",
-    "title": "8-K 2.02,7.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526454410/pdyn-20261110.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 10, 2026",
-    "title": "Palladyne AI Corp. Q3 Loss Climbs ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/palladyne-ai-corp-q3-loss-climbs"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-10-26 06:00AM",
-    "title": "Palladyne AI Reports Record Third Quarter 2026 Results",
-    "url": "https://finviz.com/news/419891/palladyne-ai-reports-record-third-quarter-2026-results"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 10 Nov 2026 12:35:00 GMT",
-    "title": "PALLADYNE AI ($PDYN) Releases Q3 2026 Earnings - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0xQR2V3bWx4RUNlemNvNWFzLWZrUHNjWHZBakhVMkhLM25CSkVFUGxaUU1MYUlhTU5rSjEwb001YWVoWTBDcVkxME5FTkN2VmhSeWhmaEJZZzJ6SlN0aHMxcnJTNEZoM2tRdnhTa2dZRXlaeC1uMUpNTlI4dVNObmZoWFJTMFQ1VkZ2THZB?oc=5"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "earnings",
-   "8-K item 2.02 (earnings)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
  "ZNTL": {
   "ticker": "ZNTL",
   "filings": [
@@ -286,74 +421,6 @@
   "pre_tier_hits": [
    "reports (first|second|third|fourth) quarter",
    "8-K item 2.02 (earnings)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "BW": {
-  "ticker": "BW",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-09",
-    "form": "10-Q",
-    "items": "",
-    "title": "10-Q",
-    "url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000082/bw-20260930.htm"
-   },
-   {
-    "src": "SEC",
-    "date": "2026-11-09",
-    "form": "8-K",
-    "items": "2.02,9.01",
-    "title": "8-K 2.02,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000080/bw-20261109.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 10, 2026",
-    "title": "Babcock & Wilcox (BW) Q3 2026 Earnings Call Transcript",
-    "publisher": "The Motley Fool",
-    "url": "https://www.nasdaq.com/articles/babcock-wilcox-bw-q3-2026-earnings-call-transcript"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 9, 2026",
-    "title": "Babcock & Wilcox Enterprises, Inc. Reports Third Quarter 2026 Results",
-    "publisher": "Fintel",
-    "url": "https://www.nasdaq.com/articles/babcock-wilcox-enterprises-inc-reports-third-quarter-2026-results"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 9, 2026",
-    "title": "Babcock & Wilcow Enterprises (BW) Reports Break-Even Earnings for Q3",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/babcock-wilcow-enterprises-bw-reports-break-even-earnings-q3"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-10-26 01:46AM",
-    "title": "Babcock & Wilcox Misses On Normalized EPS As Warrant Gain Flatters GAAP Results And The Data Center Award Slips Into 2027",
-    "url": "https://finviz.com/news/419730/babcock-wilcox-misses-on-normalized-eps-as-warrant-gain-flatters-gaap-results-and-the-data-center-award-slips-into-2027"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-09-26 04:45PM",
-    "title": "Babcock & Wilcox: Q3 Earnings Snapshot",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/babcock-wilcox-q3-earnings-snapshot-214502074.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-09-26 03:33PM",
-    "title": "Babcock & Wilcox Enterprises Reports Third Quarter 2026 Results",
-    "url": "https://finviz.com/news/419583/babcock-wilcox-enterprises-reports-third-quarter-2026-results"
-   }
-  ],
-  "pre_tier": "C?",
-  "pre_tier_hits": [
-   "warrant"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"

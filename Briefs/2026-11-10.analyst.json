@@ -1,8 +1,9 @@
 {
- "KLTR": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Beat + third FY guidance raise, but Gate 3 fail (0.3x ADV) and Gate 4 fail ($0.4M proj $vol); Q4 guide steps down; regime red."},
- "PDYN": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Record $8.6M revenue off tiny base, low-end guide raise; wider loss, backlog -24%, burn above range; Gate 3/4 fail ($2.3M proj); 97% overhead; regime red."},
- "SECZ": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "First public quarter, rev +13%, adj EBITDA negative, guidance held, acquirer of River One (not a target); Gate 3/4 fail ($7.4M proj); regime red."},
- "ZNTL": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Q3 update rehashes ESMO OS data; readout 1H27; Gate 3/4 fail ($0.4M proj); -72% from high; regime red."},
- "QMCO": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Clean beat (rev +42.9%, adj EPS $0.25, record backlog) but 0.0x ADV premarket and $4.0M proj $vol: Gate 3/4 fail; would cap 3★ if volume arrives; regime red."},
- "BW": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Rev +109%, backlog $2.5B, FY27 target; warrant hit was a customer-warrant gain not a financing; Gate 3/4 fail ($1M proj); -81% from high; regime red."}
+ "PEPG": {"tier": "A", "grade": 4, "verdict": "TRADE", "why": "Phase 2 FREEDOM2-DM1 10 mg/kg: 46.5% splicing correction vs 6.8% placebo, functional gains, clean safety; 22.8x ADV premarket, chart pass, Gate 4 pass. Held at 4 not 5: +119% gap (worst historical band), regime red (half size), n=6, US partial clinical hold, live $100M ATM + $400M shelf = raise risk. Stop > 1x ADR likely: size down or skip."},
+ "SECZ": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "First public quarter rev +13%, adj EBITDA negative, guidance held, acquirer of River One (not a target); Gate 4 now passes ($23.9M proj) but Gate 3 fails (0.3x ADV, large-cap under-read); -48% from high; regime red. 3-star WATCH at most if 9:45 volume >1x ADV."},
+ "KLTR": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Beat + third FY guidance raise, but Gate 3 fail (0.3x ADV) and Gate 4 fail (<$1M proj $vol); Q4 guide steps down; regime red."},
+ "HROW": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Record rev $99.3M (+39%) but FY26 adj EBITDA guide cut from $80-100M to >$40M, EPS miss, QUELL primary endpoint missed; Gate 3/4 fail ($7.2M proj); 82% overhead; regime red."},
+ "SENS": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Rev +140%, third guidance raise, GM 62%; loss widened to $32.7M; at 52w high (no neglect); Gate 3/4 fail ($2.2M proj); regime red."},
+ "QMCO": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Clean beat (rev +42.9%, adj EPS $0.25, record backlog) but 0.1x ADV and $6M proj $vol: Gate 3/4 fail; gap faded to 11.8%; regime red."},
+ "ZNTL": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Q3 update rehashes ESMO OS data; readout 1H27; Gate 3/4 fail (<$1M proj); -72% from high; regime red."}
 }
