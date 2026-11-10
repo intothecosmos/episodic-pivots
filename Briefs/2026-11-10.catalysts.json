@@ -1,0 +1,361 @@
+{
+ "SECZ": {
+  "ticker": "SECZ",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "8-K/A",
+    "items": "2.02,9.01",
+    "title": "8-K/A 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2094496/000162828026072463/secz-20261109.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2094496/000162828026072194/secz-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 06:00AM",
+    "title": "Securitize Reports $66.3 Million Loss in First Public Quarter, Agrees to Buy River One",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/securitize-reports-66-3-million-110048936.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 08:47PM",
+    "title": "Securitize Rebounds From Its Q2 Reset With A Tokenization-Driven Revenue Recovery, But Held Guidance, Cash Burn, And A Collapsed Post-SPAC Rally Keep The Burden Of Proof High",
+    "url": "https://finviz.com/news/419706/securitize-rebounds-from-its-q2-reset-with-a-tokenization-driven-revenue-recovery-but-held-guidance-cash-burn-and-a-collapsed-post-spac-rally-keep-the-burden-of-proof-high"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 07:01PM",
+    "title": "Formation Securities Plans Tokenized Stock Venue on Solana",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/formation-securities-plans-tokenized-stock-000100309.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 06:31PM",
+    "title": "Securitize to Acquire River One, Expanding Into $6 Trillion Asset-Backed Finance Market",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/securitize-acquire-river-one-expanding-233100619.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:17PM",
+    "title": "Securitize to Acquire River One, Connecting Stablecoin Capital to the $6 Trillion Asset-Backed Finance Market",
+    "url": "https://finviz.com/news/419554/securitize-to-acquire-river-one-connecting-stablecoin-capital-to-the-6-trillion-asset-backed-finance-market"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:15PM",
+    "title": "Securitize Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/419528/securitize-reports-third-quarter-2026-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "KLTR": {
+  "ticker": "KLTR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1432133/000162828026072170/kltr-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1432133/000162828026072135/kltr-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Kaltura (KLTR) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/kaltura-kltr-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Kaltura, Inc. Reports Third Quarter 2026 Financial Results",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/kaltura-inc-reports-third-quarter-2026-financial-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 06:48PM",
+    "title": "Kaltura's Bookings Surge And Third Guidance Raise Run Into A Soft Fourth-Quarter Outlook",
+    "url": "https://finviz.com/news/419660/kalturas-bookings-surge-and-third-guidance-raise-run-into-a-soft-fourth-quarter-outlook"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:05PM",
+    "title": "Kaltura Announces Financial Results for Third Quarter 2026",
+    "url": "https://finviz.com/news/419429/kaltura-announces-financial-results-for-third-quarter-2026"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "QMCO": {
+  "ticker": "QMCO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/709283/000162828026072228/qtm-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/709283/000162828026072188/qtm-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Quantum Corporation Reports Fiscal Second Quarter 2027 Financial Results",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/quantum-corporation-reports-fiscal-second-quarter-2027-financial-results"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Quantum Corp. (QMCO) Q2 Earnings and Revenues Surpass Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/quantum-corp-qmco-q2-earnings-and-revenues-surpass-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 07:02PM",
+    "title": "Quantum Corp. Crushes Estimates And Doubles Its Backlog, But A Supply-Gated Q3 Guide Tempers The Acceleration",
+    "url": "https://finviz.com/news/419684/quantum-corp-crushes-estimates-and-doubles-its-backlog-but-a-supply-gated-q3-guide-tempers-the-acceleration"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 05:06PM",
+    "title": "Quantum Corp.: Fiscal Q2 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-corp-fiscal-q2-earnings-220618016.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 03:05PM",
+    "title": "Quantum Reports Fiscal Second Quarter 2027 Financial Results",
+    "url": "https://finviz.com/news/419510/quantum-reports-fiscal-second-quarter-2027-financial-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 08:44PM",
+    "title": "Exclusive: From quantum breakthroughs to industrial reality, UKSC weighs Britain's ambitions at London showcase",
+    "url": "https://www.digitimes.com/news/a20261109VL205/uk-industrial-silicon-manufacturing-communications.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "PDYN": {
+  "ticker": "PDYN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526454426/pdyn-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1826681/000119312526454410/pdyn-20261110.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Palladyne AI Corp. Q3 Loss Climbs ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/palladyne-ai-corp-q3-loss-climbs"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 06:00AM",
+    "title": "Palladyne AI Reports Record Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/419891/palladyne-ai-reports-record-third-quarter-2026-results"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 12:35:00 GMT",
+    "title": "PALLADYNE AI ($PDYN) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0xQR2V3bWx4RUNlemNvNWFzLWZrUHNjWHZBakhVMkhLM25CSkVFUGxaUU1MYUlhTU5rSjEwb001YWVoWTBDcVkxME5FTkN2VmhSeWhmaEJZZzJ6SlN0aHMxcnJTNEZoM2tRdnhTa2dZRXlaeC1uMUpNTlI4dVNObmZoWFJTMFQ1VkZ2THZB?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ZNTL": {
+  "ticker": "ZNTL",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1725160/000172516026000070/zntl-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,7.01",
+    "title": "8-K 2.02,7.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1725160/000172516026000069/zntl-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Zentalis Pharmaceuticals Reports Third Quarter 2026 Financial Results and Business Updates",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/zentalis-pharmaceuticals-reports-third-quarter-2026-financial-results-and-business-updates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:05PM",
+    "title": "Zentalis Pharmaceuticals Reports Third Quarter 2026 Financial Results and Business Updates",
+    "url": "https://finviz.com/news/419458/zentalis-pharmaceuticals-reports-third-quarter-2026-financial-results-and-business-updates"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 21:05:00 GMT",
+    "title": "Zentalis' study found 15.9 months' median survival in ovarian cancer patients with a tumor marker, versus 7.5 without. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUmlQMEhNa09rWFJvWUxreFdqUHl2cGlDQ1Fick5CekhMdkhGLUFvY05MT0VHaTVOQWU1UGVHeXFralhYeWRIVHdRTnViUnpNVndXeWIyckpuTzlnYWh5NnNlYzBYQms4MFJ4Ty1TUmM4d200Q2NzQlRBWWJFamNYYUF6NFpFeUJUNkw5TVRRekJXaHdMUUo4RmJsSk16TUZfRUdBUXFQc1lFcTlmdi1CLXlDZy14Smc?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BW": {
+  "ticker": "BW",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000082/bw-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000080/bw-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Babcock & Wilcox (BW) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/babcock-wilcox-bw-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Babcock & Wilcox Enterprises, Inc. Reports Third Quarter 2026 Results",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/babcock-wilcox-enterprises-inc-reports-third-quarter-2026-results"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Babcock & Wilcow Enterprises (BW) Reports Break-Even Earnings for Q3",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/babcock-wilcow-enterprises-bw-reports-break-even-earnings-q3"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 01:46AM",
+    "title": "Babcock & Wilcox Misses On Normalized EPS As Warrant Gain Flatters GAAP Results And The Data Center Award Slips Into 2027",
+    "url": "https://finviz.com/news/419730/babcock-wilcox-misses-on-normalized-eps-as-warrant-gain-flatters-gaap-results-and-the-data-center-award-slips-into-2027"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:45PM",
+    "title": "Babcock & Wilcox: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/babcock-wilcox-q3-earnings-snapshot-214502074.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 03:33PM",
+    "title": "Babcock & Wilcox Enterprises Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/419583/babcock-wilcox-enterprises-reports-third-quarter-2026-results"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "warrant"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
