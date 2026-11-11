@@ -1,0 +1,1435 @@
+{
+ "RSKD": {
+  "ticker": "RSKD",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 06:51AM",
+    "title": "Riskified: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/riskified-q3-earnings-snapshot-115152594.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 05:45AM",
+    "title": "Riskified Reports Strong Third Quarter of 2026 with Accelerating Revenue and Gross Profit Growth",
+    "url": "https://finviz.com/news/420836/riskified-reports-strong-third-quarter-of-2026-with-accelerating-revenue-and-gross-profit-growth"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 04:08AM",
+    "title": "Franko-Nevada headlines Wednesday's earnings slate",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-scandal-hotter-than-expected-cpi-coreweave/card/franko-nevada-headlines-wednesday-s-earnings-slate-R4NeItAeY589GKuzg986?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 04:01AM",
+    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rise as investors seek to move past hotter-than-expected CPI; CoreWeave shares jump: live updates",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-scandal-hotter-than-expected-cpi-coreweave?mod=mw_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FOSL": {
+  "ticker": "FOSL",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/883569/000088356926000069/fosl-20261110.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 11, 2026",
+    "title": "Fossil: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/fossil-3-key-takeaways-long-term-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Fossil (FOSL) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/fossil-fosl-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Fossil Swings To Q3 Profit, Raises Full-Year 2026 Outlook ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/fossil-swings-q3-profit-raises-full-year-2026-outlook"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Fossil Group (FOSL) Beats Q3 Earnings and Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/fossil-group-fosl-beats-q3-earnings-and-revenue-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Fossil Q3 26 Earnings Conference Call At 5:00 PM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/fossil-q3-26-earnings-conference-call-5-00-pm-et"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 06:40AM",
+    "title": "Fossil Group Shares Surge 16.9% as Third-Quarter Profit and Revenue Exceed Analyst Forecasts",
+    "url": "https://finviz.com/news/420832/fossil-group-shares-surge-169-as-third-quarter-profit-and-revenue-exceed-analyst-forecasts"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 06:53PM",
+    "title": "Fossil Returns To Growth A Quarter Early And Raises Guidance Again, But Pull-Forward And Royalty Timing Flattered The Q3 Beat",
+    "url": "https://finviz.com/news/420756/fossil-returns-to-growth-a-quarter-early-and-raises-guidance-again-but-pull-forward-and-royalty-timing-flattered-the-q3-beat"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 05:06PM",
+    "title": "Fossil Group: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fossil-group-q3-earnings-snapshot-220632902.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 04:06PM",
+    "title": "Fossil Group, Inc. Announces a Five-Year Extension of Its Global Licensing Agreement With Diesel",
+    "url": "https://www.businesswire.com/news/home/20261110450613/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 04:06PM",
+    "title": "FOSSIL and Nick Jonas Extend Global Partnership, Expanding Creative Collaboration With Two New Watch Collections",
+    "url": "https://www.businesswire.com/news/home/20261110522073/en/"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 04:05PM",
+    "title": "Fossil Group, Inc. Reports Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/420511/fossil-group-inc-reports-third-quarter-2026-financial-results"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SATL": {
+  "ticker": "SATL",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1874315/000187431526000058/satl-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1874315/000143774926036168/satl20261110_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Satellogic (SATL) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/satellogic-satl-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Satellogic Inc. (SATL) Reports Q3 Loss, Beats Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/satellogic-inc-satl-reports-q3-loss-beats-revenue-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 06:48PM",
+    "title": "Satellogic Beats On Revenue But Misses On EPS As Q2's Profit Inflection Fades And Backlog Draws Down",
+    "url": "https://finviz.com/news/420742/satellogic-beats-on-revenue-but-misses-on-eps-as-q2s-profit-inflection-fades-and-backlog-draws-down"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 04:05PM",
+    "title": "Satellogic Reports Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/420504/satellogic-reports-third-quarter-2026-financial-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CRWV": {
+  "ticker": "CRWV",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/crwv-20261110.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 11, 2026",
+    "title": "CoreWeave Earnings: 3 Things Investors Need To Know",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/coreweave-earnings-3-things-investors-need-know"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 11, 2026",
+    "title": "CoreWeave: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/coreweave-3-key-takeaways-long-term-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "CoreWeave (CRWV) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/coreweave-crwv-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "CoreWeave Delivers Another Blowout Quarter. Is It Enough To Save the AI Trade?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/coreweave-delivers-another-blowout-quarter-it-enough-save-ai-trade"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "CoreWeave Reports Wider Q3 Net Loss ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/coreweave-reports-wider-q3-net-loss"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Stock Market Today, Nov. 10: CoreWeave Stock Edges Lower as a Multibillion-Dollar Question Looms Over Earnings",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/stock-market-today-nov-10-coreweave-stock-edges-lower-multibillion-dollar-question-looms"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "CoreWeave (CRWV) Reports Q3 Loss, Tops Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/coreweave-crwv-reports-q3-loss-tops-revenue-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Noteworthy Tuesday Option Activity: MARA, ZVRA, CRWV",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-tuesday-option-activity-mara-zvra-crwv"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "CRWV Stock Rallies 6%: Can Wayve Deal Fuel Its Physical AI Growth?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/crwv-stock-rallies-6-can-wayve-deal-fuel-its-physical-ai-growth"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:36AM",
+    "title": "AI Villain Turns Hero but Stock Market Chaos Is Just Getting Started",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-d180c193?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:20AM",
+    "title": "CoreWeave stock jumps 11% as earnings beat eases AI slowdown fears",
+    "url": "https://qz.com/coreweave-stock-jumps-earnings-beat-ai-fears-111126"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:14AM",
+    "title": "S&P 500, Nasdaq futures rise as CoreWeave results calm AI jitters",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:11AM",
+    "title": "SpaceX Stock Shrugs Off AI Worries Ahead of Starship Launch",
+    "url": "https://www.barrons.com/articles/spacex-stock-price-starship-launch-9feb9cac?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:00AM",
+    "title": "Nvidia, chip stocks rebound premarket after CoreWeave lifts revenue outlook",
+    "url": "https://finance.yahoo.com/technology/articles/nvidia-chip-stocks-rebound-premarket-120006021.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 06:48AM",
+    "title": "CRWV Stock Eyes Biggest One-Day Gain Since August  Citi Sees Over 200% Upside After Q3 Beat",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crwv-stock-eyes-biggest-one-114826859.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "GEVO": {
+  "ticker": "GEVO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1392380/000162828026072816/gevo-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1392380/000162828026072717/gevo-20261110.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Gevo (GEVO) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/gevo-gevo-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Gevo, Inc. (GEVO) Q3 Earnings and Revenues Beat Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/gevo-inc-gevo-q3-earnings-and-revenues-beat-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 06:46PM",
+    "title": "Gevo Posts First Real Profit And Lifts EBITDA Outlook Again, But One-Time Credits Flatter The Quarter As SAF Ambitions Recede",
+    "url": "https://finviz.com/news/420731/gevo-posts-first-real-profit-and-lifts-ebitda-outlook-again-but-one-time-credits-flatter-the-quarter-as-saf-ambitions-recede"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 04:01PM",
+    "title": "Gevo Reports Record Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/420452/gevo-reports-record-third-quarter-2026-financial-results"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "NBIS": {
+  "ticker": "NBIS",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 11, 2026",
+    "title": "Neoclouds Like Nebius Are Much Better Investments Than Colocation Companies Like TeraWulf. Here's Why.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/neoclouds-nebius-are-much-better-investments-colocation-companies-terawulf-heres-why"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Massive News for CoreWeave, Nebius, IREN, and Applied Digital Stock Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/massive-news-coreweave-nebius-iren-and-applied-digital-stock-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Not Revenue. Not Growth. Here\u2019s What I\u2019ll Be Watching When CoreWeave and Nebius Report This Week.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/not-revenue-not-growth-heres-what-ill-be-watching-when-coreweave-and-nebius-report-week"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "IEFA, SPOT, TEVA, NBIS: ETF Inflow Alert",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/iefa-spot-teva-nbis-etf-inflow-alert"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Nebius Stock Ahead of Q3 Earnings: Should You Buy, Hold or Sell?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/nebius-stock-ahead-q3-earnings-should-you-buy-hold-or-sell"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 03:15AM",
+    "title": "NBIS Stock Jumps Over 11% On CoreWeave Boost: Analysts Expect Over Six-Fold Growth In Sales In Upcoming Q3 Report",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nbis-stock-jumps-over-11-081534815.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 09:27PM",
+    "title": "CoreWeave Says Demand Is Outstripping Capacity  CFO Defends AI Expansion: Todays Environment Very Profitable For Differentiated Technology",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-says-demand-outstripping-capacity-022740451.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 05:09PM",
+    "title": "CRWV Stock Climbs 8% After-Hours As $132B Revenue Backlog Reinforces AI Compute Demand: NBIS, IREN Tick Higher",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crwv-stock-climbs-8-hours-220940004.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 05:08PM",
+    "title": "CoreWeave results offer a lift to other neocloud stocks",
+    "url": "https://www.marketwatch.com/livecoverage/coreweave-earnings-stock-results-crwv-q3/card/coreweave-results-offer-a-lift-to-other-neocloud-stocks-3DXJW6Kv2dxXeBFQBXew?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 04:22AM",
+    "title": "CoreWeave Has a Sentiment Problem Even Strong Earnings Can't Fix",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-sentiment-problem-even-strong-092225958.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 12:58AM",
+    "title": "CRWV Rallies Ahead Of Quarterly Report: Wells Fargo Calls CoreWeave Highest Quality Firm Among Neocloud Peers, Sees Upside",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crwv-rallies-ahead-quarterly-report-055827759.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:38AM",
+    "title": "2 big AI narratives wrestle with each other: What to watch this week",
+    "url": "https://finance.yahoo.com/markets/article/2-big-ai-narratives-wrestle-with-each-other-what-to-watch-this-week-170000318.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 01:37AM",
+    "title": "From CoreWeave, Nebius Earnings To Adobe MAX: Big Tech Events Investors Should Watch This Week",
+    "url": "https://finance.yahoo.com/technology/articles/coreweave-nebius-earnings-adobe-max-063712845.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SLNH": {
+  "ticker": "SLNH",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226050624/form8-k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 10:20AM",
+    "title": "Soluna's Shrinking Losses Face A Skeptical Market As Stock Sits Near Lows",
+    "url": "https://finviz.com/news/420297/solunas-shrinking-losses-face-a-skeptical-market-as-stock-sits-near-lows"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 07:30AM",
+    "title": "Soluna Announces Date of Third Quarter 2026 Earnings Call",
+    "url": "https://finviz.com/news/418950/soluna-announces-date-of-third-quarter-2026-earnings-call"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 23:19:33 GMT",
+    "title": "Soluna Holdings, Inc. (SLNH) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YRWtlTkNiTGZublVoc0szelFnQmc1Tm5hczY4ZUZ0X3VzM2hXRjVhbTNXTF9sbUw3bG9KbVY2d2Y1TGFSXzdYazJlWWlJelhyZ3c?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 12:30:00 GMT",
+    "title": "Third-quarter results arrive Nov. 16; Soluna's call starts at 5 p.m. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWG5CWmw2WHR6SHhSX3dwcU1EQjdGcEZhX3hMcTBrekk5QmRSN2ozNlJMcG9MREpOaEh0VVRKZUk4WEtiUmdIQkl5UlhnUDNxR1UwRFBHd0V3UlpTYzVraFZFX1FwQjFjZUUwLTRGWG9zaFVFdEdSZE0tTWtGWmhnQ2hkVGZMLThWVzRlLVVhZkFvekN1a3Bpb0o2bHhGSnVYcXJNa29ndmRENGc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 12:30:53 GMT",
+    "title": "A 5 PM ET earnings webcast is scheduled for November 16 at Soluna Holdings (SLNH). - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnNyZjM4V3VvdEdqdmxlTGRsdm1vSlV2WHJydFZZLTBFR0NLQ2NWNmc1NHpNOGVMb3dDMUN3ZU1LUHVXakRYU0FZa0Z2b1JDOTNTakhzaFZSWkp5WjhwbFVJREdUOWpabU9lRlBrV0lDclpjRmRMcDFVUDBkV25RbUNDVFhWYXUtU0UtWjNiSzF5eXpDSU9pc2s4eTV5Ukx2bWowc3N6aG42WmlY?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "HUT": {
+  "ticker": "HUT",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 01:15AM",
+    "title": "WULF, HUT, CIFR Stocks Get Price Target Cuts From Jefferies: Heres Why The Analyst Is Still Bullish On These AI Infra Firms",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wulf-hut-cifr-stocks-price-061543063.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 10:08AM",
+    "title": "Morgan Stanley raises Riot target to $41, cuts Cipher, Hut 8, Galaxy and Applied Digital",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-riot-target-150804123.html"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 13:20:00 GMT",
+    "title": "Hut 8 Corp. Stock 12\u2011Month Price Target Cut to $130.42, Implies 148% Upside - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcDlJMms0VDRDMWxWbGpsRHc3NFhsMkpFeF9YVGxhYWgwb3RiVVotMy1Jd24wQnpEMUItcmxWdW5rcmtHRzMwc1lWWnUyN0paemR2dFRNRzM5aFdMc0hraXhITWdxR3NVbXF4aEk1UlJ2dTZ1ZW5nRTR4QkN5UnJuUFdIU2xCdjltaUItNDNxMkJPdVFfekF3UGxtdklET3d4YmtzeEtWZHc1SndPLWZxMXd4ZkQ1Qi1WeUJMaGtoWVlVa3loMms5QVFSSmtFQQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 06:19:00 GMT",
+    "title": "WULF, HUT, CIFR Stocks Get Price Target Cuts From Jefferies: Here\u2019s Why The Analyst Is Still Bullish On These AI Infra Firms - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWTN6UXU2cWdEc1VZY1dVU2I1Skw0TFMteE5Xem16UDNZLVlvdWUxZTlxY3NBTFdxcmFXMEN4dnNmTGRjSWM2S1B2dFY1VW4yTXFERExtUGFBTjhDeDgtUUtCS1Bqc0h0N1BaMXJDeTNFX1dwTDI0SzAxOVpBUGl4clZGWWNvUElRQm51VzlxYUlKMlZpd0IwRUZyOVRabjBFWWhlTTFLazVsNFZlczRKWWlNLUlEZVcwVzdrZ0kyM0V5OV9VcWptM0FKdUFmVm1rRHhvWVJEd0htb0VrNG1sZnV6RW9vNndlaVRWQXZvNDJLSFdRcjZicXUtd3Zidkh3cUlTZnEtdGlEbU1kUU9WRXlVSQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 22:07:35 GMT",
+    "title": "Hut 8 (NASDAQ:HUT) Stock Price Target Lowered at Jefferies Financial Group - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbWxsTEluNHByLTk2dE0zUUdtbjNKaUxUNkFpUjluVFUxUDRUanJOX0F4OHJfMDktUmVHSm10Q3U0bDRXdC1aRXd4bWVDUDZTQksxbHlWZWdKb1UtcTZwZDMtTS1iUHl2VHN4czgwamVfYzZHckhyeXh4RDA1cWhGMW5sSVpral9jMm9RdGFIZ0Z0SUdKazF6Vm5WNDJwSkhTWFZsRnhPbHdQUUtlZjktLTR1Mi1TVjJYR01xNlhJc1ROSElGZlFyUkNuRkw3dVU?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AEHR": {
+  "ticker": "AEHR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 21:17:20 GMT",
+    "title": "A passive holder reports over 5% of Aehr Test Systems (AEHR), with two subsidiaries also reporting stakes. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcldSV3NoY3Eyem1qSmE3eHdtejNKdkJ6ZDg1SFNweUl6N0N0dDJyVF84MHBVQjdVZXdDekpfaU9qaEN5aXVHdndkTTlyZXJKc2xBVDRvbUF5UmMxMTF3ck9IUm40dHlfOXVCWU5BOFp0Q1VPWGR5bDNFNlZsRnh3aS1NRmRpNy1yQVBMVGZuTHo0OHRBSVJvSnZQTEdXekJXVENFRllnUzZwaUZNSkxXVEFxUlEwMk5wTEVVSnMyZkNwQQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "stake"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CIFR": {
+  "ticker": "CIFR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Cipher Digital is Now Oversold (CIFR)",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/cipher-digital-now-oversold-cifr"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 01:15AM",
+    "title": "WULF, HUT, CIFR Stocks Get Price Target Cuts From Jefferies: Heres Why The Analyst Is Still Bullish On These AI Infra Firms",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wulf-hut-cifr-stocks-price-061543063.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 10:08AM",
+    "title": "Morgan Stanley raises Riot target to $41, cuts Cipher, Hut 8, Galaxy and Applied Digital",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-riot-target-150804123.html"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "APLD": {
+  "ticker": "APLD",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Massive News for CoreWeave, Nebius, IREN, and Applied Digital Stock Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/massive-news-coreweave-nebius-iren-and-applied-digital-stock-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Applied Digital Slides 37% YTD: Time to Exit or Hold the Stock?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/applied-digital-slides-37-ytd-time-exit-or-hold-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 03:17PM",
+    "title": "These Former Bitcoin Miners Embraced AI. Was That the Right Move?",
+    "url": "https://www.barrons.com/articles/bitcoin-miners-stock-ai-b92f5e21?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 10:49AM",
+    "title": "Wells Fargo cuts CoreWeave target to $115 from $160, keeps Overweight into earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-cuts-coreweave-target-154930100.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 10:08AM",
+    "title": "Morgan Stanley raises Riot target to $41, cuts Cipher, Hut 8, Galaxy and Applied Digital",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-riot-target-150804123.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AXTI": {
+  "ticker": "AXTI",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 11 Nov 2026 01:32:52 GMT",
+    "title": "AXT, Inc. (AXTI) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wS3ItUF9vSU53MUJlSEdvSW5wWDg2V2NoOVduWEFCWHVwTDRzTVFvQmgxdzdBTk9ZNjVzVVo0UG5rVHhCS3VYdHVMdHhDM2pReVE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 11 Nov 2026 01:12:00 GMT",
+    "title": "AXT (AXTI) Stock Seems Reasonably Valued As Record Revenue Reshapes Earnings - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNUE5OFctRWlydHk0cS0xVmppd09oTW9fa1IxN3RBRFd0WTBFOTNyN3F0b1RfdC1aa2ZWb0t3M1hma0d5TGNCQllaMlJFNlViYnMxMjJZUmtMWjE2Rkk4NGV4Y2E2WjRTT2JQSXVZcURaRWZaN1llQi1HWVpmNUJHWVM0NzMycEE?oc=5"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "record (quarterly )?revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "PEPG": {
+  "ticker": "PEPG",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "424B5",
+    "items": "",
+    "title": "424B5",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835597/000119312526455711/d548742d424b5.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "8-K",
+    "items": "2.02,7.01,8.01,9.01",
+    "title": "8-K 2.02,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835597/000119312526454469/pepg-20261110.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835597/000119312526454407/pepg-20260930.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Biotech Stocks In Focus: PEPG Jumps 114%, ZURA Rises 15%, NTHI Gains 13% ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/biotech-stocks-focus-pepg-jumps-114-zura-rises-15-nthi-gains-13"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 04:48PM",
+    "title": "PepGen soars on promising early data for muscular dystrophy drug",
+    "url": "https://finance.yahoo.com/healthcare/articles/pepgen-soars-promising-early-data-214800054.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 03:23PM",
+    "title": "PepGen Announces Proposed $125.0 Million Public Offering of Common Stock",
+    "url": "https://finviz.com/news/420625/pepgen-announces-proposed-1250-million-public-offering-of-common-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 01:48PM",
+    "title": "PepGen Stock Spikes 132% on Rare-Disease Win. These Rivals Are Feeling The Pressure.",
+    "url": "https://www.barrons.com/articles/pepgen-stock-drug-treatment-disease-bcf0b5e5?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 10:56AM",
+    "title": "PepGen Reports Phase 2 Myotonic Dystrophy Trial Results and $104.8 Million Cash Position",
+    "url": "https://finviz.com/news/420311/pepgen-reports-phase-2-myotonic-dystrophy-trial-results-and-1048-million-cash-position"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 09:06AM",
+    "title": "PepGen stock soars over 100% on positive Phase 2 trial data for DM1 drug",
+    "url": "https://finance.yahoo.com/healthcare/articles/pepgen-stock-soars-over-100-140645055.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 06:05AM",
+    "title": "PepGen Reports Third Quarter 2026 Financial Results and Recent Corporate Highlights",
+    "url": "https://finviz.com/news/419895/pepgen-reports-third-quarter-2026-financial-results-and-recent-corporate-highlights"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 06:01AM",
+    "title": "PepGen Announces Positive Phase 2 FREEDOM2-DM1 10 mg/kg Results Demonstrating Highest Reported Splicing Correction and Improvements Across Multiple Functional Measures",
+    "url": "https://finviz.com/news/419875/pepgen-announces-positive-phase-2-freedom2-dm1-10-mgkg-results-demonstrating-highest-reported-splicing-correction-and-improvements-across-multiple-functional-measures"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "public offering",
+   "prospectus/registration filed (offering?)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "LITE": {
+  "ticker": "LITE",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526455438/d172329d425.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526455426/d162070d425.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526455400/d180177d425.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526453776/d180680d425.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Noteworthy ETF Outflows: ALAI, TLN, LITE, MWH",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-etf-outflows-alai-tln-lite-mwh"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 09:04PM",
+    "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldnt Take Their Eyes Off These Stocks Last Week",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-pltr-qcom-spcx-mrvl-020455465.html"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 00:14:43 GMT",
+    "title": "Lumentum Holdings Inc (LITE) Stock Up 10.7% but GF Value Says Overvalued -- GF Score: 70/100 - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGdoN3cxT002alFNSXZPYXJCZVI1UFZYekdGLVcxRFFhRjNpUE5OUndtQVlZMk1pdDB3clBOQ0ZWYzFYa09nSHlIcEZxT1FpYVNkMG9mNFNXVjNxNmZGM0EteDhEbnNPcnUwZFota0NGenBUbHg2MjA1cTloaFJSQVZscThaZFZuelUwc3VmaU1aaG5ZOG1GWGUzNFJZMG9zSmQ0R3JkeGlXMGQ2SHFmYXlMUmVrSi1WVEJUeW9vVQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 21:18:00 GMT",
+    "title": "Lumentum rises 11% as recovery continues (LITE:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdjRRbFVyY1BOdWxuSkZMZzRZcUlhQW1OLXhXM1g5NEZ1c1ljeV8xQ1FwLWxfRGpuYU9fREdfZU9KRUdjX05jaDFJNVVKSmFQT0F5MVYxOHBNeUVtcUNtbzZpbzdubEwtb21iUkJQQlNXeTZ6bjVUbHZtbHpmOXJadTJTNA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 22:07:35 GMT",
+    "title": "Lumentum (NASDAQ:LITE) Stock Falls 1.8% Following Analyst Downgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmVPXzExM0lhenlmcEhQNzNoLUN0Q2tOTnJHTnJDT003MThvXy1ucXhfMUdxZzh5T0VON0E1Q3ZKU2UydXNneVZ3bVlXbk1ZU05GajFFOHVlelpwOUNwdHowb3JSajJaSjlnRW9wUzdtT0V3YkdycnBzZVYyV2ZmLU1STFZRVlRQNDFha3RxVElqUWRWaFZNakMxbXRHNDZ2V3ctdmJlSzBHZ0tiRzB3cjBpMmdfanBPYjJvT2h2dGw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 20:50:37 GMT",
+    "title": "Lumentum (NASDAQ:LITE) Stock Gets Price Target Trim from UBS Group - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZTg2YWVHdEEyLS1td0dqbWpkZ3RKWDlwWU9ndklIaXU3TjBPelBaRGlnQlgyS2tCLVpzSkhTM2tPcmZGVnhrXzd4VnNCa3cwZGswRjl0bUVqNjI3czhmQ0VHZkFYemtEMS1FOGZRbzAyWDduRWV3Sk96T1N4ZHgxZ1QxNmxfWDVjNEhlTkM5MEFIUFJsLVNuRWpoZGdlempHTW9LWVVPMXlMTXcxMTlyNU9qSzEwQ1pXWU93SndnSDI5REJR?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "COHR": {
+  "ticker": "COHR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 01:10PM",
+    "title": "AI Data Center Suppliers Report Growth as October Inflation Data Reaches Wall Street",
+    "url": "https://finviz.com/news/420406/ai-data-center-suppliers-report-growth-as-october-inflation-data-reaches-wall-street"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 12:38PM",
+    "title": "AMD and Coherent: What the Biggest Gainers Since the Midterms Selloff Say About the AI Trade",
+    "url": "https://www.barrons.com/articles/amd-stock-coherent-ai-selloff-e457aa02?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 10:55PM",
+    "title": "Nokia eyes AI optical interconnect market, potentially challenging Lumentum and Coherent",
+    "url": "https://www.digitimes.com/news/a20261110PD231/nokia-market-coherent-data-center-laser.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 02:27PM",
+    "title": "Ferguson Beats Earnings Estimates. Why the HVAC Supplier Is Optimistic as Business Headwinds Persist.",
+    "url": "https://www.barrons.com/articles/ferguson-earnings-stock-price-0cd7f16d?mod=bar_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "GLXY": {
+  "ticker": "GLXY",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-09",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000112/glxy-20260930.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 07:01PM",
+    "title": "Formation Securities Plans Tokenized Stock Venue on Solana",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/formation-securities-plans-tokenized-stock-000100309.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 12:46PM",
+    "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/solana-set-another-tokenized-stock-174602961.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 11:25AM",
+    "title": "Galaxy, Exodus Tokenized Shares Headed to Orca-Powered Solana Venue in 2027",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/galaxy-exodus-tokenized-shares-headed-162500305.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 11:20AM",
+    "title": "Sharplinks Q3 Profit Jumps to $751 Million on Unrealized Ethereum Gains",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/sharplink-q3-profit-jumps-751-162000518.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 10:08AM",
+    "title": "Morgan Stanley raises Riot target to $41, cuts Cipher, Hut 8, Galaxy and Applied Digital",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-riot-target-150804123.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 07:30AM",
+    "title": "Formation Securities Notifies SEC of Intent to Operate First Tokenized Securities Venue on Solana",
+    "url": "https://finviz.com/news/418948/formation-securities-notifies-sec-of-intent-to-operate-first-tokenized-securities-venue-on-solana"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "TE": {
+  "ticker": "TE",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "T1 Energy to Release Q3 Earnings: Here's What You Need to Know",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/t1-energy-release-q3-earnings-heres-what-you-need-know"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 12:41:00 GMT",
+    "title": "T1 Energy to Release Q3 Earnings: Here's What You Need to Know - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGZnU2Y3N2c1VXR2eUtKMTl1Tm15NnJzVHlZNzFzbGpfWGpMb1hCVlR1elBaaV9sMmhfOHN4b1BuT1c4ZzJEWG5qLXFkQUtzYkZfNC1jdWpOV2g4NnJkTF8zajk0QmxVaGUxc2ZlRGxyc2pGbGV6QXZYMVZiS1RRS3BBM053VHdMMktJak1oWGpBX2JGUi1qbVFZdjd0ZTQzdmc5RzY1c0VsLVFpdTQzRU42all0c1hf?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 14:20:38 GMT",
+    "title": "An 11.9 million-share stake in T1 Energy (TE) is reported by State Street. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUpfZzhFVGF2UVdoMjFidzB3VFlSSUw2QWFXeEd2Qkh3TTdxTXdOWFVfSG15QnpISi1qSWVvYjc2V3hhcGpsbXBMazFRY1BnY1hfRUl4M3JVbW9CNENUSGdNM0xDM3JxSXZBU1pRYkRfMGs4aEJjaWFZYlhWbDBXUWhLQVB0eERscEpwWGZkUndOaHNGWEQ4TjY0d1lYa2c4VmxYQ19rQWJGUERnRjl0NXBmTE1rRXJVSnc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 21:15:06 GMT",
+    "title": "Technip Energies (ENXTPA:TE) Stock May Be 33% Undervalued After Order Backlog Update - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGo4eE5Ta0lXQVZNNEhfNk5sUzRHS0tSOExoUkE0am00VVRDcHpCaERoYkRmbl9ieHZ2bmN0ZURaU09tekVlTnM1eEZ5R3JPSG0yaXFBVkF5V0RlWGR3U0dUZVh4UUZRZHhHXzh3cnloVlo5dFZWVkRtWVMwX1VHMUMyelB3ak12UURScXZkV0pBQW9UeGQ1Yi15YkhDZw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 00:19:22 GMT",
+    "title": "TE Connectivity PLC (TEL) Stock Up 5.7% but GF Value Says Overvalued -- GF Score: 93/100 - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVzQzbDFvWkwyREtkVEVma01xeGVLOWlpRkJpOFp4MHE5Ym1JQ0RUNmtaWWZ0anN2NnRzTTRLelV6VGV0U3UyZ3pDZkpEc3U0ekhnc01IMVh0YlZ4Mk1BN2twUGE4WDBvNzVYLUY3bEg0UTNkNDd1S0hLWE5oV0ZzSjIzdFNjQjU1dVQzcGdzMDM1b1VWbFB2eGhVQmhvV0UwcjZib3o0SWxkSll4Z2hNeEhscFhFbU82NWc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 11 Nov 2026 09:24:15 GMT",
+    "title": "TE Connectivity Ltd. $TEL Shares Sold by Bahl & Gaynor LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGFpZjZjOFo5UXpqdlV0Rm94eTJnalBNdVdybEVuZUNQQTF5dXpiQ2NWOU5uRU1jSHM4bWpReExxT2NjNk8zdkRiS3YycjVUZUplRkJpT3JKNWJkdG5vQVhqRkhzYTV5ckEyRHpWQktNSWR1LXEtcndTcEl5c252cmNLaWVmTGtDc3c3U284bzE5VDZ3TjhWbHY3Z0tFSzVBU3U2cnh1N3lCeDBhRGo5Ny02Zm4tUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 08 Nov 2026 14:13:22 GMT",
+    "title": "Teleperformance (ENXTPA:TEP) Stock Looks Reasonable Despite A 77% Five Year Fall - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWxyeTFUOEtHTTN0SkYwVkVUajBHRFBoSmJ2Vk15NFExall4TFgzNVNlUWdta1ZTY3pBOGZqYWhUeTRvSUFIQUZ4ejdCRTVqT2V3QUVUSmVCdUVpSnVxZ2dXRDZwRkZDRlRaMUplOUw2dkNzYmI2aHpXT0I2R0xxdFpUanFoN0NhU1RpUkhyZzAzMEJVWFJFMXUzQ0dibHh0UHlTTUtR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 15:01:51 GMT",
+    "title": "One NYSE - Listed Electrical Component Stock at Resistance Level \u2013 TE - kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeURvRnA1T21yREE0YndqbTVESWlhWkdfSnhibHBjdF9uWnFkbDlkbzNlRjZvNEh3QlFmbWVTRzRvSktWQkpnTTNFaE5ERVQzY1hzUHpRZ2c3WlpqZHBpQ2Z0Vk9zbXU2SndSUWp6aW1nMXZ5ZXM2T0M3eVhUVkV3U2dlekgzSllnOHJRZ1k0OVdMYTRDSFNBR0h0eGpJTklzX1E?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 14:19:25 GMT",
+    "title": "One NYSE - Listed Electrical Component Stock at Resistance Level \u2013 TE - Kalkine",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNME1LS01SZ2NseVVRaHNseHQyc0VIWlFaN2hybXhsQ2FNYk9WYlFOYjMxZnd6enlPczZwa3otQkF2ZDhYWWlPYWJfbXo2cEt2SmxTQ0w1Zk9GTHg0R0J3X0Vocno1cmppaVRRNFBVcFZROV9hM3cwWWNxemNjUzBNRWRacnFCbmcyT0RQSUxPQ2Zad1dpSmMyYUpjRHF6THZWWmUwOXl5QQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 18:33:41 GMT",
+    "title": "T1 Energy (NYSE:TE) Reaches New 1-Year Low - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVVvMXNxOTFNeTdWVWZpU0RkSDNOV0dNQjJnTmxZS1pxajczMnFkQ1dFN2VIeVhndXFJSjBuVWVMLXB4LWx0V1lLaUtyekdWQmFnMklsNUZpOFd6ZGRyQ3dtOE9Wb1lyMDZVckxLQTBqX3Z0QzhkQkJaQ210cTJ6UTItNk5ZWThKT0JUUm1PRGZOUWpSdmFUNHdYOFNJejhhVGpvSGtoUnpTUU4zdjl3?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "stake"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SNDK": {
+  "ticker": "SNDK",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Why Sandisk Stock Dropped Again on Tuesday",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-sandisk-stock-dropped-again-tuesday-0"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Why Is SanDisk Stock Crashing, and is it a Generational Buying Opportunity? ",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-sandisk-stock-crashing-and-it-generational-buying-opportunity-0"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Sandisk Stock Has Collapsed by 65%, but It's Still Undergoing an 8-for-1 Stock Split on Nov. 19. Here's Why I'm Still Not Buying Shares Amidst This Nasdaq Market Slump.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/sandisk-stock-has-collapsed-65-its-still-undergoing-8-1-stock-split-nov-19-heres-why-im"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Sandisk Appears a Highly Lucrative Investment After Recent AI Meltdown",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/sandisk-appears-highly-lucrative-investment-after-recent-ai-meltdown"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:36AM",
+    "title": "AI Villain Turns Hero but Stock Market Chaos Is Just Getting Started",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-d180c193?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:29AM",
+    "title": "Sandisk Leads Memory Stock Rally. The AI Recovery Has Far to Go.",
+    "url": "https://www.barrons.com/articles/sandisk-memory-stock-rally-ai-965b9891?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 06:39AM",
+    "title": "CoreWeave Boosts the AI Trade. These Power Stocks Are the Big Winners.",
+    "url": "https://www.barrons.com/articles/coreweave-ai-bloom-energy-stock-power-addbb638?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 06:27AM",
+    "title": "Nvidia, CoreWeave, Marvell, Dell, Costco, and More Stocks That Explain Today's Market",
+    "url": "https://www.barrons.com/articles/stock-movers-e9c667c2?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:38PM",
+    "title": "Intel took 25 years to get back to its dot-com peak  and lost it in 6 months: Chart of the Day",
+    "url": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 04:03PM",
+    "title": "Nvidia stock sinks 4% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 03:48PM",
+    "title": "Analysts say these chip stocks are bargains. Is it time to buy?",
+    "url": "https://www.marketwatch.com/story/analysts-say-these-chip-stocks-are-bargains-is-it-time-to-buy-fb5fdde8?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 10:48PM",
+    "title": "Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-034814953.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 05:40PM",
+    "title": "Could HBF be the solution to the Memory bottleneck?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/could-hbf-solution-memory-bottleneck-224023081.html"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "MRVL": {
+  "ticker": "MRVL",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526455438/d172329d425.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526455426/d162070d425.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526455400/d180177d425.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 11, 2026",
+    "title": "Why Is Marvell Stock Crashing, and is it a Buying Opportunity?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-marvell-stock-crashing-and-it-buying-opportunity"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Why Marvell Technology Stock Fell Hard in October",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-marvell-technology-stock-fell-hard-october"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "VONG, MRVL, BKNG, SNOW: ETF Inflow Alert",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/vong-mrvl-bkng-snow-etf-inflow-alert"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Marvell Stock Fell 58% From Its Record. History Says What Followed Its Last 4 Drops This Deep.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/marvell-stock-fell-58-its-record-history-says-what-followed-its-last-4-drops-deep"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 8, 2026",
+    "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/intel-arm-and-marvell-have-each-been-cut-half-june-only-1-stock-id-buy-now"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 06:39AM",
+    "title": "CoreWeave Boosts the AI Trade. These Power Stocks Are the Big Winners.",
+    "url": "https://www.barrons.com/articles/coreweave-ai-bloom-energy-stock-power-addbb638?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 07:46AM",
+    "title": "What could NVIDIAs latest risks mean for the AI chip ecosystem?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/could-nvidia-latest-risks-mean-124641710.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 05:31AM",
+    "title": "As AI hardware sells off, is this chip designer now deeply undervalued?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-hardware-sells-off-chip-103151585.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 05:26AM",
+    "title": "S&P 500, Dow futures climb as oil slide lifts sentiment",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 01:33PM",
+    "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+    "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 08:28AM",
+    "title": "Markets News, Nov. 9, 2026: Dow Climbs 1,100 Points as Stocks Rebound from Last Weeks AI Sell-Off; Nvidia Sinks Amid CEO Probe",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-jump-132856289.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-08-26 09:04PM",
+    "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldnt Take Their Eyes Off These Stocks Last Week",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-pltr-qcom-spcx-mrvl-020455465.html"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CRDO": {
+  "ticker": "CRDO",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Is Credo Technology Stock a Buy Right Now?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/credo-technology-stock-buy-right-now"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 08 Nov 2026 03:49:00 GMT",
+    "title": "Credo Technology: Recent Drop Turns My Hold Into A Buy (Rating Upgrade) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUV1dXM4T0pQRTF0N1ZleWJQRTl5bWI5cDJRM2t3cS1lZ0dqbWJZdmVUMFk3dEhORVEtZFZGb3duTG1mcVg2V2VJUTB4bjhvQ0lwSy1BcURYSWNNOEFCNXZqc3JWalJUS19EdkQzU2lucThDZDZjVTNxYURkZWlfTTBqcDQ0d1NiSjVmMEFValkzU0hzRkdUM0s0aTN3XzhvNmc4YmlyYWNrWmFfU0E?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 11 Nov 2026 10:30:50 GMT",
+    "title": "Credo Technology Stock Is Surging Wednesday: What's Going On? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0lLa0tSajFtOXNyZkpSTjdUenB5TkxSY1JqVkdMWnZOSWphMTFFaUt6VzhUSnNBTHRkbE5YUUZVVkFUS2YzbUdnejNZWllMMlRyUTVwM0c1LUdZYzhqX3N0MjYxY2FLaGFmS1BZeERYQUFrR1RfUmRfcklPMUFnck92WnNQbld1WVdtcV9GWVVDY3dGVnRlTmU4R0R6TG1oeDRsM1VtelZtNU9KZDNONWF0aGR4TmstT05F?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 19:13:42 GMT",
+    "title": "Credo Technology Group Holding (CRDO) Helped Set New AI Network Standards, Is The 44% Undervaluation Real? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMndSc1diMEpKWHB0bXZqYWdaOTZSZzZHZGpEVFZ0SGV3MFZNNHpRNzg3dEVneWRaVi1icGxsNzNEWFZ2c0wxS0ZPSHl1VkVXOWlmek4xdm1VVHJWREhHbHpoRHM0cHMwVVRaX08wcVVXcU5Fbm5HZExwWHJXNVRCUXdIaFg1c01SVWZQRXBhS3JYa0MweE50b1dsdm5zTVBqM3c?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 01:18:43 GMT",
+    "title": "Credo Technology Group Holding Ltd (CRDO) Stock Up 10.3% and Sti - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcXBOMGxveU5QRWtZalNZWUYzd2c1OGhrU2pETGY2dTg5d2hZbV9VemZ2WkhpWW1LdF9BaHlGVnhfTEtnZm5Ud0FNRGlXU3laQVZSS0t0c09SLW1OQkYzSTJoTjh4RXNsV3pJeV8wSGhwT1dfRzdyeWNlUUFLc3dHek9ZNEJDMHFmRjBIWnR2bk1FdnFnd2ZQY0JibHludHRaY3BTTDRQLUN3R1lCazJXR1hCbno2aWtoYmZfVDljeW9jZ1A2RHRJ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 21:48:00 GMT",
+    "title": "Credo Technology advances 10% amid broad tech rally (CRDO:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWdBcWJNTnJ6SzZJSHdWbnVweVpFLW9wZHoyNXh6ZW5PVWZNNnh4RnRkY0g4ZDRGWU5pU0xMTzNuT3NfdXpjdHg4OUdxVWFjZEg4VTBXWFJ0WHdXbGJMWk1MOGlTUGFwNXhmbzd1OUFkNGFwb3pDbm5tdklESmhRbjg4OWN0cnM4VXVvclg2MEg4dw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 15:33:00 GMT",
+    "title": "Credo Stock Has a Powerful Growth Story, but Is It Already Priced In? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDIwU0xMZF9icmpEOF83N3RnQ285WXdOMU5CZ0N3N2RDWE0tVnVzaEZPdDFaYjRUUVRReU1RLTRVUHZXUE5CUUVMa1kycVBnS0tNQ2lUSW93blFuMWdJZGFISURFeVN1NHZTZmxHMlplMUE3aWRDTEtacUNSa0pWci1wYmFmTVIwQk1mdlc2S1o1c0JLMUh1MTBFMkxtR2JYSVBNRkUya3BkQ2s2WmkxMA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 17:24:00 GMT",
+    "title": "Fund Update: New $26.7M $CRDO stock position opened by Impax Asset Management Group plc - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3hjeHJpelduUVloeW03SXdIVFFwOWlYNXlHaDVzclQ3dkI5X1l1dmR1VTN3aXBEZWFsZGVNbURGUU81MGI1enp5Z3dLS01yVHlIUDN2eURUdGR0cFRsazdralpnY0p3anY5eEZyaHFUYVJUZzNFRUNkdjAzY3JVMDRjeTl6dFFoemlVY29GSnVlMUd3V1VKSVRhYmg5Nl9LWjhuakV1NGFMMFJEUUswQjJhTzBMaXZRMThvMWM3UkNzMXdh?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 09 Nov 2026 23:14:02 GMT",
+    "title": "Credo Technology Group Holding Ltd (CRDO) Shares Rally 10% Amid Tech Sector Upswing - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHJZdGlVYTFvYlNYYVJxR1JQR0t1UVI2Q3hScG04WUR0UHJJTkdsRHRHcGhqR0hUblk3Mk5fQVJ4QU1xOXY2bmpsSTVzenlzR0pGZU1TM3VWU2Zsd0h2dUtkNUJMeTQ2a0tpQm1KeVNDQVdVOUs2QjVVeWdCLWFkSWVZSEFoNnlYWjFSX2VWdnB1UDVuSWVzUjZMWHhyYTVfSGIwRDlILS1vRjNfVDNnSEVXSUxPbjRoaWxZ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "upgrade"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ALAB": {
+  "ticker": "ALAB",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 04:44AM",
+    "title": "CoreWeave shares rally, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-scandal-hotter-than-expected-cpi-coreweave/card/coreweave-shares-rally-and-other-early-market-movers-BmwmKADSVSoIQvxCbZOy?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 04:05PM",
+    "title": "Astera Labs Announces Upcoming Financial Conference Participation",
+    "url": "https://finviz.com/news/420523/astera-labs-announces-upcoming-financial-conference-participation"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 12:02PM",
+    "title": "Quarterly Reports and an Independent Board Inquiry Frame the Chip Sector's Week",
+    "url": "https://finviz.com/news/419334/quarterly-reports-and-an-independent-board-inquiry-frame-the-chip-sectors-week"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BE": {
+  "ticker": "BE",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "GE Vernova, Vertiv, and Bloom Energy Just Lost 10% to 24% in a Week. Here's What Set Off the AI Power Sell-off.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/ge-vernova-vertiv-and-bloom-energy-just-lost-10-24-week-heres-what-set-ai-power-sell"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Why Bloom Energy Stock Slumped 26.6% in October, and Why the Pullback is a Buying Opportunity",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-bloom-energy-stock-slumped-266-october-and-why-pullback-buying-opportunity"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Is Bloom Energy Really Worth $200 Right Now? Here's the Math.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/bloom-energy-really-worth-200-right-now-heres-math"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Why Bloom Energy Stock Popped Today",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-bloom-energy-stock-popped-today"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Renewable Energy & Battery Stocks to Buy as Blue Wave Sweeps US Congress",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/renewable-energy-battery-stocks-buy-blue-wave-sweeps-us-congress"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 9, 2026",
+    "title": "Zacks Investment Ideas feature highlights: Bloom Energy, Skyworks Solutions and Quanta Services",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/zacks-investment-ideas-feature-highlights-bloom-energy-skyworks-solutions-and-quanta"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 8, 2026",
+    "title": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/bloom-energy-stock-fell-16-same-day-2-giant-data-center-deals-named-it-it-buy"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 8, 2026",
+    "title": "Not Bloom Energy. Not Vistra. This AI Power Stock Just Posted a 96% Jump in Orders.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/not-bloom-energy-not-vistra-ai-power-stock-just-posted-96-jump-orders"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:36AM",
+    "title": "AI Villain Turns Hero but Stock Market Chaos Is Just Getting Started",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-d180c193?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 12:38PM",
+    "title": "AMD and Coherent: What the Biggest Gainers Since the Midterms Selloff Say About the AI Trade",
+    "url": "https://www.barrons.com/articles/amd-stock-coherent-ai-selloff-e457aa02?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 12:57PM",
+    "title": "The best-performing sector isn't tech, but it's certainly AI-related",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-nvidia-investigation-ceo-jensen-huang-relationship-chinese-spy/card/the-best-performing-sector-isn-t-tech-but-it-s-certainly-ai-related-0OhUhUgKCEr3syURdFxI?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 12:28PM",
+    "title": "This AI-Adjacent Company Doesn't See Much Data-Center Pause-Yet",
+    "url": "https://www.barrons.com/articles/ferguson-enterprises-earnings-stock-price-87840ac8?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 10:32AM",
+    "title": "S&P 500 heads for best day in seven months",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-nvidia-investigation-ceo-jensen-huang-relationship-chinese-spy/card/s-p-500-heads-for-best-day-in-seven-months-M5P5Cdf6k2rMs1SarM19?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 03:24PM",
+    "title": "Bloom Energy Supports Oxford Firefighters and Local Families Ahead of Georgia-Ole Miss Matchup",
+    "url": "https://finviz.com/news/418641/bloom-energy-supports-oxford-firefighters-and-local-families-ahead-of-georgia-ole-miss-matchup"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-09-26 12:16PM",
+    "title": "AI Stocks Plunge: Buy, Sell or Hold?",
+    "url": "https://finviz.com/news/418561/ai-stocks-plunge-buy-sell-or-hold"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FPS": {
+  "ticker": "FPS",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 18:14:35 GMT",
+    "title": "Forgent Power Solutions (FPS) Fell on AI Sentiment Despite a Record Quarterly Bookings - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3VlZFVrYXRJX041SmNMTjJGWHlPSkxfZ3NpcnRRY294YUdTV2pveWdQRUNlOE5mNkhtUzlvZk1Oa3Fhazkza3gtWktyV2N1S0NOaEIySTlXU29KT1lnRHlNZDRFQ1hvS2FldHhUS0JrXzA5S0NKeXFQQlp5OVQ4NHFDelR0cVBxSVZfcDZFbndZaXFwdGNYVnJ5YnNiQQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 13:48:39 GMT",
+    "title": "Forgent Power Solutions, Inc. (FPS) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HNU5oNzdMYkNFZlY1UERzMmRZX185TnM4am1nZ0xQQ0F6VnpLSWgxM3hRUGhya0tlQmVfNEszMzRZUWJVOWJPeG9WRThrNzd1?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 03:40:50 GMT",
+    "title": "Forgent Power Solutions (FPS) is Soaring Double Digits \u2014 Here\u2019s Why - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWtpeGNQSnZpSHRqbDY0SDJzdTZSdmtXQmpsanVGWlptNHN6TkNNRkgzQkk0M05nYy1jYzk2dGdBWE1wdWdNcEJXSk1xVEZyQ185YlZjVGJlb3pCSEM3dmd0ajFTRFh0TWx5U0p3R2VDOWNrdDhreGJwZ3k0N2F6SE8zQ2JDd04tSjZLUkNiMHBwQU9JRG9XYVU4bVp6bUMyTkE?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
