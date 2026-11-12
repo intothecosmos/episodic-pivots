@@ -1,0 +1,63 @@
+{
+ "FRMI": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "chart fail: neglect 53.0 (extended/collapsed pre-gap)",
+   "volume: 0.18x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-12 07:47",
+  "label": "v1"
+ },
+ "FIGR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.07x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-12 07:47",
+  "label": "v1"
+ },
+ "ENGN": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-12 07:47",
+  "label": "v1"
+ },
+ "CURI": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-12 07:47",
+  "label": "v1"
+ },
+ "AVEX": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-12 07:47",
+  "label": "v1"
+ },
+ "LUNR": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-12 07:47",
+  "label": "v1"
+ }
+}

@@ -1,0 +1,7 @@
+{
+  "FRMI": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "$200M hyperscaler prepayment for 600MW but no definitive lease and TensorWave lease terminated; chart fail (-91% from high, neglect 53) and 0.18x ADV premarket volume both cap at 2"},
+  "FIGR": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Record Q3 (net rev $287M +84%, adj EBITDA +91%, volume +135%) on a neglected chart, but premarket volume 0.07x ADV caps at 2; recheck volume at v2; regime red"},
+  "ENGN": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Pivotal LEGEND cohort data + FDA alignment on BLA (regulatory sub-ladder below approval); Gate 4 fail, projected dollar volume $3.0M"},
+  "CURI": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Q3 beat and FY guidance raise (rev +13%, adj EBITDA +67%); Gate 4 fail, projected dollar volume $0.8M"},
+  "AVEX": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Revenue beat +25.8% vs consensus and third FY raise to $820-840M; Gate 4 fail, projected dollar volume $2.9M, 0.03x ADV"}
+}
