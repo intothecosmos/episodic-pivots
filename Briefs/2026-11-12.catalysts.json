@@ -1,46 +1,24 @@
 {
- "FRMI": {
-  "ticker": "FRMI",
+ "CURI": {
+  "ticker": "CURI",
   "filings": [
    {
     "src": "SEC",
     "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1776909/000162828026073161/curi-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
     "form": "8-K",
-    "items": "2.02,7.01,9.01",
-    "title": "8-K 2.02,7.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026118351/ea0311977-8k_fermi.htm"
+    "items": "2.02,8.01,9.01",
+    "title": "8-K 2.02,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1776909/000162828026073158/curi-20261111.htm"
    }
   ],
-  "headlines": [
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 07:45AM",
-    "title": "Fermi's New AI Deal Softens the Blow of a $6.5 Billion Setback",
-    "url": "https://www.barrons.com/articles/fermi-earnings-stock-price-ai-a77dfba4?mod=bar_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 07:43AM",
-    "title": "Fermi Secures $200 Million Hyperscaler Prepayment Agreement, Reports $141.6 Million Q3 Net Loss",
-    "url": "https://finviz.com/news/421586/fermi-secures-200-million-hyperscaler-prepayment-agreement-reports-1416-million-q3-net-loss"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 07:00AM",
-    "title": "Fermi Announces New Agreements with Investment-Grade Hyperscaler and Third Quarter 2026 Financial Results",
-    "url": "https://finviz.com/news/421459/fermi-announces-new-agreements-with-investment-grade-hyperscaler-and-third-quarter-2026-financial-results"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "8-K item 2.02 (earnings)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "CURI": {
-  "ticker": "CURI",
-  "filings": [],
   "headlines": [
    {
     "src": "Nasdaq",
@@ -72,180 +50,6 @@
   "pre_tier": "A?",
   "pre_tier_hits": [
    "rais(es|ed|ing) .{0,25}(guidance|outlook)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "AVEX": {
-  "ticker": "AVEX",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 12, 2026",
-    "title": "AEVEX (AVEX) Q3 2026 Earnings Call Transcript",
-    "publisher": "The Motley Fool",
-    "url": "https://www.nasdaq.com/articles/aevex-avex-q3-2026-earnings-call-transcript"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 03:52AM",
-    "title": "Why Is AVEX Stock Surging 15% Overnight Today?",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-avex-stock-surging-15-085220289.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-11-26 09:46PM",
-    "title": "Aevex: Q3 Earnings Snapshot",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/aevex-q3-earnings-snapshot-024638451.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-11-26 07:41PM",
-    "title": "AEVEX's Tax-Driven EPS Miss Hides A Revenue Beat And Third Raise, But Shrinking Ukraine Sales Keep The Stock Near Lows",
-    "url": "https://finviz.com/news/421336/aevexs-tax-driven-eps-miss-hides-a-revenue-beat-and-third-raise-but-shrinking-ukraine-sales-keep-the-stock-near-lows"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-11-26 05:34PM",
-    "title": "AEVEX shares soar 10% on raised full-year guidance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/aevex-shares-soar-10-raised-223443766.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-11-26 03:40PM",
-    "title": "AEVEX Corp. Announces Financial Results for Third Quarter 2026",
-    "url": "https://finviz.com/news/421279/aevex-corp-announces-financial-results-for-third-quarter-2026"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-11-26 04:08AM",
-    "title": "Franko-Nevada headlines Wednesday's earnings slate",
-    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-scandal-hotter-than-expected-cpi-coreweave/card/franko-nevada-headlines-wednesday-s-earnings-slate-R4NeItAeY589GKuzg986?mod=mw_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-11-26 04:01AM",
-    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rise as investors seek to move past hotter-than-expected CPI; CoreWeave shares jump: live updates",
-    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-scandal-hotter-than-expected-cpi-coreweave?mod=mw_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-10-26 05:30AM",
-    "title": "AEVEX Secures Nearly $400 Million IDIQ Award for Unmanned Aircraft Systems",
-    "url": "https://finviz.com/news/419802/aevex-secures-nearly-400-million-idiq-award-for-unmanned-aircraft-systems"
-   }
-  ],
-  "pre_tier": "A?",
-  "pre_tier_hits": [
-   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "FIGR": {
-  "ticker": "FIGR",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-12",
-    "form": "8-K",
-    "items": "1.01,2.02,2.03,9.01",
-    "title": "8-K 1.01,2.02,2.03,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/2064124/000162828026073077/figr-20261110.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 10, 2026",
-    "title": "What's in the Offing for FIGR Stock This Earnings Season?",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/whats-offing-figr-stock-earnings-season"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 06:51AM",
-    "title": "Figure Technology: Q3 Earnings Snapshot",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/figure-technology-q3-earnings-snapshot-115125458.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 06:45AM",
-    "title": "Figure Technology Solutions Reports Third Quarter 2026 Results",
-    "url": "https://finviz.com/news/421447/figure-technology-solutions-reports-third-quarter-2026-results"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "reports (first|second|third|fourth) quarter",
-   "earnings",
-   "8-K item 2.02 (earnings)",
-   "8-K item 1.01 (material agreement)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "ENGN": {
-  "ticker": "ENGN",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-12",
-    "form": "8-K",
-    "items": "2.02,7.01,8.01,9.01",
-    "title": "8-K 2.02,7.01,8.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1980845/000119312526456703/engn-20261111.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "finviz",
-    "date": "Nov-11-26 04:03PM",
-    "title": "enGene to Initiate a BLA Submission for Detalimogene by Year End and Reports New Data from LEGEND Trial Pivotal Cohort 1 in BCG-Unresponsive NMIBC",
-    "url": "https://www.businesswire.com/news/home/20261111573459/en/"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-11-26 03:01PM",
-    "title": "enGene Appoints Key Executives in Anticipation of Upcoming Regulatory and Commercial Milestones",
-    "url": "https://finviz.com/news/421225/engene-appoints-key-executives-in-anticipation-of-upcoming-regulatory-and-commercial-milestones"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 11 Nov 2026 22:35:08 GMT",
-    "title": "enGene Therapeutics Inc. (ENGN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFSWk3cnBKangxa1RBWWtMUXdiQVNhV3F4cTUyTElLaFZqU3ZneF94UHowTF9naUNTRXhjNWU1djlJaTM2ZmExTEg5dVRjdmxJUkE?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 12 Nov 2026 03:09:23 GMT",
-    "title": "enGene Therapeutics Inc. (ENGN) Discusses Updated LEGEND Data and Regulatory Path for Detalimogene - Slideshow (NASDAQ:ENGN) 2026-11-11 - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHhNMXhKRGpRWGVIZ2hBd0hCRkkzOVR4LTR0X19lOE1MSDc1bDZNd1ZiQkxTWm1nLUtISTVZRVUwTEhRVjRTN2J5dVFzSlQxTExLWDlMM0N3THpTRGtrSV9aZm40bnljS1hSNjI2dXQyMmFRZkhuZC0tcExiR0xRWG02QWlORFBQWXltUmZqc2c1YVJQUTlONFV4azQ3RmhXLWhKU3lKNGxhQm9lMHNaMU1YUldpZF9WNV9hTGgxOG5aLVNCTzhTSUdoTUMxRTUxLXQtcDBKS0lGdnVlYzc3VTdn?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 12 Nov 2026 12:26:52 GMT",
-    "title": "enGene Therapeutics upgraded by Piper Sandler with a new price target - Quantisnow",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDhBZ1ZIdmZhWEpsUGlHN3h2WlVzOUJ3blNQcEdfYU5lUUlVbHA5NkVjMHJXWG9pdzdBMUpvVzZ0WkRyWnVrOXFLQlNyV3BRQ1AxUWZVcEFRb3k4eW8zVEE5aHdqcjNnUm41eU9xcDZqVUJJU2lHaEFwbldVaXZ0S0tub1JHcHFjTUdhMko2djFWOXh2S2VKZjFPZ005bXBiN093dnBCbEU?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 11 Nov 2026 21:12:20 GMT",
-    "title": "enGene Therapeutics Inc. (ENGN) stock price, news, quote and history - Yahoo Finance Australia",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAydy1ieHJ2X3NJSVhwYzRTYkxXbW10NjF0OHd3MTVZOUc2dW9jc1hKeGhkSmFxZDFqaVNjcThVb2VNTklubXNnOUFHaDNDSzlBTFE?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 11 Nov 2026 21:01:00 GMT",
-    "title": "enGene Appoints Key Executives in Anticipation of Upcoming Regulatory and Commercial Milestones - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2lpcEhRZUlocjVNQWhZVzNFWkZOaVhQREpSaXdGdUZEeGVsQ1k2VVU1YzZlLWJ4a2xSWTlwNzFBbEU5cDVBLXNHczlDdTEweXdOQ3FqTW93VDFiN09pbXBRcnhVUFRZYmhlLXUzTnNpcXNoRHJLRGZDSjdWNXFhOEVzSmI2WUxVVzlPLUlFZjU1ZTRoWmZPRVVWakNWekY1akROaU1jcFZlX016bDdYZnp2alM?oc=5"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "upgrade",
-   "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
@@ -317,6 +121,183 @@
   "pre_tier": "A?",
   "pre_tier_hits": [
    "contract .*\\$[\\d.]+ ?(million|billion)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AVEX": {
+  "ticker": "AVEX",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "AEVEX (AVEX) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/aevex-avex-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 08:20AM",
+    "title": "Aevex Is More Than a Play on the War in Ukraine. The Ailing Stock Sees Better Days Ahead.",
+    "url": "https://www.barrons.com/articles/aevex-earnings-stock-price-20025f46?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 03:52AM",
+    "title": "Why Is AVEX Stock Surging 15% Overnight Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-avex-stock-surging-15-085220289.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 09:46PM",
+    "title": "Aevex: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aevex-q3-earnings-snapshot-024638451.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:41PM",
+    "title": "AEVEX's Tax-Driven EPS Miss Hides A Revenue Beat And Third Raise, But Shrinking Ukraine Sales Keep The Stock Near Lows",
+    "url": "https://finviz.com/news/421336/aevexs-tax-driven-eps-miss-hides-a-revenue-beat-and-third-raise-but-shrinking-ukraine-sales-keep-the-stock-near-lows"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 05:34PM",
+    "title": "AEVEX shares soar 10% on raised full-year guidance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aevex-shares-soar-10-raised-223443766.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 03:40PM",
+    "title": "AEVEX Corp. Announces Financial Results for Third Quarter 2026",
+    "url": "https://finviz.com/news/421279/aevex-corp-announces-financial-results-for-third-quarter-2026"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 04:08AM",
+    "title": "Franko-Nevada headlines Wednesday's earnings slate",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-scandal-hotter-than-expected-cpi-coreweave/card/franko-nevada-headlines-wednesday-s-earnings-slate-R4NeItAeY589GKuzg986?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 04:01AM",
+    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rise as investors seek to move past hotter-than-expected CPI; CoreWeave shares jump: live updates",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-scandal-hotter-than-expected-cpi-coreweave?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 05:30AM",
+    "title": "AEVEX Secures Nearly $400 Million IDIQ Award for Unmanned Aircraft Systems",
+    "url": "https://finviz.com/news/419802/aevex-secures-nearly-400-million-idiq-award-for-unmanned-aircraft-systems"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "TTEK": {
+  "ticker": "TTEK",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "title": "8-K 2.02,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/831641/000110465926125600/tm2629545d1_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 11, 2026",
+    "title": "Tetra Tech Q4 Profit Rises 3% ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/tetra-tech-q4-profit-rises-3"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 11, 2026",
+    "title": "Tetra Tech (TTEK) Tops Q4 Earnings and Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/tetra-tech-ttek-tops-q4-earnings-and-revenue-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 04:24PM",
+    "title": "Tetra: Fiscal Q4 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tetra-fiscal-q4-earnings-snapshot-212458521.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 03:00PM",
+    "title": "Tetra Tech Reports Strong Fourth Quarter and Fiscal Year 2026 Results",
+    "url": "https://finviz.com/news/421227/tetra-tech-reports-strong-fourth-quarter-and-fiscal-year-2026-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ANNA": {
+  "ticker": "ANNA",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1845123/000184512326000005/anna-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,5.02,9.01",
+    "title": "8-K 2.02,5.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1845123/000184512326000004/anna-20261109.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "AleAnna, Inc Reveals Climb In Q3 Bottom Line ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/aleanna-inc-reveals-climb-q3-bottom-line"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 06:45AM",
+    "title": "AleAnna, Inc. Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/421448/aleanna-inc-reports-third-quarter-2026-results"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 12 Nov 2026 11:52:48 GMT",
+    "title": "AleAnna, Inc. (ANNA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mb0FNV3BrT0tuZVFXR3BLN1VsOHZRRHhvcDcyd1FDMG0wZFk4dUdTOTdFcXNHaEZyWGZtZVpFM2tkZXZtS08zZXlCOU1FMXRFTkE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 12 Nov 2026 11:48:21 GMT",
+    "title": "Higher gas prices lifted AleAnna's quarterly profit to $6.2 million - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnN6d3ZCWjZKYnFBQlhDX21JM28tTDBqU24tNVNhWVZ0UWxOVGxIMHRYTnBxUG1vNTRnMG5BaDBsT05yMUhSVDhHMnNJai03UE1IdllLWFd5djNhZzFvTlN3ZE1sd2xGT3RlWEYySlY2bVJEam1LUnFFbDBWeG91dHV0WlFQUVBPRV9yT1ZGcmY4M0VrQW03M2J3?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
