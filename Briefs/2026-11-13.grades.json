@@ -1,55 +1,63 @@
 {
- "XLAB": {
-  "tier": "unknown",
+ "MRLN": {
+  "tier": "A",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "chart fail: neglect 59.0 (extended/collapsed pre-gap)",
-   "volume: 0.1x ADV (premarket)",
-   "catalyst unknown \u2014 capped 3\u2605, recheck"
+   "chart fail: neglect 48.0 (extended/collapsed pre-gap)"
   ],
-  "snapshot_et": "2026-11-13 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
+ },
+ "LFTO": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.28x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
  },
  "MOD": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)"
+   "volume: 0.22x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-13 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
  },
  "CBRS": {
   "tier": "A",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)"
+   "volume: 0.14x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-13 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
  },
- "RZLT": {
-  "tier": "C",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": [
-   "Gate 4 fail (dollar-vol<10M(proj))"
-  ],
-  "snapshot_et": "2026-11-13 07:47",
-  "label": "v1"
- },
- "SLS": {
+ "SHIM": {
   "tier": "B",
   "grade": 1,
   "verdict": "NO TRADE",
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-13 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
+ },
+ "RZLT": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
  },
  "DGXX": {
   "tier": "B",
@@ -58,8 +66,78 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-13 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
+ },
+ "NEOV": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
+ },
+ "NMAX": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
+ },
+ "NUAI": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
+ },
+ "LFMD": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
+ },
+ "HAWK": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
+ },
+ "TMC": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
+ },
+ "TNDM": {
+  "tier": "unknown",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
  },
  "SES": {
   "tier": "B",
@@ -68,7 +146,7 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-13 07:47",
-  "label": "v1"
+  "snapshot_et": "2026-11-13 10:32",
+  "label": "v2"
  }
 }

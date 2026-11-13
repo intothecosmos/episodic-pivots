@@ -1,7 +1,17 @@
 {
-  "CBRS": {"tier": "A", "grade": 3, "verdict": "WATCH", "why": "Q3 core revenue $230.9M (+70%) vs $214.7M consensus; Q4 core guide $310-330M vs $274.9M street; FY26 core revenue raised to $940-960M from $880-890M; first core profit ($29.8M); Microsoft cloud deal disclosed. Tier A base 4 minus 1 for Gate 3 fail (0.04x ADV premarket, large-cap under-read) = 3; overhead 84%. Upgrade to 4/TRADE only if 9:45 volume >=1x ADV. Regime red: half size or skip."},
-  "MOD": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Bloomberg: Samsung in talks to acquire Modine; no price, no decision, 'coming weeks'. Acquisition target is not an EP. Volume 0.04x ADV premarket."},
-  "XLAB": {"tier": "Unknown", "grade": 1, "verdict": "NO TRADE", "why": "No fresh catalyst; day-2 momentum after +32.7% on the Nov 3/9 $9.04M Compal B300 server order. Chart fail (neglect 59, -79% 6m, 51% overhead) caps at 2; volume 0.1x ADV and record ratio 0.0 -> 1. ADR 35% on a $2.52 stock. 424B3 resale prospectus outstanding."},
-  "RZLT": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Positive prelim Phase 3 upLIFT (13/16 responders, no p-value until mid-Dec) paired with a ~$100M underwritten offering priced at $3.87 (22.04M shares + 3.8M pre-funded warrants, ~31% of float, no premium). Offering = Tier C -> 1. Gate 4 fail ($3.6M projected dollar volume)."},
-  "SLS": {"tier": "Unknown", "grade": 1, "verdict": "NO TRADE", "why": "Q3 results with no news beyond REGAL Phase 3 AML topline 'this month' - pre-event run into a binary readout inside the window, not an EP. Gate 4 fail ($6.3M projected dollar volume), volume 0.04x ADV. Cash $134.7M; shares out 153M->203M YTD."}
+  "CBRS": {"tier": "A", "grade": 4, "verdict": "TRADE", "why": "Record Q3, beat, Q4 guide ~17% above street, FY raised, Microsoft deal. Gate 3 now passes on live tape (~3x ADV after 67 min, projected ~5.8x record day). Overhead 90%, gap faded below open; entry only on ORH 120.44 reclaim; 5-min OR stop exceeds 1.0x ADR so size down. Regime red: half size or skip."},
+  "LFTO": {"tier": "A", "grade": 4, "verdict": "WATCH", "why": "Q3 $237.5M +32%, EBITDA $145M, well above guidance, FY raised. Volume 1.7x by 9:45, 4.1x after 67 min; chart pass. 180-day IPO lock-up (~96% of pre-IPO stock, ~4x float) expires ~2026-12-01 inside the window -> event cap WATCH. ORH break to 24.70 failed; now near OR low 22.51."},
+  "MRLN": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Q3 revenue $3.5M +80% on tiny base; GAAP profit is a $103.6M warrant mark; adj EBITDA -$24M. Chart fail (neglect 48, -93% from high, 86% overhead) caps at 2 stars. Volume strong (5.2x by 9:45). PIPE resale 424B3s filed today."},
+  "MOD": {"tier": "n/a", "grade": 1, "verdict": "NO TRADE", "why": "Bloomberg report Samsung in talks to acquire Modine. Cash takeover target is not an EP. Volume would have passed; faded from 146.50 to ~135.8."},
+  "SHIM": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Q3 return to profit ($0.02 EPS) on revenue -4% y/y, FY revenue guide cut again. Gate 4 fail: $0.9M projected dollar volume on card, ~$8M live; float 10.7M. Gap already sold below OR low."},
+  "RZLT": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Confirmed Tier C from v1: ~$100M underwritten offering priced at $3.87 on top of positive Phase 3 upLIFT data; Gate 4 fail. Trading below offering price."},
+  "DGXX": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (dollar volume < $10M). Not read."},
+  "NEOV": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (dollar volume < $10M). Not read."},
+  "NMAX": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (dollar volume < $10M). Not read."},
+  "NUAI": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (dollar volume < $10M). Not read."},
+  "LFMD": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (dollar volume < $10M); heuristic Tier C. Not read."},
+  "HAWK": {"tier": "A", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (dollar volume < $10M); Tier A is a heuristic hit only. Not read."},
+  "TMC": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (dollar volume < $10M). Not read."},
+  "TNDM": {"tier": "unknown", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (dollar volume < $10M). Not read."},
+  "SES": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Gate 4 fail (dollar volume < $10M). Not read."}
 }

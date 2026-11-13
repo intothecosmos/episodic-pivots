@@ -19,6 +19,12 @@
    },
    {
     "src": "finviz",
+    "date": "Nov-13-26 08:37AM",
+    "title": "Samsung Eyeing Deal To Buy Data Center Supplier Modine; Stock Soars 35%",
+    "url": "https://www.investors.com/news/samsung-modine-manufacturing-ai-data-center?mod=IBD_FV"
+   },
+   {
+    "src": "finviz",
     "date": "Nov-13-26 07:41AM",
     "title": "Modine Stock On Pace for Best Day in 6 Years as Samsung Eyes Data-Center Cooling Provider",
     "url": "https://www.barrons.com/articles/modine-stock-samsung-ai-data-centers-d99df226?mod=bar_FV"
@@ -49,13 +55,13 @@
    },
    {
     "src": "finviz",
-    "date": "Nov-12-26 08:30AM",
+    "date": "Nov-11-26 08:30AM",
     "title": "Modine Begins Airedale Chiller Production at New 682,000-Square-Foot Texas Facility for Data Centers",
     "url": "https://finviz.com/news/420971/modine-begins-airedale-chiller-production-at-new-682000-square-foot-texas-facility-for-data-centers"
    },
    {
     "src": "finviz",
-    "date": "Nov-12-26 07:00AM",
+    "date": "Nov-11-26 07:00AM",
     "title": "Production of Airedale Chillers for Data Center Customers Begins at New Texas Facility",
     "url": "https://finviz.com/news/420849/production-of-airedale-chillers-for-data-center-customers-begins-at-new-texas-facility"
    }
@@ -63,6 +69,582 @@
   "pre_tier": "B?",
   "pre_tier_hits": [
    "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SHIM": {
+  "ticker": "SHIM",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1887944/000119312526458353/shim-20261002.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1887944/000119312526458344/shim-20261112.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 13, 2026",
+    "title": "Shimmick (SHIM) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/shimmick-shim-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "Shimmick Corporation (SHIM) Tops Q3 Earnings Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/shimmick-corporation-shim-tops-q3-earnings-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 06:54PM",
+    "title": "Shimmick's Profit Inflection Collides With A Third Revenue Cut And A Bookings Air Pocket",
+    "url": "https://finviz.com/news/422389/shimmicks-profit-inflection-collides-with-a-third-revenue-cut-and-a-bookings-air-pocket"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:05PM",
+    "title": "Shimmick Corporation Announces Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/422141/shimmick-corporation-announces-third-quarter-2026-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "MRLN": {
+  "ticker": "MRLN",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "424B3",
+    "items": "",
+    "title": "424B3",
+    "url": "https://www.sec.gov/Archives/edgar/data/2028707/000162828026073595/merlinpipeprospectussupple.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "424B3",
+    "items": "",
+    "title": "424B3",
+    "url": "https://www.sec.gov/Archives/edgar/data/2028707/000162828026073594/merlinpipeprospectussupple.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2028707/000162828026073408/mrln-20261112.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/2028707/000162828026073397/mrln-20260930.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 06:51PM",
+    "title": "Merlin's Revenue Beat And Longer Runway Can't Mask A Wider Loss And A Strategic Retreat",
+    "url": "https://finviz.com/news/422360/merlins-revenue-beat-and-longer-runway-cant-mask-a-wider-loss-and-a-strategic-retreat"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:05PM",
+    "title": "Merlin, Inc. Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/422143/merlin-inc-reports-third-quarter-2026-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-11-26 07:30AM",
+    "title": "Merlin Awarded Contract for U.S. Africa Command Autonomous Casualty Evacuation Technology Challenge",
+    "url": "https://finviz.com/news/420894/merlin-awarded-contract-for-us-africa-command-autonomous-casualty-evacuation-technology-challenge"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 08:05AM",
+    "title": "Merlin Awarded $8.9 Million Task Order To Advance USSOCOM C-130J Autonomy Program from Design Into Integration",
+    "url": "https://finviz.com/news/420022/merlin-awarded-89-million-task-order-to-advance-ussocom-c-130j-autonomy-program-from-design-into-integration"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "awarded .*\\$[\\d.]+ ?(million|billion)",
+   "contract .*\\$[\\d.]+ ?(million|billion)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "NMAX": {
+  "ticker": "NMAX",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000072/nmax-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,5.02,7.01,9.01",
+    "title": "8-K 2.02,5.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/nmax-20261106.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 13, 2026",
+    "title": "Newsmax (NMAX) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/newsmax-nmax-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 06:51PM",
+    "title": "Newsmax Beats On A $14 Million One-Time Fee, But Record Underlying Growth Meets Unchanged Core Guidance",
+    "url": "https://finviz.com/news/422359/newsmax-beats-on-a-14-million-one-time-fee-but-record-underlying-growth-meets-unchanged-core-guidance"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:15PM",
+    "title": "Newsmax: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/newsmax-q3-earnings-snapshot-211502918.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:05PM",
+    "title": "Newsmax Announces Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/422076/newsmax-announces-third-quarter-2026-financial-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "LFTO": {
+  "ticker": "LFTO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1850351/000162828026073522/lfto-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1850351/000162828026073379/lfto-20261112.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 08:23AM",
+    "title": "This AI Advertising Stock Is Having Its Best Day Ever. Analysts Say Price Could Double.",
+    "url": "https://www.barrons.com/articles/liftoff-mobile-earnings-stock-price-1cbec0c9?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 07:44PM",
+    "title": "Liftoff Mobile Crushes Q3 And Raises The Year, But Decelerating Growth Keeps The Debate Alive",
+    "url": "https://finviz.com/news/422421/liftoff-mobile-crushes-q3-and-raises-the-year-but-decelerating-growth-keeps-the-debate-alive"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:25PM",
+    "title": "Liftoff: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/liftoff-q3-earnings-snapshot-212507540.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:03PM",
+    "title": "Liftoff Mobile Announces Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/422072/liftoff-mobile-announces-third-quarter-2026-financial-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "DGXX": {
+  "ticker": "DGXX",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026119211/ea0312121-8k_digi.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 09:05AM",
+    "title": "Digi Power X revenue jumps 50% as AI business accounts for nearly half of sales",
+    "url": "https://finance.yahoo.com/technology/ai/articles/digi-power-x-revenue-jumps-140500522.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 07:30AM",
+    "title": "Digi Power X Reports Q3 2026 Revenue Up 85% and AI Revenue Up Over 400% Compared to Q2",
+    "url": "https://finviz.com/news/422511/digi-power-x-reports-q3-2026-revenue-up-85-and-ai-revenue-up-over-400-compared-to-q2"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 12 Nov 2026 18:57:29 GMT",
+    "title": "Digi Power X Inc. (DGXX) stock price, news, quote and history - Yahoo Finance Australia",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfVm9RMnhEaEFaNW9LOXlHazZKYU4tbWFsVHJIMWhzZ1ZfVFFqbmY2ZTd0ZkZLbS1fVGhCZl9yZGlja1NhQ1Jqc0FEOGI1SzkwdFE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 13 Nov 2026 12:50:00 GMT",
+    "title": "Digi Power X DGXX Q3 Revenue Rises 85% to $12.25 Million - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1N0UU55TlhBUWQ5d29WcHhfUkdqY2pmVVlpbDJ4aGFScjNwaWVOQ3NobWJrU1dmYm83ejZINGlwX2VwcVRoZzVZU3JUbXh5bTJoeW9VT05IRmRkaWRvWk54LXc1VFNZSTZxY2dqU0VwQ1RJbVB5NTZ4VEtmZy1yOXh6TnFGVzNzcHc1MWs4andBVmtZMWpQaA?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "RZLT": {
+  "ticker": "RZLT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "title": "8-K 7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926126502/tm2627558d10_8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "424B5",
+    "items": "",
+    "title": "424B5",
+    "url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926126478/tm2627558-6_424b5.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 13, 2026",
+    "title": "Rezolute Reports Positive Phase 3 Results For Ersodetug; Prices $100M Offering ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/rezolute-reports-positive-phase-3-results-ersodetug-prices-100m-offering"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 09:23AM",
+    "title": "Rezolute stock rises on positive Phase 3 upLIFT trial results",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rezolute-stock-rises-positive-phase-142335814.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 06:19AM",
+    "title": "Rezolute Announces Pricing of Approximately $100 Million Underwritten Offering of Common Stock and Pre-Funded Warrants",
+    "url": "https://finviz.com/news/422471/rezolute-announces-pricing-of-approximately-100-million-underwritten-offering-of-common-stock-and-pre-funded-warrants"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 06:18AM",
+    "title": "Rezolute Announces Positive Results from the Phase 3 upLIFT Study in Tumor Hyperinsulinism",
+    "url": "https://finviz.com/news/422472/rezolute-announces-positive-results-from-the-phase-3-uplift-study-in-tumor-hyperinsulinism"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "phase 3 .*(met|positive|success)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "NEOV": {
+  "ticker": "NEOV",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1748137/000168316826008635/neovolta_i10q-093026.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1748137/000168316826008619/neovolta_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "NeoVolta, Inc. (NEOV) Reports Q1 Loss, Beats Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/neovolta-inc-neov-reports-q1-loss-beats-revenue-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 08:30AM",
+    "title": "NeoVolta Signs $116M Master Purchase Agreement to Deliver Battery Energy Storage Systems in 2027",
+    "url": "https://finviz.com/news/422564/neovolta-signs-116m-master-purchase-agreement-to-deliver-battery-energy-storage-systems-in-2027"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 07:05PM",
+    "title": "NeoVolta Beats As Revenue Rebounds From Near Zero And Backlog Expands, But Factory Delays And Cash Burn Keep Execution Risk In Focus",
+    "url": "https://finviz.com/news/422401/neovolta-beats-as-revenue-rebounds-from-near-zero-and-backlog-expands-but-factory-delays-and-cash-burn-keep-execution-risk-in-focus"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:15PM",
+    "title": "NeoVolta Reports Financial Results for Quarter Ended September 30, 2026",
+    "url": "https://finviz.com/news/422220/neovolta-reports-financial-results-for-quarter-ended-september-30-2026"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "HAWK": {
+  "ticker": "HAWK",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1750704/000175070426000034/hawk-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1750704/000175070426000032/hawk-20261112.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-10",
+    "form": "8-K",
+    "items": "5.02,7.01,9.01",
+    "title": "8-K 5.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1750704/000175070426000029/hawk-20261110.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 13, 2026",
+    "title": "HawkEye 360: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/hawkeye-360-3-key-takeaways-long-term-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 13, 2026",
+    "title": "HawkEye 360 (HAWK) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/hawkeye-360-hawk-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 08:43AM",
+    "title": "HawkEye 360 Raises Outlook on Booming Global Deals and Cheaper Satellites",
+    "url": "https://www.barrons.com/articles/hawkeye-360-earnings-stock-price-6562786d?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 06:48PM",
+    "title": "HawkEye 360 Beats And Raises, But Slowing Organic Growth Keeps The Bounce Off October Lows Contested",
+    "url": "https://finviz.com/news/422366/hawkeye-360-beats-and-raises-but-slowing-organic-growth-keeps-the-bounce-off-october-lows-contested"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:22PM",
+    "title": "HawkEye 360: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hawkeye-360-q3-earnings-snapshot-212229790.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:01PM",
+    "title": "HawkEye 360 Announces Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/422050/hawkeye-360-announces-third-quarter-2026-financial-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 08:00AM",
+    "title": "HawkEye 360 Secures Approximately $135 Million in Global Contracts Reflecting Continued Demand for Signals Intelligence",
+    "url": "https://finviz.com/news/421603/hawkeye-360-secures-approximately-135-million-in-global-contracts-reflecting-continued-demand-for-signals-intelligence"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:05PM",
+    "title": "HawkEye 360 Appoints Former CIA Director Ambassador William J. Burns to Board of Directors",
+    "url": "https://finviz.com/news/420495/hawkeye-360-appoints-former-cia-director-ambassador-william-j-burns-to-board-of-directors"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "LFMD": {
+  "ticker": "LFMD",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/948320/000149315226051463/form10-q.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "1.01,2.02,2.03,3.02,7.01,9.01",
+    "title": "8-K 1.01,2.02,2.03,3.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/948320/000149315226051397/form8-k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "LifeMD, Inc. (LFMD) Reports Q3 Loss, Misses Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/lifemd-inc-lfmd-reports-q3-loss-misses-revenue-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 07:42PM",
+    "title": "LifeMD's Narrower Loss Beats, But A Revenue Miss And Second Guidance Cut Push The Growth Story Out To 2027",
+    "url": "https://finviz.com/news/422416/lifemds-narrower-loss-beats-but-a-revenue-miss-and-second-guidance-cut-push-the-growth-story-out-to-2027"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:05PM",
+    "title": "LifeMD Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/422135/lifemd-reports-third-quarter-2026-results"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "8-K item 3.02 (equity sale)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "TMC": {
+  "ticker": "TMC",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1798562/000162828026073463/tmc-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1798562/000110465926126230/tm2629328d2_8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 13, 2026",
+    "title": "Down 75% From Its High, Is TMC The Metals Company Stock a Buy?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/down-75-its-high-tmc-metals-company-stock-buy"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 13, 2026",
+    "title": "TMC (TMC) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/tmc-tmc-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:02PM",
+    "title": "TMC Provides Third Quarter 2026 Corporate Update",
+    "url": "https://finviz.com/news/422074/tmc-provides-third-quarter-2026-corporate-update"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings",
+   "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
@@ -90,6 +672,13 @@
   "headlines": [
    {
     "src": "Nasdaq",
+    "date": "Nov 13, 2026",
+    "title": "Cerebras (CBRS) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/cerebras-cbrs-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
     "date": "Nov 12, 2026",
     "title": "Compared to Estimates, Cerebras (CBRS) Q3 Earnings: A Look at Key Metrics",
     "publisher": "Zacks",
@@ -101,6 +690,30 @@
     "title": "Should You Buy, Sell, or Hold Cerebras Systems Stock Before Q3 Earnings?",
     "publisher": "Zacks",
     "url": "https://www.nasdaq.com/articles/should-you-buy-sell-or-hold-cerebras-systems-stock-q3-earnings"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 10:03AM",
+    "title": "Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals",
+    "url": "https://finance.yahoo.com/markets/stocks/article/cerebras-stock-surges-after-ai-chipmaker-posts-q3-record-revenue-deals-with-hyperscalers-124719638.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 09:38AM",
+    "title": "Cerebras shares jump 16% as earnings beat and Microsoft deal fuel raised outlook",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-shares-jump-16-earnings-143800780.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 08:56AM",
+    "title": "Cerebras Stock Surges After Microsoft Deal. Can The AI Chipmaker Sustain Its Growth?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-stock-surges-microsoft-deal-135658584.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 08:10AM",
+    "title": "Stock Market Today: Dow Rises Ahead Of Inflation Data; This AI Chipmaker Soars On Earnings News (Live Coverage)",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ppi-inflation-data-cerebras-earnings?mod=IBD_FV"
    },
    {
     "src": "finviz",
@@ -149,36 +762,6 @@
     "date": "Nov-12-26 04:28PM",
     "title": "Cerebras: Q3 Earnings Snapshot",
     "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-q3-earnings-snapshot-212820377.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 04:05PM",
-    "title": "Cerebras Systems Delivers Record Revenue in Third Quarter 2026, Raises Full-Year Outlook",
-    "url": "https://finviz.com/news/422151/cerebras-systems-delivers-record-revenue-in-third-quarter-2026-raises-full-year-outlook"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 03:08PM",
-    "title": "Cerebras Earnings Must Prove the Chip Maker Can Expand Beyond OpenAI",
-    "url": "https://www.barrons.com/articles/cerebras-earnings-stock-price-3bad09cc?mod=bar_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 02:52PM",
-    "title": "Dow, S&P 500, Nasdaq turn lower as Nvidia CEO resignation triggers choppy trading",
-    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-sp500-down-nvidia-dive-huang-affair-ouster-dow-flat/card/dow-s-p-500-nasdaq-turn-lower-as-nvidia-ceo-resignation-triggers-choppy-trading-E2ylRBt9hFYJmsPVhzbn?mod=mw_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 05:00AM",
-    "title": "Cisco Systems headlines earnings slate",
-    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-sp500-down-nvidia-dive-huang-affair-ouster-dow-flat/card/cisco-systems-headlines-earnings-slate-nXELQBCk79dqpvVAQed8?mod=mw_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-12-26 12:06AM",
-    "title": "NVDA Fallout Pressures Tech Trade As Investors Turn To Cerebras, Applied Materials For Chip Demand Cues",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-fallout-pressures-tech-trade-050603635.html"
    }
   ],
   "pre_tier": "A?",
@@ -240,188 +823,111 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "SLS": {
-  "ticker": "SLS",
+ "NUAI": {
+  "ticker": "NUAI",
   "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-12",
-    "form": "8-K",
-    "items": "2.02,9.01",
-    "title": "8-K 2.02,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1390478/000139047826000021/sls-20261112.htm"
-   },
    {
     "src": "SEC",
     "date": "2026-11-12",
     "form": "10-Q",
     "items": "",
     "title": "10-Q",
-    "url": "https://www.sec.gov/Archives/edgar/data/1390478/000139047826000020/sls-20260930.htm"
+    "url": "https://www.sec.gov/Archives/edgar/data/2028336/000119312526456806/nuai-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026118324/ea0311947-8k_newera.htm"
    }
   ],
   "headlines": [
    {
-    "src": "finviz",
-    "date": "Nov-13-26 06:01AM",
-    "title": "Futures Edge Lower As NVDA Fallout Unsettles Tech Stocks  SLS, AMAT, CSCO, CADL Stocks In Focus",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/futures-edge-lower-nvda-fallout-110121361.html"
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "New Era Energy (NUAI) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/new-era-energy-nuai-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "New Era Energy & Digital, Inc. (NUAI) Reports Q3 Loss, Beats Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/new-era-energy-digital-inc-nuai-reports-q3-loss-beats-revenue-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Meren Energy (MRNFF) Meets Q3 Earnings Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/meren-energy-mrnff-meets-q3-earnings-estimates"
    },
    {
     "src": "finviz",
-    "date": "Nov-12-26 08:13PM",
-    "title": "SLS Stock Surges After-Hours: Sellas Says 'Transformative' Phase 3 AML Results Are Coming This Month",
-    "url": "https://finance.yahoo.com/healthcare/articles/sls-stock-surges-hours-sellas-011340627.html"
+    "date": "Nov-12-26 09:47AM",
+    "title": "New Era Energy & Digital Misses On EPS As TCDC De-Risks On Paper But Takes On More Execution Risk",
+    "url": "https://finviz.com/news/421854/new-era-energy-digital-misses-on-eps-as-tcdc-de-risks-on-paper-but-takes-on-more-execution-risk"
    },
    {
     "src": "finviz",
-    "date": "Nov-12-26 04:05PM",
-    "title": "SELLAS Life Sciences Reports Third Quarter 2026 Financial Results and Provides Corporate Update",
-    "url": "https://finviz.com/news/422170/sellas-life-sciences-reports-third-quarter-2026-financial-results-and-provides-corporate-update"
+    "date": "Nov-12-26 09:18AM",
+    "title": "New Era Energy & Digital contracts up to 207 MW of power for Texas data center campus",
+    "url": "https://finance.yahoo.com/energy/articles/era-energy-digital-contracts-207-141800753.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-10-26 08:35PM",
-    "title": "SLS Stock Rises After-Hours: State Street Reveals Over 5% Stake  And One Fund Manager Boosted Holdings By Nearly 1,000%",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-rises-hours-state-013559681.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-10-26 12:08AM",
-    "title": "SLS Stock Rises Overnight: Retail Bets The Regal Wait Is Almost Over  Heres What Wall Street Expects From Earnings",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-rises-overnight-retail-050851403.html"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-10-26 03:33AM",
-    "title": "Barclays, Deutsche Bank Reveal Stakes In Retail-Favorite Cancer Stocks SLS, IBRX And IOVA  Geode Adds More",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-deutsche-bank-reveal-stakes-083352520.html"
+    "date": "Nov-12-26 06:30AM",
+    "title": "New Era Energy & Digital Provides Business Update and Reports Q3 2026 Results",
+    "url": "https://finviz.com/news/421434/new-era-energy-digital-provides-business-update-and-reports-q3-2026-results"
    }
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
-   "reports (first|second|third|fourth) quarter",
+   "contract",
    "earnings",
-   "stake",
+   "revenue",
    "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "RZLT": {
-  "ticker": "RZLT",
+ "TNDM": {
+  "ticker": "TNDM",
   "filings": [
    {
     "src": "SEC",
     "date": "2026-11-13",
     "form": "8-K",
-    "items": "7.01,8.01,9.01",
-    "title": "8-K 7.01,8.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926126502/tm2627558d10_8k.htm"
-   },
-   {
-    "src": "SEC",
-    "date": "2026-11-13",
-    "form": "424B5",
-    "items": "",
-    "title": "424B5",
-    "url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926126478/tm2627558-6_424b5.htm"
+    "items": "8.01",
+    "title": "8-K 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000148/tndm-20261112.htm"
    }
   ],
   "headlines": [
    {
     "src": "finviz",
-    "date": "Nov-13-26 06:19AM",
-    "title": "Rezolute Announces Pricing of Approximately $100 Million Underwritten Offering of Common Stock and Pre-Funded Warrants",
-    "url": "https://finviz.com/news/422471/rezolute-announces-pricing-of-approximately-100-million-underwritten-offering-of-common-stock-and-pre-funded-warrants"
+    "date": "Nov-13-26 10:11AM",
+    "title": "Tandem Diabetes stock jumps 8% on FDA clearance for tubeless pump",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tandem-diabetes-stock-jumps-8-151136631.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-13-26 06:18AM",
-    "title": "Rezolute Announces Positive Results from the Phase 3 upLIFT Study in Tumor Hyperinsulinism",
-    "url": "https://finviz.com/news/422472/rezolute-announces-positive-results-from-the-phase-3-uplift-study-in-tumor-hyperinsulinism"
+    "date": "Nov-13-26 07:30AM",
+    "title": "Tandem Mobi Now FDA Cleared as World's First and Only Tubeless AID System with up to Seven Days of Wear",
+    "url": "https://finviz.com/news/422583/tandem-mobi-now-fda-cleared-as-worlds-first-and-only-tubeless-aid-system-with-up-to-seven-days-of-wear"
    },
    {
-    "src": "GoogleNews",
-    "date": "Fri, 13 Nov 2026 11:31:59 GMT",
-    "title": "RZLT: Rezolute prices about $100M stock and pre-funded warrant offering - Quantisnow",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXVBZHRwODA2Z05Dc05Tb1pObnhWakpPQ3puUG9jZTgxUVpxV1FwWGFVUGdWOWxKRnJka1RjaDBuTk1janNqRi1CYTBiNWxOX3MyaHZfWS1WeHVSUVY5Z3FCeGF5LWtPdHBJZ3lBY3lKbXBGd2pfLVBMZU1MZklHM1BoSQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 13 Nov 2026 11:21:35 GMT",
-    "title": "Warrants in Rezolute (RZLT)'s stock offering carry a $0.001 exercise price, with no listing planned. - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDBCYzhDdWZVUFNfbnZUcXpiSHlvUklOUHdkR1FOaTJveFlZNXU1dDZEVU95emRiNlowRDFaYU5LYWhKZGQ2WkpWeFB4cGxIdUNhSTFsUUMtdTVKYnlwNHltcG0ySk90WWlRNkJyY2J0VlhHUFowUlBFTDE2UnVVNERMeWlYWElhekJHUlZWX3VaYkJCSjU4dmRpdUZYS01zSWgxTkZ5OEFoTDliNmI5eDI1WVRRWDBjeEE?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 12 Nov 2026 11:05:01 GMT",
-    "title": "Rezolute, Inc. SEC Filing (Nov 12, 2026) - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDVxVWJrZTZWRTBlaFA0SmlzekE0aW9HTDgwRlQxbld4M25oSmZjTVR5STBYOEJPcU1MUV82VDItRUlDLXl5VWZRSXQ0ZURQSUpYd01jeUh6VS1ndGhFakhjNWdXTFZOWndDZHJrd3lEMHd4WDdqdld0dnBlQllyQ3o0TF9hdVZuYkZ6Zmw4VUFfU2NpT0hN?oc=5"
-   }
-  ],
-  "pre_tier": "C?",
-  "pre_tier_hits": [
-   "pricing of",
-   "warrant",
-   "prospectus/registration filed (offering?)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "XLAB": {
-  "ticker": "XLAB",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 12 Nov 2026 20:40:23 GMT",
-    "title": "Exascale Labs Holdings Inc. (XLAB) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0SkZVczF6NmRwZEpodEllLXlnRjZIeExrMGJxSFdpeVl3RmxBanFYREh3Zlp4NHFRMk1XWF9XVWplbFk0cmtCWHhJMy15ZTdPTEE?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 10 Nov 2026 12:54:00 GMT",
-    "title": "Exascale Labs Holdings Inc. (XLAB) Stock Price | Live Quotes & Charts | NASDAQ - Timothy Sykes",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Gd1Uwenotdm1xUFZ5RGppZFl1am9XRDYxTE9FdlE2ZGNtdmVueWwtUmtURmdTcmRaazV2bkQ2QTZfclVrbnI0ZDlzdWY?oc=5"
+    "src": "finviz",
+    "date": "Nov-12-26 07:30AM",
+    "title": "Tandem Diabetes Care Receives Multiple Health Canada Approvals for t:slim X2 Insulin Pump",
+    "url": "https://finviz.com/news/421736/tandem-diabetes-care-receives-multiple-health-canada-approvals-for-t-slim-x2-insulin-pump"
    }
   ],
   "pre_tier": "unknown",
   "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "DGXX": {
-  "ticker": "DGXX",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-13",
-    "form": "8-K",
-    "items": "2.02,9.01",
-    "title": "8-K 2.02,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026119211/ea0312121-8k_digi.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "finviz",
-    "date": "Nov-13-26 07:30AM",
-    "title": "Digi Power X Reports Q3 2026 Revenue Up 85% and AI Revenue Up Over 400% Compared to Q2",
-    "url": "https://finviz.com/news/422511/digi-power-x-reports-q3-2026-revenue-up-85-and-ai-revenue-up-over-400-compared-to-q2"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 12 Nov 2026 18:57:29 GMT",
-    "title": "Digi Power X Inc. (DGXX) stock price, news, quote and history - Yahoo Finance Australia",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfVm9RMnhEaEFaNW9LOXlHazZKYU4tbWFsVHJIMWhzZ1ZfVFFqbmY2ZTd0ZkZLbS1fVGhCZl9yZGlja1NhQ1Jqc0FEOGI1SzkwdFE?oc=5"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "revenue",
-   "8-K item 2.02 (earnings)"
-  ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  }
