@@ -1,0 +1,428 @@
+{
+ "MOD": {
+  "ticker": "MOD",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 11, 2026",
+    "title": "Is Most-Watched Stock Modine Manufacturing Company (MOD) Worth Betting on Now?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/most-watched-stock-modine-manufacturing-company-mod-worth-betting-now"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Modine Manufacturing Consensus Price Target Lowered by 17.84% to $255.03",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/modine-manufacturing-consensus-price-target-lowered-1784-25503"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 07:41AM",
+    "title": "Modine Stock On Pace for Best Day in 6 Years as Samsung Eyes Data-Center Cooling Provider",
+    "url": "https://www.barrons.com/articles/modine-stock-samsung-ai-data-centers-d99df226?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 05:32AM",
+    "title": "Cerebras rebounds after earnings, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-ceo-jensen-huang-resigns-ppi-inflation-data/card/cerebras-rebounds-after-earnings-and-other-early-market-movers-3sYMt7dljp5D7eyxQaIb?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 08:23PM",
+    "title": "Why Is MOD Stock Soaring 28% Overnight Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-mod-stock-soaring-28-012340691.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 07:58PM",
+    "title": "Samsung in talks to buy data center cooling firm Modine, Bloomberg reports",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-talks-buy-data-center-005809830.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 09:15AM",
+    "title": "Modine to Host Analyst and Investor Day on November 18, 2026",
+    "url": "https://finviz.com/news/421828/modine-to-host-analyst-and-investor-day-on-november-18-2026"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 08:30AM",
+    "title": "Modine Begins Airedale Chiller Production at New 682,000-Square-Foot Texas Facility for Data Centers",
+    "url": "https://finviz.com/news/420971/modine-begins-airedale-chiller-production-at-new-682000-square-foot-texas-facility-for-data-centers"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 07:00AM",
+    "title": "Production of Airedale Chillers for Data Center Customers Begins at New Texas Facility",
+    "url": "https://finviz.com/news/420849/production-of-airedale-chillers-for-data-center-customers-begins-at-new-texas-facility"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CBRS": {
+  "ticker": "CBRS",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073494/cbrs-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/cbrs-20261112.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "Compared to Estimates, Cerebras (CBRS) Q3 Earnings: A Look at Key Metrics",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/compared-estimates-cerebras-cbrs-q3-earnings-look-key-metrics"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 10, 2026",
+    "title": "Should You Buy, Sell, or Hold Cerebras Systems Stock Before Q3 Earnings?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/should-you-buy-sell-or-hold-cerebras-systems-stock-q3-earnings"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 07:27AM",
+    "title": "Premarket movers: Modine surges; Cerebras jumps on Microsoft deal",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-modine-surges-cerebras-122705039.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 06:17AM",
+    "title": "Why Is Cerebras Systems Stock Surging Today?",
+    "url": "https://finviz.com/news/422469/why-is-cerebras-systems-stock-surging-today"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 05:32AM",
+    "title": "Cerebras rebounds after earnings, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-ceo-jensen-huang-resigns-ppi-inflation-data/card/cerebras-rebounds-after-earnings-and-other-early-market-movers-3sYMt7dljp5D7eyxQaIb?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 09:42PM",
+    "title": "Cerebras lifts third-quarter revenue 55% as cloud inference overtakes hardware sales",
+    "url": "https://www.digitimes.com/news/a20261113VL212/cerebras-cloud-business-hardware-revenue-sales.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 07:43PM",
+    "title": "Cerebras Swings To A Core Profit And Raises Guidance Again, But OpenAI Delays And A 54% Drawdown Set Up A Credibility Test",
+    "url": "https://finviz.com/news/422423/cerebras-swings-to-a-core-profit-and-raises-guidance-again-but-openai-delays-and-a-54-drawdown-set-up-a-credibility-test"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 05:33PM",
+    "title": "Nvidia Rival Cerebras Rallies 13% After-Hours As Q4 Sales Forecast Blows Past Estimates",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-rival-cerebras-rallies-13-223307284.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 05:14PM",
+    "title": "Cerebras Systems soars on raised revenue guidance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-soars-raised-revenue-221427915.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:28PM",
+    "title": "Cerebras: Q3 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-q3-earnings-snapshot-212820377.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:05PM",
+    "title": "Cerebras Systems Delivers Record Revenue in Third Quarter 2026, Raises Full-Year Outlook",
+    "url": "https://finviz.com/news/422151/cerebras-systems-delivers-record-revenue-in-third-quarter-2026-raises-full-year-outlook"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 03:08PM",
+    "title": "Cerebras Earnings Must Prove the Chip Maker Can Expand Beyond OpenAI",
+    "url": "https://www.barrons.com/articles/cerebras-earnings-stock-price-3bad09cc?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 02:52PM",
+    "title": "Dow, S&P 500, Nasdaq turn lower as Nvidia CEO resignation triggers choppy trading",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-sp500-down-nvidia-dive-huang-affair-ouster-dow-flat/card/dow-s-p-500-nasdaq-turn-lower-as-nvidia-ceo-resignation-triggers-choppy-trading-E2ylRBt9hFYJmsPVhzbn?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 05:00AM",
+    "title": "Cisco Systems headlines earnings slate",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-sp500-down-nvidia-dive-huang-affair-ouster-dow-flat/card/cisco-systems-headlines-earnings-slate-nXELQBCk79dqpvVAQed8?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 12:06AM",
+    "title": "NVDA Fallout Pressures Tech Trade As Investors Turn To Cerebras, Applied Materials For Chip Demand Cues",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-fallout-pressures-tech-trade-050603635.html"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SES": {
+  "ticker": "SES",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1819142/000181914226000070/ses-20260930x10q.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1819142/000181914226000066/ses-20261112x8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "SES AI (SES) Q3 2026 Earnings Call Transcript",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/ses-ai-ses-q3-2026-earnings-call-transcript"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 12, 2026",
+    "title": "SES AI Corporation (SES) Reports Q3 Loss, Lags Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/ses-ai-corporation-ses-reports-q3-loss-lags-revenue-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 07:15AM",
+    "title": "SES AI Reports Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/421689/ses-ai-reports-third-quarter-2026-financial-results"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SLS": {
+  "ticker": "SLS",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390478/000139047826000021/sls-20261112.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-12",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390478/000139047826000020/sls-20260930.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 06:01AM",
+    "title": "Futures Edge Lower As NVDA Fallout Unsettles Tech Stocks  SLS, AMAT, CSCO, CADL Stocks In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/futures-edge-lower-nvda-fallout-110121361.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 08:13PM",
+    "title": "SLS Stock Surges After-Hours: Sellas Says 'Transformative' Phase 3 AML Results Are Coming This Month",
+    "url": "https://finance.yahoo.com/healthcare/articles/sls-stock-surges-hours-sellas-011340627.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-12-26 04:05PM",
+    "title": "SELLAS Life Sciences Reports Third Quarter 2026 Financial Results and Provides Corporate Update",
+    "url": "https://finviz.com/news/422170/sellas-life-sciences-reports-third-quarter-2026-financial-results-and-provides-corporate-update"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 08:35PM",
+    "title": "SLS Stock Rises After-Hours: State Street Reveals Over 5% Stake  And One Fund Manager Boosted Holdings By Nearly 1,000%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-rises-hours-state-013559681.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 12:08AM",
+    "title": "SLS Stock Rises Overnight: Retail Bets The Regal Wait Is Almost Over  Heres What Wall Street Expects From Earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-rises-overnight-retail-050851403.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-10-26 03:33AM",
+    "title": "Barclays, Deutsche Bank Reveal Stakes In Retail-Favorite Cancer Stocks SLS, IBRX And IOVA  Geode Adds More",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-deutsche-bank-reveal-stakes-083352520.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "stake",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "RZLT": {
+  "ticker": "RZLT",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "title": "8-K 7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926126502/tm2627558d10_8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "424B5",
+    "items": "",
+    "title": "424B5",
+    "url": "https://www.sec.gov/Archives/edgar/data/1509261/000110465926126478/tm2627558-6_424b5.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 06:19AM",
+    "title": "Rezolute Announces Pricing of Approximately $100 Million Underwritten Offering of Common Stock and Pre-Funded Warrants",
+    "url": "https://finviz.com/news/422471/rezolute-announces-pricing-of-approximately-100-million-underwritten-offering-of-common-stock-and-pre-funded-warrants"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 06:18AM",
+    "title": "Rezolute Announces Positive Results from the Phase 3 upLIFT Study in Tumor Hyperinsulinism",
+    "url": "https://finviz.com/news/422472/rezolute-announces-positive-results-from-the-phase-3-uplift-study-in-tumor-hyperinsulinism"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 13 Nov 2026 11:31:59 GMT",
+    "title": "RZLT: Rezolute prices about $100M stock and pre-funded warrant offering - Quantisnow",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXVBZHRwODA2Z05Dc05Tb1pObnhWakpPQ3puUG9jZTgxUVpxV1FwWGFVUGdWOWxKRnJka1RjaDBuTk1janNqRi1CYTBiNWxOX3MyaHZfWS1WeHVSUVY5Z3FCeGF5LWtPdHBJZ3lBY3lKbXBGd2pfLVBMZU1MZklHM1BoSQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 13 Nov 2026 11:21:35 GMT",
+    "title": "Warrants in Rezolute (RZLT)'s stock offering carry a $0.001 exercise price, with no listing planned. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDBCYzhDdWZVUFNfbnZUcXpiSHlvUklOUHdkR1FOaTJveFlZNXU1dDZEVU95emRiNlowRDFaYU5LYWhKZGQ2WkpWeFB4cGxIdUNhSTFsUUMtdTVKYnlwNHltcG0ySk90WWlRNkJyY2J0VlhHUFowUlBFTDE2UnVVNERMeWlYWElhekJHUlZWX3VaYkJCSjU4dmRpdUZYS01zSWgxTkZ5OEFoTDliNmI5eDI1WVRRWDBjeEE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 12 Nov 2026 11:05:01 GMT",
+    "title": "Rezolute, Inc. SEC Filing (Nov 12, 2026) - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDVxVWJrZTZWRTBlaFA0SmlzekE0aW9HTDgwRlQxbld4M25oSmZjTVR5STBYOEJPcU1MUV82VDItRUlDLXl5VWZRSXQ0ZURQSUpYd01jeUh6VS1ndGhFakhjNWdXTFZOWndDZHJrd3lEMHd4WDdqdld0dnBlQllyQ3o0TF9hdVZuYkZ6Zmw4VUFfU2NpT0hN?oc=5"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "pricing of",
+   "warrant",
+   "prospectus/registration filed (offering?)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "XLAB": {
+  "ticker": "XLAB",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 12 Nov 2026 20:40:23 GMT",
+    "title": "Exascale Labs Holdings Inc. (XLAB) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0SkZVczF6NmRwZEpodEllLXlnRjZIeExrMGJxSFdpeVl3RmxBanFYREh3Zlp4NHFRMk1XWF9XVWplbFk0cmtCWHhJMy15ZTdPTEE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 10 Nov 2026 12:54:00 GMT",
+    "title": "Exascale Labs Holdings Inc. (XLAB) Stock Price | Live Quotes & Charts | NASDAQ - Timothy Sykes",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Gd1Uwenotdm1xUFZ5RGppZFl1am9XRDYxTE9FdlE2ZGNtdmVueWwtUmtURmdTcmRaazV2bkQ2QTZfclVrbnI0ZDlzdWY?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "DGXX": {
+  "ticker": "DGXX",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-13",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1854368/000121390026119211/ea0312121-8k_digi.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-13-26 07:30AM",
+    "title": "Digi Power X Reports Q3 2026 Revenue Up 85% and AI Revenue Up Over 400% Compared to Q2",
+    "url": "https://finviz.com/news/422511/digi-power-x-reports-q3-2026-revenue-up-85-and-ai-revenue-up-over-400-compared-to-q2"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 12 Nov 2026 18:57:29 GMT",
+    "title": "Digi Power X Inc. (DGXX) stock price, news, quote and history - Yahoo Finance Australia",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfVm9RMnhEaEFaNW9LOXlHazZKYU4tbWFsVHJIMWhzZ1ZfVFFqbmY2ZTd0ZkZLbS1fVGhCZl9yZGlja1NhQ1Jqc0FEOGI1SzkwdFE?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

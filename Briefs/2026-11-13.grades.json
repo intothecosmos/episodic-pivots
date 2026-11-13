@@ -1,0 +1,74 @@
+{
+ "XLAB": {
+  "tier": "unknown",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "chart fail: neglect 59.0 (extended/collapsed pre-gap)",
+   "volume: 0.1x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
+  ],
+  "snapshot_et": "2026-11-13 07:47",
+  "label": "v1"
+ },
+ "MOD": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-13 07:47",
+  "label": "v1"
+ },
+ "CBRS": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-13 07:47",
+  "label": "v1"
+ },
+ "RZLT": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 07:47",
+  "label": "v1"
+ },
+ "SLS": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 07:47",
+  "label": "v1"
+ },
+ "DGXX": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 07:47",
+  "label": "v1"
+ },
+ "SES": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-13 07:47",
+  "label": "v1"
+ }
+}
