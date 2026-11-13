@@ -24,7 +24,7 @@ push. Disables itself after step 6 is DONE and emails Matt once. Emails Matt oth
 |---|---|---|---|---|
 | 1 | `scripts/intraday.py`; `data/intraday/` archive; `coverage.csv`; backfills 1m/5m/1h | **DONE 2026-10-30** | `v2.1 step 1 — intraday archive + backfills` | CVNA 2026-10-29 (1m: OHLC exact, ORH 67.71/ORL 63.81 = outcomes.csv), CHMI 2026-08-10 (1h), AMZN 2025-10-31 (1h) |
 | 2 | `scripts/market.py`; `data/market.csv` backfilled 2025-04-01→; EOD breadth query | **DONE 2026-10-30** | `auto: v2.1 step 2 — market.csv (index trend, VIX, Gate 0, EOD breadth)` | `market.py --verify`: gate0 = `regime_qqq` on all 23 scan days 2026-09-29→10-30 (incl. the 10-15 green→red flip) and QQQ SMA10/SMA20 = the Briefs' Gate 0 line to the cent on all 23; 399 rows 2025-04-01→2026-10-30, no blank index/VIX cells |
-| 3 | Evening job: archive `--update`, `market.py --today`, EOD events (`scripts/eod.py`, `data/eod_events.csv`), outcomes rows `source=eod` | NEXT | | |
+| 3 | Evening job: archive `--update`, `market.py --today`, EOD events (`scripts/eod.py`, `data/eod_events.csv`), outcomes rows `source=eod` | **BLOCKED 2026-11-12** — safety stop: 13 nightly firings (10-31→11-12) produced no commit and no run-log entry; see run log for the likely cause. Nothing of step 3 has been built. Build task disabled; needs Matt to re-arm. | | |
 | 4 | Intraday features → end of `outcomes.csv` (+ `data/historical_features.csv`); `sim_r10_or15/30/60`; `stats.py --by/--or/--source` | pending | | |
 | 5 | `data/analyst.csv` + enums (`scripts/analyst.py`); 07:45 machine-only; 09:10 union grading + ISSUE/OPPORTUNITY/quiet message; push/model changes; JSON backfill; CLAUDE.md + README | pending | | |
 | 6 | Weekly review restructure (Data health first; regime/breadth/OR tables; Matt items as counts); disable build task; completion email | pending | | |
@@ -36,7 +36,7 @@ push. Disables itself after step 6 is DONE and emails Matt once. Emails Matt oth
 | EP brief v2 (09:10 refresh) | `trig_01CzQuySQV4FBri6ymrEgnU7` | 09:10 Mon–Fri | on | on | claude-fable-5-1 |
 | EP outcomes (evening) | `trig_01NnNPMNTRHevESf2eVSFmgf` | 16:35 Mon–Fri | on | off | claude-fable-5-1 |
 | EP weekly evidence review | `trig_01WksgVACWi11ddnNnGRq2Hh` | Sun 10:10 | on | on | claude-fable-5-1 |
-| EP v2.1 nightly build | `trig_0121YadM14kKeHKxV28MrpYf` | 21:00 daily (first run 2026-10-30) | off | off | claude-fable-5-1 |
+| EP v2.1 nightly build | `trig_0121YadM14kKeHKxV28MrpYf` | 21:00 daily (first run 2026-10-30) — **DISABLED 2026-11-12 (BLOCKED)** | off | off | claude-fable-5-1 |
 Prompt copies live in `scripts/prompts/` (`morning.txt`, `evening.txt`, `build-nightly.txt`); keep them in
 sync when a prompt changes. Target state after step 5: push ON only for 09:10; 07:45 + evening on
 `claude-sonnet-5-5`; 09:10 + Sunday stay on `claude-fable-5-1`.
@@ -214,11 +214,44 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
   live row (≈2026-11-12). One scanner query, ~1.5 s, no rate-limit.
 - Gate 0 history 2025-04-01→2026-10-30: 200 green / 199 red sessions, 25 flips; longest green runs
   2025-04-29→08-01 and 2026-04-13→06-08; the current red run started 2026-10-15 (12 sessions).
+- Scheduled-task containers (observed 2026-11-12) arrive with the repo already cloned at
+  `/home/claude/episodic-pivots` as a detached HEAD on origin/main's tip; `git pull --rebase` and `git push`
+  both fail from that state. Prompts must `checkout main && reset --hard origin/main` first. The task's
+  session had no Gmail (nor Google Calendar/Asana) MCP server despite the connector being listed on the task.
 - yfinance crumb fetch returned HTTP 429 once at 21:06 ET; the `^VIX` download still succeeded. The CBOE
   CSV covers every session but today, so a yfinance outage blanks only the current day's `vix_close` until
   the next night's refresh of the previous rows.
 
 ## Run log (newest first)
+- 2026-11-12 21:00–21:20 ET, nightly run 14 (safety stop → BLOCKED at step 3). State on arrival: the task had
+  fired every night since 10-30 (`last_fired_at` 02:00 UTC daily) yet origin/main held no `auto: v2.1`
+  commit after step 2 (10-31 01:08 UTC) and this log had no entry after run 1; `market.csv` ended 10-30 and
+  the archive had nothing after 10-30. Likely cause (not provable from here — other sessions' transcripts
+  are not visible): the container arrives with `/home/claude/episodic-pivots` already present as a
+  **detached-HEAD** checkout of origin/main, so the prompt's `git pull --rebase` fails ("not currently on a
+  branch") and a `git push` from that state pushes nothing; each night's work, if any, died with the
+  session. Compounding it: the **Gmail connector is not connected** in this task's sessions (ToolSearch and
+  RefreshMcpTools list Notion, GitHub, Google Docs/Drive, TradingView, Claude Docs — no Gmail), so a BLOCKED
+  email could never have gone out, and `add_repo` is absent too (harmless, repo already in scope). Fix in
+  this run: `git checkout main && git reset --hard origin/main` before anything else. Housekeeping (done
+  and PUSHED): `intraday.py --update` touched 164 events — archived all live events 11-02→11-12, live event
+  files 300/300 fetched (160 complete, 285×1m/15×5m), pre14 live 298/300 (BMMX/NANO empties unchanged),
+  hist unchanged 2350/2476; archive 21.7 MB gz / 5,290 files. `market.py --backfill` filled 10-31→11-11
+  (breadth blank on those rows, as designed), `--today` wrote 2026-11-12 with live breadth (QQQ 688.17,
+  SMA10 678.46 / SMA20 696.94, gate0 red, 21st red session; VIX 18.7; up4 95 / down4 651 of 3,868; 53.5%
+  above SMA20, 50.3% above SMA50; highs 136 / lows 134; 8 hits); `market.csv` now 408 rows 2025-04-01→
+  2026-11-12. `market.py --verify`: ALL MATCH on every scan day 09-29→11-12 (gate0 red = candidates
+  `regime_qqq`, QQQ SMA10/20 equal to each brief's line, e.g. brief 11-12: 681.18/698.94 = market.csv
+  11-11). Committed `auto: v2.1 nightly data 2026-11-12` (328 files). Step: per the prompt's safety stop
+  (≥ 2026-11-12 with step 6 not DONE) the build is BLOCKED; step 3 was NOT attempted. Email: Gmail
+  unavailable in this session → the BLOCKED message went out as the run's push notification instead and is
+  in this run's final message. Task `trig_0121YadM14kKeHKxV28MrpYf` disabled (`update_trigger enabled=false`).
+  To resume: re-enable the task after (a) changing SETUP step 1 in the prompt + `scripts/prompts/build-nightly.txt`
+  to `git -C /home/claude/episodic-pivots checkout main && git reset --hard origin/main` (clone only if
+  absent), (b) reconnecting Gmail on the task (or dropping the email requirement), and (c) dropping or
+  moving the 2026-11-12 safety-stop date; or run steps 3–6 interactively. Meanwhile the morning/evening/
+  Sunday tasks are untouched and the archive + `market.csv` are current through 11-12 but will go stale
+  again from 11-13 until step 3's evening job (or the build task) runs `intraday.py --update` / `market.py --today`.
 - 2026-10-30 21:00–21:12 ET, nightly run 1 (step 2). Housekeeping: `intraday.py --update` touched 42
   events (refetched the incomplete 1m files for 10-23→10-29, archived CPRI/NRXP 2026-10-30); live event files
   138/138 fetched (99 complete), hist 2350/2476 (unchanged, 126 symbol-change empties); archive 13.9 MB /
