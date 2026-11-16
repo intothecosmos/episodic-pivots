@@ -1,5 +1,7 @@
 {
- "LXEO": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "Positive Phase I/II interim LX2020 data (n=7 high dose, 80% NSVT reduction), FDA open to NSVT surrogate endpoint; 'warrant' heuristic was a false positive, no financing. Volume 1.7x ADV only; regime red -> half size or skip."},
- "TU": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Unsolicited non-binding Quebecor takeover proposal — takeover target is not an EP; Gate 3 fail 0.1x ADV premarket."},
- "DRTS": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Positive interim Alpha DaRT rGBM data (n=6, 100% ORR) but Gate 4 fail: projected $vol $5.4M < $10M, 0.2x ADV."}
+ "CGON": {"tier": "A", "grade": 3, "verdict": "WATCH", "why": "PIVOT-006 Phase 3 met primary endpoint: 68% recurrence-risk reduction, HR 0.32 (p<0.0001), no Grade>=3 TRAEs; BLA Q2 2027; no financing. Gate 3 unconfirmed at 0.2x ADV premarket on a $6.6B name (premarket under-reads large caps) -> WATCH until >=1x ADV by 9:45, then 4 star TRADE half size (regime red). Max stop 1.0x ADR = $6.12."},
+ "LXEO": {"tier": "B", "grade": 3, "verdict": "TRADE", "why": "Positive Phase I/II interim LX2020 data (n=7 high dose, 80% NSVT reduction), FDA open to surrogate endpoint, no financing. Volume 5.9x ADV = pass not strong (rubric strong >=10x / record ratio 0.7) so machine 4 star re-derived to 3; gap faded 33% -> 18.5% premarket. Trade small, half size (regime red), ORH reclaim entry, max stop $0.34."},
+ "TU": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Unsolicited non-binding Quebecor takeover proposal — takeover target is not an EP; Gate 3 fail 0.4x ADV premarket."},
+ "DRTS": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Positive interim Alpha DaRT rGBM data (n=6, 100% ORR) but Gate 4 fail: projected $vol $8.0M < $10M, 0.4x ADV."},
+ "SLSN": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Record Q3 results reported Fri Nov 13 (record volume day); today is day-2 follow-through. Gate 4 fail: projected $vol $1.0M, 0.3x ADV, $107M cap."}
 }

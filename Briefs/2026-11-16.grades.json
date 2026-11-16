@@ -1,24 +1,35 @@
 {
+ "LXEO": {
+  "tier": "B",
+  "grade": 4,
+  "verdict": "TRADE",
+  "why": [
+   "regime red \u2014 half size or skip"
+  ],
+  "snapshot_et": "2026-11-16 09:18",
+  "label": "v2"
+ },
  "TU": {
   "tier": "unknown",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.14x ADV (premarket)",
+   "volume: 0.39x ADV (premarket)",
    "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-11-16 07:49",
-  "label": "v1"
+  "snapshot_et": "2026-11-16 09:18",
+  "label": "v2"
  },
- "LXEO": {
-  "tier": "C",
-  "grade": 1,
+ "CGON": {
+  "tier": "unknown",
+  "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "Tier C catalyst (offering/promo/sympathy)"
+   "volume: 0.23x ADV (premarket)",
+   "catalyst unknown \u2014 capped 3\u2605, recheck"
   ],
-  "snapshot_et": "2026-11-16 07:49",
-  "label": "v1"
+  "snapshot_et": "2026-11-16 09:18",
+  "label": "v2"
  },
  "DRTS": {
   "tier": "unknown",
@@ -27,7 +38,17 @@
   "why": [
    "Gate 4 fail (dollar-vol<10M(proj))"
   ],
-  "snapshot_et": "2026-11-16 07:49",
-  "label": "v1"
+  "snapshot_et": "2026-11-16 09:18",
+  "label": "v2"
+ },
+ "SLSN": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-16 09:18",
+  "label": "v2"
  }
 }
