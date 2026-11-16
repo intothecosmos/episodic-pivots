@@ -1,0 +1,144 @@
+{
+ "LXEO": {
+  "ticker": "LXEO",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-16",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1907108/000119312526462020/lxeo-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-16",
+    "form": "8-K",
+    "items": "2.02,7.01,8.01,9.01",
+    "title": "8-K 2.02,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1907108/000119312526462015/lxeo-20261116.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 07:00AM",
+    "title": "Lexeo Therapeutics Announces Positive Interim Phase I/II Data and Regulatory Update for LX2020 in PKP2 Arrhythmogenic Cardiomyopathy and Reports Third Quarter 2026 Financial Results",
+    "url": "https://finviz.com/news/422991/lexeo-therapeutics-announces-positive-interim-phase-iii-data-and-regulatory-update-for-lx2020-in-pkp2-arrhythmogenic-cardiomyopathy-and-reports-third-quarter-2026-financial-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-15-26 07:00AM",
+    "title": "Lexeo Therapeutics to Report Third Quarter 2026 Financial Results and Provide LX2020 Business Update on November 16, 2026",
+    "url": "https://finviz.com/news/422846/lexeo-therapeutics-to-report-third-quarter-2026-financial-results-and-provide-lx2020-business-update-on-november-16-2026"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "title": "A gene therapy was linked to an average 80% drop in heart-rhythm episodes among seven high-dose participants. FDA is open to using that measure in a planned study. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUQxcjdqbFV5eFA1N2EyVXVoSExaV3RFNjNTd1Q5bEhoVmN2U3ZRNV85dFc5VW0tbFhqd1BSalBDX19HQWstc3RhU2hNNnlnRzI1Tk1LeDU1SXp3MDJrcmliOG1HS2swS2QyN1ktc25BWDBSWEYwVTBmM1ZRWEVxbGxYY0YtMVJnNnFYY2tqdW9pSjZreVYzWUxHRUZqR1pGdS16ZDA4Z1JyYzBFc0JaUHN4TkI3T2NsM0tzUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 16 Nov 2026 11:14:36 GMT",
+    "title": "An investor's Lexeo Therapeutics (LXEO) stake includes warrants with a 9.99% ownership cap. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUVmcUF4THdtQzRRZHR3c2RjRFVpdk9RaFhXTXppOVNDSVhLNHlBZlFnMnNid1I4ZWZNa0l3NkpKZ3FIOWRJTmtPVWhZRUthNlJkVl9HbzFtc0E4VVR1aXp6aHZLZkQ1UXlTd1BEeFBHbWg5b28tUFpFdkNnQVpNWDdITDN0elgtdk01T1pqUm5EZXVfaHNpNGxXUGhCQi1zVjM5UWl5a0puRVhia1dUX3VGUzF6ejJYcmdQVE5BZHJoLW5rRXhfWWxBbw?oc=5"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "warrant"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "TU": {
+  "ticker": "TU",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 07:30AM",
+    "title": "TELUS confirms receipt of unsolicited proposal from Quebecor, continues review of strategic alternatives",
+    "url": "https://finviz.com/news/423045/telus-confirms-receipt-of-unsolicited-proposal-from-quebecor-continues-review-of-strategic-alternatives"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 15 Nov 2026 05:42:57 GMT",
+    "title": "TELUS Corporation (TU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uZ25WY0dHdEZSNGNRY3hwNmlIOFVUUklIX082Wm5tbDludDRLbmc1R2FKNjF4ZGx2eHpoZHVDS29LOFc1cks4T3B0WmJ0TDQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 14 Nov 2026 12:10:43 GMT",
+    "title": "TELUS Corporation (T.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SdEV2aHIwLU95YjczczNOd2pRRlpBZnRYcVlTMnVpRGZiWXhmM0VCT2lmanRlSUVVdFRTR2I0U3A5N3lmN1pKejRwXzk1b09jQ2c?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 13 Nov 2026 23:48:03 GMT",
+    "title": "(TU) and the Role of Price-Sensitive Allocations - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkxIdUUyWWFkamdab29tUzJ6RzZXeVNDenAtdFNrRTVybktzWWF2aWxaQWdCblc4TnNKYXhENUwtbHBlUTJTVTdFelcyYlJaaHJwcWpRTk9mMFF2dXN3UTZvVlhxNGI3NHB0dDhBYVVvemJtMFM1YUg1YkNzU0NCcHRkcUs2Y29kRXJGWDM5VjZDSVgwYzlwV215LUFEYk1vQ2NGdDAyeWM5c21seWpNa3Aza3lla1Q2MV9QbjYwNlBLTzlV?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 13 Nov 2026 16:39:00 GMT",
+    "title": "TELUS Corporation (TSX:T): S&P/TSX Composite Index Large Cap Value Stock in Focus as Transformation plan, $900 million targeted annualized cash savings, asset monetization and debt reduction - kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOQ1BseUpqcFVVc2FVaHQ1MzJtSHBjUzdUcjhyWVNLTVd0cU5zek5jbGczVDdnUVdxNzVKWE1IYTVuc2JsRUc4VEJJQXRVTmJ1eWZzRXVQUTJrNEVNRWdnb1pHeWtzb2dCM3lGSU8xNzNWQ05pQ1BSeENhWmJxQmZRc3RsTG9nR1lCbW0yU2JQTGVYNlJPNGZBY3h6VjUxQTBaRm9qekpLQldsWGZaaWpCd01tM0UxWk9Na0pjY05DV244U0l1aTJLdGFHMmFuWUNYVXNVX3NOeGNIOFk3ejNZTDN2RmRnWVJOX2t4eGl2dEdUZEhDR29ZLXlnNDlFdDZhQU9LR3RRLXlVdXhRT2tFaFZxVnNOSjNvYmFCMmRiajhlQVEyVFlKZkVCM3BOMW8tVHRrVmJkLVh4aHc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 13 Nov 2026 16:47:00 GMT",
+    "title": "S&P/TSX Composite Focus: TELUS Corporation (TSX:T) \u2014 Large Cap Value Stock The Growth and Value Debate Around This Stock Is Heating Up - kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVkNDV2pvS1o3QUx4Y2FtYjZVeHZiYnBZbURCLUVRZ1B4czNpQl9lT01YVzlqQ2NXNFY2MHd1aDhKbW9RVEl6UEdmY0l2WTY1YU1QWU5kRm1JREt4MnVaUXFBdlZMb010TXNTX0x1OHlKWkJUN1EzS1JnVVVHRUNCQWpxbHUxTGdiQ01EMUN2d3dWMUc2bnRHQnQxdGpJOWd3NW1nN2s3MXFYYmxOTEp3dEN0c1BEU0M5OWxxOV81bkRoRDZBckhMLWx0ZlM1VmwyY1B4Zm53M1Y2RjZ1ZDZmY25UTmRwT05ZVFVTMlJDc0dMY1U?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "DRTS": {
+  "ticker": "DRTS",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-16",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1871321/000121390026120072/ea0312363-6k_alpha.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 15 Nov 2026 18:16:19 GMT",
+    "title": "Alpha Tau Medical Ltd. (DRTS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZWFPU2NRWHFqMUt2Um9yRFh5blN1SXlJNDIwX0ZfUjVLYlR5Wlk1clpZVFlZYlpFQUV3d2NEaHBsSjZHNml3emRxR1RPazlpa0E?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 13 Nov 2026 22:24:04 GMT",
+    "title": "Alpha Tau Medical Stock Price Forecast. Should You Buy DRTS? - StockInvest.us",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51S0hXOE5oS1pxR2NVZnFtc2hTelZKU2xGWnNJRjhWNmtIbDJjS0tGaUQtYXFiWVI3YmdyOHhicTBiWVN4YU4ycg?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 16 Nov 2026 11:14:57 GMT",
+    "title": "All eight patients were alive at Alpha Tau Medical (DRTS)'s interim brain cancer trial cutoff. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3JfWng0bkxsQlFrS3lBVFdndm1sUkRLa1ViaDFDWmN3czBOdXZZTGpYeExYT09hbHh5YUx1TmppbDJhZzJLNE94VzJlLXlJSXh3Q0l3OGd1TVhMeENVMWpOR0x1eE9sVjVDb003NVBfNlFMLTlkM0JQd2F6WG9LTXlSQ3JCUFZ0QjNMZEFWMC0yeEVwNWs5SkdxMnVqNE54ZlFYYW5jbER6MWw0d29aekRNV0JETDBi?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 15 Nov 2026 18:00:00 GMT",
+    "title": "All eight patients in a brain cancer trial were alive as of Nov. 11; follow-up continues. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0tzZXEyWUh1Y0VQazk2VnpaT1RrZFd4eV9JRHBNUEZPbkJrX1BRMVJXOGpkb25vdU5CTWphWVNEWEpmYXEwWXFnR3lpWjZ2Umx0NUdhM09VbE44WTBoSXd6TloyQnNJLUI5VlpQUW1PWm1OUk9rZFFwTFhYeW1YMFl0T3FXbXNidElOOEE0cUhKM0JaRjRSNjRjZ2ZSblpMY2dTeGFTanVNWjN2SjJ4VlpiQWRhUVBKLUF1Y1RiMA?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

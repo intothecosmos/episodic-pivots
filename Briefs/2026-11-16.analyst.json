@@ -1,0 +1,5 @@
+{
+ "LXEO": {"tier": "B", "grade": 3, "verdict": "WATCH", "why": "Positive Phase I/II interim LX2020 data (n=7 high dose, 80% NSVT reduction), FDA open to NSVT surrogate endpoint; 'warrant' heuristic was a false positive, no financing. Volume 1.7x ADV only; regime red -> half size or skip."},
+ "TU": {"tier": "B", "grade": 2, "verdict": "NO TRADE", "why": "Unsolicited non-binding Quebecor takeover proposal — takeover target is not an EP; Gate 3 fail 0.1x ADV premarket."},
+ "DRTS": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Positive interim Alpha DaRT rGBM data (n=6, 100% ORR) but Gate 4 fail: projected $vol $5.4M < $10M, 0.2x ADV."}
+}
