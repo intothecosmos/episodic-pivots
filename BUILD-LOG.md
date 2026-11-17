@@ -253,6 +253,11 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
   nightly runs while the prompt is unchanged: do housekeeping, commit, and add ONE line under this entry
   (date · touched events · market.csv last date) rather than a new BLOCKED entry; do not re-attempt the
   disable or the email.
+  - 2026-11-16 21:00 ET run 18 · housekeeping only (prompt still unchanged, task `enabled: true`, Gmail and
+    `add_repo` absent) · `intraday.py --update` 71 events touched (live 322/322, 204 complete; pre14 320/322;
+    archive 23.1 MB / 5,334 files) · `market.csv` last date 2026-11-16 (410 rows; gate0 red, 23rd red session,
+    QQQ 661.84 / SMA10 675.48 / SMA20 692.62, VIX 22.91, up4 92 / down4 804, 5 hits) · committed
+    `auto: v2.1 nightly data 2026-11-16`.
 - 2026-11-12 21:00–21:20 ET, nightly run 14 (safety stop → BLOCKED at step 3). State on arrival: the task had
   fired every night since 10-30 (`last_fired_at` 02:00 UTC daily) yet origin/main held no `auto: v2.1`
   commit after step 2 (10-31 01:08 UTC) and this log had no entry after run 1; `market.csv` ended 10-30 and
