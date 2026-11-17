@@ -1,0 +1,161 @@
+{
+ "COHR": {
+  "ticker": "COHR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 07:40AM",
+    "title": "Opto-electronics stocks jump, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-q3-financial-results-retail-sales-import-prices/card/opto-electronics-stocks-jump-and-other-early-market-movers-qqJgSiKHeIwMpZ7g3oVD?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 04:33AM",
+    "title": "Nokia stock tumbles after Nvidia cuts stake by more than half",
+    "url": "https://finance.yahoo.com/news/nokia-stock-tumbles-nvidia-cuts-093318816.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 10:00AM",
+    "title": "Chip Stocks Are Falling. Anthropic's Trillion-Dollar IPO Is a Big Test.",
+    "url": "https://www.barrons.com/articles/chip-stocks-anthropic-ipo-nvidia-earnings-fc61b7fa?mod=bar_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "stake"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AAOI": {
+  "ticker": "AAOI",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 07:40AM",
+    "title": "Opto-electronics stocks jump, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-q3-financial-results-retail-sales-import-prices/card/opto-electronics-stocks-jump-and-other-early-market-movers-qqJgSiKHeIwMpZ7g3oVD?mod=mw_FV"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 17 Nov 2026 12:00:00 GMT",
+    "title": "Applied Optoelectronics: A Massive Earnings Surprise Is Brewing (NASDAQ:AAOI) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0hLM3QwUDZLMmNTWGNMc3IxT2c4d2J2WEl6d05COExfa0dUSEcyMXhMckg1aXFSUXEyX083Nm5mc3NWRlZLWlFvMTNPRVp5N1JPYnVvTG5qZVZyVEVsazdtWEpqQ2RFbFVUSmYwX1hHLXV1OWw1NHVFSEFwOHJjc2VQMFZvREYxcmJraXNZOUdhNmNuem12WWV3NWVtTU1kSzhMNUJB?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "USDE": {
+  "ticker": "USDE",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-17",
+    "form": "8-K",
+    "items": "7.01,9.01",
+    "title": "8-K 7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026120946/ea0312530-8k_stablecoinx.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-16",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026120713/ea0311343-10q_stable.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-16",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026120186/ea0312256-8k_stablecoinx.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 12:05PM",
+    "title": "StablecoinX Shares Slide 15% as $100.2M Loss Overshadows Revenue Surge",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/stablecoinx-shares-slide-15-100-170500496.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 08:30AM",
+    "title": "StablecoinX Reports Third Quarter 2026 Results: Revenue Rises Nearly Eightfold Sequentially as DVN Surpasses $6 Billion in Cumulative Verified Volume",
+    "url": "https://finviz.com/news/423182/stablecoinx-reports-third-quarter-2026-results-revenue-rises-nearly-eightfold-sequentially-as-dvn-surpasses-6-billion-in-cumulative-verified-volume"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 17 Nov 2026 10:34:26 GMT",
+    "title": "StablecoinX (Nasdaq:USDE) - Stock Analysis - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnekhmTmFoaWpreVdZYVB2c0VGOW5qSkYwUDE3UUlOTEZZUFBCOWtBVU1XeHlPaVUzbWhQM21scy16eEhnZ2UyS1N2MzhIR2I2dTRHOVBxeEljalhqWkJIZjRnUGpQNm9YTnpRQ0lJaWxudw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 16 Nov 2026 20:42:29 GMT",
+    "title": "StablecoinX (USDE) Stock Forecast & Analyst Ratings - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOVTVuWXdjdlpnLVAzS0dqb1ZjR243dGFsc2ZBXzVtOTZxZ0ZyT1lVekVuSENneXhGY1l4N0FxN191VHBsSy1fY0wyelVCZ2NubEtuR19sNEdTVVhlOFE3Q3Awb1FYb3dDUXM4Y01udVhtdWt1YmIzTTFSRWp2c18xS2ZFY1FNbjJlZ3IyRERlQUVEejhobmZLUDl5OEsyS2VFQzlxdUREN0lzT3BRUE9wd1RGT05hRUFYdl94X1IzaU9pM2t3Y01nQi10Uk43aml1bVpQRjVnWFRUSktDcEtENDVJTFNSdkNYaldBT250eWJCdEJ4d0JvNjdTZG9aNm5WNUp0RHJ6RDBZdjJfUHNBWFlTbXZUcWNTWUl2cVZZRUVyWXNO?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 17 Nov 2026 11:04:19 GMT",
+    "title": "Infrastructure services and software updates are on the agenda for StableCoinX (USDE)'s November 17 call. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnBmZ2FiOEJwdWhxTDVibHpYWmVJN1MtUkJ0RmlUa2R1X0YtbEo4WTJ4SlVZLVI5cnhIS2h6RTJXUF9lV1dTbV9Lc3ZFc2o4ZVA5UGt6LTdoX05vZVFmNW1WVUl6V3A4Qkk4ZjVIb1BERjg1cmluMWQ1SXdHd0JRVGY4MTdoVlpqZml1M1E1Tk1fVDhfWi0wUEw3Q0NnUFBZbjRpZS1jMnE2QQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 16 Nov 2026 09:38:45 GMT",
+    "title": "The Art of Trading: How They Make Money Through USDE Stock Arbitrage - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWh0bURjWVhILU9LamlYT2xtN1NQRUh3RjZUdHhxeWxFYkVoVWhGVlVZMEdCQ1VjTXpOQ3BJX3BDT3R2RWM4bmM1OE9pN05RdmtCNV9CdmpOTmVYRDlUalJLaEVJRWhZVEw2TzBoQnl0ZFNvUlM5RE5tV003WmZVRm9Ecllva3BvX1VUZ19XelhsX3ZBOFRDSTgtRQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "LITE": {
+  "ticker": "LITE",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 07:40AM",
+    "title": "Opto-electronics stocks jump, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-q3-financial-results-retail-sales-import-prices/card/opto-electronics-stocks-jump-and-other-early-market-movers-qqJgSiKHeIwMpZ7g3oVD?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 07:09PM",
+    "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week   NVDA, TSLA, ANT In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-000928100.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 04:03PM",
+    "title": "S&P 500 Tumbles 1.9%. It's Not Just AI.",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111626/card/s-p-500-tumbles-1-9-it-s-not-just-ai--FDvmQloAfOi6OQeFoldW?mod=bar_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

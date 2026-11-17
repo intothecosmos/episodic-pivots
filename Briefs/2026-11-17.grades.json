@@ -1,0 +1,42 @@
+{
+ "AAOI": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.05x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-17 07:47",
+  "label": "v1"
+ },
+ "COHR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.03x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-17 07:47",
+  "label": "v1"
+ },
+ "LITE": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.02x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-17 07:47",
+  "label": "v1"
+ },
+ "USDE": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-17 07:47",
+  "label": "v1"
+ }
+}
