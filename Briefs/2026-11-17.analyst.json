@@ -1,6 +1,7 @@
 {
- "AAOI": {"tier": "Unknown", "grade": 2, "verdict": "NO TRADE", "why": "sector sympathy (AI optics group bid), no company filing/PR; Gate 3 fail 0.05x ADV premarket; regime red"},
- "COHR": {"tier": "Unknown", "grade": 2, "verdict": "NO TRADE", "why": "sector sympathy, no filing/PR; 'stake' hit is the Nvidia/Nokia headline; Gate 3 fail 0.03x ADV; regime red"},
- "LITE": {"tier": "Unknown", "grade": 2, "verdict": "NO TRADE", "why": "sector sympathy, no filing/PR; Gate 3 fail 0.02x ADV; regime red"},
- "USDE": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Q3 earnings bounce after -15% reaction; rev $478K, GAAP loss $100.2M, cash $10.4M; Gate 4 fail $0.9M proj dollar vol"}
+ "SLS": {"tier": "A", "grade": 4, "verdict": "WATCH", "why": "pivotal Ph3 REGAL met OS primary endpoint (HR 0.59, p=0.035, mOS 24.0 vs 14.7 mo); 234.8% gap triggers 40%+ overlay — needs >=10x ADV or record day by 09:45 to become half-size TRADE; no offering filed yet but overnight raise risk high; regime red"},
+ "AAOI": {"tier": "Unknown", "grade": 2, "verdict": "NO TRADE", "why": "AI-optics sector sympathy (COHR/LITE on China equipment curbs), no company filing/PR; Gate 3 fail 0.08x ADV premarket; gap faded 10.1%->8.1%; regime red"},
+ "LUCK": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "13D/A: founder/CEO proposes take-private at $4.35/share — cash takeover target, not an EP; Gate 4 fail $6.7M proj dollar vol"},
+ "USDE": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "second-day bounce after Q3 print (-15% reaction); rev $478K, GAAP loss $100.2M, cash $10.4M; Gate 4 fail $1.8M proj dollar vol; Gate 3 fail"},
+ "PCT": {"tier": "Unknown", "grade": 1, "verdict": "NO TRADE", "why": "no catalyst (conference-participation PR only); Gates 2/3/4 fail, $0.8M proj dollar vol"}
 }
