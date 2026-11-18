@@ -1,1 +1,4 @@
-{}
+{
+  "BRBR": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Earnings relief rally: sales beat but adj EBITDA -43%, adj EPS $0.22 vs $0.51 (miss vs ~$0.23), in-line FY27 guide, LT targets withdrawn. Gate 3 0.05x ADV premarket, Gate 4 $7.8M proj (projection under-reads $1.3B cap). Regime red."},
+  "BLSH": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "Q3 adj revenue $84.4M vs ~$80.2M est, adj EBITDA +24%, $300M buyback, no guide raise; GAAP EPS is a digital-asset mark gain. Gate 3 0.04x ADV premarket, Gate 4 $3.6M proj (artifact for $2.9B cap); overhead 98%. Regime red."}
+}

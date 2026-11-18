@@ -1,1 +1,134 @@
-{}
+{
+ "BRBR": {
+  "ticker": "BRBR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-18",
+    "form": "8-K",
+    "items": "2.02,5.02,7.01,9.01",
+    "title": "8-K 2.02,5.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1772016/000162828026074645/brbr-20261118.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "BellRing Brands Appoints Travis Leonard As CFO, Shares Up In Pre-market ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/bellring-brands-appoints-travis-leonard-cfo-shares-pre-market"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "BellRing Brands Q4 Earnings Slip, But Sales Improve; Stock Up Over 16% In Pre-Market ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/bellring-brands-q4-earnings-slip-sales-improve-stock-over-16-pre-market"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "BellRing Brands (BRBR) Q4 Earnings and Revenues Beat Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/bellring-brands-brbr-q4-earnings-and-revenues-beat-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-18-26 07:16AM",
+    "title": "BellRing Brands: Fiscal Q4 Earnings Snapshot",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bellring-brands-fiscal-q4-earnings-121655127.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-18-26 07:01AM",
+    "title": "BellRing Brands Announces CFO Transition",
+    "url": "https://finviz.com/news/424489/bellring-brands-announces-cfo-transition"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-18-26 07:00AM",
+    "title": "BellRing Brands Reports Results for the Fourth Quarter and Fiscal Year 2026; Provides Fiscal Year 2027 Outlook",
+    "url": "https://finviz.com/news/424492/bellring-brands-reports-results-for-the-fourth-quarter-and-fiscal-year-2026-provides-fiscal-year-2027-outlook"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "beats?( analyst)? (estimates|expectations)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BLSH": {
+  "ticker": "BLSH",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-18",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1872195/000143774926037471/blsh20260819_6k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Bullish (BLSH) Q3 Earnings and Revenues Surpass Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/bullish-blsh-q3-earnings-and-revenues-surpass-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-18-26 06:45AM",
+    "title": "Bullish Reports Third Quarter 2026 Results",
+    "url": "https://finviz.com/news/424468/bullish-reports-third-quarter-2026-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 10:46PM",
+    "title": "Nasdaq Futures Lead Wall Street Rebound After Nvidias Blowout Forecast, Anthropic IPO Looms: SLS, NKE, MU In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-wall-street-034627099.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 04:05PM",
+    "title": "Issuer Token Coalition surges to 12 firms as DRW, Flow Traders, SoFi and Superstate join",
+    "url": "https://finviz.com/news/424272/issuer-token-coalition-surges-to-12-firms-as-drw-flow-traders-sofi-and-superstate-join"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 09:38AM",
+    "title": "Cathie Woods ARK Invest Sells $85 Million of Nvidia, Adds Block, Circle and Coinbase",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ark-invest-sells-143800567.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 12:09PM",
+    "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/tokenization-not-finish-line-jupiter-170928124.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 06:33PM",
+    "title": "Bullishs New President Backs Issuer-First Model for Tokenized Stocks",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bullish-president-backs-issuer-first-233300863.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 04:45PM",
+    "title": "Bullish Must Prove Peak Costs Are Behind It As Crypto Revenue Slides",
+    "url": "https://finviz.com/news/420660/bullish-must-prove-peak-costs-are-behind-it-as-crypto-revenue-slides"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "revenue"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

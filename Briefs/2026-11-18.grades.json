@@ -1,1 +1,22 @@
-{}
+{
+ "BRBR": {
+  "tier": "A",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-18 09:15",
+  "label": "v2"
+ },
+ "BLSH": {
+  "tier": "B",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "Gate 4 fail (dollar-vol<10M(proj))"
+  ],
+  "snapshot_et": "2026-11-18 09:15",
+  "label": "v2"
+ }
+}
