@@ -1,0 +1,353 @@
+{
+ "PANW": {
+  "ticker": "PANW",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-19",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000033/panw-20261031.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-18",
+    "form": "8-K",
+    "items": "2.02,3.02,7.01,8.01,9.01",
+    "title": "8-K 2.02,3.02,7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/panw-20261117.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Palo Alto Networks: Accelerating Growth and a $4.5 Billion Bet on the Future of Cybersecurity",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/palo-alto-networks-accelerating-growth-and-45-billion-bet-future-cybersecurity"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Here's What Key Metrics Tell Us About Palo Alto (PANW) Q1 Earnings",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-palo-alto-panw-q1-earnings"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Palo Alto Networks, Inc. Reveals Advance In Q1 Bottom Line ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/palo-alto-networks-inc-reveals-advance-q1-bottom-line"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Palo Alto Networks To Acquire Applied Compute In $4.5 Bln Deal ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/palo-alto-networks-acquire-applied-compute-45-bln-deal"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Palo Alto Networks Q1 Profit Rises As Revenue Jumps 39%, FY27 Guidance Raised ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/palo-alto-networks-q1-profit-rises-revenue-jumps-39-fy27-guidance-raised"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Palo Alto Networks (PANW) Q1 Earnings and Revenues Top Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/palo-alto-networks-panw-q1-earnings-and-revenues-top-estimates"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Here's Why Palo Alto Networks (PANW) is a Strong Growth Stock",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/heres-why-palo-alto-networks-panw-strong-growth-stock-0"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Palo Alto Networks Q1 27 Earnings Conference Call At 4:30 PM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/palo-alto-networks-q1-27-earnings-conference-call-4-30-pm-et"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-19-26 06:56AM",
+    "title": "Palo Alto Networks Shares Jump 9% on $4.5 Billion AI Acquisition and Raised FY2027 Guidance",
+    "url": "https://finviz.com/news/425049/palo-alto-networks-shares-jump-9-on-45-billion-ai-acquisition-and-raised-fy2027-guidance"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-19-26 06:33AM",
+    "title": "Anthropic, Google, Palo Alto, Walmart, and More Stocks That Explain Today's Market",
+    "url": "https://www.barrons.com/articles/stock-movers-ddc27426?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-19-26 06:02AM",
+    "title": "Stock Futures Climb Ahead Of Anthropic's Nasdaq Debut  NVDA, BABA, TTWO, SLS Stocks In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-climb-ahead-anthropics-110203603.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-19-26 05:56AM",
+    "title": "Palo Altos AI Ambitions Come With A Catch  Why Morningstar Calls PANWs $4.5B Deal 'Risky'",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-ai-ambitions-come-105653211.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-19-26 05:17AM",
+    "title": "Palo Alto Networks announces deal to buy Applied Compute for $4.5bn",
+    "url": "https://finance.yahoo.com/news/palo-alto-networks-announces-deal-101704460.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-19-26 05:11AM",
+    "title": "Palo Alto Networks CEO just dropped a truth bomb on the network outages sweeping through major companies",
+    "url": "https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-19-26 05:00AM",
+    "title": "Palo Alto rides cybersecurity surge, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-nasdaq-leads-dow-sp500-higher-on-anthropic-ai-optimism-walmart-earnings/card/palo-alto-rides-cybersecurity-surge-and-other-early-market-movers-3rtQ4cyzjeIkcqfuY6xH?mod=mw_FV"
+   }
+  ],
+  "pre_tier": "MA-target",
+  "pre_tier_hits": [
+   "to acquire [A-Z][\\w ]+ in \\$[\\d.]+ ?(mln|million|bln|billion) deal",
+   "cash takeover: upside capped at deal price \u2014 not an EP"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ASTS": {
+  "ticker": "ASTS",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-18",
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "title": "8-K 8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226053080/form8-k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-18",
+    "form": "424B5",
+    "items": "",
+    "title": "424B5",
+    "url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226053004/form424b5.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-17",
+    "form": "8-K",
+    "items": "8.01,9.01",
+    "title": "8-K 8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226052865/form8-k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-17",
+    "form": "424B5",
+    "items": "",
+    "title": "424B5",
+    "url": "https://www.sec.gov/Archives/edgar/data/1780312/000149315226052716/form424b5.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 19, 2026",
+    "title": "AST SpaceMobile, Inc. Files Prospectus Supplement for Potential Issuance of 780,052 Class A Shares",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/ast-spacemobile-inc-files-prospectus-supplement-potential-issuance-780052-class-shares"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Notable Wednesday Option Activity: ASTS, AGL, TNET",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/notable-wednesday-option-activity-asts-agl-tnet"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "AST SpaceMobile Is 78% Below Its High and Pushed Its Launch Target to 2027. Here\u2019s the Exact Price Where I\u2019d Finally Buy.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/ast-spacemobile-78-below-its-high-and-pushed-its-launch-target-2027-heres-exact-price"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 17, 2026",
+    "title": "AST SpaceMobile, Inc. Files Prospectus Supplement for 10,000,000 Class A Common Stock Shares Issued to Firefly Aerospace Inc.",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/ast-spacemobile-inc-files-prospectus-supplement-10000000-class-common-stock-shares-issued"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 16, 2026",
+    "title": "AST SpaceMobile: Is the Stock a No-Brainer Buy at $30?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/ast-spacemobile-stock-no-brainer-buy-30"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-19-26 12:57AM",
+    "title": "ASTS Stock Jumps Overnight Despite New Shares For Engines And Spectrum  Bulls Cheer ULAs Amazon Launch Clue",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-jumps-overnight-despite-055736587.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-18-26 05:19AM",
+    "title": "Futures Climb As Nvidia Earnings Boost AI Trade  BABA, INTC, ASTS, CAPR In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/futures-climb-nvidia-earnings-boost-101949738.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 11:35PM",
+    "title": "Why Did ASTS, NFLX, RCAT Stocks Plunge To 52-Week Lows Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-asts-nflx-rcat-043516735.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 01:07PM",
+    "title": "SpaceX Extends Its Rocket Lead. Blue Origin Isn't Catching Up.",
+    "url": "https://www.barrons.com/articles/spacex-extends-rocket-lead-blue-origin-d9e88ca1?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 02:45AM",
+    "title": "Why Catching SpaceX Is Getting Harder: Analyst Calls ASTs 2-Year Rocket Plan Totally Unrealistic, Rocket Lab Is Still Building One",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-catching-spacex-getting-harder-074533518.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 12:58AM",
+    "title": "ASTS, RKLB, LUNR And FLY Fall After ULA Rocket Failure Strands 40 Amazon Satellites  Why One Analyst Wants Musk To Free Up Falcon 9 Flights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-lunr-fly-fall-055834650.html"
+   }
+  ],
+  "pre_tier": "C?",
+  "pre_tier_hits": [
+   "prospectus/registration filed (offering?)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BE": {
+  "ticker": "BE",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 18, 2026",
+    "title": "Interesting Update for Bloom Energy Stock Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/interesting-update-bloom-energy-stock-investors"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 17, 2026",
+    "title": "Why Is Everyone Talking About Bloom Energy Stock?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-everyone-talking-about-bloom-energy-stock"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 17, 2026",
+    "title": "Why Bloom Energy Stock Fell Despite Record Earnings and a 900 MW Deal",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-bloom-energy-stock-fell-despite-record-earnings-and-900-mw-deal"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 16, 2026",
+    "title": "Prediction: Nov. 18 Will Be a Huge Day for AI Power Stocks. Here\u2019s Why.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/prediction-nov-18-will-be-huge-day-ai-power-stocks-heres-why"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 16, 2026",
+    "title": "What's Going on With Bloom Energy Stock?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/whats-going-bloom-energy-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-18-26 05:13PM",
+    "title": "TIME Names Bloom Energy Among America's Top Manufacturers of 2027",
+    "url": "https://finviz.com/news/424964/time-names-bloom-energy-among-americas-top-manufacturers-of-2027"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-18-26 02:50PM",
+    "title": "EXCLUSIVE: AI Data Centers Face Years Waiting for Grid Power. Bloom Says They Dont Have to Wait",
+    "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-ai-data-centers-face-195026251.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 11:22PM",
+    "title": "BE Stock Rises Overnight After Nvidia Earnings: Insiders Report $1.3M In Share Sales, Retail Sees $200 Ahead",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-rises-overnight-nvidia-earnings-042206405.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 05:25PM",
+    "title": "Bloom Energy, Vistra shares benefit from Nvidia's confident outlook",
+    "url": "https://www.marketwatch.com/livecoverage/nvidia-earnings-stock-nvidia-jensen-huang-results-call/card/bloom-energy-vistra-shares-benefit-from-nvidia-s-confident-outlook-q78tSYZaHJtqNtYs8lEx?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 02:03PM",
+    "title": "Signal: Buy the Dip on Bloom Energy Stock",
+    "url": "https://finviz.com/news/424240/signal-buy-the-dip-on-bloom-energy-stock"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 10:59AM",
+    "title": "Boom Goes the Stock Market",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111726/card/boom-goes-the-stock-market-kV5HA3IK0eRBo2mwC0vN?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 12:33AM",
+    "title": "Situational Awareness Revives AI Portfolio After Summer Collapse  Here Are Its New Stock Bets",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-revives-ai-portfolio-053312473.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 07:09PM",
+    "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week   NVDA, TSLA, ANT In Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-000928100.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 04:03PM",
+    "title": "S&P 500 Tumbles 1.9%. It's Not Just AI.",
+    "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111626/card/s-p-500-tumbles-1-9-it-s-not-just-ai--FDvmQloAfOi6OQeFoldW?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-16-26 01:54AM",
+    "title": "BE Stock Falls Overnight: Retail Flags Valuation Concerns As Forward P/E Nears 18-Month Low",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-falls-overnight-retail-flags-065444592.html"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
