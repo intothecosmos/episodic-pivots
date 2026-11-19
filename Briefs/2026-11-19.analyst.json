@@ -1,5 +1,8 @@
 {
- "PANW": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "Tier A earnings blowout + raised FY27 guide (rev $3.44B +39%, NGS ARR +66%) and $4.5B all-stock Applied Compute buy (acquirer, not target). Gate 3 fail at snapshot (0.02x ADV premarket), $278B mega cap, regime red. Re-check volume at v2."},
- "ASTS": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "424B5s = 10M shares to Firefly (IP license) + 780k to Ligado (spectrum): dilution, not news. Bounce off 52w low on ULA/Amazon sympathy. Gate 3 0.02x ADV, overhead 99%."},
- "BE": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "No filing; only PR is a TIME manufacturers-list mention. AI-power sympathy off Nvidia earnings. Gate 3 0.02x ADV, 6m -44.5%, overhead 59.8%."}
+ "PANW": {"tier": "A", "grade": 2, "verdict": "NO TRADE", "why": "v2: Tier A earnings blowout + raised FY27 guide (rev $3.44B +39%, NGS ARR +66%) and $4.5B all-stock Applied Compute buy (acquirer, not target). Gap faded 9.7%->8.2% premarket. Gate 3 fail at snapshot (0.04x ADV premarket; under-reads a $278B mega cap). Regime red. Only revisit if 09:45 volume >=1x ADV."},
+ "ASTS": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "v2: 424B5s = 10M shares to Firefly (IP license) + 780k to Ligado (spectrum): dilution, not news. Bounce off 52w low. Gate 3 0.03x ADV, overhead 99%."},
+ "UMAC": {"tier": "Unknown", "grade": 1, "verdict": "NO TRADE", "why": "v2: no PR/filing in 3 days; Q3 letter was 2 weeks ago; drone-sector sympathy. Gate 4 fail ($4.9M proj dollar vol). 0.05x ADV premarket, -70% from 52w high."},
+ "PCT": {"tier": "B", "grade": 1, "verdict": "NO TRADE", "why": "v2: WM multi-year feedstock supply deal (~25M lb/yr PP bales, no dollar value) - input contract, not revenue. Gate 4 fail ($2.5M proj dollar vol), chart fail, $1.97 stock, 0.05x ADV."},
+ "ASPI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "v2: no new catalyst (10-Q Nov 16, COO tax sale). Gate 4 fail ($0.2M proj dollar vol), chart fail, -84% from 52w high."},
+ "BE": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "v1 only (faded below 8% by 09:15). No filing; only PR is a TIME manufacturers-list mention. AI-power sympathy off Nvidia earnings. Gate 3 0.02x ADV."}
 }
