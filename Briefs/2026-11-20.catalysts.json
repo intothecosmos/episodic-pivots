@@ -1,0 +1,33 @@
+{
+ "CAPR": {
+  "ticker": "CAPR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 19, 2026",
+    "title": "Noteworthy Thursday Option Activity: ALLY, CAPR, GFL",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-thursday-option-activity-ally-capr-gfl"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-18-26 02:51AM",
+    "title": "CAPR Stock Has Retails Attention After SLS Rally  But 2 Other Drugs Could Have Better Estimated FDA Approval Odds This Month",
+    "url": "https://finance.yahoo.com/healthcare/articles/capr-stock-retail-attention-sls-075138702.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-17-26 03:53PM",
+    "title": "Pharma Bro Shkreli Calls SLS Results Sketch, Compares Leukemia Vaccine Data To Capricors Deramiocel",
+    "url": "https://finance.yahoo.com/healthcare/articles/pharma-bro-shkreli-calls-sls-205335099.html"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "fda approv"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
