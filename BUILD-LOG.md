@@ -216,7 +216,7 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
   2025-04-29→08-01 and 2026-04-13→06-08; the current red run started 2026-10-15 (12 sessions).
 - Scheduled-task containers (observed 2026-11-12) arrive with the repo already cloned at
   `/home/claude/episodic-pivots` as a detached HEAD on origin/main's tip; `git pull --rebase` and `git push`
-  both fail from that state. Prompts must `checkout main && reset --hard origin/main` first. The task's
+  both fail from that state. Prompts must `checkout main && merge --ff-only origin/main` first (`reset --hard` is denied by the permission classifier — 2026-11-19). The task's
   session had no Gmail (nor Google Calendar/Asana) MCP server despite the connector being listed on the task.
 - yfinance crumb fetch returned HTTP 429 once at 21:06 ET; the `^VIX` download still succeeded. The CBOE
   CSV covers every session but today, so a yfinance outage blanks only the current day's `vix_close` until
@@ -270,6 +270,14 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
     329/331; hist 2350/2476 unchanged; archive 23.9 MB / 5,352 files) · `market.csv` last date 2026-11-18 (412
     rows; gate0 red, 25th red session, QQQ 659.51 / SMA10 669.39 / SMA20 686.30, VIX 24.56, up4 293 / down4 316,
     2 hits) · committed `auto: v2.1 nightly data 2026-11-18`.
+  - 2026-11-19 21:00 ET run 21 · housekeeping only (prompt still unchanged — `updated_at` 2026-10-30, task
+    `enabled: true`, Gmail and `add_repo` absent; repo arrived as detached HEAD 8 commits behind, `checkout main
+    && merge --ff-only origin/main` clean — note `reset --hard` is itself denied by the permission classifier, so
+    the proposed prompt's SETUP line should use `checkout main && git merge --ff-only origin/main` instead) ·
+    `intraday.py --update` 37 events touched (live 337/337, 204 complete, 322×1m/15×5m; pre14 335/337; hist
+    2350/2476 unchanged; archive 24.2 MB / 5,364 files) · `market.csv` last date 2026-11-19 (413 rows; gate0 red,
+    26th red session, QQQ 645.04 / SMA10 669.19 / SMA20 683.33, VIX 28.44, up4 87 / down4 712, 6 hits) ·
+    committed `auto: v2.1 nightly data 2026-11-19`.
 - 2026-11-12 21:00–21:20 ET, nightly run 14 (safety stop → BLOCKED at step 3). State on arrival: the task had
   fired every night since 10-30 (`last_fired_at` 02:00 UTC daily) yet origin/main held no `auto: v2.1`
   commit after step 2 (10-31 01:08 UTC) and this log had no entry after run 1; `market.csv` ended 10-30 and
