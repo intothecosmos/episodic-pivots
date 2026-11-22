@@ -284,6 +284,12 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
     pre14 336/338; hist 2350/2476 unchanged; archive 24.4 MB / 5,366 files) · `market.csv` last date 2026-11-20
     (414 rows; gate0 red, 27th red session, QQQ 608.45 / SMA10 664.42 / SMA20 678.53, VIX 35.89, up4 50 / down4
     1097 of 3,807, 1 hit) · committed `auto: v2.1 nightly data 2026-11-20`.
+  - 2026-11-21 21:00 ET run 23 (Saturday) · housekeeping only (prompt still unchanged — `list_triggers` `updated_at`
+    2026-10-30, task `enabled: true`, Gmail and `add_repo` absent; repo arrived as detached HEAD 5 commits behind,
+    `checkout main && pull --rebase` clean) · `intraday.py --update` 0 events touched (live 338/338, 204 complete,
+    323×1m/15×5m; pre14 336/338; hist 2350/2476 unchanged; archive 24.4 MB / 5,366 files) · `market.py --today`
+    re-ran the 11-18→11-20 rows and changed no data cell (only `computed_at`), `market.csv` last date stays
+    2026-11-20 (414 rows) — the timestamp-only diff was reverted, so no `nightly data` commit tonight.
 - 2026-11-12 21:00–21:20 ET, nightly run 14 (safety stop → BLOCKED at step 3). State on arrival: the task had
   fired every night since 10-30 (`last_fired_at` 02:00 UTC daily) yet origin/main held no `auto: v2.1`
   commit after step 2 (10-31 01:08 UTC) and this log had no entry after run 1; `market.csv` ended 10-30 and
