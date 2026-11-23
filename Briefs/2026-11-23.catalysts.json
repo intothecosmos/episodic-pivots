@@ -1,0 +1,767 @@
+{
+ "KYMR": {
+  "ticker": "KYMR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-23",
+    "form": "8-K",
+    "items": "7.01,8.01,9.01",
+    "title": "8-K 7.01,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526470926/d188151d8k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 07:00AM",
+    "title": "Kymera Therapeutics Announces Positive Results from BROADEN2 Phase 2b Clinical Trial of KT-621, a First-in-Class, Oral STAT6 Degrader, in Patients with Moderate to Severe Atopic Dermatitis",
+    "url": "https://finviz.com/news/426045/kymera-therapeutics-announces-positive-results-from-broaden2-phase-2b-clinical-trial-of-kt-621-a-first-in-class-oral-stat6-degrader-in-patients-with-moderate-to-severe-atopic-dermatitis"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-20-26 04:01PM",
+    "title": "Kymera Therapeutics to Announce KT-621 BROADEN2 Phase 2b Atopic Dermatitis Trial Results on November 23, 2026",
+    "url": "https://finviz.com/news/425866/kymera-therapeutics-to-announce-kt-621-broaden2-phase-2b-atopic-dermatitis-trial-results-on-november-23-2026"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 21 Nov 2026 01:28:08 GMT",
+    "title": "Kymera Therapeutics, Inc. (KYMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MVFBwdXJUUVJtb21DQk9ydnN4alZfRDVCaVVQeXNSSDlva2xhSUtHVS1vNHBFYWVza0plQmFJY3ZZMWNnVHpNN2doamVUbFhoZmc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 12:11:03 GMT",
+    "title": "KYMR: Kymera Therapeutics Inc. filed SEC Form 8-K: Regulation FD... - Quantisnow",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkhjVUNHcFlYZDBFSzdEdnBDX1diY1dIb1lrVDV0VlZpNkhuTDV6eDkzTWVQbzhCc2xadXVRVkZFUU1sWkdtOEZoSGtaR3BhbHpoUVVvVnFjaUNHQ09NWkowWGFNSDdGbG9ERXBZb1hZbVBrQkhpSERCSnBRUnU4TlVpQzVmNEJDOGNia2QtUjZuRk9nQlFFNUVvLWdrWjluUFd0V0RmT19BUQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 12:05:42 GMT",
+    "title": "Kymera Therapeutics Announces Positive Results from BROADEN2 Phase... - Quantisnow",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEtvUXVmOF91MC0wcmhFT1luUDE2blFDVEoyX1JBYnlUdkJGUnlnQXFIenVkbkEtbG9oOEhtb1ZybEp2LVJGOG5LYVBBSnU0WldMOGVXNUhHakZxYnVEMVA5SjRnTllfVTlDUnhaWExiN2wzTkNmaHRIXzZQYlBqVjVLRmJkWDJsamVlRjg0cXNmWVpkSThMVUR5aW9oTW12cUlOdVZUU25SRWlhNl8tbEZNM0N5bE0y?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 22 Nov 2026 06:16:01 GMT",
+    "title": "(KYMR) Movement Within Algorithmic Entry Frameworks - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRUxCNThGMUVmdnJkTGctcnBuend2RWlKaExhbjVUVDVPMk1WR05adnIwdWpZMXNfMjFpdTh3QkVSbG5mR25hanh6UFBJTlQ4c0NHSUxTcWNTYmFBemVNQVlVQXdCdlYxTmtxYVdfTWVUZzhRaXFyd080OVlMTDI2VTN2TEFuLWlJLTNNUlZZSlFfZVNnWkwxenlreFlOMlZ3Wk1hODhMeHlGRk03ZXNlQ3ktMDhBbWRxWFZlS3VDU1dfRGM2REJKZw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 21 Nov 2026 10:55:28 GMT",
+    "title": "Kymera Therapeutics (NASDAQ:KYMR) Stock Crosses Below 50 Day Moving Average - What's Next? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYW5fUEIzb05XNnRBMW9YT3VPelFTTzdvS3lVRDNpYWlqa1dtNl9ucllQaDBMbXg0djUyTmtKWTBwNWpjMzQzTVdlUG1SeW95Y094Znh0OXVtR2F6Z1JWOGFtX3AzczNYYUwzZEdIcmtUV2tGX1Z6b2NvUm5fWmRRamNXcy1YTW9qUXJqTGJrSUJqQ0dVUm1Wckg3YW1TX2lZaHJjZS0wN0Q3QWZENGFiT24wUzNvUDAtQjlMNVlXazdIZTEzOWlQR1Roa1pta05aS3RZaHpFVS1QR0ty?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "phase [12]"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ZS": {
+  "ticker": "ZS",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-23",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470946/d255961d425.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-23",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961d8k.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-23",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1713683/000110465926130801/tm2630454d2_425.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 20, 2026",
+    "title": "Crowd Pleaser\u2026.Crowdstrike  Wants to Buy Zscaler",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/crowd-pleasercrowdstrike-wants-buy-zscaler"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 07:40AM",
+    "title": "The Stock Market Rebound Is Here for a Good Time-Not a Long Time",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-40fa0a11?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 07:16AM",
+    "title": "Cybersecurity stocks have been hot - and now CrowdStrike inks deal to buy Zscaler",
+    "url": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 07:09AM",
+    "title": "CrowdStrike Agrees To Buy Zscaler For $43.9 Billion. Shares Move In Opposite Directions.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-agrees-buy-zscaler-43-120936873.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 06:59AM",
+    "title": "Crowdstrike is spending $43.9 billion to buy ZScaler in a huge cybersecurity deal as tech outages spread",
+    "url": "https://finance.yahoo.com/technology/article/crowdstrike-is-spending-439-billion-to-buy-zscaler-in-a-huge-cybersecurity-deal-as-tech-outages-spread-110645119.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 06:41AM",
+    "title": "CrowdStrike To Acquire Zscaler For $43.9B In All-Stock Deal: TD Cowen Sees Cybersecurity Consolidation Entering More Material Phase",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-acquire-zscaler-43-9b-114133750.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 06:37AM",
+    "title": "CrowdStrike Announces $43.9 Billion Zscaler Acquisition and Raises Fiscal 2027 Guidance Following Strong Quarterly Results",
+    "url": "https://finviz.com/news/426020/crowdstrike-announces-439-billion-zscaler-acquisition-and-raises-fiscal-2027-guidance-following-strong-quarterly-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 06:37AM",
+    "title": "Nvidia and other tech stocks rally in early trading following last week's selloff",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-slides-tech-rout-anthropic-ipo/card/nvidia-and-other-tech-stocks-rally-in-early-trading-following-last-week-s-selloff-ncZ7flZDsK1Kru0Hbpfq?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 06:20AM",
+    "title": "Sandisk, AMD, Intel, Zscaler, Robinhood, and More Stocks That Explain Today's Market",
+    "url": "https://www.barrons.com/articles/stock-movers-901d6342?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 06:10AM",
+    "title": "CrowdStrike explores acquisition of Zscaler  report",
+    "url": "https://finance.yahoo.com/news/crowdstrike-explores-acquisition-zscaler-report-111021470.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 06:03AM",
+    "title": "CrowdStrike Is Buying Zscaler in a $44 Billion All-Stock Deal",
+    "url": "https://www.barrons.com/articles/crowdstrike-stock-zscaler-ai-acquisition-89065203?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 05:54AM",
+    "title": "CrowdStrike to Buy Zscaler in $43.9 Billion Stock Swap",
+    "url": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 05:30AM",
+    "title": "Zscaler Announces First Quarter Fiscal Year 2027 Financial Results",
+    "url": "https://finviz.com/news/425987/zscaler-announces-first-quarter-fiscal-year-2027-financial-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 04:32AM",
+    "title": "CrowdStrike to Acquire Zscaler, Bringing Network Security and Zero Trust to the Falcon Platform",
+    "url": "https://finviz.com/news/425992/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 04:30AM",
+    "title": "CrowdStrike Reports Third Quarter Fiscal Year 2027 Financial Results",
+    "url": "https://finviz.com/news/425989/crowdstrike-reports-third-quarter-fiscal-year-2027-financial-results"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FWDI": {
+  "ticker": "FWDI",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "CYPH": {
+  "ticker": "CYPH",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FRMI": {
+  "ticker": "FRMI",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-23",
+    "form": "8-K",
+    "items": "8.01",
+    "title": "8-K 8.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026122877/ea0313210-8k_fermi.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 21 Nov 2026 14:19:12 GMT",
+    "title": "Fermi Inc. (FRMI) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yLU9LeXdROXk4elB1NVNZaWNjVWVSejNycm9pWmFyV1FyRGtLN3lJNnQzRkpTT1hlMUpnY1ZKY25wSE5FcGFBWjdmQ2dzV3lEekE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 12:05:42 GMT",
+    "title": "FRMI: Fermi Inc. filed SEC Form 8-K: Other Events - Quantisnow",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTUyT2ZRZl92WkRDQzlMZHY4eTE2eHMxMjE4YnFZY3M1cnp3bFFBWjZJVmdjamNwdjczUWNFQkEwNFBYWFJ2d0Z3M3hDenB4N0xMSGRoQ3hTN0c5c05keEVtWEVNTmRnLWRRMmJRZFZWRHE1UDBjcFkySklvU1VHRW5FWVFnRndCd3FoeA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 21 Nov 2026 11:09:52 GMT",
+    "title": "Fermi Inc. (FRMI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZYllGRWVtSFJQT1RRNm9XcHRyd2JfV2Q1UGJMdTYwa1dQZWp4MHFWR2tZMVNYeG42UXRUWS1MeTBZZy10WkRzUG1NNVFmNXNvanc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 08:00:00 GMT",
+    "title": "Fermi (Nasdaq:FRMI) - Stock Analysis - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DNkR5U1N6VS1hTHIyMGRKUjY1S3BiRFdWTm16Ymc1bkk5YzJBQm5TSTVRdGp4MEdJbHRRbWRYUFlxeV9nMUFYOEZjOS00WW5BVEdHdUkxdE1FRTlQYUR4RUVwMW1rb0NoSW00ZWtB?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 22 Nov 2026 03:03:38 GMT",
+    "title": "Fermi Inc. (FRMI) stock price, news, quote and history - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LV08waWxlMDROcVVEV0dZLWdMaUlaY2hrMkxQeWxHX2ltZHRrRmdvNmpmaXN3QTdDN2ROcXZFTXhKZ09JdWg5RFNFbTgzRXBMNXc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 04:20:00 GMT",
+    "title": "Neugebauer: Texas Court Ruling on Fermi's 70/30 Boardroom Maneuver Is a Loss for 100% of Texas Shareholders - Quantisnow",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVp0b1dTaFhtbkU4Z3J3aWpibk1uSXp3Y0NyR2RYRzdVSDdtdExZakVNMnFNNl9RT1lHNld0YnlUdGxJZ0pkX1JHWmxPWHNyOXFPNTFoclp3c1lDZ0ZhTDgzc0ZrYk9Vc2NjMmhXR3lDZ3Y1QU5WVkNqMUxubG1YeFpQd01DaFJLVElkRGpMOUlCcTE1d1VjcUptYm1QdS1WOEJOX0Jobnl2bXBTTkE?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BRAI": {
+  "ticker": "BRAI",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 07:45AM",
+    "title": "BRAIIN ANNOUNCES ~US$40 MILLION ACQUISITION INITIATIVE TO ENTER US$11 BILLION INDIAN DRONE MARKET",
+    "url": "https://finviz.com/news/426091/braiin-announces-us40-million-acquisition-initiative-to-enter-us11-billion-indian-drone-market"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 08:00:00 GMT",
+    "title": "Braiin (BRAI) Stock Price, News & Analysis - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41QWdUR2xMTTFmYkpNRjRiU2NVSTBFSHBOekp3azh1aXkzTWw4S1U4VjVFZnJWUlZzU1UxRFNMWEN3WTUyaEV6dVp5NHlfaEhhMGUw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ASST": {
+  "ticker": "ASST",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 09:07:05 GMT",
+    "title": "Strive (ASST) Stock May Be Below Fair Value After FREEMILK Collaboration - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWxWMGUxb21uWmR0cVNTeWI5OHQyejZrdHVJaE02dURoNHJobGIxdnZ1Ri1sR0ZZa2REZ2F2SzE0TEZGMTZpaFdmX1BhSE1PU2pyVVN6ZEhRY05nejhWLWFUdUxLeG8xYm42WDMySjdPVVZNT0pGTjE0OHE5bFFlOGt6NERxdVo1aHZCazFRMDFHQmlzd3hqb0J6U2l0UXFhaFZoRGZYemdvUlZMcGJCdlJYNXN0c05rbjZHTEZZSHFSN1M1M1HSAcsBQVVfeXFMTnFjcHMzTTkxdmd0ODJCYlpwLW9rem84SFdGSWNsaGZobzZKUW1Ic2ZiSHdSR1ZsTENKT09MdF83RFNjTmo1Y3lSNlJ4RW4taUtoN0k5eEpyVEhjLUdqYjBmbnZQMU1aanNHejgtX2R5UWxNZWlWR2hibTVtMTNKUzFZenFHMTM0VWV2NjI4MElmc1lmZXR2Q2cwX0hseXVwd0xpVkh2RHczNWIwNFdwaU5IOXMxTkU3cmFLTEdIT3RNeXhwX2NZeXFrOEE?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "collaboration"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "IAUX": {
+  "ticker": "IAUX",
+  "filings": [],
+  "headlines": [],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "EOSE": {
+  "ticker": "EOSE",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 16:48:46 GMT",
+    "title": "EOSE Dec 2026 2.500 call (EOSE261211C00002500) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IVERWQVM3MXBPLVlVNmJLTzAyOXhzcGxqUXUxLTJONklMbGtVaHNPRTJ1dnBmRXZUQ2RxZFg3ZTQ4bW1oSEhPTllkbGJ6OGN5eWVhaUplckZERFdVUk1QM29oeUJCbFJqZndDeWd3?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BMNR": {
+  "ticker": "BMNR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 07:35AM",
+    "title": "Crypto Stocks Rally as Bitcoin Rebounds Past $61,000. Is the Jump Temporary?",
+    "url": "https://www.barrons.com/articles/bitcoin-prices-crypto-stock-strategy-robinhood-e5388148?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-20-26 01:34PM",
+    "title": "Bitcoin Drops Below $59K, Wiping Out $1.5B In Crypto Bets: MSTR, BMNR, ASST Stocks Extend Losses",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-59k-wiping-183406394.html"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 18:05:10 GMT",
+    "title": "Why Is Bitmine Immersion Stock Falling on Friday? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmtKQ09GTnJKcnVhZkVuZnNjSExmTVk5UHF4NVhZSXhBUlJwd3hLb2lkZnQ1ellzT1JIZDJxaFAzXzBYTFN1WEtsTzR0TzU3Rlh4Y3Z3ek5NaWhDeHFrOEszNmtLT2VZZmZHWndXTDB1N3JxU0U4ME1jeXlEdWxoeko5dF9jMXozWWptY19oYnpjR2RSTTB5UHNRN0VEd1ZNRTVuYUU1cFJ2Ul9sakE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 18:34:06 GMT",
+    "title": "Bitcoin Drops Below $59K, Wiping Out $1.5B In Crypto Bets: MSTR, BMNR, ASST Stocks Extend Losses - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmFOTDFUSm9yQVRWVVpjbm1tZy1sbWJxZ0VWMGpFdkhFYWlzaEZ1UHdsZklzUTNnTkxNekxpcWMxZGJnN0M0UkwtRVpWa3pfdV9zX1dJME9adkpVWE8tYS1BTjU2X1gxWHJMVHpuRW9UWWJVRE9adW0xU1owNXZ5UmF2b0hRdU9IdzlHNDZoczFGZEZIS1dPOWJwNA?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "UAMY": {
+  "ticker": "UAMY",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 20, 2026",
+    "title": "Why United States Antimony Stock Is Tumbling Lower Today",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-united-states-antimony-stock-tumbling-lower-today"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BTDR": {
+  "ticker": "BTDR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 19:23:30 GMT",
+    "title": "Bitdeer Technologies Group (BTDR) stock price, news, quote and history - Yahoo Finance Australia",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zd3dOdDE1aG5zRUxYY1NUNW9zc2ljaUJfRm9GZUhuU0dWLXU0aExHbjZzQzBTbUJHMzdxWG5UYmxIbWk0OUZhQlJieFhmMTdOemc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 06:32:59 GMT",
+    "title": "Research Analysts Set Expectations for BTDR FY2026 Earnings - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSFFiUnRfMXFhYTA4SkhQQjNxcGI0U2Y3V3VrTGxLbTlnT3ZxNmhsRFo2SmNFZ1pWWVJhR2J0aVJlTHBFMUVOTHp1c3pmb3A1TXlWNFVXUTE5UmFqNl82bTN5MzhPVzB1NU1COFZ4V0ZWSk4xcnFMTTB3dThaOEY0cXltM2tkbkRVbFlkUWc3RVVQeldTQTducmstSGtocUpiRTk4SjZmRWRpM3k5UG5nMndTcE04d2Rla0dEY1ZhekQ?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "KEEL": {
+  "ticker": "KEEL",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 20:30:39 GMT",
+    "title": "Cipher Digital, Kingsoft Cloud Holdings, Keel Infrastructure, Nebius Group, and D-Wave Quantum shares are falling, what you need to know - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPTXA4M2JQaHFLMEhTSG9wZ2hCd3RXcTlIdGpFMVAxQ1liX0hjYlZEOEF0dXZ4N3RSZlBzS3lVc0VOV2Z2YXY3SW0xSkZtdko4bWVVUEQ2ZktDd0JJMjJsb2tQUTI2T252d0dnU2JiNGlINENpaXI1ZTczTUxUUGZBWmxTR25qdmlIWVZwanF5eGN5WHpfbUhHa3JaV1ozaVRhaUNKaW5LLVdnbnhRRFV1RVpmQ2szNXZtdkRXay0zcDljY0htM3NtNGg3X1YzazZjZWlCNC1xRGo2UXo2WWJZSWZZazRyZy1OTFJCeUNadGM3TTVNSHNKdlJhelctLXRiSkVZTW5idF9aZi12dkRRNHRTd2k3dlc2bkZGNw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "USAS": {
+  "ticker": "USAS",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 21:00:00 GMT",
+    "title": "Americas Gold and Silver Corporation (USA.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ySk5xaUJSQ2FHLUstV21OaW9mQkd0SUJwUjBzN1VHQVZNQjlzbEZ1NngycWRkZDNkbkpBQ0xNUmJWWk5Qci1IWFY1RjhoTDF3WFd6OQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 22:50:45 GMT",
+    "title": "Americas Silver Stock Price Forecast. Should You Buy USAS? - StockInvest.us",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wZTJTRHJFWGhmYTBDdi1JZzNRS0J1WnVFbEVoQmtSMzZfUjVtaW5ZeldPbElFSVFydVRkYmtWNXc3Zm9iSjN6aw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "MSTR": {
+  "ticker": "MSTR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 21, 2026",
+    "title": "MSCI Is Cutting Strategy and Metaplanet From Its Indexes. Here's What It Means for Bitcoin Treasury Company Stocks.",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/msci-cutting-strategy-and-metaplanet-its-indexes-heres-what-it-means-bitcoin-treasury"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 20, 2026",
+    "title": "Why Strategy Stock Tanked 23% This Week",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/why-strategy-stock-tanked-23-week"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 20, 2026",
+    "title": "Strategy's Growing USD Reserves: Is Financial Flexibility Improving?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/strategys-growing-usd-reserves-financial-flexibility-improving"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 07:35AM",
+    "title": "Crypto Stocks Rally as Bitcoin Rebounds Past $61,000. Is the Jump Temporary?",
+    "url": "https://www.barrons.com/articles/bitcoin-prices-crypto-stock-strategy-robinhood-e5388148?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 05:53AM",
+    "title": "Nvidia's Slide, Bitcoin's Sell-Off, Oil's Fed Impact: 3 Charts To Watch This Week",
+    "url": "https://finance.yahoo.com/markets/articles/nvidias-slide-bitcoins-sell-off-105349301.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 04:44AM",
+    "title": "MSTR Stock Jumps In Premarket As Bitcoin Reclaims $61K After Brutal Nasdaq Sell-Off",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/mstr-stock-jumps-premarket-bitcoin-094438906.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 12:06AM",
+    "title": "Strategy's Bitcoin Stack Is 22% Underwater. Peter Schiff Says It's About to Blow Up'",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/strategys-bitcoin-stack-22-underwater-050628958.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-22-26 05:30AM",
+    "title": "Street Calls of the Week",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002019.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-22-26 02:59AM",
+    "title": "Bitcoin makes tentative rebound, rising over 1% to reclaim $60,000",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-struggles-below-60-000-075958768.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-21-26 01:03PM",
+    "title": "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?",
+    "url": "https://www.barrons.com/articles/bitcoin-price-today-news-2098674f?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-20-26 10:10PM",
+    "title": "Bitcoin Falls Below $60K For First Time Since July, Saylor's MSTR Hits 52-Week Low Amid $14B Paper Loss",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-60k-first-031059875.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-20-26 05:38PM",
+    "title": "Weekly Wrap: Crypto Falls As Stocks Struggle",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-crypto-falls-stocks-223800731.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-20-26 01:34PM",
+    "title": "Bitcoin Drops Below $59K, Wiping Out $1.5B In Crypto Bets: MSTR, BMNR, ASST Stocks Extend Losses",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-59k-wiping-183406394.html"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "VZLA": {
+  "ticker": "VZLA",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 10:30:20 GMT",
+    "title": "Vizsla Silver Corp. (VZLA.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrdVIta0w0eHBEUDVoUGRfUmVScUJMWXZXSWhfV3NXaUM5SzhPX1FYSjA2dWQ1SHFYM2pCTVhaVXB3UW9rSEFsYXFKWkRFbDRNaUY2YmdR?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 22 Nov 2026 06:24:33 GMT",
+    "title": "Vizsla Silver Corp. (VZLA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtdE05elh3X0psVkJpcGtXUWpSUk5McEdpRW1RckxGbUNic29kMjdYMVJ6cVp4ci1kQllvWDBHeGlmZERQYVJwMllUbDk3eGZOcGc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 22 Nov 2026 12:04:58 GMT",
+    "title": "Vizsla Silver Corp. (VZLA) stock price, news, quote and history - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vaUliSDFvZ2YxVU1yY3RrVk1QVUVIZGRDT2x0REdKTVdRUHd5ZGxkRUxBbWlCOWR4X0hPaXpOb2MteWE1dmNZN1pTbkJuSjlQd3c?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sun, 22 Nov 2026 04:12:51 GMT",
+    "title": "Vizsla Silver Corp. (VZLA) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OYnZSN1JiS2pNS0ZweFRWZ3BGTjJleDNMMUZYTDN0dVhwMUFmbFBDNGR3VmV1NlAxSlJyOXQwblNVVTRHYlhhNmZPd0llOHo0Rmc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 21 Nov 2026 15:09:55 GMT",
+    "title": "Vizsla Silver (TSX:VZLA) Pushes Back Panuco Timeline On A Bull Case That Still Looks Cheap - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzhiX0ZkOXkxR3lJZFJfcExneHlkcjgtcmNCak5xU0lmc3RKbmZJZHdwd2V3ZnpZVW1GR3B3a3JzendUOUJKMDZtWDBwOVFTZVJydXMzZTF0MTFkM0Yxald5TDJ2MGxZaXF6UUluVXM4S1NMS0w0aUJBdVc3eG9NaTBUSTloWWtEc1poZ0dVZzNueUN0b1ByZ2VB?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 04:17:32 GMT",
+    "title": "Vizsla Silver Corp. (VZLA.TO) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R0R4S2RLS01FYldhR3cyTW1FVnpVWDVCSlNQeHBBVXI5b0xCZGp0b0FscDhNUnp0eU5hcTB3bWtUTjdYUWl3MWVhOXdBV19pS0JQV3p3?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ASPI": {
+  "ticker": "ASPI",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-20",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1921865/000147793226007217/aspi_425.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 10:52:30 GMT",
+    "title": "Sri Lanka stocks trend down; ASPI dips 0.59-pct - EconomyNext",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalRJay05eldhWFdjRkthZ3RObGJiQ3c5SUV1dmVia084VG5FQnVRVVk2M2FrejFBV1JETFR3WFJKNms1RGJ0ZnhyMUg3MXZXVW1jOXgwNW4zTG5DTUNJamtYV3NER2JteXJwUVB1RnJZdXZxVHpYYTJTZ25ILXo4TFZvdWg?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "BRUN": {
+  "ticker": "BRUN",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 19:18:00 GMT",
+    "title": "$BRUN stock is down 15% today. Here's what we see in our data. - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGd0N2lEblloUlVqLTdhZkRUcjI0VDVzSTdwblBBUzdNcF9qOHpUTjlUQmZ2WjlleXNWYmZzakY3M1pSd19HMnJoaGIwXy1jd1pwWnk0Z0Fqc3FiQlJNTldEa1J2a24yd01TVnA0ZTh5SE5hQ3RNNUxIdnExalhQNDZIUW9sSVpJU1VLbGdUdjZ2dVFnYUZJX1lzcHZNR0lZUEN3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 08:00:00 GMT",
+    "title": "Boost Run (BRUN) Stock Price, News & Analysis - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwWUN3UnB5NlF6UURvbUNJNTI0NW9WV3BQdEtuNGFNSHBMakI1cDZwUURYX3pPb0c4NURja3BqMWpfbW05bG05TUFBWGdqclBSZ1Zv?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "RCAT": {
+  "ticker": "RCAT",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 21 Nov 2026 09:18:19 GMT",
+    "title": "Red Cat Holdings, Inc. (RCAT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xTGFaQWlka3pVV2wyODFpM0VHWWpjSERZNmFFczRRX0kxTEZ0Y0xqTGJoYXVsb1dveGYxTWxkRVlHM2Zkd2djVGU4V21QaHpfVXc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 21 Nov 2026 03:26:56 GMT",
+    "title": "Red Cat Holdings, Inc. (RCAT) stock price, news, quote and history - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54SDR0ZkpMMWp5dDhCSWstalhPRkNmZTZvXzBUOUEzY1hWX2tTMFQ2S2tpa0FLSmFlZTZPQno5T1ZLVzBoUGYzNkZfX3QyaUdUUWc?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "OPEN": {
+  "ticker": "OPEN",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 20, 2026",
+    "title": "Commit To Purchase Opendoor Technologies At $1, Earn 29% Using Options",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/commit-purchase-opendoor-technologies-1-earn-29-using-options"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 08:32:44 GMT",
+    "title": "Opendoor Technologies Inc. (OPEN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBUDBVaUIzdVlIRUotZkVrbzAxTDJ2OWZXak9SWUo1RGFkbmlkcUZxa0tDdW4yY05FTjdMZnk4VG5jV3NhUlBMa2I4bDQ3N1dJUkE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 02:37:00 GMT",
+    "title": "Financials drag Indian shares down on profit-taking after four-week rally - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 11:04:00 GMT",
+    "title": "Is the stock market open on Thanksgiving, Black Friday? - USA Today",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWVJZjU3aUF3Tk00eUxETXZnOUtBekVqbEliNGhIYVpnZXhtRVM0S0FZVHpaRmtkS0ItQ2FHUWxPQnJtVjFqdmNUYzhlcmgtM0I0RTVielN2RW5hdUVQTTBKNjhPRXFTclZnMnlvWHVPQVFWUXNwR2VnTDdaWXlzUlhxbkJwREhWQjREbU1ITXZlSFZNdjRKOTFNb1VBVl9yamdpbEhkVmt3dGl2OU9vX2NB?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 06:16:44 GMT",
+    "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb29hQVNKT1VHMXd1QktpelpWZWNwSDVubzhQcXZxNG8xWnVBdk1vRHVTb0l3NXBBeUdzbVFSZ3Z1THdqcnNqTXd0d09WVzZabzNiTlRNWEpycmI4MUVRQ2tTU2FRa3N1V0NvWmJrTzhvTkd1VFpaUDgydjR5QXBxTkYwUk1sWmhma09ZQXZ6S0x4NU1mNDdEaWZTbGVUR054WlVkeE83bUtrNnhOQzBQTFBOUndaLTA?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 01:42:09 GMT",
+    "title": "Hong Kong Stock Market Open | Hang Seng Index opens 1.08% lower; auto stocks decline, with Li Auto-W (02015) down 5.82% - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3pHRGVjU0FiSDhkQ0NubkQ5MzNWNWFvNGhtYVl0ZXRBRElWanM0bzE2eFFMZ292LWQybzhpeDQ2TzZvUXROd2lucHRWUEdmMDRsZE91YklNd2lnaElueVhhY2NTRW16OEVudmE5ZzBWMnE1c1BNMk9Bd1ZVQTJ2ZElNV1ZuRnRMc1lnYU9CbmJNd2d4T2NaaGZoRQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 21 Nov 2026 20:05:04 GMT",
+    "title": "Bitcoin rises 9% from two-year low, reclaiming $60,000 as forced selling eases - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazQwdWlpUGFEeW94QjNwc09ZYzFHblczcTFvUEI3SzdwMTE4cWw4T0RlcFhJcE50cWhhcWVaWnVxekgzVWJDWjNpWTJoZnEwcDBmVHA4NUZyVi1rNUU0dkRFZkpOMkZrYlBseEN4WWFFenlSbFJZVXp3REFlaUZ1UjNGTjdELVhDalhvd1lFNGJMUHktUlpDOWtCajF3TmZKYy1XOURObVAySU9yRS1Oclc2QTZaR2J5WGhpcXpoRWowaFJEUnpwUEFXYXNtYWs?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 04:33:19 GMT",
+    "title": "Sensex, Nifty Open Higher Despite Weak Global Market Cues - HDFC Sky",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSy1IQXlUcXRQRUcwT0Z0SmN3Z2hIYjZKYXVDS3E2UWpySjJOQ2lDNmtOdm1wM0REdFJ6d0xPYWUyck5ROTYwR21fNVhwUzFQZzVuOV9XMDNSYUE2S2cxcGF5anVlcEMtYnJTWnBBbS1hQkwwMWlXMW1DdjVaMVBRc2dJZXYwbVItdnYtN3BaVUFERUI5X0FJckVRcXVEODU2M0l4VEl2N09TNEh3RWRIMTdTSDA2Y3AyMl9XZmtqTkU2OXV3cGhTZkJVUVJwaUhacWxDZFFQcHhUdWhjTFp4Ri0yUkpQb00yQ25pVkRESFFVWWo1MjlNcy0wcE0wSFd5UGpjOW1vLVBQMUZDakE?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "OUST": {
+  "ticker": "OUST",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Sat, 21 Nov 2026 14:16:33 GMT",
+    "title": "Ouster, Inc. (OUST) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1VDljSTNWYXlpZ0tWWlhMRk5FRUw0RkdxR1NGcGJla2JwTzFBX1RLV3QxNGxfUURuVFVjaUpHaDU3YUZzVlZ1M0dtUkRtZVBzQXc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Mon, 23 Nov 2026 06:17:20 GMT",
+    "title": "Ouster (OUST) Stock Could Be 37% Overvalued As Nashville Traffic Deal Expands - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNU83dTlpTEZRcDF4eTYtbzBjQkhLaVhDejcxaW13WE9lcmFLM19vVTlLREFwOGxKT0RxbDlRSjRmMUZFeEt5MzBHU2xmSUVGWTJWb1dlVVFXU3lTZUhnZkRMcHo1ZWYyN0V3X3JPZnhyTVhJSFN4eEJ0eUNBbjk5MDVjaEstX2tOeDBCZ1Y3Z2xoNVZqMVJZLWVCX2lid2c0UTcxbzNLd2dzbFFwV1JOcHJwZ1R4TF8ySEd1UWp30gHDAUFVX3lxTE1TSHZRaXdablFHdDJwOFVWQXZQZ2g2c05LMnJEX1lCdjFvVVEwUGM3dkVhaUgwZ1JESnp4aTdqMjB2NGFiSXNtSkxFYUpxRHhjbXBxal9VSmFoS0ZWRWt0d1BzUXMtNGhrZW9CQk1sVlhsT19FUE9UU0xvR0RaXy1ZcnZ2NU15STlkQms0LWN0dFZGd1JXV212UE4yczk4YXZ2cThPUGFXX0NtcDFFckV6OHlSNk1TUkRhTVVRQlU0UDU4Zw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 20:26:00 GMT",
+    "title": "Why Is Ouster (NYSE:OUST) Stock Down 13% in US Trading After a Nashville Expansion and a Cantor Upgrade? - Kalkine",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYzVJZ09EZFVuX05uRkpjenhtN3VlNE1NakpSRV9aQ0RKdTBpWXItQ2JDWG1TTlVBY3dhSkpWdXJQSjdkWHl3Q2VMRTg2dHNTcHdtc09BVTNWdEsxeVZMdk16NHh4QTRWT25PVlVUZEtucEJ4MEN2QkxFc1h3ZkcwY3hEb1NFSElTckh0amRlVjlEanVfV3FTSGtRV1VaR3dJd19LU2xwckFfXy0yVHhmSk9jbmVHX19jTzhpNjFiYmo2Q3FtX0RNQmRzNDIyMVpoNHU1YQ?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 20:53:02 GMT",
+    "title": "Ouster slumps 16%, dragged down by tech slide (OUST:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORm5mbDRmOGFzQmNNTE0zM2l6dkNSRlZaaHRHd0NzRlB6RDFjZkNJMXk2VUlPWmNkQWJuUE5hZEtEWXZLYVNHcmpWWm1NVENuVGpDOG9ic0dtQ3c4ckFQRDVLQ3BxZmpaSk94NlRlS01MczlJSzNqc0U0Q0hBQjktM1dNR19KNHk0?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "upgrade"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "GLXY": {
+  "ticker": "GLXY",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 14:18:19 GMT",
+    "title": "Galaxy Digital (GLXY) stock price, news, quote and history - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3TzlyZmt5OVdQS3JMSlFJb1A3RGZIdUEzZmIzZXgzMmpzNzlTLUpXT09ieVZvcVNDMXBKNnQyUC1fWHVEYWFYcHh2UnJZbzZITGc?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 20 Nov 2026 08:00:00 GMT",
+    "title": "Galaxy Digital Tokenized Stock (Robinhood) Futures Price | GLXY Perpetual Price, OI & Funding - CoinGlass",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zZVA5UFIyemdmTWtwbFJ4Z2FldUVHNVNkUGl5OGtyM3hRemdGcnBBVzVRZmdRTVMzRVJZQ18xdklBbEFnQXBiS3VwQ3JfUmFiS2hZ?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}
