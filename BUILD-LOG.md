@@ -290,6 +290,14 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
     323×1m/15×5m; pre14 336/338; hist 2350/2476 unchanged; archive 24.4 MB / 5,366 files) · `market.py --today`
     re-ran the 11-18→11-20 rows and changed no data cell (only `computed_at`), `market.csv` last date stays
     2026-11-20 (414 rows) — the timestamp-only diff was reverted, so no `nightly data` commit tonight.
+  - 2026-11-22 21:01 ET run 24 (Sunday) · housekeeping only (prompt still unchanged — `list_triggers` `updated_at`
+    2026-10-30, task `enabled: true`, next fire 11-23 21:00; Gmail connector listed on the task but exposes 0 tools
+    after RefreshMcpTools, `add_repo` absent; repo arrived as detached HEAD 17 commits behind main, `checkout -B main
+    origin/main` on a clean tree) · `intraday.py --update` 0 events touched (live 338/338, 204 complete, 323×1m/15×5m;
+    pre14 336/338; hist 2350/2476 unchanged; archive 24.4 MB / 5,366 files) · `market.py --today` left the last date at
+    2026-11-20 (414 rows) but did change data cells this time — the `ep10_gap_held_pct`/`ep10_d1low_held_pct` gauges on
+    the 11-18→11-20 rows moved (e.g. 11-20 gap-held 86.5→86.6, 11-19 d1low-held 13.4→12.7) because Friday's outcomes
+    run added sessions — so committed `auto: v2.1 nightly data 2026-11-22`. Disable/email not re-attempted (per 11-15).
 - 2026-11-12 21:00–21:20 ET, nightly run 14 (safety stop → BLOCKED at step 3). State on arrival: the task had
   fired every night since 10-30 (`last_fired_at` 02:00 UTC daily) yet origin/main held no `auto: v2.1`
   commit after step 2 (10-31 01:08 UTC) and this log had no entry after run 1; `market.csv` ended 10-30 and
