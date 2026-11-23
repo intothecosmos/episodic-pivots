@@ -1,32 +1,32 @@
 {
  "KYMR": {
   "tier": "A",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": "Tier A confirmed: BROADEN2 Ph2b KT-621 AD met all endpoints (mid-dose EASI -72% vs -27% placebo, EASI-75 62% vs 22%, p<0.0001). Gate 3 fail 0.1x ADV premarket caps 2*; 6m +42.8%, 3.2% off 52w high; regime red. Re-check 09:10 - upgrades to 4* if volume >=1x ADV."
+  "grade": 4,
+  "verdict": "TRADE",
+  "why": "Tier A confirmed: BROADEN2 Ph2b KT-621 AD met all endpoints (mid-dose EASI -72% vs -27% placebo, EASI-75 62% vs 22%, p<0.0001); second 8-K is only the call deck, no offering yet. Gates pass on the card but premarket volume 0.7x ADV is under the rubric's 1x line - confirm at 09:45. Gap faded 27.9% -> 20.1%; 6m +42.8%, 3% off 52w high; regime red - half size or skip."
  },
  "ZS": {
   "tier": "C",
   "grade": 1,
   "verdict": "NO TRADE",
-  "why": "Takeover target, not an EP: CrowdStrike all-stock deal 1.135 CRWD/ZS (~$43.9B), $1.4B break fee. Price pinned to the exchange ratio."
+  "why": "Takeover target, not an EP: CrowdStrike all-stock deal 1.135 CRWD/ZS (~$43.9B), $1.4B break fee. Gap is CRWD moving; price pinned to the exchange ratio."
  },
- "MSTR": {
+ "NVDA": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "8-K 5.02: board reinstated Jensen Huang as CEO effective 11/22 - leadership event, Tier B. Gate 3 fail 0.14x ADV premarket (under-reads a mega-cap; likely passes at 09:45). Chart -41% 3m, overhead 95% - relief gap in a collapsed $3T name, not a pivot. Caps 3* even on a volume pass. Regime red."
+ },
+ "APLD": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Tier A: 18-yr 150 MW lease with IG hyperscaler, ~$5.4B base-term revenue, total contracted >$41B; plus $300M senior secured bridge (debt). Gate 3 fail 0.1x ADV premarket caps 2*. Chart -60% 3m, overhead 99%. Re-grades 4* if 09:45 volume >=1x. Regime red."
+ },
+ "IREN": {
   "tier": "C",
   "grade": 1,
   "verdict": "NO TRADE",
-  "why": "Sympathy bounce on BTC >$61K after -23% week and MSCI removal; 0.0x ADV, overhead 98.5%, regime red."
- },
- "BMNR": {
-  "tier": "C",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": "Crypto-treasury sympathy bounce, no PR/8-K; 0.0x ADV, overhead 96.8%, regime red."
- },
- "FWDI": {
-  "tier": "C",
-  "grade": 1,
-  "verdict": "NO TRADE",
-  "why": "Gate 4 fail ($1.0M projected dollar volume); SOL-treasury sympathy, no catalyst."
+  "why": "No company-specific catalyst; neocloud sympathy rebound on NVDA CEO news. Chart fail (neglect 50, -80% 6m, overhead 98%), volume 0.1x ADV, regime red."
  }
 }
