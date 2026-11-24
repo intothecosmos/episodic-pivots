@@ -298,6 +298,13 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
     2026-11-20 (414 rows) but did change data cells this time — the `ep10_gap_held_pct`/`ep10_d1low_held_pct` gauges on
     the 11-18→11-20 rows moved (e.g. 11-20 gap-held 86.5→86.6, 11-19 d1low-held 13.4→12.7) because Friday's outcomes
     run added sessions — so committed `auto: v2.1 nightly data 2026-11-22`. Disable/email not re-attempted (per 11-15).
+  - 2026-11-23 21:00 ET run 25 · housekeeping only (prompt still unchanged — `list_triggers` `updated_at` 2026-10-30,
+    task `enabled: true`, next fire 11-24 21:00; Gmail listed on the task but no tools, `add_repo` absent; repo arrived on
+    `main`, pull clean) · `intraday.py --update` 66 events touched — 50 new live events archived for 2026-11-23 (the
+    biggest scan day of the build: gate0 red, 28th red session, but up4 1281 / down4 80 of 3,824 = a broad relief day)
+    (live 388/388, 204 complete, 373×1m/15×5m; pre14 386/388; hist 2350/2476 unchanged; archive 26.1 MB / 5,466 files) ·
+    `market.csv` last date 2026-11-23 (415 rows; QQQ 651.03 / SMA10 661.59 / SMA20 675.47, VIX 26.62, 29.0% above SMA20,
+    37.3% above SMA50, highs 83 / lows 120, 50 hits) · committed `auto: v2.1 nightly data 2026-11-23`.
 - 2026-11-12 21:00–21:20 ET, nightly run 14 (safety stop → BLOCKED at step 3). State on arrival: the task had
   fired every night since 10-30 (`last_fired_at` 02:00 UTC daily) yet origin/main held no `auto: v2.1`
   commit after step 2 (10-31 01:08 UTC) and this log had no entry after run 1; `market.csv` ended 10-30 and
