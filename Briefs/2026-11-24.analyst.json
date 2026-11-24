@@ -1,26 +1,26 @@
 {
+ "ANF": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "beat-and-raise with acceleration (sales +11%, EPS +62% incl $0.40 tariff refund; FY EPS 13.70-13.90 from 13.10-13.60) but Gate 3 fails at 0.14x ADV premarket (large-cap under-read); +72% 6m near highs; regime red. Re-check 09:45."
+ },
  "DKS": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
-  "why": "Tier B: Q3 sales +23% (Foot Locker), DICK'S comp +2.6% decelerating from +5.7%, non-GAAP EPS $1.94 vs $2.07 (-6% YoY, beat); FY26 EPS raised to $11.45-12.30 from $11.00-12.00. Gate 3 fail 0.04x ADV premarket (large-cap under-read). Re-grades 3* if 09:45 volume >=1x. Chart base, overhead 53%. Regime red."
- },
- "DLTR": {
-  "tier": "B",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": "Tier B: Q3 comp +4.6%, sales +6.9%, adj EPS $1.16 vs $1.21 (-4%, tariff reinvestment); FY26 adj EPS raised to $8.05-8.25 (~$0.65 tariff-refund benefit). Gate 3 fail 0.03x ADV premarket. Gapping to a 52w high after +45% 6m - breakout not pivot. Re-grades 3* if 09:45 volume >=1x. Regime red."
+  "why": "solid beat + raise, core comp decelerating, EPS down YoY; Gate 3 fails 0.12x ADV premarket; gap fading 17%->13%; overhead 53%; regime red. Re-check 09:45."
  },
  "FLNC": {
   "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
-  "why": "Tier B: Q4 revenue $744M -29% miss, EPS -$0.75, GM -5%, but record Q4 orders $3.5B and backlog $8.9B (vs $5.3B). FY27 guide unconfirmed; cash $378M, FCF -$278M, interim CEO, class action - offering risk. Gate 3 fail 0.16x ADV; chart -82% 6m, overhead 97.5%. Re-grades 3* if 09:45 volume >=1x and no offering. Regime red."
+  "why": "record orders $3.5B / backlog $8.9B on a revenue miss and -5% gross margin; no FY27 guidance or offering in the PR; Gate 3 fails 0.43x ADV premarket; -86% from 52w high, overhead 97.5%; regime red. Re-check 09:45."
  },
  "INSM": {
-  "tier": "C",
+  "tier": "M&A target",
   "grade": 1,
   "verdict": "NO TRADE",
-  "why": "Takeover target, not an EP: Sanofi cash deal $175.00/share (~$41B); price 170.85 pinned to the deal spread."
+  "why": "Sanofi cash takeover at $175/share \u2014 upside capped, not an EP."
  }
 }

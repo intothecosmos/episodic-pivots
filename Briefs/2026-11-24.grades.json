@@ -4,30 +4,30 @@
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.16x ADV (premarket)"
+   "volume: 0.43x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-24 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-24 09:14",
+  "label": "v2"
+ },
+ "ANF": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.14x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-24 09:14",
+  "label": "v2"
  },
  "DKS": {
-  "tier": "A",
+  "tier": "B",
   "grade": 2,
   "verdict": "NO TRADE",
   "why": [
-   "volume: 0.04x ADV (premarket)"
+   "volume: 0.12x ADV (premarket)"
   ],
-  "snapshot_et": "2026-11-24 07:46",
-  "label": "v1"
- },
- "DLTR": {
-  "tier": "A",
-  "grade": 2,
-  "verdict": "NO TRADE",
-  "why": [
-   "volume: 0.03x ADV (premarket)"
-  ],
-  "snapshot_et": "2026-11-24 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-24 09:14",
+  "label": "v2"
  },
  "INSM": {
   "tier": "MA",
@@ -36,7 +36,7 @@
   "why": [
    "cash takeover target \u2014 upside capped, not an EP"
   ],
-  "snapshot_et": "2026-11-24 07:46",
-  "label": "v1"
+  "snapshot_et": "2026-11-24 09:14",
+  "label": "v2"
  }
 }

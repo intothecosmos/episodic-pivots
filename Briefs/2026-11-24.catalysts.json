@@ -1,71 +1,4 @@
 {
- "DKS": {
-  "ticker": "DKS",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-24",
-    "form": "8-K",
-    "items": "2.02,8.01,9.01",
-    "title": "8-K 2.02,8.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/dks-20261123.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 24, 2026",
-    "title": "Dicks Sporting Goods Inc Profit Rises In Q3 ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/dicks-sporting-goods-inc-profit-rises-q3"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 24, 2026",
-    "title": "Dicks Sporting Goods Q3 26 Earnings Conference Call At 8:00 AM ET ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/dicks-sporting-goods-q3-26-earnings-conference-call-8-00-am-et"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 23, 2026",
-    "title": "Noteworthy Monday Option Activity: GPI, DKS, ETSY",
-    "publisher": "BNK Invest",
-    "url": "https://www.nasdaq.com/articles/noteworthy-monday-option-activity-gpi-dks-etsy"
-   },
-   {
-    "src": "Nasdaq",
-    "date": "Nov 22, 2026",
-    "title": "Coupang vs. DICK'S Sporting Goods: Which Retail Stock Is a Better Buy for 2027?",
-    "publisher": "The Motley Fool",
-    "url": "https://www.nasdaq.com/articles/coupang-vs-dicks-sporting-goods-which-retail-stock-better-buy-2027"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-24-26 07:34AM",
-    "title": "Dick's Sporting Goods Raises Profit Outlook on Core Business Strength",
-    "url": "https://www.wsj.com/business/retail/dicks-sporting-goods-raises-profit-outlook-on-core-business-strength-067edf91?mod=wsj_FV"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-24-26 07:00AM",
-    "title": "DICK'S Sporting Goods, Inc. Reports Third Quarter Results",
-    "url": "https://finviz.com/news/426627/dicks-sporting-goods-inc-reports-third-quarter-results"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-24-26 04:35AM",
-    "title": "Analog Devices, HP and Dell Technologies among Tuesday's batch of earnings",
-    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results/card/analog-devices-hp-and-dell-technologies-among-tuesday-s-batch-of-earnings-ZGvPazaGLhFg5h1EiiQf?mod=mw_FV"
-   }
-  ],
-  "pre_tier": "A?",
-  "pre_tier_hits": [
-   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
  "FLNC": {
   "ticker": "FLNC",
   "filings": [
@@ -237,81 +170,194 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "DLTR": {
-  "ticker": "DLTR",
+ "DKS": {
+  "ticker": "DKS",
   "filings": [
    {
     "src": "SEC",
     "date": "2026-11-24",
-    "form": "10-Q",
-    "items": "",
-    "title": "10-Q",
-    "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000137/dltr-20261031.htm"
-   },
-   {
-    "src": "SEC",
-    "date": "2026-11-24",
     "form": "8-K",
-    "items": "2.02,7.01,9.01",
-    "title": "8-K 2.02,7.01,9.01",
-    "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000136/dltr-20261124.htm"
+    "items": "2.02,8.01,9.01",
+    "title": "8-K 2.02,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/dks-20261123.htm"
    }
   ],
   "headlines": [
    {
     "src": "Nasdaq",
     "date": "Nov 24, 2026",
-    "title": "Dollar Tree Inc. Q3 Sales Increase ",
-    "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/dollar-tree-inc-q3-sales-increase"
+    "title": "DICK'S Sporting Goods, Inc. Reports Third Quarter 2026 Results and Declares Dividend",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/dicks-sporting-goods-inc-reports-third-quarter-2026-results-and-declares-dividend"
    },
    {
     "src": "Nasdaq",
     "date": "Nov 24, 2026",
-    "title": "Dollar Tree Q3 26 Earnings Conference Call At 8:00 AM ET ",
+    "title": "Dicks Sporting Goods Inc Profit Rises In Q3 ",
     "publisher": "RTTNews",
-    "url": "https://www.nasdaq.com/articles/dollar-tree-q3-26-earnings-conference-call-8-00-am-et"
+    "url": "https://www.nasdaq.com/articles/dicks-sporting-goods-inc-profit-rises-q3"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Dicks Sporting Goods Q3 26 Earnings Conference Call At 8:00 AM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/dicks-sporting-goods-q3-26-earnings-conference-call-8-00-am-et"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 23, 2026",
+    "title": "Noteworthy Monday Option Activity: GPI, DKS, ETSY",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-monday-option-activity-gpi-dks-etsy"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 22, 2026",
+    "title": "Coupang vs. DICK'S Sporting Goods: Which Retail Stock Is a Better Buy for 2027?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/coupang-vs-dicks-sporting-goods-which-retail-stock-better-buy-2027"
    },
    {
     "src": "finviz",
-    "date": "Nov-24-26 07:17AM",
-    "title": "Dollar Tree stock jumps on earnings beat and raised outlook",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-stock-jumps-earnings-121709851.html"
+    "date": "Nov-24-26 08:49AM",
+    "title": "Why Is Dicks Sporting Goods Stock Rising 13.9% Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-dick-sporting-goods-stock-134906175.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-24-26 07:09AM",
-    "title": "Dollar Tree Lifts Outlook as Quarterly Sales Rise",
-    "url": "https://www.wsj.com/business/retail/dollar-tree-lifts-outlook-as-quarterly-sales-rise-80814dd2?mod=wsj_FV"
+    "date": "Nov-24-26 08:24AM",
+    "title": "Dicks Sporting Goods Shares Jump on Q3 Beat, Better Outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dick-sporting-goods-shares-jump-132429151.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-24-26 07:05AM",
-    "title": "Dollar Tree Boosts Earnings Guidance as Discount Retail Meets Early Holiday Demand",
-    "url": "https://www.barrons.com/articles/dollar-tree-earnings-stock-price-0e1bd232?mod=bar_FV"
+    "date": "Nov-24-26 08:21AM",
+    "title": "Foot Locker Turnaround Sparks 17% Surge in Dick's Sporting Goods Stock",
+    "url": "https://www.barrons.com/articles/dicks-sporting-goods-earnings-stock-price-899cbda2?mod=bar_FV"
    },
    {
     "src": "finviz",
-    "date": "Nov-24-26 05:30AM",
-    "title": "Dollar Tree, Inc. Reports Third Quarter Results",
-    "url": "https://finviz.com/news/426617/dollar-tree-inc-reports-third-quarter-results"
+    "date": "Nov-24-26 07:42AM",
+    "title": "Dick's Sporting Goods raised its forecast after Foot Locker returned to growth",
+    "url": "https://qz.com/dicks-sporting-goods-raises-forecast-foot-locker-growth-112426"
    },
    {
     "src": "finviz",
-    "date": "Nov-23-26 11:30AM",
-    "title": "Week ahead: Wall Street looks for Thanksgiving lift as Nvidia rebound puts AI trade back in focus",
-    "url": "https://finance.yahoo.com/technology/ai/articles/week-ahead-wall-street-looks-163000773.html"
+    "date": "Nov-24-26 07:39AM",
+    "title": "Dicks Sporting Goods shares soar as strong profit beat prompts guidance upgrade",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dick-sporting-goods-shares-soar-123923959.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-23-26 07:03AM",
-    "title": "MARKETS LIVE: Wall Street surges as Huang's return sparks broad rebound",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/markets-live-wall-street-surges-120300516.html"
+    "date": "Nov-24-26 07:34AM",
+    "title": "Dick's Sporting Goods Raises Profit Outlook on Core Business Strength",
+    "url": "https://www.wsj.com/business/retail/dicks-sporting-goods-raises-profit-outlook-on-core-business-strength-067edf91?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:00AM",
+    "title": "DICK'S Sporting Goods, Inc. Reports Third Quarter Results",
+    "url": "https://finviz.com/news/426627/dicks-sporting-goods-inc-reports-third-quarter-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 04:35AM",
+    "title": "Analog Devices, HP and Dell Technologies among Tuesday's batch of earnings",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results/card/analog-devices-hp-and-dell-technologies-among-tuesday-s-batch-of-earnings-ZGvPazaGLhFg5h1EiiQf?mod=mw_FV"
    }
   ],
-  "pre_tier": "A?",
+  "pre_tier": "B?",
   "pre_tier_hits": [
-   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ANF": {
+  "ticker": "ANF",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-24",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018840/000101884026000052/anf-20261124.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Abercrombie & Fitch Co. Reports Third Quarter Fiscal 2026 Results",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/abercrombie-fitch-co-reports-third-quarter-fiscal-2026-results"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Abercrombie & Fitch Boosts FY26 Outlook; Shares Surge 11.5% - Update ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/abercrombie-fitch-boosts-fy26-outlook-shares-surge-115-update"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Abercrombie & Fitch Co. Reports Rise In Q3 Income ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/abercrombie-fitch-co-reports-rise-q3-income"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 08:59AM",
+    "title": "Abercrombie & Fitch CEO Eyes Another Year Of Record Net Sales After Best-Ever Q3 Topline Across Brands",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/abercrombie-fitch-ceo-eyes-another-135936554.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 08:45AM",
+    "title": "Abercrombie & Fitch Stock Heads Toward Best Day in 3 Months on Sales Growth",
+    "url": "https://www.barrons.com/articles/abercrombie-fitch-earnings-stock-price-a8c12ab2?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 08:31AM",
+    "title": "Abercrombie & Fitch Lifts Outlook as Sales Jump",
+    "url": "https://www.wsj.com/business/retail/abercrombie-fitch-lifts-outlook-as-sales-jump-c7f6a19f?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:30AM",
+    "title": "Abercrombie & Fitch Co. Reports Third Quarter Fiscal 2026 Results",
+    "url": "https://finviz.com/news/426678/abercrombie-fitch-co-reports-third-quarter-fiscal-2026-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 04:35AM",
+    "title": "Analog Devices, HP and Dell Technologies among Tuesday's batch of earnings",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results/card/analog-devices-hp-and-dell-technologies-among-tuesday-s-batch-of-earnings-ZGvPazaGLhFg5h1EiiQf?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 06:27PM",
+    "title": "5 Retail and Tech Earnings Charts to Watch This Week",
+    "url": "https://finviz.com/news/426547/5-retail-and-tech-earnings-charts-to-watch-this-week"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 01:19PM",
+    "title": "Why Nike and American Eagle Can Hold Up Better as Holiday Shoppers Avoid Clothing Aisles",
+    "url": "https://www.barrons.com/articles/target-nike-american-eagle-stocks-holiday-shopping-7f5bed45?mod=bar_FV"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "reports (first|second|third|fourth) quarter",
+   "earnings",
+   "8-K item 2.02 (earnings)"
   ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
