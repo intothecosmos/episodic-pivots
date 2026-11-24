@@ -1,0 +1,319 @@
+{
+ "DKS": {
+  "ticker": "DKS",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-24",
+    "form": "8-K",
+    "items": "2.02,8.01,9.01",
+    "title": "8-K 2.02,8.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/dks-20261123.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Dicks Sporting Goods Inc Profit Rises In Q3 ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/dicks-sporting-goods-inc-profit-rises-q3"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Dicks Sporting Goods Q3 26 Earnings Conference Call At 8:00 AM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/dicks-sporting-goods-q3-26-earnings-conference-call-8-00-am-et"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 23, 2026",
+    "title": "Noteworthy Monday Option Activity: GPI, DKS, ETSY",
+    "publisher": "BNK Invest",
+    "url": "https://www.nasdaq.com/articles/noteworthy-monday-option-activity-gpi-dks-etsy"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 22, 2026",
+    "title": "Coupang vs. DICK'S Sporting Goods: Which Retail Stock Is a Better Buy for 2027?",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/coupang-vs-dicks-sporting-goods-which-retail-stock-better-buy-2027"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:34AM",
+    "title": "Dick's Sporting Goods Raises Profit Outlook on Core Business Strength",
+    "url": "https://www.wsj.com/business/retail/dicks-sporting-goods-raises-profit-outlook-on-core-business-strength-067edf91?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:00AM",
+    "title": "DICK'S Sporting Goods, Inc. Reports Third Quarter Results",
+    "url": "https://finviz.com/news/426627/dicks-sporting-goods-inc-reports-third-quarter-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 04:35AM",
+    "title": "Analog Devices, HP and Dell Technologies among Tuesday's batch of earnings",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results/card/analog-devices-hp-and-dell-technologies-among-tuesday-s-batch-of-earnings-ZGvPazaGLhFg5h1EiiQf?mod=mw_FV"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "FLNC": {
+  "ticker": "FLNC",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-23",
+    "form": "10-K",
+    "items": "",
+    "title": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1868941/000186894126000057/flnc-20260930.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-23",
+    "form": "8-K",
+    "items": "2.02,9.01",
+    "title": "8-K 2.02,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1868941/000186894126000056/flnc-20261123.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 23, 2026",
+    "title": "Fluence Energy, Inc. (FLNC) Reports Q4 Loss, Misses Revenue Estimates",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/fluence-energy-inc-flnc-reports-q4-loss-misses-revenue-estimates"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 06:02AM",
+    "title": "Why Is Fluence Energy Stock Rising 16.5% Today?",
+    "url": "https://finviz.com/news/426591/why-is-fluence-energy-stock-rising-165-today"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 04:05PM",
+    "title": "Fluence Energy, Inc. Reports 2026 Financial Results",
+    "url": "https://finviz.com/news/426436/fluence-energy-inc-reports-2026-financial-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 12:30AM",
+    "title": "Fluence Energy, Inc Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - FLNC",
+    "url": "https://finviz.com/news/425956/fluence-energy-inc-sued-for-securities-law-violations-contact-the-djs-law-group-to-discuss-your-rights-flnc"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "revenue",
+   "8-K item 2.02 (earnings)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "INSM": {
+  "ticker": "INSM",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-24",
+    "form": "8-K",
+    "items": "1.01,7.01,9.01",
+    "title": "8-K 1.01,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126045364/ef20086426_8-k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Insmed Incorporated Enters Merger Agreement to Be Acquired by Sanofi for $175.00 Per Share",
+    "publisher": "Fintel",
+    "url": "https://www.nasdaq.com/articles/insmed-incorporated-enters-merger-agreement-be-acquired-sanofi-17500-share"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Sanofi (SNY) To Acquire Insmed In $41 Billion Deal To Expand Respiratory Disease Portfolio; Stock Up ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/sanofi-sny-acquire-insmed-41-billion-deal-expand-respiratory-disease-portfolio-stock"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 23, 2026",
+    "title": "Insmed's Stock Rises 21% on Reports of Buyout Interest From Sanofi",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/insmeds-stock-rises-21-reports-buyout-interest-sanofi"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:39AM",
+    "title": "Sanofi buys US drugmaker Insmed for $41bn to expand respiratory portfolio",
+    "url": "https://finance.yahoo.com/healthcare/articles/sanofi-buys-us-drugmaker-insmed-123918430.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:33AM",
+    "title": "Nvidia Rally Can't Hide the Market's AI Problems",
+    "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-18b5b439?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:16AM",
+    "title": "Sanofi agreed to buy U.S. drugmaker Insmed for $41 billion to bolster its pipeline",
+    "url": "https://qz.com/sanofi-insmed-acquisition-41-billion-pipeline-112426"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:06AM",
+    "title": "Sanofi-Insmed Deal Is by Far Sector's Biggest in 2026",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026/card/sanofi-insmed-deal-is-by-far-sector-s-biggest-in-2026-cWm2bX3utorcePnKS28A?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 06:32AM",
+    "title": "Factbox-Major deals involving US drugmakers and biotechs over the past decade",
+    "url": "https://finance.yahoo.com/healthcare/articles/factbox-major-deals-involving-us-110047333.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 06:21AM",
+    "title": "Nvidia, Anthropic, Intel, HPE, Sanofi, and More Stocks That Explain Today's Market",
+    "url": "https://www.barrons.com/articles/stock-movers-0853c431?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 06:07AM",
+    "title": "Why Is Insmed Stock Rising 14.3% Today?",
+    "url": "https://finviz.com/news/426597/why-is-insmed-stock-rising-143-today"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 05:44AM",
+    "title": "Sanofi to buy US biopharma group Insmed for $41 bn in cash",
+    "url": "https://finance.yahoo.com/healthcare/articles/sanofi-buy-us-biopharma-group-104404701.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 05:31AM",
+    "title": "Insmed Stock Jumps 14% on $41 Billion Sanofi Deal. Why the Price Is Right.",
+    "url": "https://www.barrons.com/articles/insmed-stock-sanofi-deal-1148f570?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 04:58AM",
+    "title": "Insmed jumps on takeover, and other early market movers",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-extend-gains-jensen-huang-ceo-return-nvidia-dell-results/card/insmed-jumps-on-takeover-and-other-early-market-movers-0mnqy1ibPDDrU46uOUO2?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 04:53AM",
+    "title": "Stock Market Today: Tech Stocks Set to Dive Again After Epic Rally",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 04:44AM",
+    "title": "European shares pause as tech rally fades, Sanofi gains",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/europes-stoxx-600-subdued-ai-082727732.html"
+   }
+  ],
+  "pre_tier": "MA-target",
+  "pre_tier_hits": [
+   "acquired by .* for .*\\$[\\d.]+ ?(per share|/shr)",
+   "to acquire [A-Z][\\w ]+ in \\$[\\d.]+ ?(mln|million|bln|billion) deal",
+   "cash takeover: upside capped at deal price \u2014 not an EP"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "DLTR": {
+  "ticker": "DLTR",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-24",
+    "form": "10-Q",
+    "items": "",
+    "title": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000137/dltr-20261031.htm"
+   },
+   {
+    "src": "SEC",
+    "date": "2026-11-24",
+    "form": "8-K",
+    "items": "2.02,7.01,9.01",
+    "title": "8-K 2.02,7.01,9.01",
+    "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000136/dltr-20261124.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Dollar Tree Inc. Q3 Sales Increase ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/dollar-tree-inc-q3-sales-increase"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Dollar Tree Q3 26 Earnings Conference Call At 8:00 AM ET ",
+    "publisher": "RTTNews",
+    "url": "https://www.nasdaq.com/articles/dollar-tree-q3-26-earnings-conference-call-8-00-am-et"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:17AM",
+    "title": "Dollar Tree stock jumps on earnings beat and raised outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-stock-jumps-earnings-121709851.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:09AM",
+    "title": "Dollar Tree Lifts Outlook as Quarterly Sales Rise",
+    "url": "https://www.wsj.com/business/retail/dollar-tree-lifts-outlook-as-quarterly-sales-rise-80814dd2?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:05AM",
+    "title": "Dollar Tree Boosts Earnings Guidance as Discount Retail Meets Early Holiday Demand",
+    "url": "https://www.barrons.com/articles/dollar-tree-earnings-stock-price-0e1bd232?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 05:30AM",
+    "title": "Dollar Tree, Inc. Reports Third Quarter Results",
+    "url": "https://finviz.com/news/426617/dollar-tree-inc-reports-third-quarter-results"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 11:30AM",
+    "title": "Week ahead: Wall Street looks for Thanksgiving lift as Nvidia rebound puts AI trade back in focus",
+    "url": "https://finance.yahoo.com/technology/ai/articles/week-ahead-wall-street-looks-163000773.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-23-26 07:03AM",
+    "title": "MARKETS LIVE: Wall Street surges as Huang's return sparks broad rebound",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/markets-live-wall-street-surges-120300516.html"
+   }
+  ],
+  "pre_tier": "A?",
+  "pre_tier_hits": [
+   "rais(es|ed|ing) .{0,25}(guidance|outlook)"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ }
+}

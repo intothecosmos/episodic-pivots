@@ -1,0 +1,42 @@
+{
+ "FLNC": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.16x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-24 07:46",
+  "label": "v1"
+ },
+ "DKS": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.04x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-24 07:46",
+  "label": "v1"
+ },
+ "DLTR": {
+  "tier": "A",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": [
+   "volume: 0.03x ADV (premarket)"
+  ],
+  "snapshot_et": "2026-11-24 07:46",
+  "label": "v1"
+ },
+ "INSM": {
+  "tier": "MA",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": [
+   "cash takeover target \u2014 upside capped, not an EP"
+  ],
+  "snapshot_et": "2026-11-24 07:46",
+  "label": "v1"
+ }
+}

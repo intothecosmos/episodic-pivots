@@ -1,0 +1,26 @@
+{
+ "DKS": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Tier B: Q3 sales +23% (Foot Locker), DICK'S comp +2.6% decelerating from +5.7%, non-GAAP EPS $1.94 vs $2.07 (-6% YoY, beat); FY26 EPS raised to $11.45-12.30 from $11.00-12.00. Gate 3 fail 0.04x ADV premarket (large-cap under-read). Re-grades 3* if 09:45 volume >=1x. Chart base, overhead 53%. Regime red."
+ },
+ "DLTR": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Tier B: Q3 comp +4.6%, sales +6.9%, adj EPS $1.16 vs $1.21 (-4%, tariff reinvestment); FY26 adj EPS raised to $8.05-8.25 (~$0.65 tariff-refund benefit). Gate 3 fail 0.03x ADV premarket. Gapping to a 52w high after +45% 6m - breakout not pivot. Re-grades 3* if 09:45 volume >=1x. Regime red."
+ },
+ "FLNC": {
+  "tier": "B",
+  "grade": 2,
+  "verdict": "NO TRADE",
+  "why": "Tier B: Q4 revenue $744M -29% miss, EPS -$0.75, GM -5%, but record Q4 orders $3.5B and backlog $8.9B (vs $5.3B). FY27 guide unconfirmed; cash $378M, FCF -$278M, interim CEO, class action - offering risk. Gate 3 fail 0.16x ADV; chart -82% 6m, overhead 97.5%. Re-grades 3* if 09:45 volume >=1x and no offering. Regime red."
+ },
+ "INSM": {
+  "tier": "C",
+  "grade": 1,
+  "verdict": "NO TRADE",
+  "why": "Takeover target, not an EP: Sanofi cash deal $175.00/share (~$41B); price 170.85 pinned to the deal spread."
+ }
+}
