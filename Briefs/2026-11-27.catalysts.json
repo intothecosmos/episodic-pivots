@@ -1,8 +1,31 @@
 {
+ "INTR": {
+  "ticker": "INTR",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 25 Nov 2026 19:20:00 GMT",
+    "title": "Inter & Co. Inc. Stock 12\u2011Month Price Target Cut to $7.64, Implies 100% Upside - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGRGRUZOdzVwSVl4eXl0NXRGVG5HWDZIRmJ2bEYtMkVhbEhGQW1nMzdSQjRrcGZObEhFbk8zSkZpczZjWURmTDFBR01rVWs2Tk5qTjNETGQxa0NSbmoxbTBpQTdyU2stV281SjlfQU1xQlFidkQ1eEpfQlEwaWEyVG9OS2xwT2h0QnFKeGhCcVNESUVwc2pneE1OWndUTmJjUGxEM3p6VzBPdkZYM1ZQVEM0SUdsdW9mbHduTFJMOHplaGNiZzFHdmxYbVQ2UQ?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "XP": {
   "ticker": "XP",
   "filings": [],
   "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 27, 2026",
+    "title": "XP: 3 Key Takeaways for Long-Term Investors",
+    "publisher": "The Motley Fool",
+    "url": "https://www.nasdaq.com/articles/xp-3-key-takeaways-long-term-investors"
+   },
    {
     "src": "GoogleNews",
     "date": "Tue, 24 Nov 2026 08:00:00 GMT",
@@ -27,12 +50,21 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "INTR": {
-  "ticker": "INTR",
+ "PAGS": {
+  "ticker": "PAGS",
   "filings": [],
-  "headlines": [],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 24 Nov 2026 03:22:00 GMT",
+    "title": "Is PagSeguro Digital (PAGS) Undervalued Following Its Earnings And Dividend Update? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOazVCcm85U3BoSE9vUHNHbUZpempKdmlVcEJ5c2RlV0pUeG9HVWxmU3Bkbmh1ejZuY3hydG80YW12R2ZtT0pNMW5HZ3hPOHViT1c3dHZncE5FT0NFTWhNSW0tUnduZVk3cTVjYlJ6VkQtUUpJaWhwZ3RtSHNjMWtaZHgxbnZvREl0MnZPS1Z5N19zVHVDT0tLVUdXMDFadEFpMHN3N3lYWjJTeXpXSGc?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -63,114 +95,78 @@
     "date": "Tue, 24 Nov 2026 18:38:59 GMT",
     "title": "STNE Dec 2026 20.000 put (STNE261218P00020000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CRXBmaUxXYmt3SVBmUkhuTDNMbGlDMlRvV203SFJoeFVCVmxvczVybTRnRVdydDY4WUw3MUFTbXF2NTd0Y284czNVQkJ3ZkZ6UU02dkFDbFRNYmViNEZHZ2E0bnhJZw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "NU": {
+  "ticker": "NU",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "Nu Holdings Scales in Mexico: Can It Unlock New Revenue Streams?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/nu-holdings-scales-mexico-can-it-unlock-new-revenue-streams"
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 11:24:05 GMT",
-    "title": "STNE Apr 2027 5.000 put (STNE270416P00005000) Stock Historical Prices & Data - Yahoo Finance - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13em9fMWJQRjhhajhEYkE2bjJDSFZGbXVlUlpzLXNQcF9zYTZUTVhndk1CVEdiWVdGaXpIM3lVNlQ0V29UblJfNnlaaGZOd0ZTMFFObmlpR1c1OWxqUjRlX2FLTnluXzZmVXBpcHI2U1Q?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "USAS": {
-  "ticker": "USAS",
-  "filings": [],
-  "headlines": [
+    "date": "Thu, 26 Nov 2026 17:09:52 GMT",
+    "title": "Nu Holdings (NU): Why Investors Gave the Stock a Mixed Reception Despite Strong Results? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXROcUhCcWt0OFRqcEc1Q1l6d3BJMWFSblF3eG1OaGRJbHdsZjhJZVlwaFB2YUo2bFRRWU4wZmd5Ylk2UXI0Z1pfeGlyaWpzSHd5UGpONHFPVFRJUjBoUGtRWUtscUx4QkpGUUtZa1hVa1plN3VfZXdPSWlRR2pjVjMxS2NCODdPVVpINGRjdTA5RzVwOW9UdA?oc=5"
+   },
    {
     "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 08:00:00 GMT",
-    "title": "Americas Silver Stock Price Forecast. Should You Buy USAS? - StockInvest.us",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wZTJTRHJFWGhmYTBDdi1JZzNRS0J1WnVFbEVoQmtSMzZfUjVtaW5ZeldPbElFSVFydVRkYmtWNXc3Zm9iSjN6aw?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "PAGS": {
-  "ticker": "PAGS",
-  "filings": [],
-  "headlines": [
+    "date": "Wed, 25 Nov 2026 15:28:11 GMT",
+    "title": "Nu Holdings: Further Penetrating Core Markets (NYSE:NU) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1lXQ0RxTlRSNjBnUnhoRGQzWDNvUzhIbXJ4S3pQZEZhclV6bk5QUkhacEZVbmJEeno3NTBULVJNWjQ2bmwzYzEzZ1ZFWVBkd3lyLUgweUV3eHlFUDJMczZMeDVRM0lESkFNejhOMkg5WW1wOGtjMGhka0lrNVNTQThQYjlGTTZUYkozMzV3?oc=5"
+   },
    {
     "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 03:22:00 GMT",
-    "title": "Is PagSeguro Digital (PAGS) Undervalued Following Its Earnings And Dividend Update? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOazVCcm85U3BoSE9vUHNHbUZpempKdmlVcEJ5c2RlV0pUeG9HVWxmU3Bkbmh1ejZuY3hydG80YW12R2ZtT0pNMW5HZ3hPOHViT1c3dHZncE5FT0NFTWhNSW0tUnduZVk3cTVjYlJ6VkQtUUpJaWhwZ3RtSHNjMWtaZHgxbnZvREl0MnZPS1Z5N19zVHVDT0tLVUdXMDFadEFpMHN3N3lYWjJTeXpXSGc?oc=5"
+    "date": "Fri, 27 Nov 2026 09:15:00 GMT",
+    "title": "Nu Holdings Rises 8% as Broad Market Rallies - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNTZJUWxSbDJXSkNLZkNwV25XTWdqRWE4YXA2VW11R1UxaHBzMURtTi1Sa2N2c2Ric05VSFlId3h6YXlaRmVvNUktUUV2WWJ0T0d3dXlBX0NUeDR6SXplNGpsRWxjLTlxTUJXaVlGWGVzN0hMbXhwNVNHWE1nc2M?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 27 Nov 2026 05:17:19 GMT",
+    "title": "Is Nu Holdings (NU) Undervalued As Q3 Earnings Reignite The Debate? - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFY0RjNVN2pSemhqNG1CVjREYXlxUkdQTTdyOE9iOElLaFJoQmFDaFFUS3JwR0VMLUt0NHpGQ2ZfQU9rUUo3TlNtSUlWdE5kSXVwZXZOakpqNnN4bzBQbVhWaVpLTF84M2FJeW1GTkNLeV9Kd1R2VGRrSmpYN25yX0owNXFlSDBhSUVEeHdaWTBoTFlieW1rWWpLMzBuc21ibmo1MG0wek8yZVpNSXFDdzAtd2luZTRuWXZTd0VMc1rSAcYBQVVfeXFMUG03VlF0RWNkSV9OMVltbDZRMHFpNW5aUnZ0V1dPYU1jMXdWT24tbDIzNUNvYU5zZ1pjekZITFMxMTA1dERYa0Jnd0E3b3VodlIwSDBLTDFYLUh3LWlhNkQtelpHYkZWS2kwZDFQdXZSek8tQlNPdm9CVTN6SGE1TjlqSE9EcHhGaE42LTVIVlRjaVZXeUdaRkhDOHBrbWZFdGZobnJ3UnFRUXRNa0pxTk1GMWwyMHAxUW50eUkwQ0t6anJESFNn?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 24 Nov 2026 17:13:00 GMT",
+    "title": "Nu Holdings Scales in Mexico: Can It Unlock New Revenue Streams? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGtmYVlYdUZhdjJtSEtma013MDRBWVdwcTR0TzhoNEl3WFg2d2VwR2JnY1pYczItVm9KazdZRUo0VkVrMUNMV3Z5c1ptSFJFNC10ZElfc0YwajBOclByRW5DSmVLT1dLNzFQbkxGWkhrQUdPcEJUSl9qUUJXaHF1VGlyNHFiMFFiN1ZQN0FjTi1Kc0xfamxSQTJvWjRNRGlhb0tTZ2J3OHZoSWF3WERUX0s1ei1pMXdxU1E?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 26 Nov 2026 05:16:00 GMT",
+    "title": "Nu Holdings (NU) Posts Strong Third Quarter Results, Is It Still A Bargain? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnM3bFFDdVpiOXdCNWl1dUw5QkxMWml6NlNneUJxUGEzTWowREpocktiZmNraWNCcnZKZDBURm03V3FFcE5UQkpkRExtR2ZUVm4zT0dsX3hZLXJrQUJoM1psRm9VNU1xNUwyODNRVmVtbjRoX1pYa21HR2VVUUt6SUxucGpKbk8zczNBVHg3QnFJaUZoR3Iw?oc=5"
    },
    {
     "src": "GoogleNews",
     "date": "Wed, 25 Nov 2026 14:21:00 GMT",
-    "title": "New Analyst Forecast: $PAGS Given $10 Price Target - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDkxSEYyMlVpN1J1Y3NwVi1IMmxHd1hOWTRxZFg2Z29ITXRlcU55VFhWcDd0cmtsRjF6TEpuamRYQVlsMzV0T2VWRXhlamViZWhOaEZvWXVJaXdaTU5idWRwcUVuNm5QY2dlT2xvZ1Zub2x4S0hiR2tsTkJObWFxLUNfY2NIbzhVV3Z5dGtnQVpEeDQ?oc=5"
+    "title": "New Analyst Forecast: $NU Given $13 Price Target - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzFsNnhZa3Q3R3pvMGJQek1ub3ZrMGxBOWJRT2JBUHdzUzF3WFVuWUZjak9mQ0FKSVd4YmdkRllsaE85azJqS3Y1anFqQTNSa2k3RndBeV94akRwczZYQnVMbFFrT2R1RXFVZGpQeW1uSWhhTXNVbnhGUDVHZWlTVm9oLXdidDIxUGVEQ3BvblE?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 25 Nov 2026 17:14:52 GMT",
+    "title": "Record Earnings Could Be A Big Moment For Nu Stock (NU) - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWg1VUI0VEY5cDFFTFlGVmE4T1Q2VmhEdTBDY0hRLUdwQ2JfYWtxOXN0eXZCby1VRU1NV1BUS2FXYi14NXBtZC01UndxM0hNZXlPZXU5UDZ2X04wZWZlM3hmX1g1N1RiajRwR2dCdmNuN3lpNjUwVnVZRUk5WjNLWFM2MU1aaVNxY3ZQSFREVTcxcS12Y2hRRzFIOXAxVVdSV2xXem1OVVlNQl8zbE5NM0I1ZUFnQnPSAbwBQVVfeXFMTjFBZ3luLXp5M0otdUcwZ3BjbzMtRWhIbElVZjI0bl9YdEI2b2F5cTFtQ0hKMWgzYTRTTmtmOV9KaFZkdjh4c3hLQVVlcXRnZzZsQ0tTZWxtb1A2Wl82MURQWlNLMWpXdzdERGxEdkRPNm9wMFpJZE9YT3ZlR1YwWllDUlNwSUx1QlR1Qkt5Q2J4aEhZMlh0endBNHJjS3VybHo1cTI0UkdST2I5Nnd1Wm04azdwaWhtVHhEdTI?oc=5"
    }
   ],
   "pre_tier": "B?",
   "pre_tier_hits": [
-   "earnings"
+   "earnings",
+   "revenue"
   ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "AGLT": {
-  "ticker": "AGLT",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 08:01:49 GMT",
-    "title": "symbol__ Stock Quote Price and Forecast - CNN",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83R2Jzd21vN1I5TmdtUDZEczI1QmxaNTZybGVoX29RVHZJeTN6eHN2dHVNdDU5VGw5d1BudjNIRnVUVEttekd0N2I1YWM2eVZO?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 08:00:00 GMT",
-    "title": "Agility Robotics (AGLT) stock price, news and earnings - Quantisnow",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uTGk5NGY0UW91OFZHbkhjcUg0WUI0bk1JMEtiM0VpLTl4aFJhYVgxRTV5OUJreHlrLWhfVl8wZUxVUGtjTVNUUDlJWkVfMC1C?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 08:00:00 GMT",
-    "title": "Agility Robotics (AGLT) Stock Price, News & Analysis - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51NnhHU2Z0WFdKdGdWZ3NVSFBpcXVQd2RPQW4tclJpN1BfcDhOMEg1ZUVnVE1XbWY4RkNoX3NObV9wYW9qWUpya0NQZlhkaExhUFQ4?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 27 Nov 2026 01:06:14 GMT",
-    "title": "AGLT Dec 2026 20.000 call (AGLT261218C00020000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6QjA2cmpTQ0oxck82QUpscUx6NHJsUjM1TWtVcEhsMFQzaDZOOGZJUF85dWN5dGZDZU5ZMFdod0RJYkpSamdGZXNybGczcW9fWGdETnE4RzdrekJCYllCajg0akVUZw?oc=5"
-   }
-  ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "earnings"
-  ],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "BTDR": {
-  "ticker": "BTDR",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 26 Nov 2026 07:50:52 GMT",
-    "title": "Bitdeer Technologies Group (BTDR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zS3RFQmJUX2hsMU1xcnp0ejZ2LWtCWWoybW1zVlppOW8zZGxtbl84ZVlVQ2VnZmo3S20tajJtR09tckR4QU9NTFFzUHhBZEcxZWc?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 26 Nov 2026 02:10:50 GMT",
-    "title": "Bitdeer (BTDR) Stock Still Looks Undervalued After Fresh AI Fund Buying - Simply Wall St",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUEF0T0lrUFFWUlBwb2tJWVR2eWY0dEtQMFpjak9IR3BTS3hRRW1NWjQxMGtiekUyck51am9nR2xkbzJfeS0yVGxPdVZ0R1FSY3RTSklYMlVQZkZFZ2tkRGdwYkNEd3RIb1RwZnpLanBVVm1kUzh5QmVhekxBYWdscm14QVNLbE9La200Q3VyVW1STWJCU1o3WElpejNaeWhvMDJfbHFHMk16WHk4Nm5oUDA3WVV4ajFsUDJQQjNZNHJGOGJqRVBsTDRaMlY3Z1hlSFRwcE9DWWoxZF9BWUHSAeMBQVVfeXFMTjR3WXp3djBielNfRl83OHdDWW9VR2o0R0taUXdCekhiV044R09ZU3BwN0czZm1uVk1HT3BHcWVxaEdfbUxsV2NTN2hfdnNOSV9QWng0cTNhTGNXX3VZaUF0TGRSNW9RMGs0TTQ1U3J3Y2lpN1pTbTdEbHFUUXRseEY4dDFhUGcxSk9fbzJqTFFhTlVnamZtVXBWWllHak90eTFHSjJaZW91aW9HMG83LTJzSUh1OFpqcjJQOWUzWktHbXZjczN1NF9OanFaSzVfenl5RjQzNmdhX1JEb1VLZG9sZGs?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
@@ -200,11 +196,10 @@
     "url": "https://www.nasdaq.com/articles/sandisk-vs-western-digital-which-computer-drive-stock-better-buy-2027"
    },
    {
-    "src": "Nasdaq",
-    "date": "Nov 25, 2026",
-    "title": "Why Sandisk Stock Just Dropped Again",
-    "publisher": "The Motley Fool",
-    "url": "https://www.nasdaq.com/articles/why-sandisk-stock-just-dropped-again"
+    "src": "finviz",
+    "date": "Nov-27-26 08:19AM",
+    "title": "SNDK, MU, WDC, Other Memory Stocks Rally As Investors Return To Beaten-Down AI Names",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sndk-mu-wdc-other-memory-131921683.html"
    },
    {
     "src": "finviz",
@@ -232,45 +227,74 @@
    },
    {
     "src": "finviz",
-    "date": "Nov-25-26 04:18PM",
+    "date": "Nov-26-26 04:18PM",
     "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
     "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-stocks-sink-as-investors-flee-ai-trade-134518921.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-25-26 02:06PM",
+    "date": "Nov-26-26 02:06PM",
     "title": "Tech stock sell-off persists as AI fears outweigh Huangs Nvidia return",
     "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-sell-off-deepens-143951708.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-25-26 11:49AM",
+    "date": "Nov-26-26 11:49AM",
     "title": "Chip stocks tumble as Nvidia-led AI rally unravels, tariff fears weigh",
     "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-tumble-nvidia-led-164900978.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-25-26 09:58AM",
+    "date": "Nov-26-26 09:58AM",
     "title": "Here Are the Biggest Losers on Nasdaq-100 Right Now",
     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026/card/here-are-the-biggest-losers-on-nasdaq-100-right-now-cGSbqXTf0MqhMBQHFE5h?mod=wsj_FV"
    },
    {
     "src": "finviz",
-    "date": "Nov-25-26 08:21AM",
+    "date": "Nov-26-26 08:21AM",
     "title": "Micron Stock and Other Memory Plays Will Bear the Brunt of This AI Pain",
     "url": "https://www.barrons.com/articles/micron-stock-memory-ai-pain-2d9a14da?mod=bar_FV"
    },
    {
     "src": "finviz",
-    "date": "Nov-25-26 04:25AM",
+    "date": "Nov-26-26 04:25AM",
     "title": "SanDisk Trades at 4.6x EarningsAnd Still Got Cut in Half",
     "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-trades-4-6x-earnings-092502421.html"
    },
    {
     "src": "finviz",
-    "date": "Nov-25-26 03:27AM",
+    "date": "Nov-26-26 03:27AM",
     "title": "MU, SKHY, SNDK Stocks In Focus After TrendForce Lowers DRAM Pricing Forecast",
     "url": "https://finance.yahoo.com/markets/stocks/articles/mu-skhy-sndk-stocks-focus-082710611.html"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AAOI": {
+  "ticker": "AAOI",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "AAOI vs. Lumentum: Which Optical Networking Stock Has an Edge Now?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/aaoi-vs-lumentum-which-optical-networking-stock-has-edge-now"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-25-26 04:10PM",
+    "title": "Applied Optoelectronics to Present at the Raymond James TMT & Consumer Conference",
+    "url": "https://finviz.com/news/427448/applied-optoelectronics-to-present-at-the-raymond-james-tmt-consumer-conference"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 09:44AM",
+    "title": "Applied Optoelectronics stock rises on datacenter deal",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-stock-rises-datacenter-144409714.html"
    }
   ],
   "pre_tier": "unknown",
@@ -321,6 +345,37 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
+ "BRAI": {
+  "ticker": "BRAI",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-24",
+    "form": "6-K",
+    "items": "",
+    "title": "6-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/2076975/000149315226053929/form6-k.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 09:00AM",
+    "title": "BRAIIN, A GLOBAL APPLIED AI PLATFORM COMPANY, FURNISHES FY2026 PRO FORMA COMBINED FINANCIAL INFORMATION",
+    "url": "https://finviz.com/news/426841/braiin-a-global-applied-ai-platform-company-furnishes-fy2026-pro-forma-combined-financial-information"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 27 Nov 2026 07:01:00 GMT",
+    "title": "BlackRock American Income Trust (BRAI) Reports 75,660,138 Voting Shares as at 27 November 2026 - kalkine.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSlFCSmVSZ3ZKZXZLc0dodnhFRkMwVTg2ZnJrcG5kNXc0MUtweWNFQTN2MHJucGlKMDFTZmZoT18yTUNuaGptMGNVMThrZDBUYWdfdkMtTHN0d0NMSEUyZ0xTUEZ6V3M0X0tiamo5UUUxWTZPcjlYSWM4eFBVZ1M3VGlCSVJZd1E0WG8zVkZZQ0NxTW5EWUpaUUVFaGlITWFlZ0VJSVFtZVRRVFZ6ZUU1aFg4UGVFUTVodmV0OW9yZHF4anZGVGM3cnlnQQ?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
  "AXTI": {
   "ticker": "AXTI",
   "filings": [],
@@ -362,280 +417,15 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "HYMC": {
-  "ticker": "HYMC",
+ "USAS": {
+  "ticker": "USAS",
   "filings": [],
   "headlines": [
    {
     "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 09:27:01 GMT",
-    "title": "Hycroft Mining Holding Corporation (R5A.DE) latest stock news and headlines - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tdEpud2pWZHZpQXMyYlJ1S0sxUERfM2x1NE9BY2hJdEU4ZXoyNjVEbnN4VWp1dXBpNkFUdlo1bjMydWhaWWdIcWxKeVdhNkZxNWFsdTNmUkU5bVE?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 14:12:22 GMT",
-    "title": "Hycroft Mining Holding Corporation (R5A.DE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zakdkenpVNEFET1pXb1RsZzN1YllmSUFfMkU4Z3Z4bko3VUh2dnFoQ1FqRkNLc08zSm1UQmVQZlhxTGMxQUFfMVZRX043Mmh2ZTFlS3lBVHQxT0lQRHZOQUgzTQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 09:24:13 GMT",
-    "title": "Hycroft Mining Holding Corporation (R5A.DE) stock price, news, quote and history - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PbFhsV25WVTdlby1JZlJQbE5vR3ppd2pvVVd5RUNsZkg3cnl1NUN3OVRqUkZJSkRlMkVPTy0xUTFLdzAxb0RrZ3p1Z2UzRGZEWnNJLThLdTVlbko1RG1PN0FVcw?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 09:34:57 GMT",
-    "title": "Hycroft Mining Holding Corporation (R5A.DE) stock major holders - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BUWVSSW1mSnZWaFdpclRZWUhuazRqN29tNmxqbnNTTkFWXzc3cnloU3d0NzVvWmZIdlRNM0FKTUpHRktNb0NrdzNJdE93NHRiMGFidTk1RjR0dHlVUDh3?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 10:21:59 GMT",
-    "title": "Hycroft Mining Holding Corporation (R5A.DE) stock historical prices and data - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DOVgxR05pU2hzNDhYY1R5end6cHliMHVEYVdVS045bHBpejU3empCekJLMVNGdi1rLWUxbUdZaHl2Tjd0NU5WczBWaHZEaUJoWXZCMUo4T0ozeHpnNUxr?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 22:11:28 GMT",
-    "title": "HYMC Dec 2026 22.000 call (HYMC261218C00022000) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2V0R3T0xtaU8xMGNTOFUwYXhYcmhYNmVJN3BKeWZJbTdBeHNpQW83dzY2X3pVS1ZMbW1xdkEyMktyeTZKd2ZTZU1UUEZoTV9wVjZNNGdwc1BsZHZub2psWHFValpvZnN3aHVEeHRn?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 17:05:06 GMT",
-    "title": "Hycroft Mining Holding Corporation (R5A.DE) stock price, news, quote and history - Yahoo Finance Australia",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LM3hXZzA0NXZkYWprX2hEYWRXU2c5Y0NZQTYyOHIxNjdHTU5OcHkyc3ViVWJPNXo4VW9rZG9iRUdPUUcxZ2FPajJDbEZ1aW5JaU9ZbzE0UDN5cEw1V1h6b2Y1WQ?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "ASM": {
-  "ticker": "ASM",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 27 Nov 2026 12:00:00 GMT",
-    "title": "Avino Silver & Gold Mines Ltd. (ASM): Assessing the Investment Risk Behind Its High-Beta Market Behaviour - kalkine.ca",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTlSMEVNSkdrQU9IMkM2UDRGb0gwWlo4Um5qX1diMDhDTnlzYmFsWHE4T3ZoeXBmaUpISjk0d3BRV1ZMSFVaWm1nQ01JVThWT2hpLTl1TGN4cjBEX3o0V3lTekkxVjRNaGxZdWljcWx4TmhGaXpxeUFXTDJUQmJIeWwwaUZzNlpoc25EQ2l6cVhRczVDaTAwa0JjTi1IWjVNY29XQnJIcHk5dF9NRFFxLWtveUVUTkJxUzFvdHVZYTItZkJEN0hobmZ3?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 17:26:00 GMT",
-    "title": "ASM Reports 21,249 Shares Repurchased Under Buyback Program - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbXg1c1dqLWp3YWJLR1pEdVpWWVdPcU1NaUxXa3BxMFNPRk1rbmszVkw2Y3lrZXgxTTNJLW1ucE9jNE1BeFFtUU5VaHI2WVNZZnJrTDNzMFRyQjRGWXNaNm81aWdnVWV4VUEydzE5NVRtdDdZTFkwVVpSa1hYODI1VThaV0dGZWdnOXhUSmlrNDk5d3NkR2gzV01yVGR0dlloWTk5VThLUmRpNVMzeFU1MTNMalM3d1dqUVN4X1ZHa2RxeUo2N2VIZ25kaVFzVlhnTnBRVF9pUQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 26 Nov 2026 06:05:49 GMT",
-    "title": "(ASM) Trading Advice (ASM:CA) - Stock Traders Daily",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaW1XUExfNm9oMjlnclMtVnJ0YXpkanJ2SEtZV0R6bmlVdnMzMS1hcUdfTlpvU2RsTGlYb3d0VDhWWlVYZzRyTEVXcFJKQkFfUUdRQWQ4Y25YVUp1dXktczFCNlJ2TjYxN1ktWklmODFDU01qam82S3BSYkNDUGI5Ry13?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 18:14:56 GMT",
-    "title": "ASM International NV (ASMI.VI) stock price, news, quote and history - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sZy1USVkxWTNHZURid0YzOU9paWdUdHY0MEdoWEdwVDhMY0o1SzdpOVo1WEJVQXlwU3JwWkRZNFdrZXNoS1JoUVl6QlFHNGcwa2REaEFB?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 16:01:00 GMT",
-    "title": "S&P/TSX Venture Composite: Avino Silver & Gold Mines Ltd. (TSXV:ASM) \u2014 Small-Cap Growth Stock: Why Investors Are Watching This Mining Stock Closely Today - kalkine.ca",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPclJiRzhFUTBUdlFycC1nQUpqV3RmT3FNaHdkQV9yTVZ4YTNIQmhtOG1JdEo4cjlhXzc4S25vUWZuNmt0NlBCOG5jMjUyZHBZSVozX2FYZl9TUUotX09yQXR5X05IZkREUzN3S2l6cVR0c0J3WkJONjJMWl9zeU9CaXhHOXFMX3lQNzc2MTRNUEtFTlU5ZU04NzZjT2VTQzdPTVZtZkpNOEJNbWNobi1uc0RDQWhHMXhhbUtjdTI2aXBYaGNlcmd6REVYbk5WVXJ3M19RaEpzVkd0dkNEdkpybXExLUN4LTNpZWE3NVp3a3RBeHRKZWgwR1p3V2lpeDRjTHc?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 14:05:14 GMT",
-    "title": "ASM International NV (ASMI.VI) stock price, news, quote and history - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pTmwzeDk5d3VPUVkzVlZVVXZyZ1MzQjV3emNSTEJJMkVTRm00NkpkMXFRUWZzbnNmY2ctQjFQclUxVHVfbXVQR1Qzb1U1cGh3NEd1Z2Z3?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 10:46:00 GMT",
-    "title": "Avino Silver & Gold Mines Ltd. (ASM): Decoding the Volatility Signals in Its High-Beta Equity Profile - kalkine.ca",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQUc0UC1DeHkxOUVlOXQwSmJGYUJwMEpiemU1TThtbnFzM0ZaWWhnbGhGUmdENW9nakN1bndKVmpCRk92VHZ0dFZUNHNsSEVRcExzMXRfakZmLTMxMnFzQ2RCN3BmX0JsZHcwaDlLM3lKU3dUdi1GcUtBZ252RU1PZlNVMHBYVFZxWnpQNm16U0xxODZBOHNWOGxtV1NfM3h2cE13RkNJcUVxemFxVXFDRmhQSHNIQXlPLWJTdnF3RjVsV1Na?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "AAOI": {
-  "ticker": "AAOI",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 24, 2026",
-    "title": "AAOI vs. Lumentum: Which Optical Networking Stock Has an Edge Now?",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/aaoi-vs-lumentum-which-optical-networking-stock-has-edge-now"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-25-26 04:10PM",
-    "title": "Applied Optoelectronics to Present at the Raymond James TMT & Consumer Conference",
-    "url": "https://finviz.com/news/427448/applied-optoelectronics-to-present-at-the-raymond-james-tmt-consumer-conference"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-24-26 09:44AM",
-    "title": "Applied Optoelectronics stock rises on datacenter deal",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-stock-rises-datacenter-144409714.html"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "CRML": {
-  "ticker": "CRML",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "finviz",
-    "date": "Nov-25-26 04:33AM",
-    "title": "USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/usar-crml-uamy-mp-stocks-093352697.html"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 26 Nov 2026 13:39:22 GMT",
-    "title": "Too Early To Draw Conclusions On Critical Metals, Come Back In Late 2027 (NASDAQ:CRML) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX09TcG9Xd2RSQzctMENBTllEWmRMRVVWSFZQZ0lyZGlRTWhOR0JqS1JKdEdIa1ZVQXVyd0lZb3REem8wcVNaYjkxa1ZaeG44eGpFQzdUYWlJaGpwaFZHMDczT2YxcjIxam45bTJoajI4N3dUY1Z2Tm9WdDMtcnhjVFh3Z29sUUZJR0tNNjVYZE9FaEdXTTUzVHg3MndMVnA0NFhZ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 26 Nov 2026 05:26:48 GMT",
-    "title": "CRML Dec 2026 2.500 call (CRML261218C00002500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JLS1rY0VFcHJsRE9PUTZKb20zRmx4XzhTVmpIWUVsN3QybzNvNzg1OUJnWlhLdmlTNVhxUU5Xbk1DOHUzX2RvT3pvY1hqVlR5Mzd0Snc5TEZLYTRtWE53WTJzWlBwZw?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 07:20:32 GMT",
-    "title": "CRML Nov 2026 0.500 call (CRML261127C00000500) stock price, news, quote and history - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wZTkwUllfTjNuYnM2eGNzenN2TUxjaE1lc1J1REJaRzU0VWRRbUZDbktUNzJKRVFPcmM1RFU1MEtaZGtTa2pDUjNGYVlvSlRDRXlqaV81WUxLSE12eFZYc0ZKem1XUQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 06:24:01 GMT",
-    "title": "CRML May 2027 7.500 put (CRML270521P00007500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YWlNwTlNySVBrSFpJS1VNV1huOFBEZzJEMkdYSlNseDlnU3F6Y3BsRmlnZF9IUEdDWGF6YndVd2l4bU1LcnZOQThzTzA4R1Y5a29UVFZwQlQ4NUsyeGJucEsyVkI2UQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 07:25:43 GMT",
-    "title": "CRML Nov 2026 10.500 put (CRML261127P00010500) stock price, news, quote and history - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YTEswNXJRdGQxWUV1cVFadGpZTnZWeVV6QmpYWFo0NWZHNXc5a0dBS1AwLU1UY0dtMVNLWTdXYkJUUy1UVGItSHZWT0VSNVRZY2UzOW1SRHQ2SEdmaHdnakJxRDVDZw?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 07:06:11 GMT",
-    "title": "CRML Nov 2026 10.000 call (CRML261127C00010000) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44dlhlal9NcFpCenUzZHhjMm5IWXVFc0JyWEg1c2NycTI0Q1I3R281eE1YeEVfSTRJc0pnaHhINWFNcDd5S0gxbG9tbnJ6TkYzTnNkbHBHVENSdXhERURjOW5vcE1HbGhKdVY1cjBB?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 14:51:00 GMT",
-    "title": "$CRML stock is down 10% today. Here's what we see in our data. - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjVBdWIxU3pzSktKdy13dkY4S0l4REVGbjNwWTR6clB3Xzc3NWxKNmFwWlctd0RTWHNRdGxneVA5bEN1aGU5Y25KZHVaam4zbWdfUmZIdkZVYk5rR1F1aWR3aHl3YUFnX1E5VEh5TTdNQjFIYXVBVDlrMVdlRDJfS1huQjdnQXhlVDdDS1ZGS28zOUIxaTYwbnZxRXFwUG1BdnpR?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 09:33:52 GMT",
-    "title": "USAR, CRML, UAMY, MP Stocks Drop Premarket: China Extends Mineral Export Pause Amid Looming US Tariff Hikes - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYlVTc2hESHZSZ3BkZmpvcXNCbDRRTWQ1V0ZJS1JwQ3Noak54ZXlvR0hka1kyZmY2cS1SOXlQZTJqdkw1NmZYOXZuZWd3eDUwOEEyM3cwTFViT0JLZlBpMnB3Y3Z6dDR5MzAzRzdBczEwczkyZUJJNHJQOTVXUmVKRktYdHFBQmlXbjJvNmY3WXFDUE54UXRQaGk3a25pV3VVeUNLWGdMYWxaQll5ek5yak4xZDdNOEtPZlpPMnpBWEZWX3JDZXp1YlRfOHJlWkxvNGNXWjZfTjZMOGlJLWNaZ19jNTVYcVVXV2p6UGE3YTBHNVNvQlMxeWphcGMxSHo1VmE3X2ZRMDY?oc=5"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "LAES": {
-  "ticker": "LAES",
-  "filings": [
-   {
-    "src": "SEC",
-    "date": "2026-11-25",
-    "form": "6-K",
-    "items": "",
-    "title": "6-K",
-    "url": "https://www.sec.gov/Archives/edgar/data/1951222/000121390026124218/ea0313614-6k_sealsq.htm"
-   }
-  ],
-  "headlines": [
-   {
-    "src": "Nasdaq",
-    "date": "Nov 26, 2026",
-    "title": "SEALSQ Announces that Euronext Paris Approved the Admission of its Ordinary Shares For Trading on Euronext Growth Paris",
-    "publisher": "Fintel",
-    "url": "https://www.nasdaq.com/articles/sealsq-announces-euronext-paris-approved-admission-its-ordinary-shares-trading-euronext"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-25-26 09:47AM",
-    "title": "SEALSQ Announces that Euronext Paris Approved the Admission of its Ordinary Shares For Trading on Euronext Growth Paris",
-    "url": "https://finviz.com/news/427365/sealsq-announces-that-euronext-paris-approved-the-admission-of-its-ordinary-shares-for-trading-on-euronext-growth-paris"
-   },
-   {
-    "src": "finviz",
-    "date": "Nov-24-26 09:20AM",
-    "title": "SEALSQ Is Working with Data Center Providers to Connect its Quantum Highway Hubs Across the U.S. and Europe to enhance Cybersecurity protections",
-    "url": "https://finviz.com/news/426895/sealsq-is-working-with-data-center-providers-to-connect-its-quantum-highway-hubs-across-the-us-and-europe-to-enhance-cybersecurity-protections"
-   }
-  ],
-  "pre_tier": "unknown",
-  "pre_tier_hits": [],
-  "sec_status": "ok",
-  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
- },
- "EXK": {
-  "ticker": "EXK",
-  "filings": [],
-  "headlines": [
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 26 Nov 2026 21:14:29 GMT",
-    "title": "EXK Dec 2026 15.000 put (EXK261218P00015000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUFQ3ZjF2Mng3QzZ3Mm5GdHFqY0NiVlZYLXpmc3hla3FLd2NqRjVDX0VVbm1RdGRzRV9oOS1NUkN2dmx2TFVkeVVrbDZ1WjllQ1VXNkJDd0ItajB6MDBoejdmWFo?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 27 Nov 2026 05:20:01 GMT",
-    "title": "Understanding Momentum Shifts in (EXK) - Stock Traders Daily",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2pISXJuejI0czhYMjdlU2o2TDIzQTdmaDJVSVRZZ1E3QXo0RnUxTnBieDdHcm02ckFnSnY1OHNDYXdoTnZiY1k1cmMyejRBbmxuS3VuWXhJZ2JobWEwT3hVMkFVLURqNnBTN21BNloyOWdpdlFvbHYtSTBXNmlKbXJrZVg0b2MyWkd6amF2MUdSUGF6dXNFUGpjOG5ndzFELUZYWkt0LW1ySW9ucGw0QlF3ZG45LTdV?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 26 Nov 2026 04:55:57 GMT",
-    "title": "One NYSE - Listed Mining Stock at Resistance Level \u2013 EXK - kalkine.co.uk",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3Z0eTV1d29fSnFGdGRUdWUxQlV3WS1QWDhWT3dkdTNGa1BZVDVjVXJSSGFCZ2o5Vi1ZSE54dURlNG9tYnd1LTR3Q0ZTV3pIMDVSRnR0aDVHdW5sNE1PeFVEeVFhQ19FM0YwRkZTcC01TDFHZC1jTWZEYi04SFc4S2VXbTBrbW0tRUM3TWM5ckI3T1Q3UURR?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 09:34:39 GMT",
-    "title": "EXK Feb 2027 12.500 call (EXK270219C00012500) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVk5qUGxEVGRFeW5OelpyVG1hMlN6RGdDblgyNS1rbVJaS2xTV2x2SlAzdXJxSEg5cVJTYWxBNE9xWkRhT1NuMmtGNm5IMGx1WGdsS3hJdFZRNmhVT1JUdUl4LWhaeW9YQmU3Nw?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 03:45:28 GMT",
-    "title": "EXK May 2027 5.000 call (EXK270521C00005000) Stock Historical Prices & Data - Yahoo Finance - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGZHBHZm1XQWRRa3FyZnp4dWNJcDlCbVZVaUlSWkFjSnlIbFlGQS0zUDZ4aHVHN0VpV29UNEh0cVFwcjhxSmZhaVJxVlVtN05UdHlOY2JoWUZNZXpZWU5ON2lqT1djWDdHVHdGU1ZZQQ?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 05:13:46 GMT",
-    "title": "EXK Jan 2029 2.500 put (EXK290119P00002500) stock historical prices and data - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZRTZGWFJCLXBsT0xCWDRkWXJUZkx2cUJWNmtvZ3doV2pkaFFwMy1FNHBLYmFTeFZpTVU1MVFFa3ZweUhYMnRQZVRteDJDX21CU0RxTnRndW9HT3kyZlNKbGRiaGlPbElFd3NMWnhNVQ?oc=5"
+    "date": "Tue, 24 Nov 2026 08:00:00 GMT",
+    "title": "Americas Silver Stock Price Forecast. Should You Buy USAS? - StockInvest.us",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wZTJTRHJFWGhmYTBDdi1JZzNRS0J1WnVFbEVoQmtSMzZfUjVtaW5ZeldPbElFSVFydVRkYmtWNXc3Zm9iSjN6aw?oc=5"
    }
   ],
   "pre_tier": "unknown",
@@ -660,12 +450,177 @@
     "title": "Mining Margins: Energy Fuels' Million-Pound Uranium Test",
     "publisher": "MarketBeat",
     "url": "https://www.nasdaq.com/articles/mining-margins-energy-fuels-million-pound-uranium-test"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "AGLT": {
+  "ticker": "AGLT",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 26 Nov 2026 08:01:37 GMT",
+    "title": "symbol__ Stock Quote Price and Forecast - CNN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83R2Jzd21vN1I5TmdtUDZEczI1QmxaNTZybGVoX29RVHZJeTN6eHN2dHVNdDU5VGw5d1BudjNIRnVUVEttekd0N2I1YWM2eVZO?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 03:41:52 GMT",
-    "title": "Wrapped Energy Fuels Inc. Tokenized Stock (xStock): Funding, Investors, Team and Key Events - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmdFSmVUU3Z4OUVvd2dreVMzMnJsclZXSFZOUGtRZEVoYzhVeUpKVFcxTkZIUUhlUzM4ZjdnZS1QQ3N3SVRiOWdUbnpBM0NnMWl6ZndQb05NbnNwSzF2aUFudHNpRUVXSzdXdG9lS1k0cWZHaGE3M1RjaTF6S0hBMg?oc=5"
+    "date": "Wed, 25 Nov 2026 08:00:00 GMT",
+    "title": "Agility Robotics (AGLT) stock price, news and earnings - Quantisnow",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uTGk5NGY0UW91OFZHbkhjcUg0WUI0bk1JMEtiM0VpLTl4aFJhYVgxRTV5OUJreHlrLWhfVl8wZUxVUGtjTVNUUDlJWkVfMC1C?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 27 Nov 2026 02:23:38 GMT",
+    "title": "AGLT Dec 2026 9.000 put (AGLT261218P00009000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Pb1VOTWQwNjZrUHFFNHZXa1d4SGVMc04zY1c1WE1kM0ItV2wxV3N4ZGpBVVl4am4ybkdGSGFyMU9mX2Z2eE5JeVQ1RHZ2VEFKUU93cXlSNUZQTFJWdkQxSVBCLXB5dw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 25 Nov 2026 08:00:00 GMT",
+    "title": "Agility Robotics (AGLT) Stock Price, News & Analysis - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51NnhHU2Z0WFdKdGdWZ3NVSFBpcXVQd2RPQW4tclJpN1BfcDhOMEg1ZUVnVE1XbWY4RkNoX3NObV9wYW9qWUpya0NQZlhkaExhUFQ4?oc=5"
+   }
+  ],
+  "pre_tier": "B?",
+  "pre_tier_hits": [
+   "earnings"
+  ],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "SATL": {
+  "ticker": "SATL",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 27 Nov 2026 02:38:56 GMT",
+    "title": "SATL Dec 2026 6.000 call (SATL261218C00006000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FMnk5XzBBZ2VqY1NWdXY4RHIyODF1aDl6TWl5Y29BY2UwQThZUjBEeDVqcnRlcFE4TFE0QnZ4aXF1MDA5NG9DTlBEZHkyMUhsY0lqZ3FCT3NERkY0MUFXX2xULWJOZw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "LPTH": {
+  "ticker": "LPTH",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 24 Nov 2026 08:00:00 GMT",
+    "title": "Lightpath Technologies Stock Price Forecast. Should You Buy LPTH? - StockInvest.us",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95cEg2NVUzcXJmQlMtd1hXUEVwQ0o0TjlyVzRXRXh4a0R2VlRlY2F3djNVVDF1YWhfSHhPMkpacWRsZndHd1ZPdw?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 24 Nov 2026 21:27:18 GMT",
+    "title": "After buying at $5.285 a share, the CFO of LightPath Technologies (LPTH) holds 86,302 shares directly. - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcThlRElySm9ZSXlQTFpVOGwyTFFPMFZ4YXkzdFdOR2wwblBIb2Mzb1l5bWpFM1lzZFkyY1dFazNONThKV3dadGxHazBYSmtkQ3FZcFhGcXZHMmpxeVR6Vkd2aExmeE0tQlNmVnpoQy1xQ3VDVElVOEo0aEljRl9xYVk3OGY0d0E4ek9YSEJNVTVqblBqbGVZUV9ySTJxckc5Nkpacmw3RjdObGFfZnBFOGxVMzVYQlNFdlBFaw?oc=5"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "LITE": {
+  "ticker": "LITE",
+  "filings": [
+   {
+    "src": "SEC",
+    "date": "2026-11-24",
+    "form": "425",
+    "items": "",
+    "title": "425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526476165/d157120d425.htm"
+   }
+  ],
+  "headlines": [
+   {
+    "src": "Nasdaq",
+    "date": "Nov 26, 2026",
+    "title": "Lumentum Surges 55% in a Year: Should You Buy, Sell, or Hold the Stock?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/lumentum-surges-55-year-should-you-buy-sell-or-hold-stock"
+   },
+   {
+    "src": "Nasdaq",
+    "date": "Nov 24, 2026",
+    "title": "AAOI vs. Lumentum: Which Optical Networking Stock Has an Edge Now?",
+    "publisher": "Zacks",
+    "url": "https://www.nasdaq.com/articles/aaoi-vs-lumentum-which-optical-networking-stock-has-edge-now"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-27-26 06:52AM",
+    "title": "Why Is Marvell Technology Stock Surging Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-surging-115215377.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-25-26 09:58AM",
+    "title": "Here Are the Biggest Losers on Nasdaq-100 Right Now",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026/card/here-are-the-biggest-losers-on-nasdaq-100-right-now-cGSbqXTf0MqhMBQHFE5h?mod=wsj_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:55PM",
+    "title": "Review & Preview: Tech's Rough Day",
+    "url": "https://www.barrons.com/articles/stocks-today-tech-stocks-drop-after-huang-return-4fd3faec?mod=bar_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 03:24PM",
+    "title": "CrowdStrikes all-stock bid for Zscaler: deal structure shifts risk to target holders",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-bid-zscaler-deal-202415003.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 08:46AM",
+    "title": "Why Is Marvell Technology Stock Falling 5% Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-falling-134656716.html"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 02:44PM",
+    "title": "These stocks are the biggest gainers after Jensen Huang's return to Nvidia",
+    "url": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 09:23AM",
+    "title": "Jensen Huang's return revitalizes AI trade",
+    "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-slides-tech-rout-anthropic-ipo/card/jensen-huang-s-return-revitalizes-ai-trade-fQmMqvjZdVCjcIZA1TjM?mod=mw_FV"
+   },
+   {
+    "src": "finviz",
+    "date": "Nov-24-26 07:12AM",
+    "title": "Wall Street Surges Toward M&A Record as Megadeals Defy Selloff",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-surges-toward-m-121256839.html"
+   }
+  ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "HYMC": {
+  "ticker": "HYMC",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 27 Nov 2026 08:20:02 GMT",
+    "title": "The Technical Signals Behind (HYMC) That Institutions Follow - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY255LVk1Qm9PX3czYVh0VkFWRU05WVhxeEZCVzJfQ2t5SVVrOUZiOEdLRW43cnFudW1sYWt2TlYtUGF3a1NibzAtQ25BOGZ5SEp5NXpwSG5ER0VTOGlHb1drQmJ0eXBEcnJaV0I5bldKdWZNNk9pdXdLbGZBaDZYa0RGb2EybktxUjVoUzB5S1BkRHVybGZldVVtaS1xN0pObkRSM1B1enFQdjJMVEczd0V0d3RHZTRseWh6Mm53M1pTOHU1ejlfc0RSX1BfelloTUhvXw?oc=5"
    }
   ],
   "pre_tier": "unknown",
@@ -691,33 +646,15 @@
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 08:00:00 GMT",
-    "title": "Hyperliquid Strategies Inc tokenized stock (xStock) price today, PURRx to USD live price, marketcap and chart - CoinMarketCap",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd2RFa1BUN1hIdGxNQXlsdks4ZGFBWmhUbGRZOHNsTU1QNFpEUW1fdTVremFHZWVfZHhUbVdYNU5SektFanhHaVBpLVRDbWRtUVRvR21hTWpaV2Rhbml1ZTkzemlaSmN3MUNqa0dQN21PRExfVzc0aWdCTk0zcVZuSEt4cFRxa2hWUjNpVVVVc2U?oc=5"
-   },
-   {
-    "src": "GoogleNews",
     "date": "Tue, 24 Nov 2026 08:49:27 GMT",
     "title": "Why Hyperliquid CEO Rejected The Michael Saylor-Style Bitcoin Treasury Model \u2014 And Bet On HYPE Instead - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUFlHUFFpUjZRTGFPOUxYcmxBcVR5NTM4OUh0Q3ZnYU5mN0xZa3lkSDFWMGNDWDk3UWd6WGl2X2hJUV92RENhOTBlUjlPUExJeV96QXZjLUdNUXA4N3VBTVBfSUdGWEk1bTlFVG1DM3Q1eVo0QnZoZmdJZmRwalVpdFVPQ1Zrd3MtNjZ0N0ZZWnFKMkxuaHh4Z0ljYlZfQ2dmRVJFb0xBcGhkQjZLOGtrWWhpQU4tUnNlQWpNZ2ZNeE9aQnlZa3FJVjdJaXdTVUkzQXpDakJoekhmVWVKLTdBWk11bUZfeGxvUGJzTHpETVdLTHNFdVNJajVMYlBnRjlsa3RGbW1nNjRsVGc?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Fri, 27 Nov 2026 00:56:26 GMT",
-    "title": "PURR Nov 2026 8.500 put (PURR261127P00008500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81WGx6V3ZfZkUxc0FWZUpwSlY1djhKR1VIYlJOTDFjc0xlWXBSWGFnbmJWVHFfdmF5d1J3UnNjaHNtdzlqTHJMMnBBbWl6NjBWZWRIcG85WExRYW9pYkZoa1htM3pVUQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa0l2QmhUQmtiZjA1QUxWVENzczQ1cHFndnVmTjVzYVh4NFhFdzZscEhjNjExaXdtWkMycGRSQ1ZESG1PaWdZQnRndXIyX0RuQWkyY29zaFNUTDBPNGNxZFhaTzNYakNJaEY5WnVkVWp0d0gxT0FKc1VCbEoxLW1yVEFqMTVQUHo5UHhQdlZldVJDb1JYTlhkeFlZY0czWlBROWlScHQ3d3B4RkFLNkxvQWFkaGdnV2NrRHNtdjl4RXdQQ2xDMDdsdEUxMXJiUUhMZVBvZGFzMW9FSnZiTkRpaG4wUktsUFI1bGZtT1pnT1hUVGM?oc=5"
    },
    {
     "src": "GoogleNews",
     "date": "Wed, 25 Nov 2026 11:09:05 GMT",
     "title": "Hyperliquid Strategies (PURR) Could Be A Bargain Following Its HYPE Treasury Pivot - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmR4eWlsTW16OUxCMUhRX0dyRDZ3Q0Y2Qy00eklUNHlXZjI2ZEFlQW42RFBsUndvdkx3Nm9jZXlKODAzTlhlT3NDY3M2LURhUVNlS1dYdVk4MnlBRkNwQTM0NFpsRUswRlhSWDJMcHljVzB5bDNNYWJqQ29pNkhERlIyeXhmclBoMXUtQUlQbFBOYWlLWVdoSVFqenY1dDVycGphcjduRVNHdw?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 13:32:06 GMT",
-    "title": "PURR Nov 2026 16.500 put (PURR261127P00016500) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vTndFV19SNFFDWHFzcWI1bnZIRnlxQ3B1MEZwNUpFN2RjM1JraFBjOF9uSHczRmtLcU9FWmNzN3NvdkctZUV6bWU2dmwwMlN6TmNlX1hoSTB5MFFLNlF3QnZqTXVEUE1aMm9FaXdn?oc=5"
    }
   ],
   "pre_tier": "unknown",
@@ -725,71 +662,89 @@
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  },
- "NU": {
-  "ticker": "NU",
+ "TE": {
+  "ticker": "TE",
   "filings": [],
   "headlines": [
    {
-    "src": "Nasdaq",
-    "date": "Nov 24, 2026",
-    "title": "Nu Holdings Scales in Mexico: Can It Unlock New Revenue Streams?",
-    "publisher": "Zacks",
-    "url": "https://www.nasdaq.com/articles/nu-holdings-scales-mexico-can-it-unlock-new-revenue-streams"
+    "src": "finviz",
+    "date": "Nov-24-26 12:40PM",
+    "title": "T1 Energy Shares Continue to Fall; Investors Encouraged to Contact Block & Leviton LLP",
+    "url": "https://www.newsfilecorp.com/release/325609/T1-Energy-Shares-Continue-to-Fall-Investors-Encouraged-to-Contact-Block-Leviton-LLP"
    },
    {
     "src": "GoogleNews",
-    "date": "Thu, 26 Nov 2026 17:09:52 GMT",
-    "title": "Nu Holdings (NU): Why Investors Gave the Stock a Mixed Reception Despite Strong Results? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXROcUhCcWt0OFRqcEc1Q1l6d3BJMWFSblF3eG1OaGRJbHdsZjhJZVlwaFB2YUo2bFRRWU4wZmd5Ylk2UXI0Z1pfeGlyaWpzSHd5UGpONHFPVFRJUjBoUGtRWUtscUx4QkpGUUtZa1hVa1plN3VfZXdPSWlRR2pjVjMxS2NCODdPVVpINGRjdTA5RzVwOW9UdA?oc=5"
+    "date": "Fri, 27 Nov 2026 13:42:11 GMT",
+    "title": "T1 Energy: Strong Demand Meets Funding And Tax Credit Risks (NYSE:TE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVzlobzFmeUhxYjhxNzl5dVZVVWJOYjJrYk1ZckxYWjRMOU5HODV5LTh1ZVc5RkJzb09RMlRlNFFMbnRHQk9Db2E5LUlGd3R5SV9fSEU0N0otYnJQSS1WTTJpUXUwLU5tcXlncmFVOTVkTzN6RzRXcUdidVNaSy1OcEFibFR0TzItVWlxUC13TUhUYUd0MXloSTZxWmZweVlCQUE5QVZ5SVpWV2pMLWpUb0h6amlyVE1MSXdkSlBPcFRiUQ?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Fri, 27 Nov 2026 09:15:00 GMT",
-    "title": "Nu Holdings Rises 8% as Broad Market Rallies - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNTZJUWxSbDJXSkNLZkNwV25XTWdqRWE4YXA2VW11R1UxaHBzMURtTi1Sa2N2c2Ric05VSFlId3h6YXlaRmVvNUktUUV2WWJ0T0d3dXlBX0NUeDR6SXplNGpsRWxjLTlxTUJXaVlGWGVzN0hMbXhwNVNHWE1nc2M?oc=5"
+    "date": "Wed, 25 Nov 2026 21:48:00 GMT",
+    "title": "TE Connectivity PLC stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOHd0RHlpa3hIY1V4SEEtem1Tai1QNDZFOW5HcGJSQWRPTDNxNVF3TTVnajNjTzZzWGc5N2tGcGUyM0wxOHZxQl9QSHJvaWVQTTZFQ19idGVYUGQ0X3c5ZTZNUmtGMS1ZRDBWMGJLSDFBTER4R1NmTTdsRGZHUHJKdlVEZ2ZxM0hWbFRsWWlXZ1U0eW80emk2RF94ZDN3V19CcWI5cUtlektMcldwVktwMWRSd1VobURmSEFlNWFWZzgyTWdxTnVfNFhBS2NQOHVzdzlYRTJBaDY5VlRFX2JQc3BPQms2Q2NWYndiSW84VQ?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 15:28:11 GMT",
-    "title": "Nu Holdings: Further Penetrating Core Markets (NYSE:NU) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1lXQ0RxTlRSNjBnUnhoRGQzWDNvUzhIbXJ4S3pQZEZhclV6bk5QUkhacEZVbmJEeno3NTBULVJNWjQ2bmwzYzEzZ1ZFWVBkd3lyLUgweUV3eHlFUDJMczZMeDVRM0lESkFNejhOMkg5WW1wOGtjMGhka0lrNVNTQThQYjlGTTZUYkozMzV3?oc=5"
+    "date": "Thu, 26 Nov 2026 20:09:38 GMT",
+    "title": "TE Connectivity (TEL) Stock May Be 26% Undervalued As Fiber Optic Expansion Looms - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjRYaExWRm54N2xSUVE5aTE1T0lJaF9mTndfUmJQNkdRLXV4cUk1a0h2Q2k1UTdjQkZ2TllhdXF5amJTSXd6RzNVcENpMUMwMnpZdFVXM2FQUWloOU9XbWRXWGwyYmxGQ0hmTTRpdWpnNXR4LW9FQU0xdEQ5S0JNbXR2NGdyQ1JUWDZ0MTQ4NUYxelYyV3RPU2hB?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Fri, 27 Nov 2026 05:17:19 GMT",
-    "title": "Is Nu Holdings (NU) Undervalued As Q3 Earnings Reignite The Debate? - Simply Wall St",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFY0RjNVN2pSemhqNG1CVjREYXlxUkdQTTdyOE9iOElLaFJoQmFDaFFUS3JwR0VMLUt0NHpGQ2ZfQU9rUUo3TlNtSUlWdE5kSXVwZXZOakpqNnN4bzBQbVhWaVpLTF84M2FJeW1GTkNLeV9Kd1R2VGRrSmpYN25yX0owNXFlSDBhSUVEeHdaWTBoTFlieW1rWWpLMzBuc21ibmo1MG0wek8yZVpNSXFDdzAtd2luZTRuWXZTd0VMc1rSAcYBQVVfeXFMUG03VlF0RWNkSV9OMVltbDZRMHFpNW5aUnZ0V1dPYU1jMXdWT24tbDIzNUNvYU5zZ1pjekZITFMxMTA1dERYa0Jnd0E3b3VodlIwSDBLTDFYLUh3LWlhNkQtelpHYkZWS2kwZDFQdXZSek8tQlNPdm9CVTN6SGE1TjlqSE9EcHhGaE42LTVIVlRjaVZXeUdaRkhDOHBrbWZFdGZobnJ3UnFRUXRNa0pxTk1GMWwyMHAxUW50eUkwQ0t6anJESFNn?oc=5"
+    "date": "Wed, 25 Nov 2026 13:34:40 GMT",
+    "title": "Mouser stocks TE Connectivity\u2019s 18P NTSEAL connectors - Engineering.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa29oSW9UT0Eyd2dHTl9nVGs0RVpMY1l2MXZjSlBYNnhNTG5DYkNBUGZQQ2VwVmo2clZxOEIwVzhiZWZRZlAteFlnTllYdUJNNEVFSFBESjBRM2RySnhELUpkT24xUDhtOVQybUtpY0djREFSM0M1dHlsYkljTEMyc0JNT19zV05I?oc=5"
    },
    {
     "src": "GoogleNews",
-    "date": "Tue, 24 Nov 2026 17:13:00 GMT",
-    "title": "Nu Holdings Scales in Mexico: Can It Unlock New Revenue Streams? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGtmYVlYdUZhdjJtSEtma013MDRBWVdwcTR0TzhoNEl3WFg2d2VwR2JnY1pYczItVm9KazdZRUo0VkVrMUNMV3Z5c1ptSFJFNC10ZElfc0YwajBOclByRW5DSmVLT1dLNzFQbkxGWkhrQUdPcEJUSl9qUUJXaHF1VGlyNHFiMFFiN1ZQN0FjTi1Kc0xfamxSQTJvWjRNRGlhb0tTZ2J3OHZoSWF3WERUX0s1ei1pMXdxU1E?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Thu, 26 Nov 2026 05:16:00 GMT",
-    "title": "Nu Holdings (NU) Posts Strong Third Quarter Results, Is It Still A Bargain? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnM3bFFDdVpiOXdCNWl1dUw5QkxMWml6NlNneUJxUGEzTWowREpocktiZmNraWNCcnZKZDBURm03V3FFcE5UQkpkRExtR2ZUVm4zT0dsX3hZLXJrQUJoM1psRm9VNU1xNUwyODNRVmVtbjRoX1pYa21HR2VVUUt6SUxucGpKbk8zczNBVHg3QnFJaUZoR3Iw?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 14:21:00 GMT",
-    "title": "New Analyst Forecast: $NU Given $13 Price Target - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzFsNnhZa3Q3R3pvMGJQek1ub3ZrMGxBOWJRT2JBUHdzUzF3WFVuWUZjak9mQ0FKSVd4YmdkRllsaE85azJqS3Y1anFqQTNSa2k3RndBeV94akRwczZYQnVMbFFrT2R1RXFVZGpQeW1uSWhhTXNVbnhGUDVHZWlTVm9oLXdidDIxUGVEQ3BvblE?oc=5"
-   },
-   {
-    "src": "GoogleNews",
-    "date": "Wed, 25 Nov 2026 17:14:52 GMT",
-    "title": "Record Earnings Could Be A Big Moment For Nu Stock (NU) - Simply Wall St",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWg1VUI0VEY5cDFFTFlGVmE4T1Q2VmhEdTBDY0hRLUdwQ2JfYWtxOXN0eXZCby1VRU1NV1BUS2FXYi14NXBtZC01UndxM0hNZXlPZXU5UDZ2X04wZWZlM3hmX1g1N1RiajRwR2dCdmNuN3lpNjUwVnVZRUk5WjNLWFM2MU1aaVNxY3ZQSFREVTcxcS12Y2hRRzFIOXAxVVdSV2xXem1OVVlNQl8zbE5NM0I1ZUFnQnPSAbwBQVVfeXFMTjFBZ3luLXp5M0otdUcwZ3BjbzMtRWhIbElVZjI0bl9YdEI2b2F5cTFtQ0hKMWgzYTRTTmtmOV9KaFZkdjh4c3hLQVVlcXRnZzZsQ0tTZWxtb1A2Wl82MURQWlNLMWpXdzdERGxEdkRPNm9wMFpJZE9YT3ZlR1YwWllDUlNwSUx1QlR1Qkt5Q2J4aEhZMlh0endBNHJjS3VybHo1cTI0UkdST2I5Nnd1Wm04azdwaWhtVHhEdTI?oc=5"
+    "date": "Tue, 24 Nov 2026 21:47:00 GMT",
+    "title": "TE Connectivity PLC stock underperforms Tuesday when compared to competitors - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQVR3Ykt5OW5Bam02Nnp2RnlOWGV2SVNjUUtyeTdsZVozcGx4S0t5RTN0UFBFUU5lZHNSYU83WkhuX1dSX0lwNHQ4cERjNUZXMmd1cW9paUVaN1hjaWxGNHNvRmc3V282UDBpeU1fUkJQbUMyRzNPQUQ2Nl9Za1IxSDlocUhvMFhJT0swTW1uYVFOaEkwdThoRGVRNWdvZC0ybWk4RWNZLWk1WEg5cXExWlVPZnNHNVhEaTMxUU5UWWppb2NQYVpHYUxiT2J1NHdEOXo0ODlzOXdvUnMwVWMxcUd3Y21iUXlhNmc?oc=5"
    }
   ],
-  "pre_tier": "B?",
-  "pre_tier_hits": [
-   "earnings",
-   "revenue"
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
+  "sec_status": "ok",
+  "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
+ },
+ "ASM": {
+  "ticker": "ASM",
+  "filings": [],
+  "headlines": [
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 24 Nov 2026 22:44:20 GMT",
+    "title": "Avino Silver & Gold Mines Ltd. (ASM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MS2RvNHRZRXQzbjZhdm9XYy1IaVUxN21NcjY0dmhUa3VxbE52cGE3Y0djSzBFUmtNOWI1MHpYTXJzX2NFUERqT2xqWFJ0blh5?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Tue, 24 Nov 2026 08:00:00 GMT",
+    "title": "Avino Silver & Gold Mines (usa) Stock Price Forecast. Should You Buy ASM? - StockInvest.us",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5NRmljalVrTThWbTlNME1JUkc0aHZuUTNxd0VRUFFzUms1THhRd0VvZlhaQXZENHZkTnA2cjZLdnU1bW9FYzdj?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Fri, 27 Nov 2026 12:00:00 GMT",
+    "title": "Avino Silver & Gold Mines Ltd. (ASM): Assessing the Investment Risk Behind Its High-Beta Market Behaviour - kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTlSMEVNSkdrQU9IMkM2UDRGb0gwWlo4Um5qX1diMDhDTnlzYmFsWHE4T3ZoeXBmaUpISjk0d3BRV1ZMSFVaWm1nQ01JVThWT2hpLTl1TGN4cjBEX3o0V3lTekkxVjRNaGxZdWljcWx4TmhGaXpxeUFXTDJUQmJIeWwwaUZzNlpoc25EQ2l6cVhRczVDaTAwa0JjTi1IWjVNY29XQnJIcHk5dF9NRFFxLWtveUVUTkJxUzFvdHVZYTItZkJEN0hobmZ3?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Thu, 26 Nov 2026 06:05:49 GMT",
+    "title": "(ASM) Trading Advice (ASM:CA) - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaW1XUExfNm9oMjlnclMtVnJ0YXpkanJ2SEtZV0R6bmlVdnMzMS1hcUdfTlpvU2RsTGlYb3d0VDhWWlVYZzRyTEVXcFJKQkFfUUdRQWQ4Y25YVUp1dXktczFCNlJ2TjYxN1ktWklmODFDU01qam82S3BSYkNDUGI5Ry13?oc=5"
+   },
+   {
+    "src": "GoogleNews",
+    "date": "Wed, 25 Nov 2026 16:01:00 GMT",
+    "title": "S&P/TSX Venture Composite: Avino Silver & Gold Mines Ltd. (TSXV:ASM) \u2014 Small-Cap Growth Stock: Why Investors Are Watching This Mining Stock Closely Today - kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPclJiRzhFUTBUdlFycC1nQUpqV3RmT3FNaHdkQV9yTVZ4YTNIQmhtOG1JdEo4cjlhXzc4S25vUWZuNmt0NlBCOG5jMjUyZHBZSVozX2FYZl9TUUotX09yQXR5X05IZkREUzN3S2l6cVR0c0J3WkJONjJMWl9zeU9CaXhHOXFMX3lQNzc2MTRNUEtFTlU5ZU04NzZjT2VTQzdPTVZtZkpNOEJNbWNobi1uc0RDQWhHMXhhbUtjdTI2aXBYaGNlcmd6REVYbk5WVXJ3M19RaEpzVkd0dkNEdkpybXExLUN4LTNpZWE3NVp3a3RBeHRKZWgwR1p3V2lpeDRjTHc?oc=5"
+   }
   ],
+  "pre_tier": "unknown",
+  "pre_tier_hits": [],
   "sec_status": "ok",
   "pre_tier_note": "heuristic keyword match \u2014 confirm by reading the PR/filing"
  }

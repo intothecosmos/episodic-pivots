@@ -1,7 +1,10 @@
 {
-  "XP":   {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Brazil macro catch-up (Ibovespa +6.07% Thu on Trabuco FinMin pick); no company catalyst; 0.1x ADV premarket; regime red"},
-  "SNDK": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "AI/memory sector rebound (NQ futures +2.7%); no company catalyst; 0.05x ADV premarket; regime red"},
-  "AXTI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Semis beta bounce; no filing/PR; 0.03x ADV premarket; regime red"},
-  "AAOI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Optical/AI hardware group bounce; Nov 24 deal headline stale; 0.02x ADV premarket; regime red"},
-  "NU":   {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Brazil macro catch-up; Q3 earnings (Nov 13) stale, heuristic Tier B false positive; 0.01x ADV premarket; regime red"}
+  "INTR": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Brazil macro catch-up (Bovespa +4.3% Thu close, +6% intraday on Trabuco FinMin); no company news, only PT cuts; 0.11x ADV premarket; regime red"},
+  "XP":   {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Brazil macro catch-up; no company catalyst; Q3 (Nov 11) stale; 0.1x ADV premarket; regime red"},
+  "SNDK": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Memory/AI sector rebound; no company catalyst; 0.07x ADV premarket (large-cap under-read); regime red"},
+  "STNE": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Brazil macro catch-up, 'without company news'; Susquehanna PT cut Nov 25; 0.06x ADV premarket; $vol at Gate 4 floor; regime red"},
+  "AXTI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Semis beta whipsaw; no filing/PR; 0.04x ADV premarket; regime red"},
+  "LITE": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "All-stock takeover target of Marvell (425 filing Nov 24); trades as MRVL proxy; not an EP under Gate 1; regime red"},
+  "AAOI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Optical/AI hardware group bounce; Nov 24 deal headline stale; 0.0x ADV premarket; regime red"},
+  "NU":   {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Brazil macro catch-up; Q3 earnings (Nov 13) stale, heuristic Tier B false positive; 0.0x ADV premarket; regime red"}
 }
