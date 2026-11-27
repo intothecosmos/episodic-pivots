@@ -1,0 +1,7 @@
+{
+  "XP":   {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Brazil macro catch-up (Ibovespa +6.07% Thu on Trabuco FinMin pick); no company catalyst; 0.1x ADV premarket; regime red"},
+  "SNDK": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "AI/memory sector rebound (NQ futures +2.7%); no company catalyst; 0.05x ADV premarket; regime red"},
+  "AXTI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Semis beta bounce; no filing/PR; 0.03x ADV premarket; regime red"},
+  "AAOI": {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Optical/AI hardware group bounce; Nov 24 deal headline stale; 0.02x ADV premarket; regime red"},
+  "NU":   {"tier": "C", "grade": 1, "verdict": "NO TRADE", "why": "Brazil macro catch-up; Q3 earnings (Nov 13) stale, heuristic Tier B false positive; 0.01x ADV premarket; regime red"}
+}
