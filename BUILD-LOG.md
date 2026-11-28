@@ -329,6 +329,15 @@ sync when a prompt changes. Target state after step 5: push ON only for 09:10; 0
     2350/2476 unchanged; archive 27.1 MB / 5,476 files) · `market.py --today` re-ran the 11-23→11-25 rows and changed no
     data cell (only `computed_at`) — timestamp-only diff reverted as on 11-21, `market.csv` last date stays 2026-11-25
     (417 rows), no `nightly data` commit tonight. Disable/email not re-attempted (per 11-15).
+  - 2026-11-27 21:00 ET run 29 (Black Friday half session) · housekeeping only (prompt still unchanged — `list_triggers`
+    `updated_at` 2026-10-30, task `enabled: true`, next fire 11-28 21:00; Gmail listed on the task but no tools, `add_repo`
+    absent; repo arrived as detached HEAD at origin/main's tip, `checkout main && pull --rebase` clean) · `intraday.py
+    --update` 80 events touched — 24 new live events archived for 2026-11-27 (1/6 sessions each) and the 11-19→11-24 cohorts
+    refetched (live 417/417, 204 complete, 402×1m/15×5m; pre14 415/417; hist 2350/2476 unchanged; archive 27.9 MB / 5,524
+    files) · `market.csv` last date 2026-11-27 (418 rows; gate0 red, 31st red session, QQQ 650.99 / SMA10 648.56 / SMA20
+    663.51 — QQQ back above SMA10 but SMA10 still < SMA20, VIX 23.81, up4 609 / down4 31 of 3,837, up4_ratio_10d 0.439, 47.0%
+    above SMA20/SMA50, highs 134 / lows 12, 24 hits) · committed `auto: v2.1 nightly data 2026-11-27` (106 files).
+    Disable/email not re-attempted (per 11-15).
 - 2026-11-12 21:00–21:20 ET, nightly run 14 (safety stop → BLOCKED at step 3). State on arrival: the task had
   fired every night since 10-30 (`last_fired_at` 02:00 UTC daily) yet origin/main held no `auto: v2.1`
   commit after step 2 (10-31 01:08 UTC) and this log had no entry after run 1; `market.csv` ended 10-30 and
